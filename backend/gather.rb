@@ -23,62 +23,40 @@ def main
   CSV.foreach("data/endorsements.csv", "r") do |row|
     entity_id = row[0]
     
-    details = details_for(entity_id, options)
-    metadata = details['metadata']
-
-    seat = metadata['seat']
-    if (seat !~ /^federal/) or (seat !~ /(house|senate)/)
-      puts "[#{entity_id}] Incorrect seat: #{seat}"
-      exit
-    end
-
-
-    if metadata['district'] and metadata['district'] != ""
-      district = metadata['district'].split("-")[1]
-      chamber = "house"
-    else
-      district = nil
-      chamber = "senate"
-    end
-
+    candidate = candidate_for entity_id, options
     
-    candidate = {
-      # basic bio
-      chamber: chamber,
-      state: metadata['state'],
-      district: district,
-      party: metadata['party'],
-      entity_id: metadata['entity'],
-      incumbent: metadata['seat_status'].upcase == 'I',
-
-      # maybe
-      bio_url: metadata['bio_url'],
-      photo_url: metadata['photo_url'],
-
-      # money
-      money: details['totals']['2012'],
-
-      # incumbents
-      bioguide_id: metadata['bioguide_id']
+    endorsement = {
+      name: row[3],
+      endorsement: row[4],
+      rating: row[4],
+      grade: row[4]
     }
 
-    if chamber == "house"
+    if candidate[:chamber] == "house"
       full_district = [candidate[:state], candidate[:district]].join "-"
-      houses[full_district] ||= []
-      houses[full_district] << candidate
-    elsif chamber == "senate"
-      senates[candidate[:state]] ||= []
-      senates[candidate[:state]] << candidate
+      houses[full_district] ||= {}
+      houses[full_district][candidate[:entity_id]] ||= candidate
+      houses[full_district][candidate[:entity_id]][:endorsements] ||= []
+      houses[full_district][candidate[:entity_id]][:endorsements] << endorsement
+    elsif candidate[:chamber] == "senate"
+      senates[candidate[:state]] ||= {}
+      senates[candidate[:state]][candidate[:entity_id]] ||= candidate
+      senates[candidate[:state]][candidate[:entity_id]][:endorsements] ||= []
+      senates[candidate[:state]][candidate[:entity_id]][:endorsements] << endorsement
     end
   end
+
+
+  # go through house and senate districts and 
+  # bunch them up by all races relevant to a district
 
   districts = {}
   houses.each do |district, candidates|
     state = district.split("-").first
 
     districts[district] ||= []
-    districts[district] += candidates
-    districts[district] += (senates[state] || [])
+    districts[district] += candidates.values
+    districts[district] += (senates[state] || {}).values
   end
 
   districts.each do |district, candidates|
@@ -92,29 +70,108 @@ def main
 end
 
 
-def details_for(entity_id, options = {})
+def candidate_for(entity_id, options = {})
   url = url_for entity_id, options[:key]
   destination = cache_for entity_id
 
-  download url, options.merge(json: true, destination: destination)
+  details = download url, options.merge(destination: destination)
+
+  metadata = details['metadata']
+
+  seat = metadata['seat']
+  if (seat !~ /^federal/) or (seat !~ /(house|senate)/)
+    puts "[#{entity_id}] Incorrect seat: #{seat}"
+    exit
+  end
+
+
+  if metadata['district'] and metadata['district'] != ""
+    district = metadata['district'].split("-")[1]
+    chamber = "house"
+  else
+    district = nil
+    chamber = "senate"
+  end
+
+  candidate = {
+    entity_id: metadata['entity'],
+
+    # basic bio
+    chamber: chamber,
+    state: metadata['state'],
+    district: district,
+    party: metadata['party'],
+    incumbent: metadata['seat_status'].upcase == 'I',
+
+    # maybe
+    bio_url: metadata['bio_url'],
+    photo_url: metadata['photo_url'],
+
+    # incumbents
+    bioguide_id: metadata['bioguide_id']
+  }
+
+  url = fec_summary_url_for entity_id, options[:key]
+  destination = cache_for entity_id, :fec_summary
+  candidate[:fec_summary] = download url, options.merge(destination: destination)
+
+  url = industries_url_for entity_id, options[:key]
+  destination = cache_for entity_id, :industries
+  industries = download url, options.merge(destination: destination)
+  candidate[:industries] = process_industries industries
+
+  candidate
 end
+
 
 def url_for(entity_id, api_key)
   "http://transparencydata.com/api/1.0/entities/#{entity_id}.json?apikey=#{api_key}"
 end
 
-def cache_for(entity_id)
-  "cache/#{entity_id}.json"
+def fec_summary_url_for(entity_id, api_key)
+  "http://transparencydata.com/api/1.0/aggregates/pol/#{entity_id}/fec_summary.json?apikey=#{api_key}"
+end
+
+def industries_url_for(entity_id, api_key)
+  "http://transparencydata.com/api/1.0/aggregates/pol/#{entity_id}/contributors/industries.json?apikey=#{api_key}"
+end
+
+def cache_for(entity_id, function = :details)
+  "cache/#{entity_id}-#{function}.json"
 end
 
 def output_for(district)
   "data/districts/#{district}.json"
 end
 
+# remove should_show_entity field, clean up name
+def process_industries(industries)
+  industries.map do |industry|
+    {
+      count: industry['count'],
+      amount: industry['amount'],
+      id: industry['id'],
+      name: industry_name(industry['name'])
+    }
+  end
+end
+
+def industry_name(name)
+  name
+    .gsub("/", " / ")
+    .gsub("-", " - ")
+    .downcase.split(" ")
+    .map(&:capitalize)
+    .join(" ")
+    .gsub(" / ", "/")
+    .gsub(" - ", "-")
+end
 
 # utils
 
 def download(url, options = {})
+  options[:json] = true
+
   # cache if caching is opted-into, and the cache exists
   if !options[:force] and options[:destination] and File.exists?(options[:destination])
     puts "Cached #{url} from #{options[:destination]}, not downloading..." if options[:debug]
