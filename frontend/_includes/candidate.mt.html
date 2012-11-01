@@ -9,6 +9,14 @@
 </div>
 <div class="endorsements">
     <h5>Ratings and Endorsements</h5>
+    <ul>
+        <% _.each(endorsements, function(endorsement) { %>
+        <li>
+            <span class="rating"><%=endorsement.value%></span>
+            <span class="organization"><%=endorsement.name%></span>
+        </li>
+        <% }) %>
+    </ul>
 </div>
 <div class="campaign-finance">
     <h5>Campaign Finance</h5>
