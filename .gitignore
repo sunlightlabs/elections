@@ -1,3 +1,5 @@
+/backend/cache
+
 *.py[co]
 
 # Packages
