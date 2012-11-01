@@ -25,11 +25,25 @@ def main
     
     candidate = candidate_for entity_id, options
     
+    endorsement = row[4]
+    rating = row[5]
+    grade = row[6]
+    
+    if rating and rating != ""
+      type = "rating"
+      value = rating
+    elsif grade and grade != ""
+      type = "grade"
+      value = grade
+    else
+      type = "endorsement"
+      value = endorsement
+    end
+
     endorsement = {
       name: row[3],
-      endorsement: row[4],
-      rating: row[4],
-      grade: row[4]
+      type: type,
+      value: value
     }
 
     if candidate[:chamber] == "house"
