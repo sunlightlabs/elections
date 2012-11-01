@@ -1,4 +1,15 @@
-<img src="<%=photo_url%>" />
-<h4>NAME</h4>
-<div class="bio">
+<div class="candidate-upper">
+    <img src="<%=photo_url%>" />
+    <div class="bio">
+        <h4>NAME</h4>
+        <div class="party"><%=({'D':'Democrat','R':'Republican','I':'Independent'}[party])%></div>
+        <div class="status"><%=(incumbent ? "Incumbent" : "Challenger")%></div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="endorsements">
+    <h5>Ratings and Endorsements</h5>
+</div>
+<div class="campaign-finance">
+    <h5>Campaign Finance</h5>
 </div>

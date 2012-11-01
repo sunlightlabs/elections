@@ -1,4 +1,4 @@
-<h2><%=house[0].state%> <%=house[0].district%>th congressional district </h2>
+<h2><%=house[0].state_name%> <%=house[0].district%>th congressional district </h2>
 
 <% if (house) { %>
 <div class="race race-house">
@@ -8,6 +8,7 @@
         <%=candidateTemplate(candidate)%>
     </div>
     <% }); %>
+    <div class="clear"></div>
 </div>
 <% } %>
 
@@ -19,5 +20,6 @@
         <%=candidateTemplate(candidate)%>
     </div>
     <% }); %>
+    <div class="clear"></div>
 </div>
 <% } %>

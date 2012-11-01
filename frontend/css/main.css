@@ -102,6 +102,22 @@ textarea {
     float: left;
 }
 
+.candidate img {
+    width: 100px;
+    height: 125px;
+    float: left;
+}
+.candidate .bio {
+    float: left;
+    margin-left: 10px;
+}
+.candidate-upper {
+    margin-bottom: 10px;
+}
+.race {
+    margin-bottom: 50px;
+}
+
 .form-search {
     float: right;
     margin-top: 25px;
