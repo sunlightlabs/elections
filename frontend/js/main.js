@@ -1,7 +1,7 @@
 (function($) {
 
 // Models
-var District = Backbone.Model.extend({ url: function() { return "/json/districts/" + this.id; } });
+var District = Backbone.Model.extend({ url: function() { return "/json/" + this.id + ".json"; } });
 
 // Views
 var HomeView = Backbone.View.extend({
@@ -14,7 +14,27 @@ var HomeView = Backbone.View.extend({
         return this;
     }
 });
-var DistrictView;
+
+var DistrictView = Backbone.View.extend({
+    tagName: 'div',
+    id: 'district-view',
+
+    template: _.template($('#district-tpl').html()),
+    candidateTemplate: _.template($('#candidate-tpl').html()),
+    render: function() {
+        this.model.fetch({
+            'success': $.proxy(function() {
+                var context = this.model.toJSON();
+                this.$el.html({'candidates':this.template(context), 'candidateTemplate': this.candidateTemplate});
+            }, this),
+            'error': function() {
+                console.log('failed');
+            }
+        })
+        this.$el.html(this.template({}));
+        return this;
+    }
+});
 
 // Router
 var AppRouter = Backbone.Router.extend({

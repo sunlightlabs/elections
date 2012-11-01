@@ -29,6 +29,14 @@ layout: base
         <script type="text/html" id="home-tpl">
         {% include home.mt.html %}
         </script>
+
+        <script type="text/html" id="district-tpl">
+        {% include district.mt.html %}
+        </script>
+
+        <script type="text/html" id="candidate-tpl">
+        {% include candidate.mt.html %}
+        </script>
         <!-- end templates -->
 
         <div class="sf-header">
@@ -40,6 +48,18 @@ layout: base
         <div class="container">
             <div id="main-header" class="clearfix">
                 <h1><a href="/">Sunlight Elections 2012</a></h1>
+                <form class="form-search" action="/search/" _lpchecked="1">
+                    <ul>
+                        <li>
+                            <label class="invisible">Search</label>
+                            <input placeholder="enter your address to find your district" type="text" id="id_q" value="" name="q">
+                        </li>
+                        <li>
+                            <button class="btn" type="submit">Search</button>
+                        </li>
+                    </ul>
+                </form>
+                <div class="clear"></div>
             </div>
             <div id="main"></div>
         </div>
