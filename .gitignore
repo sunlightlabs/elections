@@ -1,4 +1,5 @@
 /backend/cache
+/backend/data
 
 *.py[co]
 
