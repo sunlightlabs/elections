@@ -1,21 +1,23 @@
-<h2>Congressional District <%=candidates[0].state%>&ndash;<%=candidates[0].district%></h2>
+<h2><%=house[0].state%> <%=house[0].district%>th congressional district </h2>
 
+<% if (house) { %>
 <div class="race race-house">
     <h3>House</h3>
+    <% _.each(house, function(candidate) { %>
     <div class="candidate span5">
-        <%=candidateTemplate(candidates[0])%>
+        <%=candidateTemplate(candidate)%>
     </div>
-    <div class="candidate span5">
-        <%=candidateTemplate(candidates[1])%>
-    </div>
+    <% }); %>
 </div>
+<% } %>
 
+<% if (senate) { %>
 <div class="race race-senate">
     <h3>Senate</h3>
+    <% _.each(senate, function(candidate) { %>
     <div class="candidate span5">
-        <%=candidateTemplate(candidates[2])%>
+        <%=candidateTemplate(candidate)%>
     </div>
-    <div class="candidate span5">
-        <%=candidateTemplate(candidates[3])%>
-    </div>
+    <% }); %>
 </div>
+<% } %>
