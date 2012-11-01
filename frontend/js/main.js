@@ -22,16 +22,16 @@ var DistrictView = Backbone.View.extend({
     template: _.template($('#district-tpl').html()),
     candidateTemplate: _.template($('#candidate-tpl').html()),
     render: function() {
+        console.log('test');
         this.model.fetch({
             'success': $.proxy(function() {
                 var context = this.model.toJSON();
-                this.$el.html({'candidates':this.template(context), 'candidateTemplate': this.candidateTemplate});
+                this.$el.html(this.template({'candidates': context, 'candidateTemplate': this.candidateTemplate}));
             }, this),
             'error': function() {
                 console.log('failed');
             }
         })
-        this.$el.html(this.template({}));
         return this;
     }
 });
@@ -50,6 +50,7 @@ var AppRouter = Backbone.Router.extend({
     },
 
     districtDetail: function(id) {
+        console.log('arg');
         var district = new District({'id': id});
         var view = new DistrictView({model: district});
         $('#main').html(view.render().el);
