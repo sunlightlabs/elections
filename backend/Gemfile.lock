@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    curb (0.8.1)
+    oj (1.4.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  curb
+  oj
