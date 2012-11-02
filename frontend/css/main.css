@@ -126,6 +126,7 @@ textarea {
     width: 100px;
     height: 125px;
     float: left;
+	border: 1px solid #e5e5e5;
 }
 .candidate .bio {
     float: left;
@@ -137,6 +138,24 @@ textarea {
 .race {
     margin-bottom: 50px;
 }
+
+.race h5{
+	font-family: "aviano-sans",sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	color:#e1786d;
+	padding-top: 30px;
+}
+
+.race h3{
+	font-family: "aviano-sans",sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	color:#93b3ba;
+	padding-top: 30px;
+	
+}
+
 .endorsements ul, .endorsements ul li {
     list-style: none;
     margin-left: 0;
@@ -159,13 +178,13 @@ textarea {
     border-radius: 3px;
 }
 .endorsements .green {
-    background: #008000;
+    background: #75987C;
 }
 .endorsements .yellow {
-    background: #808000;
+    background: #A79963;
 }
 .endorsements .red {
-    background: #800000;
+    background: #9A5B55;
 }
 
 .form-search {
@@ -217,13 +236,16 @@ a{
 }
 
 
-.about h3 {
+.about h3, .bio h4 {
 	font-style: italic;
 	font-size:21px;
 	line-height:36px;
 	font-weight:normal;
-	
-	
+}
+
+
+.bio h4 {
+	text-transform: capitalize;
 }
 
 .about p {
@@ -281,13 +303,14 @@ a{
 	float: left;
 }
 
-.btn-sunlight {
+button.btn-sunlight {
     -moz-border-bottom-colors: none;
     -moz-border-image: none;
     -moz-border-left-colors: none;
     -moz-border-right-colors: none;
     -moz-border-top-colors: none;
     background-color: #CE6100;
+    background-image: none;
     background-repeat: repeat-x;
     border-color: rgba(0, 0, 0, 0.098) rgba(0, 0, 0, 0.098) rgba(0, 0, 0, 0.247);
     border-radius: 6px 6px 6px 6px;
@@ -311,8 +334,9 @@ a{
     vertical-align: middle;
 }
 
-.btn-sunlight:hover {
-    background-color: #000 url("../img/0.png") no-repeat; 
+button.btn-sunlight:hover {
+	background-color: #B95700;
+	background-image: none;
 }
 
 /* ==========================================================================

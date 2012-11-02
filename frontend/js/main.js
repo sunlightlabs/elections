@@ -28,6 +28,19 @@ var helpers = {
                 return "red";
             }
         }
+    },
+    formatDollars: function(number) {
+        number = parseFloat(number);
+        var out = [], counter = 0, part = true;
+        var digits = number.toFixed(0).split("");
+        while (part) {
+            part = (counter == 0 ? digits.slice(-3) : digits.slice(counter - 3, counter)).join("");
+            if (part) {
+                out.unshift(part);
+                counter -= 3;
+            }
+        }
+        return out.join(",");
     }
 }
 // Views
