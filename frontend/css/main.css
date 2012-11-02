@@ -190,9 +190,129 @@ textarea {
 	height: 35px;
 	width: 35px;
 }
-.btn:hover{
+.form-search button:hover{
 	background: #e5e5e5 url("../img/search.png") no-repeat;
+}
+
+a{
+	color:#87aeb6;
+}
+
+.sf-footer a{
+	color:#C9A706;
+}
+
+/* ===== Home Page ====== */
+
+
+.about {
+	width: 600px;
+	float: left;
+	margin-left: 40px;	
+}
+
+.homeraces {
+	width: 280px;
+	float:left;
+}
+
+
+.about h3 {
+	font-style: italic;
+	font-size:21px;
+	line-height:36px;
+	font-weight:normal;
 	
+	
+}
+
+.about p {
+	font-size:16px;
+	line-height:25px;
+	font-weight:normal;
+	padding-top:20px;
+	
+}
+
+.about li {
+	padding-bottom:7px;
+	
+}
+
+.homeraces li {
+	padding-bottom:7px;
+}
+
+
+
+.homeraces ul {
+	list-style: none;
+	margin-left:0;
+}
+
+.homeraces h5, .about h5 {
+	font-family: "aviano-sans",sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	color:#e1786d;
+	
+}
+
+.about h5 {
+	padding-top:20px;
+	
+}
+
+.homeraces h6 {
+	font-family: georgia, serif;
+	font-weight:normal;
+	font-style:italic;
+	color:#635F5C;
+	padding-top:10px;
+}
+
+.senate {
+	width: 150px;
+	float: left;
+}
+
+.house {
+	width: 100px;
+	float: left;
+}
+
+.btn-sunlight {
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #CE6100;
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, 0.098) rgba(0, 0, 0, 0.098) rgba(0, 0, 0, 0.247);
+    border-radius: 6px 6px 6px 6px;
+    border-style: solid;
+    border-width: 3px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.05);
+    color: #FDFCFB;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Georgia","Times New Roman","Times",serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 18px;
+    margin-bottom: 0;
+    margin-top: -8px;
+    padding: 4px 15px;
+    text-align: center;
+    text-indent: 0;
+    text-shadow: 0 1px 1px rgba(186, 83, 0, 0.75);
+    vertical-align: middle;
+}
+
+.btn-sunlight:hover {
+    background-color: #000 url("../img/0.png") no-repeat; 
 }
 
 /* ==========================================================================
