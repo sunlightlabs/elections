@@ -1,0 +1,226 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": "05",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "125.00",
+        "office": "H",
+        "total_receipts_rank": 573,
+        "max_rank": 695,
+        "contributions_candidate": "265.35",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 561,
+        "total_raised": "64373.82",
+        "disbursements": "45098.98",
+        "total_disbursements_rank": 573,
+        "date": "2012-06-30",
+        "contributions_indiv": "60853.85",
+        "contributions_party": "1000.00",
+        "cash_on_hand": "19274.84"
+      },
+      "industries": [
+        {
+          "count": "18",
+          "amount": "9250.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "9",
+          "amount": "6000.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "5",
+          "amount": "3000.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "4",
+          "amount": "2500.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "5",
+          "amount": "2000.00",
+          "id": "ec9907560c0042e4b831ebd7734d7352",
+          "name": "Building Materials & Equipment"
+        },
+        {
+          "count": "2",
+          "amount": "1250.00",
+          "id": "9f3c50e47e284b4eb8ae9d49ce226869",
+          "name": "Intl Orgs"
+        },
+        {
+          "count": "2",
+          "amount": "1250.00",
+          "id": "b3f5a58a6d4e4aebb553fa744082172e",
+          "name": "Other"
+        },
+        {
+          "count": "2",
+          "amount": "1000.00",
+          "id": "9e701425eeb14b4c874cfb4415a4ac3b",
+          "name": "Civil Servants/Public Officials"
+        },
+        {
+          "count": "3",
+          "amount": "750.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "1",
+          "amount": "500.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "entity_id": "cdddc7b2e5c047109ac0a91d3ac05ee9",
+      "chamber": "house",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": "05",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Virginia_Foxx",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000450.jpg",
+      "bioguide_id": "F000450",
+      "fec_summary": {
+        "contributions_pac": "222529.10",
+        "office": "H",
+        "total_receipts_rank": 349,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 41,
+        "total_raised": "722026.45",
+        "disbursements": "400494.45",
+        "total_disbursements_rank": 356,
+        "date": "2012-06-30",
+        "contributions_indiv": "493815.02",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1525970.47"
+      },
+      "industries": [
+        {
+          "count": "1088",
+          "amount": "612918.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "357",
+          "amount": "245076.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "91",
+          "amount": "199616.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "212",
+          "amount": "147192.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "106",
+          "amount": "119520.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "150",
+          "amount": "117940.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "184",
+          "amount": "110703.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "182",
+          "amount": "103150.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "109",
+          "amount": "91150.00",
+          "id": "c3081aa14b0141df8d47684635bc0b26",
+          "name": "Agricultural Services/Products"
+        },
+        {
+          "count": "85",
+          "amount": "79118.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "82"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "88"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

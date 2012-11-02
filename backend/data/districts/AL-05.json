@@ -1,0 +1,208 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "AL",
+      "state_name": "Alabama",
+      "district": "05",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "5000.00",
+        "office": "H",
+        "total_receipts_rank": 618,
+        "max_rank": 695,
+        "contributions_candidate": "10230.06",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 576,
+        "total_raised": "28254.95",
+        "disbursements": "15734.43",
+        "total_disbursements_rank": 628,
+        "date": "2012-06-30",
+        "contributions_indiv": "12418.00",
+        "contributions_party": "500.00",
+        "cash_on_hand": "12520.52"
+      },
+      "industries": [
+        {
+          "count": "3",
+          "amount": "1450.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "2",
+          "amount": "650.00",
+          "id": "9e701425eeb14b4c874cfb4415a4ac3b",
+          "name": "Civil Servants/Public Officials"
+        },
+        {
+          "count": "1",
+          "amount": "500.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "1",
+          "amount": "450.00",
+          "id": "db81234a46874e7392cb5dfec1f07113",
+          "name": "Printing & Publishing"
+        },
+        {
+          "count": "1",
+          "amount": "300.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1",
+          "amount": "250.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1",
+          "amount": "200.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "entity_id": "86365334cfbd49dcbaf28e501131c126",
+      "chamber": "house",
+      "state": "AL",
+      "state_name": "Alabama",
+      "district": "05",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Mo_Brooks",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001274.jpg",
+      "bioguide_id": "B001274",
+      "fec_summary": {
+        "contributions_pac": "355848.35",
+        "office": "H",
+        "total_receipts_rank": 369,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "14673.52",
+        "cash_on_hand_rank": 326,
+        "total_raised": "655859.18",
+        "disbursements": "362595.58",
+        "total_disbursements_rank": 391,
+        "date": "2012-06-30",
+        "contributions_indiv": "283809.60",
+        "contributions_party": "0.00",
+        "cash_on_hand": "343783.83"
+      },
+      "industries": [
+        {
+          "count": "192",
+          "amount": "115750.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "58",
+          "amount": "115296.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "126",
+          "amount": "99000.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "80",
+          "amount": "91170.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "105",
+          "amount": "90710.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "59",
+          "amount": "67550.00",
+          "id": "f7959bfcdd044aa58cfb2e335cfc67e6",
+          "name": "Misc Defense"
+        },
+        {
+          "count": "47",
+          "amount": "49850.00",
+          "id": "4c3799fc60b34f2aa250f7e8f5b2c3e6",
+          "name": "Defense Electronics"
+        },
+        {
+          "count": "44",
+          "amount": "47430.00",
+          "id": "042288e0185a44ec82982814c69abdca",
+          "name": "Computers/Internet"
+        },
+        {
+          "count": "22",
+          "amount": "28500.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "39",
+          "amount": "27475.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "79"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "88"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

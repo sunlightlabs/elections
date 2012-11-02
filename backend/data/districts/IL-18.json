@@ -1,0 +1,119 @@
+{
+  "house": [
+    {
+      "entity_id": "9471015ffe784d9c960721f08ba23e44",
+      "chamber": "house",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": "18",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Aaron_Schock",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001179.jpg",
+      "bioguide_id": "S001179",
+      "fec_summary": {
+        "contributions_pac": "901682.50",
+        "office": "H",
+        "total_receipts_rank": 21,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "932962.45",
+        "cash_on_hand_rank": 8,
+        "total_raised": "2509010.17",
+        "disbursements": "734689.59",
+        "total_disbursements_rank": 163,
+        "date": "2012-06-30",
+        "contributions_indiv": "633748.22",
+        "contributions_party": "1850.00",
+        "cash_on_hand": "2828383.46"
+      },
+      "industries": [
+        {
+          "count": "741",
+          "amount": "486303.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "421",
+          "amount": "460450.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "172",
+          "amount": "251849.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "246",
+          "amount": "245505.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "181",
+          "amount": "208380.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "199",
+          "amount": "196985.00",
+          "id": "ec9907560c0042e4b831ebd7734d7352",
+          "name": "Building Materials & Equipment"
+        },
+        {
+          "count": "244",
+          "amount": "196219.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "75",
+          "amount": "150295.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "89",
+          "amount": "129375.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "156",
+          "amount": "116630.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "C"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "66"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "68"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "house": [
+    {
+      "entity_id": "2619e5a74bb54ccbb3df5a0cacedae6f",
+      "chamber": "house",
+      "state": "RI",
+      "state_name": "Rhode Island",
+      "district": "01",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/David_Cicilline",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001084.jpg",
+      "bioguide_id": "C001084",
+      "fec_summary": {
+        "contributions_pac": "413806.27",
+        "office": "H",
+        "total_receipts_rank": 82,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "10500.00",
+        "cash_on_hand_rank": 254,
+        "total_raised": "1708539.51",
+        "disbursements": "1266846.99",
+        "total_disbursements_rank": 52,
+        "date": "2012-08-22",
+        "contributions_indiv": "1269832.64",
+        "contributions_party": "178.94",
+        "cash_on_hand": "483454.73"
+      },
+      "industries": [
+        {
+          "count": "420",
+          "amount": "343440.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "267",
+          "amount": "232160.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "206",
+          "amount": "214312.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "81",
+          "amount": "103550.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "134",
+          "amount": "100933.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "43",
+          "amount": "92900.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "75",
+          "amount": "82669.00",
+          "id": "4105890ca25a429681f50494c454426a",
+          "name": "Human Rights"
+        },
+        {
+          "count": "80",
+          "amount": "74850.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "68",
+          "amount": "68300.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "22",
+          "amount": "66850.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F-"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "30"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "14"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "entity_id": "86f57e0935264af2ba654b5c5b257a27",
+      "chamber": "house",
+      "state": "RI",
+      "state_name": "Rhode Island",
+      "district": "01",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": "http://en.wikipedia.org/wiki/Patrick_J._Kennedy",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000113.jpg",
+      "bioguide_id": "K000113",
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "12229.94",
+        "disbursements": "16742.94",
+        "total_disbursements_rank": null,
+        "date": "2012-03-31",
+        "contributions_indiv": "0.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "0.00"
+      },
+      "industries": [
+        {
+          "count": "2094",
+          "amount": "1533674.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "670",
+          "amount": "595370.00",
+          "id": "13718be68388456d9b6e8db753f06e72",
+          "name": "Casinos/Gambling"
+        },
+        {
+          "count": "606",
+          "amount": "534128.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "542",
+          "amount": "528827.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "508",
+          "amount": "463675.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "605",
+          "amount": "430171.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "505",
+          "amount": "417024.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "198",
+          "amount": "377595.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "278",
+          "amount": "373675.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "214",
+          "amount": "371400.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "90"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "64f4b76b98b440cc9bb6b8132cb8fba7",
+      "chamber": "senate",
+      "state": "RI",
+      "state_name": "Rhode Island",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Sheldon_Whitehouse",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000802.jpg",
+      "bioguide_id": "W000802",
+      "fec_summary": {
+        "contributions_pac": "845560.00",
+        "office": "S",
+        "total_receipts_rank": 42,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "296935.00",
+        "cash_on_hand_rank": 21,
+        "total_raised": "2855289.00",
+        "disbursements": "1754928.00",
+        "total_disbursements_rank": 40,
+        "date": "2012-08-22",
+        "contributions_indiv": "1694839.00",
+        "contributions_party": "2493.00",
+        "cash_on_hand": "2815325.00"
+      },
+      "industries": [
+        {
+          "count": "1731",
+          "amount": "1507631.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "562",
+          "amount": "810290.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "635",
+          "amount": "530208.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "162",
+          "amount": "515602.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "412",
+          "amount": "427296.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "354",
+          "amount": "388231.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "375",
+          "amount": "308021.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "193",
+          "amount": "259621.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "207",
+          "amount": "229150.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "205",
+          "amount": "216536.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F-"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "50"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "entity_id": "f4620a4b164e4b919c74e41ad38460a4",
+      "chamber": "senate",
+      "state": "RI",
+      "state_name": "Rhode Island",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Jack_Reed",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000122.jpg",
+      "bioguide_id": "R000122",
+      "fec_summary": {
+        "contributions_pac": "104400.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "197923.00",
+        "disbursements": "434743.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "75836.00",
+        "contributions_party": "950.00",
+        "cash_on_hand": "2112810.00"
+      },
+      "industries": [
+        {
+          "count": "1814",
+          "amount": "1114744.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "762",
+          "amount": "849435.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "737",
+          "amount": "611364.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "426",
+          "amount": "506688.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "601",
+          "amount": "490154.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "528",
+          "amount": "474891.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "539",
+          "amount": "341353.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "254",
+          "amount": "330125.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "246",
+          "amount": "326915.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "300",
+          "amount": "322752.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "50"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "7"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        }
+      ]
+    }
+  ]
+}

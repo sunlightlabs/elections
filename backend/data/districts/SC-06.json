@@ -1,0 +1,134 @@
+{
+  "house": [
+    {
+      "entity_id": "c8eb2a17f271433885ca8e8872eb0e7a",
+      "chamber": "house",
+      "state": "SC",
+      "state_name": "South Carolina",
+      "district": "06",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000537",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000537.jpg",
+      "bioguide_id": "C000537",
+      "fec_summary": {
+        "contributions_pac": "1502701.90",
+        "office": "H",
+        "total_receipts_rank": 54,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 33,
+        "total_raised": "1951976.84",
+        "disbursements": "1317620.28",
+        "total_disbursements_rank": 45,
+        "date": "2012-06-30",
+        "contributions_indiv": "448377.92",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1703488.70"
+      },
+      "industries": [
+        {
+          "count": "900",
+          "amount": "783140.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "388",
+          "amount": "538863.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "309",
+          "amount": "501500.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "304",
+          "amount": "494571.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "360",
+          "amount": "469402.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "257",
+          "amount": "441350.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "625",
+          "amount": "406416.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "225",
+          "amount": "369483.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "156",
+          "amount": "333500.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "273",
+          "amount": "313750.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "95"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "40"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "12"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

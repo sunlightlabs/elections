@@ -1,0 +1,134 @@
+{
+  "house": [
+    {
+      "entity_id": "c17641e1cebd490fab943db05c75fd2d",
+      "chamber": "house",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": "12",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Mel_Watt",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000207.jpg",
+      "bioguide_id": "W000207",
+      "fec_summary": {
+        "contributions_pac": "499134.05",
+        "office": "H",
+        "total_receipts_rank": 416,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 287,
+        "total_raised": "543864.45",
+        "disbursements": "237461.16",
+        "total_disbursements_rank": 468,
+        "date": "2012-06-30",
+        "contributions_indiv": "46230.40",
+        "contributions_party": "0.00",
+        "cash_on_hand": "415447.70"
+      },
+      "industries": [
+        {
+          "count": "287",
+          "amount": "365522.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "443",
+          "amount": "356416.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "167",
+          "amount": "249571.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "111",
+          "amount": "241500.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "140",
+          "amount": "177818.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "130",
+          "amount": "175614.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "88",
+          "amount": "161000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "116",
+          "amount": "146100.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "164",
+          "amount": "143650.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "104",
+          "amount": "136500.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "85"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "20"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "11"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "4"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

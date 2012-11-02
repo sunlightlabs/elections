@@ -1,0 +1,261 @@
+{
+  "house": [
+    {
+      "entity_id": "4afec43dc23f4b40a7cefc31dbd6582a",
+      "chamber": "house",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": "04",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/David_Price_%28U.S._politician%29",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000523.jpg",
+      "bioguide_id": "P000523",
+      "fec_summary": {
+        "contributions_pac": "389350.00",
+        "office": "H",
+        "total_receipts_rank": 271,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 423,
+        "total_raised": "870839.98",
+        "disbursements": "700795.14",
+        "total_disbursements_rank": 180,
+        "date": "2012-06-30",
+        "contributions_indiv": "479289.85",
+        "contributions_party": "0.00",
+        "cash_on_hand": "180293.88"
+      },
+      "industries": [
+        {
+          "count": "896",
+          "amount": "547467.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1234",
+          "amount": "536333.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1255",
+          "amount": "481261.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "278",
+          "amount": "422450.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "234",
+          "amount": "329500.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "308",
+          "amount": "295892.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "130",
+          "amount": "282960.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "412",
+          "amount": "265460.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "320",
+          "amount": "240616.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "383",
+          "amount": "208095.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "95"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "50"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F-"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "12"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "entity_id": "6664ccef190149a18b52465034399d6d",
+      "chamber": "house",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": "04",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Brad_Miller_%28North_Carolina_politician%29",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001154.jpg",
+      "bioguide_id": "M001154",
+      "fec_summary": {
+        "contributions_pac": "120750.00",
+        "office": "H",
+        "total_receipts_rank": 693,
+        "max_rank": 1515,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 569,
+        "total_raised": "278160.39",
+        "disbursements": "264347.19",
+        "total_disbursements_rank": 648,
+        "date": "2012-06-30",
+        "contributions_indiv": "153044.79",
+        "contributions_party": "0.00",
+        "cash_on_hand": "103045.47"
+      },
+      "industries": [
+        {
+          "count": "1601",
+          "amount": "817867.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "285",
+          "amount": "262969.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "86",
+          "amount": "254000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "160",
+          "amount": "253700.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "581",
+          "amount": "252214.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "281",
+          "amount": "239499.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "72",
+          "amount": "180000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "167",
+          "amount": "163525.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "80",
+          "amount": "145450.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "60",
+          "amount": "129250.00",
+          "id": "bcb5ff50850c4e9682b5d4da5d9bf278",
+          "name": "Misc Unions"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "50"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "8"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "4"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

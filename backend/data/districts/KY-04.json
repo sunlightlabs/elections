@@ -1,0 +1,221 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "KY",
+      "state_name": "Kentucky",
+      "district": "04",
+      "party": "R",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "58000.00",
+        "office": "H",
+        "total_receipts_rank": 399,
+        "max_rank": 695,
+        "contributions_candidate": "105000.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 478,
+        "total_raised": "583261.57",
+        "disbursements": "487458.71",
+        "total_disbursements_rank": 307,
+        "date": "2012-06-30",
+        "contributions_indiv": "416505.97",
+        "contributions_party": "0.00",
+        "cash_on_hand": "96342.86"
+      },
+      "industries": [
+        {
+          "count": "110",
+          "amount": "119027.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "8",
+          "amount": "40000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "37",
+          "amount": "30965.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "5",
+          "amount": "12500.00",
+          "id": "e8dcbb804ccc455c921dea11c56bb382",
+          "name": "Waste Management"
+        },
+        {
+          "count": "12",
+          "amount": "10900.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "6",
+          "amount": "7750.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "5",
+          "amount": "7500.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        },
+        {
+          "count": "5",
+          "amount": "6500.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "6",
+          "amount": "6001.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "2",
+          "amount": "5500.00",
+          "id": "f7383a21a6214cd68f33bb86e75c25fa",
+          "name": "Abortion Policy/Pro-Life"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A"
+        }
+      ]
+    },
+    {
+      "entity_id": "23c12230cd9348dbb4a080c6e0d1bdea",
+      "chamber": "house",
+      "state": "KY",
+      "state_name": "Kentucky",
+      "district": "04",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Geoff_Davis",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000603.jpg",
+      "bioguide_id": "D000603",
+      "fec_summary": {
+        "contributions_pac": "475000.00",
+        "office": "H",
+        "total_receipts_rank": 530,
+        "max_rank": 1515,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 419,
+        "total_raised": "435820.48",
+        "disbursements": "686061.34",
+        "total_disbursements_rank": 253,
+        "date": "2012-06-30",
+        "contributions_indiv": "3210.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "268576.49"
+      },
+      "industries": [
+        {
+          "count": "355",
+          "amount": "822944.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "369",
+          "amount": "475330.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "394",
+          "amount": "439147.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "647",
+          "amount": "391495.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "349",
+          "amount": "383311.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "366",
+          "amount": "382863.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "635",
+          "amount": "365613.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "232",
+          "amount": "306081.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "205",
+          "amount": "240104.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "300",
+          "amount": "231775.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "72"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "80"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

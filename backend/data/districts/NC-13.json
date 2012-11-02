@@ -1,0 +1,104 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": "13",
+      "party": "R",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "29950.00",
+        "office": "H",
+        "total_receipts_rank": 208,
+        "max_rank": 695,
+        "contributions_candidate": "325100.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 563,
+        "total_raised": "1038676.59",
+        "disbursements": "1023850.22",
+        "total_disbursements_rank": 79,
+        "date": "2012-06-30",
+        "contributions_indiv": "683615.18",
+        "contributions_party": "0.00",
+        "cash_on_hand": "16726.37"
+      },
+      "industries": [
+        {
+          "count": "143",
+          "amount": "90440.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "78",
+          "amount": "57868.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "50",
+          "amount": "34100.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "26",
+          "amount": "28500.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "26",
+          "amount": "25500.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "27",
+          "amount": "19550.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "17",
+          "amount": "17034.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "3",
+          "amount": "12500.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "11",
+          "amount": "12250.00",
+          "id": "165d820dd48441e1befdc47f3fa3d236",
+          "name": "Food & Beverage"
+        },
+        {
+          "count": "17",
+          "amount": "10950.00",
+          "id": "ce2b63ae7a594a93aefa474489bc7bd1",
+          "name": "Special Trade Contractors"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

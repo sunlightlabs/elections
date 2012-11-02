@@ -1,0 +1,220 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "KS",
+      "state_name": "Kansas",
+      "district": "02",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": "H",
+        "total_receipts_rank": 580,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 552,
+        "total_raised": "59136.99",
+        "disbursements": "34301.65",
+        "total_disbursements_rank": 586,
+        "date": "2012-07-18",
+        "contributions_indiv": "54596.93",
+        "contributions_party": "4538.20",
+        "cash_on_hand": "24835.34"
+      },
+      "industries": [
+        {
+          "count": "34",
+          "amount": "19100.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "5",
+          "amount": "4450.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "2",
+          "amount": "3350.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "3",
+          "amount": "1450.00",
+          "id": "9e701425eeb14b4c874cfb4415a4ac3b",
+          "name": "Civil Servants/Public Officials"
+        },
+        {
+          "count": "2",
+          "amount": "1331.00",
+          "id": "d8ddc9e3d84b40a2a923545964e6bf80",
+          "name": "Non-Profit Institutions"
+        },
+        {
+          "count": "3",
+          "amount": "950.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "1",
+          "amount": "500.00",
+          "id": "d67273cd049945e08a0f5c53a4870cf3",
+          "name": "Misc Services"
+        },
+        {
+          "count": "1",
+          "amount": "500.00",
+          "id": "5acf6d91f2ba46bfbdb94e8011315e09",
+          "name": "Misc Energy"
+        },
+        {
+          "count": "1",
+          "amount": "500.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "eb04a699748d4d4abc698d8fe2d94188",
+      "chamber": "house",
+      "state": "KS",
+      "state_name": "Kansas",
+      "district": "02",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Lynn_Jenkins",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/J000290.jpg",
+      "bioguide_id": "J000290",
+      "fec_summary": {
+        "contributions_pac": "752112.64",
+        "office": "H",
+        "total_receipts_rank": 103,
+        "max_rank": 695,
+        "contributions_candidate": "84.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 50,
+        "total_raised": "1482806.57",
+        "disbursements": "399150.68",
+        "total_disbursements_rank": 357,
+        "date": "2012-07-18",
+        "contributions_indiv": "721570.65",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1422832.07"
+      },
+      "industries": [
+        {
+          "count": "216",
+          "amount": "222500.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "156",
+          "amount": "219050.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "177",
+          "amount": "211752.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "168",
+          "amount": "176400.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "95",
+          "amount": "176300.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "191",
+          "amount": "164227.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "259",
+          "amount": "154600.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "111",
+          "amount": "144899.00",
+          "id": "7a214b1dc0054b768d4c4eb6f8f625c8",
+          "name": "Accountants"
+        },
+        {
+          "count": "133",
+          "amount": "137400.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "201",
+          "amount": "131295.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "77"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "84"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

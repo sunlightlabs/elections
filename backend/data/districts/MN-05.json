@@ -1,0 +1,494 @@
+{
+  "house": [
+    {
+      "entity_id": "69450767ce3c46bda62793e3dab644f6",
+      "chamber": "house",
+      "state": "MN",
+      "state_name": "Minnesota",
+      "district": "05",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Keith_Ellison_%28politician%29",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/E000288.jpg",
+      "bioguide_id": "E000288",
+      "fec_summary": {
+        "contributions_pac": "243650.00",
+        "office": "H",
+        "total_receipts_rank": 122,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "950.00",
+        "cash_on_hand_rank": 455,
+        "total_raised": "1422324.96",
+        "disbursements": "1460782.90",
+        "total_disbursements_rank": 34,
+        "date": "2012-07-25",
+        "contributions_indiv": "1167334.96",
+        "contributions_party": "5.71",
+        "cash_on_hand": "126481.49"
+      },
+      "industries": [
+        {
+          "count": "807",
+          "amount": "507590.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "415",
+          "amount": "265254.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "77",
+          "amount": "148250.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "283",
+          "amount": "129814.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "41",
+          "amount": "123500.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "160",
+          "amount": "113431.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "36",
+          "amount": "111500.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "114",
+          "amount": "109836.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "87",
+          "amount": "100901.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "27",
+          "amount": "73250.00",
+          "id": "bcb5ff50850c4e9682b5d4da5d9bf278",
+          "name": "Misc Unions"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "National Nurses United",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F-"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "20"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "18"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "8"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
+      "chamber": "senate",
+      "state": "MN",
+      "state_name": "Minnesota",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Amy_Klobuchar",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000367.jpg",
+      "bioguide_id": "K000367",
+      "fec_summary": {
+        "contributions_pac": "1560131.00",
+        "office": "S",
+        "total_receipts_rank": 24,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "563721.00",
+        "cash_on_hand_rank": 9,
+        "total_raised": "6271963.00",
+        "disbursements": "2530567.00",
+        "total_disbursements_rank": 27,
+        "date": "2012-07-25",
+        "contributions_indiv": "4146841.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "5393798.00"
+      },
+      "industries": [
+        {
+          "count": "2428",
+          "amount": "1839744.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1644",
+          "amount": "1097576.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1756",
+          "amount": "936935.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "197",
+          "amount": "557950.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "363",
+          "amount": "417458.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "363",
+          "amount": "346109.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "432",
+          "amount": "317592.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "238",
+          "amount": "295350.00",
+          "id": "32383c4d430e4b63aaa584500088331c",
+          "name": "Retail Sales"
+        },
+        {
+          "count": "338",
+          "amount": "293382.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "317",
+          "amount": "243355.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "50"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "entity_id": null,
+      "chamber": "senate",
+      "state": "MN",
+      "state_name": "Minnesota",
+      "district": null,
+      "party": "R",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "48650.00",
+        "office": "S",
+        "total_receipts_rank": 54,
+        "max_rank": 62,
+        "contributions_candidate": "2500.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 61,
+        "total_raised": "391097.00",
+        "disbursements": "388720.00",
+        "total_disbursements_rank": 53,
+        "date": "2012-07-25",
+        "contributions_indiv": "339827.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "5841.00"
+      },
+      "industries": [
+        {
+          "count": "2",
+          "amount": "10000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "3",
+          "amount": "5000.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "2",
+          "amount": "3500.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "3",
+          "amount": "3250.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "2",
+          "amount": "2750.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "1",
+          "amount": "2500.00",
+          "id": "7124c2c7d5044034ad4555716e68f2d0",
+          "name": "Gun Rights"
+        },
+        {
+          "count": "1",
+          "amount": "500.00",
+          "id": "9e701425eeb14b4c874cfb4415a4ac3b",
+          "name": "Civil Servants/Public Officials"
+        },
+        {
+          "count": "1",
+          "amount": "500.00",
+          "id": "042288e0185a44ec82982814c69abdca",
+          "name": "Computers/Internet"
+        },
+        {
+          "count": "1",
+          "amount": "250.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "1",
+          "amount": "250.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A"
+        }
+      ]
+    },
+    {
+      "entity_id": "2356932a051f4ab796df1f26878f6f4a",
+      "chamber": "senate",
+      "state": "MN",
+      "state_name": "Minnesota",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Al_Franken",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000457.jpg",
+      "bioguide_id": "F000457",
+      "fec_summary": {
+        "contributions_pac": "106350.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "430440.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "2783437.00",
+        "disbursements": "1942570.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "2106401.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "972835.00"
+      },
+      "industries": [
+        {
+          "count": "1989",
+          "amount": "1404205.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "2080",
+          "amount": "1028772.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1715",
+          "amount": "1028740.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "707",
+          "amount": "845733.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "437",
+          "amount": "549222.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "671",
+          "amount": "505684.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "307",
+          "amount": "312185.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "365",
+          "amount": "305280.00",
+          "id": "db81234a46874e7392cb5dfec1f07113",
+          "name": "Printing & Publishing"
+        },
+        {
+          "count": "611",
+          "amount": "287611.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "391",
+          "amount": "282527.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "30"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "9"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        }
+      ]
+    }
+  ]
+}

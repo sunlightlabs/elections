@@ -1,0 +1,337 @@
+{
+  "house": [
+    {
+      "entity_id": "f8463d0cb5c74397afc623195e6828c9",
+      "chamber": "house",
+      "state": "OH",
+      "state_name": "Ohio",
+      "district": "12",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Pat_Tiberi",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/T000462.jpg",
+      "bioguide_id": "T000462",
+      "fec_summary": {
+        "contributions_pac": "1526299.40",
+        "office": "H",
+        "total_receipts_rank": 20,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 25,
+        "total_raised": "2535045.56",
+        "disbursements": "1272809.52",
+        "total_disbursements_rank": 50,
+        "date": "2012-06-30",
+        "contributions_indiv": "997708.72",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1966508.34"
+      },
+      "industries": [
+        {
+          "count": "1033",
+          "amount": "1070964.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "772",
+          "amount": "699936.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "887",
+          "amount": "629752.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "597",
+          "amount": "594676.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "498",
+          "amount": "575827.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "441",
+          "amount": "559237.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "215",
+          "amount": "459885.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "288",
+          "amount": "391070.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "536",
+          "amount": "382558.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "264",
+          "amount": "364900.00",
+          "id": "32383c4d430e4b63aaa584500088331c",
+          "name": "Retail Sales"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "71"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "72"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": null,
+      "chamber": "senate",
+      "state": "OH",
+      "state_name": "Ohio",
+      "district": null,
+      "party": "R",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "749201.00",
+        "office": "S",
+        "total_receipts_rank": 11,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "1507510.00",
+        "cash_on_hand_rank": 10,
+        "total_raised": "9723650.00",
+        "disbursements": "4978455.00",
+        "total_disbursements_rank": 13,
+        "date": "2012-06-30",
+        "contributions_indiv": "7387538.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "4930230.00"
+      },
+      "industries": [
+        {
+          "count": "384",
+          "amount": "480900.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "220",
+          "amount": "397140.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "245",
+          "amount": "371057.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "323",
+          "amount": "362515.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "195",
+          "amount": "320050.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "299",
+          "amount": "278924.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "159",
+          "amount": "276600.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "141",
+          "amount": "205350.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "75",
+          "amount": "166650.00",
+          "id": "32383c4d430e4b63aaa584500088331c",
+          "name": "Retail Sales"
+        },
+        {
+          "count": "123",
+          "amount": "163000.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "f062e216cb9f4a29a8ac0e7353d1d01e",
+      "chamber": "senate",
+      "state": "OH",
+      "state_name": "Ohio",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Rob_Portman",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000449.jpg",
+      "bioguide_id": "P000449",
+      "fec_summary": {
+        "contributions_pac": "264801.00",
+        "office": "S",
+        "total_receipts_rank": 2,
+        "max_rank": 5,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 1,
+        "total_raised": "748188.00",
+        "disbursements": "330293.00",
+        "total_disbursements_rank": 5,
+        "date": "2012-06-30",
+        "contributions_indiv": "389396.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1905449.00"
+      },
+      "industries": [
+        {
+          "count": "1739",
+          "amount": "1467040.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "947",
+          "amount": "1181667.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "1437",
+          "amount": "1169485.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "876",
+          "amount": "984727.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "700",
+          "amount": "836916.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "566",
+          "amount": "645576.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "750",
+          "amount": "627173.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "369",
+          "amount": "463207.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "559",
+          "amount": "462510.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "346",
+          "amount": "402374.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "75"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "83"
+        }
+      ]
+    }
+  ]
+}

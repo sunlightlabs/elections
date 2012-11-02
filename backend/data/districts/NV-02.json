@@ -1,0 +1,479 @@
+{
+  "house": [
+    {
+      "entity_id": "ba79864862954007883d2b89c0ebfd43",
+      "chamber": "house",
+      "state": "NV",
+      "state_name": "Nevada",
+      "district": "02",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Dean_Heller",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001041.jpg",
+      "bioguide_id": "H001041",
+      "fec_summary": {
+        "contributions_pac": "1608734.00",
+        "office": "S",
+        "total_receipts_rank": 23,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "1324605.00",
+        "cash_on_hand_rank": 12,
+        "total_raised": "6535731.00",
+        "disbursements": "2110154.00",
+        "total_disbursements_rank": 35,
+        "date": "2012-06-30",
+        "contributions_indiv": "3571496.00",
+        "contributions_party": "43100.00",
+        "cash_on_hand": "4449806.00"
+      },
+      "industries": [
+        {
+          "count": "221",
+          "amount": "702217.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "361",
+          "amount": "593466.00",
+          "id": "13718be68388456d9b6e8db753f06e72",
+          "name": "Casinos/Gambling"
+        },
+        {
+          "count": "432",
+          "amount": "554312.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "574",
+          "amount": "494470.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "377",
+          "amount": "374025.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "216",
+          "amount": "317413.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "319",
+          "amount": "264533.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "225",
+          "amount": "262092.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "142",
+          "amount": "244050.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "373",
+          "amount": "234725.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "80"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "endorsement",
+          "value": null
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "endorsement",
+          "value": null
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "79"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "92"
+        }
+      ]
+    },
+    {
+      "entity_id": "27cde3a658f540cbba16a348524daf04",
+      "chamber": "house",
+      "state": "NV",
+      "state_name": "Nevada",
+      "district": "02",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Mark_E._Amodei",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000369.jpg",
+      "bioguide_id": "A000369",
+      "fec_summary": {
+        "contributions_pac": "483645.94",
+        "office": "H",
+        "total_receipts_rank": 213,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "955.65",
+        "cash_on_hand_rank": 435,
+        "total_raised": "1018612.80",
+        "disbursements": "869304.64",
+        "total_disbursements_rank": 108,
+        "date": "2012-06-30",
+        "contributions_indiv": "513972.17",
+        "contributions_party": "16000.00",
+        "cash_on_hand": "154783.16"
+      },
+      "industries": [
+        {
+          "count": "47",
+          "amount": "99000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "42",
+          "amount": "76028.00",
+          "id": "13718be68388456d9b6e8db753f06e72",
+          "name": "Casinos/Gambling"
+        },
+        {
+          "count": "67",
+          "amount": "58065.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "46",
+          "amount": "52000.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "68",
+          "amount": "50600.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "40",
+          "amount": "47249.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "61",
+          "amount": "35350.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "20",
+          "amount": "33000.00",
+          "id": "8b48cb51f18f4286b8e16b2dc8e9689d",
+          "name": "Mining"
+        },
+        {
+          "count": "13",
+          "amount": "29250.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "19",
+          "amount": "28000.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "endorsement",
+          "value": null
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "endorsement",
+          "value": null
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "b875d19789ce4c88b276a607202b362c",
+      "chamber": "senate",
+      "state": "NV",
+      "state_name": "Nevada",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Harry_Reid",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000146.jpg",
+      "bioguide_id": "R000146",
+      "fec_summary": {
+        "contributions_pac": "303320.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "-99750.00",
+        "transfers_in": "27352.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "830438.00",
+        "disbursements": "934257.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "444633.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "167240.00"
+      },
+      "industries": [
+        {
+          "count": "4945",
+          "amount": "5652779.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1439",
+          "amount": "1825002.00",
+          "id": "13718be68388456d9b6e8db753f06e72",
+          "name": "Casinos/Gambling"
+        },
+        {
+          "count": "986",
+          "amount": "1590755.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "1735",
+          "amount": "1577356.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "1163",
+          "amount": "1454292.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1190",
+          "amount": "1326837.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "1246",
+          "amount": "1035503.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "932",
+          "amount": "947267.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "583",
+          "amount": "871151.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "528",
+          "amount": "684260.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "40"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "75"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "10"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "entity_id": "703d4b7c37424ae0844d2a0078628644",
+      "chamber": "senate",
+      "state": "NV",
+      "state_name": "Nevada",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/John_Ensign",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/E000194.jpg",
+      "bioguide_id": "E000194",
+      "fec_summary": {
+        "contributions_pac": "42500.00",
+        "office": "S",
+        "total_receipts_rank": 134,
+        "max_rank": 231,
+        "contributions_candidate": "25000.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 136,
+        "total_raised": "27123.00",
+        "disbursements": "344703.00",
+        "total_disbursements_rank": 104,
+        "date": "2012-06-30",
+        "contributions_indiv": "-25552.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "3816.00"
+      },
+      "industries": [
+        {
+          "count": "1353",
+          "amount": "1370885.00",
+          "id": "13718be68388456d9b6e8db753f06e72",
+          "name": "Casinos/Gambling"
+        },
+        {
+          "count": "1185",
+          "amount": "992936.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "868",
+          "amount": "787373.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "651",
+          "amount": "650342.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "211",
+          "amount": "598019.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "674",
+          "amount": "531984.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "781",
+          "amount": "477577.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "400",
+          "amount": "413468.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "381",
+          "amount": "401524.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "499",
+          "amount": "391409.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "endorsement",
+          "value": null
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "5"
+        }
+      ]
+    }
+  ]
+}

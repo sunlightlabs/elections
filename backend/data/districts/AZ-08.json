@@ -1,0 +1,469 @@
+{
+  "house": [
+    {
+      "entity_id": "8d13019467b2459eaad79c5073288bd4",
+      "chamber": "house",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "district": "08",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Trent_Franks",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000448.jpg",
+      "bioguide_id": "F000448",
+      "fec_summary": {
+        "contributions_pac": "128895.60",
+        "office": "H",
+        "total_receipts_rank": 503,
+        "max_rank": 695,
+        "contributions_candidate": "2000.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 556,
+        "total_raised": "286172.43",
+        "disbursements": "279431.04",
+        "total_disbursements_rank": 447,
+        "date": "2012-08-08",
+        "contributions_indiv": "153413.49",
+        "contributions_party": "0.00",
+        "cash_on_hand": "22398.93"
+      },
+      "industries": [
+        {
+          "count": "370",
+          "amount": "179784.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "248",
+          "amount": "163087.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "114",
+          "amount": "132200.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "139",
+          "amount": "100520.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "113",
+          "amount": "95076.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "44",
+          "amount": "90301.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "117",
+          "amount": "69444.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "59",
+          "amount": "68700.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "60",
+          "amount": "66000.00",
+          "id": "4c3799fc60b34f2aa250f7e8f5b2c3e6",
+          "name": "Defense Electronics"
+        },
+        {
+          "count": "45",
+          "amount": "56649.00",
+          "id": "042288e0185a44ec82982814c69abdca",
+          "name": "Computers/Internet"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "85"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "100"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": null,
+      "chamber": "senate",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "district": null,
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "363587.00",
+        "office": "S",
+        "total_receipts_rank": 41,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "56300.00",
+        "cash_on_hand_rank": 36,
+        "total_raised": "2940790.00",
+        "disbursements": "1186586.00",
+        "total_disbursements_rank": 45,
+        "date": "2012-08-08",
+        "contributions_indiv": "2509624.00",
+        "contributions_party": "10000.00",
+        "cash_on_hand": "1754794.00"
+      },
+      "industries": [
+        {
+          "count": "37",
+          "amount": "141030.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "156",
+          "amount": "126450.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "102",
+          "amount": "108169.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "64",
+          "amount": "69860.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "65",
+          "amount": "56200.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "43",
+          "amount": "47650.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "23",
+          "amount": "34750.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "18",
+          "amount": "33750.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "32",
+          "amount": "33750.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "23",
+          "amount": "33500.00",
+          "id": "d007d0ca512d457990cbb67a7ae136a2",
+          "name": "Livestock"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "f3b370d8e5104f48ab225cfbcc6b241e",
+      "chamber": "senate",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Jon_Kyl",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000352.jpg",
+      "bioguide_id": "K000352",
+      "fec_summary": {
+        "contributions_pac": "6000.00",
+        "office": "S",
+        "total_receipts_rank": 159,
+        "max_rank": 231,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 67,
+        "total_raised": "-60490.00",
+        "disbursements": "297982.00",
+        "total_disbursements_rank": 109,
+        "date": "2012-06-30",
+        "contributions_indiv": "-18750.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "430267.00"
+      },
+      "industries": [
+        {
+          "count": "2223",
+          "amount": "1584485.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1433",
+          "amount": "1295348.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1716",
+          "amount": "1162095.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1420",
+          "amount": "1157850.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "548",
+          "amount": "659912.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "544",
+          "amount": "556194.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "455",
+          "amount": "544747.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "563",
+          "amount": "541545.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "547",
+          "amount": "530847.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "155",
+          "amount": "458637.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "89"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "90"
+        }
+      ]
+    },
+    {
+      "entity_id": "47d65b2f02ca4f55b93b53d05521feb4",
+      "chamber": "senate",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/John_McCain",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000303.jpg",
+      "bioguide_id": "M000303",
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "165102.26",
+        "cash_on_hand_rank": null,
+        "total_raised": "841805.84",
+        "disbursements": "10947431.09",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "-60217.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1657381.67"
+      },
+      "industries": [
+        {
+          "count": "70221",
+          "amount": "36987698.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "15595",
+          "amount": "11746460.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "10085",
+          "amount": "10514171.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "11232",
+          "amount": "10000908.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "10587",
+          "amount": "7337613.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "8175",
+          "amount": "6294606.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "10213",
+          "amount": "6252900.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "6597",
+          "amount": "6027115.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "5156",
+          "amount": "4085229.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "3553",
+          "amount": "2968678.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "89"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "80"
+        }
+      ]
+    }
+  ]
+}

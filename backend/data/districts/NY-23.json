@@ -1,0 +1,342 @@
+{
+  "house": [
+    {
+      "entity_id": "f0e31da1fd6b41c19674fe2901f31df7",
+      "chamber": "house",
+      "state": "NY",
+      "state_name": "New York",
+      "district": "23",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000585",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000585.jpg",
+      "bioguide_id": "R000585",
+      "fec_summary": {
+        "contributions_pac": "779194.82",
+        "office": "H",
+        "total_receipts_rank": 112,
+        "max_rank": 695,
+        "contributions_candidate": "-20000.00",
+        "transfers_in": "96957.52",
+        "cash_on_hand_rank": 145,
+        "total_raised": "1427179.14",
+        "disbursements": "648263.05",
+        "total_disbursements_rank": 197,
+        "date": "2012-06-30",
+        "contributions_indiv": "562782.47",
+        "contributions_party": "3953.00",
+        "cash_on_hand": "833729.87"
+      },
+      "industries": [
+        {
+          "count": "99",
+          "amount": "126117.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "62",
+          "amount": "118542.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "88",
+          "amount": "101449.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "163",
+          "amount": "98465.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "83",
+          "amount": "95471.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "76",
+          "amount": "92325.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "62",
+          "amount": "81955.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "124",
+          "amount": "73288.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "119",
+          "amount": "70852.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "68",
+          "amount": "70789.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "75"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "76"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "e708669995e844af90f205003683f2fa",
+      "chamber": "senate",
+      "state": "NY",
+      "state_name": "New York",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Chuck_Schumer",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000148.jpg",
+      "bioguide_id": "S000148",
+      "fec_summary": {
+        "contributions_pac": "95900.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "1042052.00",
+        "disbursements": "1063217.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "427445.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "10171927.00"
+      },
+      "industries": [
+        {
+          "count": "7995",
+          "amount": "8819076.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "6443",
+          "amount": "5940689.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "3837",
+          "amount": "4011562.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1247",
+          "amount": "1436835.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "1169",
+          "amount": "1355300.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "1161",
+          "amount": "1325138.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "1256",
+          "amount": "1245150.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1172",
+          "amount": "1239631.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "1218",
+          "amount": "1231175.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "1073",
+          "amount": "1070849.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "50"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "95"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "10"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "entity_id": null,
+      "chamber": "senate",
+      "state": "NY",
+      "state_name": "New York",
+      "district": null,
+      "party": "R",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "21000.00",
+        "office": "S",
+        "total_receipts_rank": 56,
+        "max_rank": 62,
+        "contributions_candidate": "17000.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 55,
+        "total_raised": "332976.00",
+        "disbursements": "240564.00",
+        "total_disbursements_rank": 57,
+        "date": "2012-06-30",
+        "contributions_indiv": "289976.00",
+        "contributions_party": "5000.00",
+        "cash_on_hand": "96411.00"
+      },
+      "industries": [
+        {
+          "count": "33",
+          "amount": "38550.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "20",
+          "amount": "31750.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "18",
+          "amount": "26250.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "25",
+          "amount": "25050.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "15",
+          "amount": "16000.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "7",
+          "amount": "15150.00",
+          "id": "f7383a21a6214cd68f33bb86e75c25fa",
+          "name": "Abortion Policy/Pro-Life"
+        },
+        {
+          "count": "4",
+          "amount": "11250.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "7",
+          "amount": "7250.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "4",
+          "amount": "7000.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "2",
+          "amount": "5000.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

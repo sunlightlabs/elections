@@ -1,0 +1,124 @@
+{
+  "house": [
+    {
+      "entity_id": "ec605250c0cb40f3859a631d3e5645d1",
+      "chamber": "house",
+      "state": "OK",
+      "state_name": "Oklahoma",
+      "district": "03",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Frank_Lucas_%28Oklahoma%29",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000491.jpg",
+      "bioguide_id": "L000491",
+      "fec_summary": {
+        "contributions_pac": "877075.70",
+        "office": "H",
+        "total_receipts_rank": 153,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "26575.84",
+        "cash_on_hand_rank": 217,
+        "total_raised": "1281931.97",
+        "disbursements": "905843.40",
+        "total_disbursements_rank": 99,
+        "date": "2012-06-30",
+        "contributions_indiv": "374562.35",
+        "contributions_party": "0.00",
+        "cash_on_hand": "577153.33"
+      },
+      "industries": [
+        {
+          "count": "940",
+          "amount": "702706.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "425",
+          "amount": "451220.00",
+          "id": "c3081aa14b0141df8d47684635bc0b26",
+          "name": "Agricultural Services/Products"
+        },
+        {
+          "count": "493",
+          "amount": "450825.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "504",
+          "amount": "428264.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "311",
+          "amount": "211897.00",
+          "id": "d007d0ca512d457990cbb67a7ae136a2",
+          "name": "Livestock"
+        },
+        {
+          "count": "234",
+          "amount": "199475.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "172",
+          "amount": "194900.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "136",
+          "amount": "186950.00",
+          "id": "23f494fff6584609b68b22c043b82796",
+          "name": "Dairy"
+        },
+        {
+          "count": "168",
+          "amount": "162583.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "171",
+          "amount": "151513.00",
+          "id": "93b0e1ce2e904638a93eb9bbcd0bb7f8",
+          "name": "Food Processing & Sales"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "66"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "80"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

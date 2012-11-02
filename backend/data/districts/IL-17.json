@@ -1,0 +1,226 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": "17",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "347430.29",
+        "office": "H",
+        "total_receipts_rank": 152,
+        "max_rank": 695,
+        "contributions_candidate": "65.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 146,
+        "total_raised": "1279980.35",
+        "disbursements": "460110.16",
+        "total_disbursements_rank": 319,
+        "date": "2012-06-30",
+        "contributions_indiv": "926811.31",
+        "contributions_party": "1773.75",
+        "cash_on_hand": "829442.39"
+      },
+      "industries": [
+        {
+          "count": "438",
+          "amount": "166266.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "222",
+          "amount": "138246.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "172",
+          "amount": "73846.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "25",
+          "amount": "53750.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "10",
+          "amount": "46000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "72",
+          "amount": "45356.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "18",
+          "amount": "38585.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "11",
+          "amount": "32000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "39",
+          "amount": "30750.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "33",
+          "amount": "29055.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "366ee1660de94c6ca630b115061a96a9",
+      "chamber": "house",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": "17",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Bobby_Schilling",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001182.jpg",
+      "bioguide_id": "S001182",
+      "fec_summary": {
+        "contributions_pac": "584549.41",
+        "office": "H",
+        "total_receipts_rank": 106,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "56924.56",
+        "cash_on_hand_rank": 115,
+        "total_raised": "1463683.78",
+        "disbursements": "531343.61",
+        "total_disbursements_rank": 277,
+        "date": "2012-06-30",
+        "contributions_indiv": "797583.87",
+        "contributions_party": "13610.00",
+        "cash_on_hand": "945249.20"
+      },
+      "industries": [
+        {
+          "count": "116",
+          "amount": "230349.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "406",
+          "amount": "222508.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "125",
+          "amount": "90009.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "41",
+          "amount": "69100.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        },
+        {
+          "count": "39",
+          "amount": "56000.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "49",
+          "amount": "55250.00",
+          "id": "c3081aa14b0141df8d47684635bc0b26",
+          "name": "Agricultural Services/Products"
+        },
+        {
+          "count": "43",
+          "amount": "54425.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "81",
+          "amount": "49257.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "47",
+          "amount": "48200.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "37",
+          "amount": "45400.00",
+          "id": "165d820dd48441e1befdc47f3fa3d236",
+          "name": "Food & Beverage"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "68"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "76"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "house": [
+    {
+      "entity_id": "2d48b2c73ef54ea18cdb6b6ab6004be9",
+      "chamber": "house",
+      "state": "GA",
+      "state_name": "Georgia",
+      "district": "14",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Tom_Graves_%28politician%29",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000560.jpg",
+      "bioguide_id": "G000560",
+      "fec_summary": {
+        "contributions_pac": "394526.00",
+        "office": "H",
+        "total_receipts_rank": 245,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "13281.92",
+        "cash_on_hand_rank": 372,
+        "total_raised": "912646.90",
+        "disbursements": "667400.58",
+        "total_disbursements_rank": 188,
+        "date": "2012-07-11",
+        "contributions_indiv": "513042.36",
+        "contributions_party": "700.00",
+        "cash_on_hand": "261110.84"
+      },
+      "industries": [
+        {
+          "count": "219",
+          "amount": "168125.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "67",
+          "amount": "133672.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "139",
+          "amount": "111350.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "86",
+          "amount": "96234.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "161",
+          "amount": "93455.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "54",
+          "amount": "63973.00",
+          "id": "19d2d493e60c44eda7d0d1a7c1950a95",
+          "name": "Textiles"
+        },
+        {
+          "count": "44",
+          "amount": "44400.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "29",
+          "amount": "43150.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "35",
+          "amount": "43064.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "40",
+          "amount": "42783.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "91"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

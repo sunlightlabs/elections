@@ -1,0 +1,124 @@
+{
+  "house": [
+    {
+      "entity_id": "e4e6b38b7b904f8da84d1ec09c51181f",
+      "chamber": "house",
+      "state": "AL",
+      "state_name": "Alabama",
+      "district": "01",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Jo_Bonner",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001244.jpg",
+      "bioguide_id": "B001244",
+      "fec_summary": {
+        "contributions_pac": "436534.40",
+        "office": "H",
+        "total_receipts_rank": 236,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 421,
+        "total_raised": "950569.98",
+        "disbursements": "1045016.17",
+        "total_disbursements_rank": 76,
+        "date": "2012-06-30",
+        "contributions_indiv": "503838.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "185364.68"
+      },
+      "industries": [
+        {
+          "count": "474",
+          "amount": "375773.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "419",
+          "amount": "358250.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "555",
+          "amount": "314350.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "483",
+          "amount": "313400.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "386",
+          "amount": "203711.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "190",
+          "amount": "172700.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "185",
+          "amount": "166900.00",
+          "id": "6570ffe2392e4811805136efe7aa3b2a",
+          "name": "Forestry & Forest Products"
+        },
+        {
+          "count": "118",
+          "amount": "161962.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "160",
+          "amount": "144300.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "151",
+          "amount": "139775.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "67"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "72"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

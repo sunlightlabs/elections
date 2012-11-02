@@ -1,0 +1,129 @@
+{
+  "house": [
+    {
+      "entity_id": "f2530a1171d54d6d9b8fb24991493f60",
+      "chamber": "house",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": "03",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Dan_Lipinski",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000563.jpg",
+      "bioguide_id": "L000563",
+      "fec_summary": {
+        "contributions_pac": "411203.84",
+        "office": "H",
+        "total_receipts_rank": 375,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 149,
+        "total_raised": "640418.61",
+        "disbursements": "373719.59",
+        "total_disbursements_rank": 385,
+        "date": "2012-06-30",
+        "contributions_indiv": "223220.20",
+        "contributions_party": "0.00",
+        "cash_on_hand": "826489.64"
+      },
+      "industries": [
+        {
+          "count": "114",
+          "amount": "201700.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "179",
+          "amount": "181250.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        },
+        {
+          "count": "239",
+          "amount": "165331.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "55",
+          "amount": "161000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "126",
+          "amount": "155641.00",
+          "id": "2ff4b793768543e1af2686cb5014408a",
+          "name": "Railroads"
+        },
+        {
+          "count": "111",
+          "amount": "133748.00",
+          "id": "f1c062575ca949fa92ab7066a6648bf3",
+          "name": "Air Transport"
+        },
+        {
+          "count": "46",
+          "amount": "107500.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "66",
+          "amount": "78500.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "58",
+          "amount": "75950.00",
+          "id": "ec9907560c0042e4b831ebd7734d7352",
+          "name": "Building Materials & Equipment"
+        },
+        {
+          "count": "134",
+          "amount": "71393.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "50"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "10"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "19"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "20"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

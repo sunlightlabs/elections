@@ -1,0 +1,62 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "GA",
+      "state_name": "Georgia",
+      "district": "09",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": "H",
+        "total_receipts_rank": 663,
+        "max_rank": 695,
+        "contributions_candidate": "5220.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 611,
+        "total_raised": "12602.67",
+        "disbursements": "6889.05",
+        "total_disbursements_rank": 674,
+        "date": "2012-07-11",
+        "contributions_indiv": "7282.67",
+        "contributions_party": "100.00",
+        "cash_on_hand": "5713.62"
+      },
+      "industries": [
+        {
+          "count": "3",
+          "amount": "4218.00",
+          "id": "7a214b1dc0054b768d4c4eb6f8f625c8",
+          "name": "Accountants"
+        },
+        {
+          "count": "5",
+          "amount": "3100.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "4",
+          "amount": "2000.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "house": [
+    {
+      "entity_id": "d3255cc3aabc4b68ab2c798d9e27d95f",
+      "chamber": "house",
+      "state": "AK",
+      "state_name": "Alaska",
+      "district": "01",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Don_Young",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/Y000033.jpg",
+      "bioguide_id": "Y000033",
+      "fec_summary": {
+        "contributions_pac": "262180.21",
+        "office": "H",
+        "total_receipts_rank": 313,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 215,
+        "total_raised": "778472.92",
+        "disbursements": "368763.69",
+        "total_disbursements_rank": 388,
+        "date": "2012-08-08",
+        "contributions_indiv": "515405.86",
+        "contributions_party": "0.00",
+        "cash_on_hand": "584801.45"
+      },
+      "industries": [
+        {
+          "count": "1326",
+          "amount": "969258.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "1229",
+          "amount": "758851.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "882",
+          "amount": "744851.00",
+          "id": "1657f29fbf9944f5af4a0d5c4d2eafad",
+          "name": "Sea Transport"
+        },
+        {
+          "count": "545",
+          "amount": "722214.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "875",
+          "amount": "718185.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "1117",
+          "amount": "649815.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "598",
+          "amount": "591809.00",
+          "id": "f1c062575ca949fa92ab7066a6648bf3",
+          "name": "Air Transport"
+        },
+        {
+          "count": "516",
+          "amount": "475998.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        },
+        {
+          "count": "517",
+          "amount": "382791.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "224",
+          "amount": "358100.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "C"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "64"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "63.64"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

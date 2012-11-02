@@ -1,0 +1,472 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "NE",
+      "state_name": "Nebraska",
+      "district": "03",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": "H",
+        "total_receipts_rank": 678,
+        "max_rank": 695,
+        "contributions_candidate": "2936.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 641,
+        "total_raised": "9367.00",
+        "disbursements": "6886.00",
+        "total_disbursements_rank": 675,
+        "date": "2012-06-30",
+        "contributions_indiv": "6431.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "2480.00"
+      },
+      "industries": [
+        {
+          "count": "2",
+          "amount": "500.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "5012485cc80447978c31ec52d65597d2",
+      "chamber": "house",
+      "state": "NE",
+      "state_name": "Nebraska",
+      "district": "03",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Adrian_M._Smith",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001172.jpg",
+      "bioguide_id": "S001172",
+      "fec_summary": {
+        "contributions_pac": "560394.82",
+        "office": "H",
+        "total_receipts_rank": 261,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 194,
+        "total_raised": "898505.06",
+        "disbursements": "436520.67",
+        "total_disbursements_rank": 328,
+        "date": "2012-06-30",
+        "contributions_indiv": "334418.43",
+        "contributions_party": "1500.00",
+        "cash_on_hand": "632136.78"
+      },
+      "industries": [
+        {
+          "count": "486",
+          "amount": "272805.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "202",
+          "amount": "200996.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "183",
+          "amount": "180100.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "208",
+          "amount": "172277.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "68",
+          "amount": "157765.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "132",
+          "amount": "150150.00",
+          "id": "c3081aa14b0141df8d47684635bc0b26",
+          "name": "Agricultural Services/Products"
+        },
+        {
+          "count": "143",
+          "amount": "143503.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "116",
+          "amount": "106098.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "136",
+          "amount": "85530.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "66",
+          "amount": "83990.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "75"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "88"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "f1e3264dc9d548219ba5290661c56c3a",
+      "chamber": "senate",
+      "state": "NE",
+      "state_name": "Nebraska",
+      "district": null,
+      "party": "D",
+      "incumbent": false,
+      "bio_url": "http://en.wikipedia.org/wiki/Bob_Kerrey",
+      "photo_url": "http://upload.wikimedia.org/wikipedia/commons/5/5a/Senator_Bob_Kerrey.jpg",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "446561.00",
+        "office": "S",
+        "total_receipts_rank": 43,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "115280.00",
+        "cash_on_hand_rank": 43,
+        "total_raised": "2846179.00",
+        "disbursements": "1598739.00",
+        "total_disbursements_rank": 41,
+        "date": "2012-06-30",
+        "contributions_indiv": "2237261.00",
+        "contributions_party": "46991.00",
+        "cash_on_hand": "1280836.00"
+      },
+      "industries": [
+        {
+          "count": "2661",
+          "amount": "1468989.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1287",
+          "amount": "965362.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "657",
+          "amount": "464323.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "644",
+          "amount": "432245.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "618",
+          "amount": "368474.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "427",
+          "amount": "323881.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "524",
+          "amount": "297722.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "373",
+          "amount": "267828.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "71",
+          "amount": "217000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "258",
+          "amount": "215100.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "entity_id": null,
+      "chamber": "senate",
+      "state": "NE",
+      "state_name": "Nebraska",
+      "district": null,
+      "party": "R",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "427100.00",
+        "office": "S",
+        "total_receipts_rank": 49,
+        "max_rank": 62,
+        "contributions_candidate": "35000.00",
+        "transfers_in": "94237.00",
+        "cash_on_hand_rank": 44,
+        "total_raised": "1685931.00",
+        "disbursements": "580259.00",
+        "total_disbursements_rank": 51,
+        "date": "2012-06-30",
+        "contributions_indiv": "1087094.00",
+        "contributions_party": "43100.00",
+        "cash_on_hand": "1106322.00"
+      },
+      "industries": [
+        {
+          "count": "37",
+          "amount": "165500.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "140",
+          "amount": "124546.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "41",
+          "amount": "54990.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "34",
+          "amount": "54416.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "37",
+          "amount": "54300.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "58",
+          "amount": "53650.00",
+          "id": "d007d0ca512d457990cbb67a7ae136a2",
+          "name": "Livestock"
+        },
+        {
+          "count": "83",
+          "amount": "50402.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "26",
+          "amount": "38000.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "19",
+          "amount": "36000.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "32",
+          "amount": "31850.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A"
+        }
+      ]
+    },
+    {
+      "entity_id": "96a8615e99f3470cae19d800df08d3d3",
+      "chamber": "senate",
+      "state": "NE",
+      "state_name": "Nebraska",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=N000180",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/N000180.jpg",
+      "bioguide_id": "N000180",
+      "fec_summary": {
+        "contributions_pac": "1245929.00",
+        "office": "S",
+        "total_receipts_rank": 55,
+        "max_rank": 231,
+        "contributions_candidate": "0.00",
+        "transfers_in": "18250.00",
+        "cash_on_hand_rank": 62,
+        "total_raised": "1656485.00",
+        "disbursements": "3548364.00",
+        "total_disbursements_rank": 29,
+        "date": "2012-06-30",
+        "contributions_indiv": "901216.00",
+        "contributions_party": "43100.00",
+        "cash_on_hand": "555448.00"
+      },
+      "industries": [
+        {
+          "count": "1411",
+          "amount": "1612148.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "1388",
+          "amount": "1090261.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "530",
+          "amount": "617913.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "964",
+          "amount": "614689.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "482",
+          "amount": "539505.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "464",
+          "amount": "486061.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "167",
+          "amount": "468500.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "346",
+          "amount": "446182.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "395",
+          "amount": "403170.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "267",
+          "amount": "388136.00",
+          "id": "c3081aa14b0141df8d47684635bc0b26",
+          "name": "Agricultural Services/Products"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "70"
+        }
+      ]
+    }
+  ]
+}

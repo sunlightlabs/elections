@@ -1,0 +1,139 @@
+{
+  "house": [
+    {
+      "entity_id": "a4c1a99aa50747fda4278b172cdc89a1",
+      "chamber": "house",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": "07",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Mike_McIntyre",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000485.jpg",
+      "bioguide_id": "M000485",
+      "fec_summary": {
+        "contributions_pac": "792609.81",
+        "office": "H",
+        "total_receipts_rank": 118,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 91,
+        "total_raised": "1429931.66",
+        "disbursements": "388735.79",
+        "total_disbursements_rank": 370,
+        "date": "2012-06-30",
+        "contributions_indiv": "616213.46",
+        "contributions_party": "5141.74",
+        "cash_on_hand": "1076351.01"
+      },
+      "industries": [
+        {
+          "count": "649",
+          "amount": "509665.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "936",
+          "amount": "449206.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "550",
+          "amount": "397506.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "554",
+          "amount": "396113.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "501",
+          "amount": "362766.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "243",
+          "amount": "223800.00",
+          "id": "c3081aa14b0141df8d47684635bc0b26",
+          "name": "Agricultural Services/Products"
+        },
+        {
+          "count": "193",
+          "amount": "212850.00",
+          "id": "d7f2ea758c734016bf689e2d06322df2",
+          "name": "Tobacco"
+        },
+        {
+          "count": "123",
+          "amount": "177038.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "212",
+          "amount": "152471.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "200",
+          "amount": "152143.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "35"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "80"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "B"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "10"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "43"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "40"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

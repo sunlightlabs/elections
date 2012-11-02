@@ -1,0 +1,357 @@
+{
+  "house": [
+    {
+      "entity_id": "64dfd7a675804e64ad1b3c12eba6c7fa",
+      "chamber": "house",
+      "state": "NM",
+      "state_name": "New Mexico",
+      "district": "03",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Ben_Luj%C3%A1n",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000570.jpg",
+      "bioguide_id": "L000570",
+      "fec_summary": {
+        "contributions_pac": "405700.00",
+        "office": "H",
+        "total_receipts_rank": 286,
+        "max_rank": 695,
+        "contributions_candidate": "-103876.53",
+        "transfers_in": "384.80",
+        "cash_on_hand_rank": 286,
+        "total_raised": "741550.36",
+        "disbursements": "486606.44",
+        "total_disbursements_rank": 308,
+        "date": "2012-06-30",
+        "contributions_indiv": "439828.69",
+        "contributions_party": "13.40",
+        "cash_on_hand": "416104.63"
+      },
+      "industries": [
+        {
+          "count": "320",
+          "amount": "255991.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "121",
+          "amount": "213900.00",
+          "id": "13718be68388456d9b6e8db753f06e72",
+          "name": "Casinos/Gambling"
+        },
+        {
+          "count": "225",
+          "amount": "170331.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "102",
+          "amount": "129700.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "38",
+          "amount": "121500.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "55",
+          "amount": "113000.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "89",
+          "amount": "99300.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "38",
+          "amount": "98500.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "135",
+          "amount": "80400.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "28",
+          "amount": "70800.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "30"
+        }
+      ]
+    },
+    {
+      "entity_id": "bad4ae898f574de6b590a62423d02f03",
+      "chamber": "house",
+      "state": "NM",
+      "state_name": "New Mexico",
+      "district": "03",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Tom_Udall",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/U000039.jpg",
+      "bioguide_id": "U000039",
+      "fec_summary": {
+        "contributions_pac": "117250.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "2780.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "618879.00",
+        "disbursements": "405680.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "494138.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "302216.00"
+      },
+      "industries": [
+        {
+          "count": "1537",
+          "amount": "1151473.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1407",
+          "amount": "869235.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "634",
+          "amount": "588920.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "393",
+          "amount": "367342.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "140",
+          "amount": "352838.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "251",
+          "amount": "319089.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "358",
+          "amount": "297220.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "99",
+          "amount": "289700.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "152",
+          "amount": "288750.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "288",
+          "amount": "274232.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "30"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "95"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "9"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "5"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "5541555224d24bf7b48657589d6c7ad9",
+      "chamber": "senate",
+      "state": "NM",
+      "state_name": "New Mexico",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=B000468",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000468.jpg",
+      "bioguide_id": "B000468",
+      "fec_summary": {
+        "contributions_pac": "5000.00",
+        "office": "S",
+        "total_receipts_rank": 207,
+        "max_rank": 231,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 87,
+        "total_raised": "-188144.00",
+        "disbursements": "435249.00",
+        "total_disbursements_rank": 96,
+        "date": "2012-06-30",
+        "contributions_indiv": "-178901.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "85901.00"
+      },
+      "industries": [
+        {
+          "count": "2209",
+          "amount": "1262384.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "711",
+          "amount": "570083.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "450",
+          "amount": "510809.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "989",
+          "amount": "441001.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "524",
+          "amount": "436329.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "468",
+          "amount": "281629.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "264",
+          "amount": "252809.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "111",
+          "amount": "227499.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "356",
+          "amount": "211024.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "129",
+          "amount": "196750.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "40"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "12"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "5"
+        }
+      ]
+    }
+  ]
+}

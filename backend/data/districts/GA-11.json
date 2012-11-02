@@ -1,0 +1,124 @@
+{
+  "house": [
+    {
+      "entity_id": "96a92ecaf7d04eacb4cca1d56c8674c0",
+      "chamber": "house",
+      "state": "GA",
+      "state_name": "Georgia",
+      "district": "11",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Phil_Gingrey",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000550.jpg",
+      "bioguide_id": "G000550",
+      "fec_summary": {
+        "contributions_pac": "633850.00",
+        "office": "H",
+        "total_receipts_rank": 145,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "2184.00",
+        "cash_on_hand_rank": 31,
+        "total_raised": "1302660.96",
+        "disbursements": "864512.46",
+        "total_disbursements_rank": 109,
+        "date": "2012-07-11",
+        "contributions_indiv": "652742.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1741777.24"
+      },
+      "industries": [
+        {
+          "count": "2343",
+          "amount": "2074060.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "562",
+          "amount": "411327.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "383",
+          "amount": "379265.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "220",
+          "amount": "279999.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "345",
+          "amount": "273215.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "234",
+          "amount": "257870.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "118",
+          "amount": "237808.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "165",
+          "amount": "174230.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "146",
+          "amount": "161050.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "129",
+          "amount": "147850.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "81"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "100"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}
