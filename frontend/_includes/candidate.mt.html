@@ -12,7 +12,7 @@
     <ul>
         <% _.each(endorsements, function(endorsement) { %>
         <li>
-            <span class="rating <%=colorOf(endorsement)%>"><%=endorsement.value%></span>
+            <span class="rating <%=colorOf(endorsement)%>"><strong><%=endorsement.value%></strong></span>
             <span class="organization"><%=endorsement.name%></span>
             <div class="clear"></div>
         </li>
@@ -21,16 +21,17 @@
 </div>
 <div class="campaign-finance">
     <h5>Campaign Contributions</h5>
-    <strong>Total Raised:</strong> $<%=formatDollars(fec_summary.total_raised)%>
-    
+    <strong >Total Raised:</strong> $<%=formatDollars(fec_summary.total_raised)%><br><br>
+
     <% if (industries.length) { %>
     <div class="industries">
-        <strong>Top Insdustry Contributors:</strong>
+        <strong>Top Industry Contributors:</strong>
         <ul>
             <% _.each(industries.slice(0,5), function(industry) { %>
             <li><%=industry.name%>: $<%=formatDollars(industry.amount)%></li>
             <% }); %>
         </ul>
+        
     </div>
     <% } %>
 </div>
