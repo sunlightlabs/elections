@@ -32,7 +32,7 @@ def main
   ]
 
   i = 0
-  CSV.foreach("data/endorsements_temp.csv", "r") do |row|
+  CSV.foreach("data/endorsements.csv", "r") do |row|
     i += 1
     next if i == 1
 
@@ -41,8 +41,9 @@ def main
     
     candidate = candidate_for entity_id, options
     
-    name = row[2]
+    candidate_name = row[1]
 
+    name = row[2]
     endorsement = row[8]
     rating = row[9]
     grade = row[10]
@@ -68,12 +69,14 @@ def main
       full_district = [candidate[:state], candidate[:district]].join "-"
       houses[full_district] ||= {}
       houses[full_district][candidate[:entity_id]] ||= candidate
+      houses[full_district][candidate[:entity_id]][:name] = candidate_name # overwrite each time
       houses[full_district][candidate[:entity_id]][:endorsements] ||= []
       houses[full_district][candidate[:entity_id]][:endorsements] << endorsement
     elsif candidate[:chamber] == "senate"
       if senate_races.include?(candidate[:state])
         senates[candidate[:state]] ||= {}
         senates[candidate[:state]][candidate[:entity_id]] ||= candidate
+        senates[candidate[:state]][candidate[:entity_id]][:name] = candidate_name # overwrite each time
         senates[candidate[:state]][candidate[:entity_id]][:endorsements] ||= []
         senates[candidate[:state]][candidate[:entity_id]][:endorsements] << endorsement
       end
