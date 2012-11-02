@@ -122,6 +122,52 @@ textarea {
 	padding-right:20px;
 }
 
+.candidate img {
+    width: 100px;
+    height: 125px;
+    float: left;
+}
+.candidate .bio {
+    float: left;
+    margin-left: 10px;
+}
+.candidate-upper {
+    margin-bottom: 10px;
+}
+.race {
+    margin-bottom: 50px;
+}
+.endorsements ul, .endorsements ul li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+.endorsements ul li {
+    margin-bottom: 5px;
+}
+.endorsements .rating {
+    display: block;
+    float: left;
+    font-size: 70%;
+    color: #eeeeee;
+    background: #444444;
+    padding: 4px;
+    width: 18px;
+    text-align: center;
+    margin-right: 8px;
+    margin-top: -3px;
+    border-radius: 3px;
+}
+.endorsements .green {
+    background: #008000;
+}
+.endorsements .yellow {
+    background: #808000;
+}
+.endorsements .red {
+    background: #800000;
+}
+
 .form-search {
     float: right;
     margin-top: 25px;
