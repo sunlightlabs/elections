@@ -1,0 +1,24 @@
+<div class="candidate-upper">
+    <img src="<%=photo_url%>" />
+    <div class="bio">
+        <h4>NAME</h4>
+        <div class="party"><%=({'D':'Democrat','R':'Republican','I':'Independent'}[party])%></div>
+        <div class="status"><%=(incumbent ? "Incumbent" : "Challenger")%></div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="endorsements">
+    <h5>Ratings and Endorsements</h5>
+    <ul>
+        <% _.each(endorsements, function(endorsement) { %>
+        <li>
+            <span class="rating <%=colorOf(endorsement)%>"><%=endorsement.value%></span>
+            <span class="organization"><%=endorsement.name%></span>
+            <div class="clear"></div>
+        </li>
+        <% }) %>
+    </ul>
+</div>
+<div class="campaign-finance">
+    <h5>Campaign Finance</h5>
+</div>

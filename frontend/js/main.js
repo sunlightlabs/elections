@@ -1,8 +1,35 @@
 (function($) {
 
 // Models
-var District = Backbone.Model.extend({ url: function() { return "/json/districts/" + this.id; } });
+var District = Backbone.Model.extend({ url: function() { return "/json/" + this.id + ".json"; } });
 
+// Template Helpers
+var helpers = {
+    colorOf: function(endorsement) {
+        console.log(endorsement.type);
+        if (endorsement.type === "grade") {
+            var letter = endorsement.value.charAt(0);
+            if (letter <= "B") {
+                return "green";
+            } else if (letter <= "C") {
+                return "yellow";
+            } else {
+                return "red";
+            }
+        } else if (endorsement.type == "endorsement") {
+            return endorsement.value == "Y" ? "green" : "red";
+        } else if (endorsement.type == "rating") {
+            var rating = parseInt(endorsement.value);
+            if (rating >= 75) {
+                return "green";
+            } else if (rating >= 50) {
+                return "yellow";
+            } else {
+                return "red";
+            }
+        }
+    }
+}
 // Views
 var HomeView = Backbone.View.extend({
     tagName: 'div',
@@ -14,7 +41,27 @@ var HomeView = Backbone.View.extend({
         return this;
     }
 });
-var DistrictView;
+
+var DistrictView = Backbone.View.extend({
+    tagName: 'div',
+    id: 'district-view',
+
+    template: _.template($('#district-tpl').html()),
+    candidateTemplate: _.template($('#candidate-tpl').html()),
+    render: function() {
+        this.model.fetch({
+            'success': $.proxy(function() {
+                var view = this;
+                var context = this.model.toJSON();
+                this.$el.html(this.template(_.extend(context, helpers, {'candidateTemplate': function(ctx) { return view.candidateTemplate(_.extend({}, helpers, ctx)); } })));
+            }, this),
+            'error': function() {
+                console.log('failed');
+            }
+        })
+        return this;
+    }
+});
 
 // Router
 var AppRouter = Backbone.Router.extend({
