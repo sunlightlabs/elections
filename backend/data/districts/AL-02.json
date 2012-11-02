@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Martha_Roby",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000591.jpg",
+      "seat_status": "I",
       "bioguide_id": "R000591",
       "fec_summary": {
         "contributions_pac": "413282.68",
@@ -89,6 +90,7 @@
           "name": "Securities & Investment"
         }
       ],
+      "senate_class": "",
       "name": "Martha Roby",
       "endorsements": [
         {

@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jo_Bonner",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001244.jpg",
+      "seat_status": "I",
       "bioguide_id": "B001244",
       "fec_summary": {
         "contributions_pac": "436534.40",
@@ -89,6 +90,7 @@
           "name": "Insurance"
         }
       ],
+      "senate_class": "",
       "name": "Jo Bonner",
       "endorsements": [
         {

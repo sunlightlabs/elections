@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jesse_Jackson%2C_Jr.",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/J000283.jpg",
+      "seat_status": "I",
       "bioguide_id": "J000283",
       "fec_summary": {
         "contributions_pac": "336200.00",
@@ -89,6 +90,7 @@
           "name": "Business Services"
         }
       ],
+      "senate_class": "",
       "name": "Jesse Jackson Jr",
       "endorsements": [
         {

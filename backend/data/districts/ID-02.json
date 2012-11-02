@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mike_Simpson",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001148.jpg",
+      "seat_status": "I",
       "bioguide_id": "S001148",
       "fec_summary": {
         "contributions_pac": "593352.42",
@@ -89,6 +90,7 @@
           "name": "Retired"
         }
       ],
+      "senate_class": "",
       "name": "Mike Simpson",
       "endorsements": [
         {

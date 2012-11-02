@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "125.00",
@@ -113,6 +114,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Virginia_Foxx",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000450.jpg",
+      "seat_status": "I",
       "bioguide_id": "F000450",
       "fec_summary": {
         "contributions_pac": "222529.10",
@@ -192,6 +194,7 @@
           "name": "Education"
         }
       ],
+      "senate_class": "",
       "name": "Virginia Foxx",
       "endorsements": [
         {

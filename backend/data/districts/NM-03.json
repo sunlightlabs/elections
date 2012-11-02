@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Ben_Luj%C3%A1n",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000570.jpg",
+      "seat_status": "I",
       "bioguide_id": "L000570",
       "fec_summary": {
         "contributions_pac": "405700.00",
@@ -89,6 +90,7 @@
           "name": "Leadership Pacs"
         }
       ],
+      "senate_class": "",
       "name": "Ben R Lujan",
       "endorsements": [
         {
@@ -107,129 +109,6 @@
           "value": "30"
         }
       ]
-    },
-    {
-      "entity_id": "bad4ae898f574de6b590a62423d02f03",
-      "chamber": "house",
-      "state": "NM",
-      "state_name": "New Mexico",
-      "district": "03",
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Tom_Udall",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/U000039.jpg",
-      "bioguide_id": "U000039",
-      "fec_summary": {
-        "contributions_pac": "117250.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "2780.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "618879.00",
-        "disbursements": "405680.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "494138.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "302216.00"
-      },
-      "industries": [
-        {
-          "count": "1537",
-          "amount": "1151473.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "1407",
-          "amount": "869235.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "634",
-          "amount": "588920.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "393",
-          "amount": "367342.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "140",
-          "amount": "352838.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "251",
-          "amount": "319089.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "358",
-          "amount": "297220.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "99",
-          "amount": "289700.00",
-          "id": "d22cf14b1cd349b79f2b656b450b3b88",
-          "name": "Industrial Unions"
-        },
-        {
-          "count": "152",
-          "amount": "288750.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "288",
-          "amount": "274232.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        }
-      ],
-      "name": "Tom Udall",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "30"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "95"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "9"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "5"
-        }
-      ]
     }
   ],
   "senate": [
@@ -243,6 +122,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=B000468",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000468.jpg",
+      "seat_status": "I",
       "bioguide_id": "B000468",
       "fec_summary": {
         "contributions_pac": "5000.00",
@@ -322,6 +202,7 @@
           "name": "Transportation Unions"
         }
       ],
+      "senate_class": "I",
       "name": "Jeff Bingaman",
       "endorsements": [
         {

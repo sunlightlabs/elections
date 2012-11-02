@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_Aderholt",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000055.jpg",
+      "seat_status": "I",
       "bioguide_id": "A000055",
       "fec_summary": {
         "contributions_pac": "426250.00",
@@ -89,6 +90,7 @@
           "name": "Oil & Gas"
         }
       ],
+      "senate_class": "",
       "name": "Robert B Aderholt",
       "endorsements": [
         {

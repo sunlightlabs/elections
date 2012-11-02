@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_Fleming_%28U.S._politician%29",
       "photo_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/John_Fleming.jpg/225px-John_Fleming.jpg",
+      "seat_status": "I",
       "bioguide_id": "F000456",
       "fec_summary": {
         "contributions_pac": "259253.10",
@@ -89,6 +90,7 @@
           "name": "Lawyers/Law Firms"
         }
       ],
+      "senate_class": "",
       "name": "John Calvin Fleming Jr",
       "endorsements": [
         {

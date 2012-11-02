@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Steve_Stivers",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001187.jpg",
+      "seat_status": "I",
       "bioguide_id": "S001187",
       "fec_summary": {
         "contributions_pac": "1096858.30",
@@ -89,6 +90,7 @@
           "name": "Pharmaceuticals/Health Products"
         }
       ],
+      "senate_class": "",
       "name": "Steve Stivers",
       "endorsements": [
         {
@@ -130,6 +132,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "749201.00",
@@ -220,119 +223,6 @@
           "name": "Family Research Council",
           "type": "endorsement",
           "value": null
-        }
-      ]
-    },
-    {
-      "entity_id": "f062e216cb9f4a29a8ac0e7353d1d01e",
-      "chamber": "senate",
-      "state": "OH",
-      "state_name": "Ohio",
-      "district": null,
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Rob_Portman",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000449.jpg",
-      "bioguide_id": "P000449",
-      "fec_summary": {
-        "contributions_pac": "264801.00",
-        "office": "S",
-        "total_receipts_rank": 2,
-        "max_rank": 5,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 1,
-        "total_raised": "748188.00",
-        "disbursements": "330293.00",
-        "total_disbursements_rank": 5,
-        "date": "2012-06-30",
-        "contributions_indiv": "389396.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "1905449.00"
-      },
-      "industries": [
-        {
-          "count": "1739",
-          "amount": "1467040.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "947",
-          "amount": "1181667.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "1437",
-          "amount": "1169485.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "876",
-          "amount": "984727.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "700",
-          "amount": "836916.00",
-          "id": "13ca840788944cc79b362d068985fc73",
-          "name": "Misc Manufacturing & Distributing"
-        },
-        {
-          "count": "566",
-          "amount": "645576.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "750",
-          "amount": "627173.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "369",
-          "amount": "463207.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        },
-        {
-          "count": "559",
-          "amount": "462510.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "346",
-          "amount": "402374.00",
-          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
-          "name": "Commercial Banks"
-        }
-      ],
-      "name": "Rob Portman",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "75"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "83"
         }
       ]
     }

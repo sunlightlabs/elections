@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "5000.00",
@@ -95,6 +96,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mo_Brooks",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001274.jpg",
+      "seat_status": "I",
       "bioguide_id": "B001274",
       "fec_summary": {
         "contributions_pac": "355848.35",
@@ -174,6 +176,7 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
       "name": "Mo Brooks",
       "endorsements": [
         {

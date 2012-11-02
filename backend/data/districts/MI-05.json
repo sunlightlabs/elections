@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "179100.00",
@@ -108,6 +109,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dale_E._Kildee",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000172.jpg",
+      "seat_status": "I",
       "bioguide_id": "K000172",
       "fec_summary": {
         "contributions_pac": "66500.00",
@@ -187,6 +189,7 @@
           "name": "Misc Unions"
         }
       ],
+      "senate_class": "",
       "name": "Dale E Kildee",
       "endorsements": [
         {
@@ -233,128 +236,6 @@
     }
   ],
   "senate": [
-    {
-      "entity_id": "ac1460cace1540fd97c17dab928c29f2",
-      "chamber": "senate",
-      "state": "MI",
-      "state_name": "Michigan",
-      "district": null,
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Carl_Levin",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000261.jpg",
-      "bioguide_id": "L000261",
-      "fec_summary": {
-        "contributions_pac": "11000.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "15477.00",
-        "disbursements": "629535.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "-11008.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "306773.00"
-      },
-      "industries": [
-        {
-          "count": "3398",
-          "amount": "2060985.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "1800",
-          "amount": "1651162.00",
-          "id": "bf2cfae020b84fae915ee48e8e15ea87",
-          "name": "Pro-Israel"
-        },
-        {
-          "count": "1206",
-          "amount": "953809.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "1618",
-          "amount": "848777.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "640",
-          "amount": "463264.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "517",
-          "amount": "459234.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "579",
-          "amount": "438304.00",
-          "id": "83bece3db3b54ca58b38d3bad679697f",
-          "name": "Automotive"
-        },
-        {
-          "count": "564",
-          "amount": "422095.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        },
-        {
-          "count": "711",
-          "amount": "416460.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "679",
-          "amount": "387530.00",
-          "id": "d9c4a26cd671436eac3c501184364fc4",
-          "name": "Misc Business"
-        }
-      ],
-      "name": "Carl Levin",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "70"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "95"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "7"
-        }
-      ]
-    }
+
   ]
 }

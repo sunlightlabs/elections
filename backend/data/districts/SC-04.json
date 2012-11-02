@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Trey_Gowdy",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000566.jpg",
+      "seat_status": "I",
       "bioguide_id": "G000566",
       "fec_summary": {
         "contributions_pac": "335244.12",
@@ -89,6 +90,7 @@
           "name": "Food & Beverage"
         }
       ],
+      "senate_class": "",
       "name": "Trey Gowdy",
       "endorsements": [
         {

@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "77566.41",
@@ -110,6 +111,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "363587.00",
@@ -213,6 +215,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jon_Kyl",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000352.jpg",
+      "seat_status": "I",
       "bioguide_id": "K000352",
       "fec_summary": {
         "contributions_pac": "6000.00",
@@ -292,6 +295,7 @@
           "name": "Leadership Pacs"
         }
       ],
+      "senate_class": "I",
       "name": "Jon L Kyl",
       "endorsements": [
         {
@@ -323,129 +327,6 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "90"
-        }
-      ]
-    },
-    {
-      "entity_id": "47d65b2f02ca4f55b93b53d05521feb4",
-      "chamber": "senate",
-      "state": "AZ",
-      "state_name": "Arizona",
-      "district": null,
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/John_McCain",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000303.jpg",
-      "bioguide_id": "M000303",
-      "fec_summary": {
-        "contributions_pac": "0.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "165102.26",
-        "cash_on_hand_rank": null,
-        "total_raised": "841805.84",
-        "disbursements": "10947431.09",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "-60217.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "1657381.67"
-      },
-      "industries": [
-        {
-          "count": "70221",
-          "amount": "36987698.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "15595",
-          "amount": "11746460.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "10085",
-          "amount": "10514171.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "11232",
-          "amount": "10000908.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "10587",
-          "amount": "7337613.00",
-          "id": "767c434bfd1348638bab7f8c12b9282f",
-          "name": "Republican/Conservative"
-        },
-        {
-          "count": "8175",
-          "amount": "6294606.00",
-          "id": "d9c4a26cd671436eac3c501184364fc4",
-          "name": "Misc Business"
-        },
-        {
-          "count": "10213",
-          "amount": "6252900.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "6597",
-          "amount": "6027115.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        },
-        {
-          "count": "5156",
-          "amount": "4085229.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        },
-        {
-          "count": "3553",
-          "amount": "2968678.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        }
-      ],
-      "name": "John McCain",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "89"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "F"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "90"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "80"
         }
       ]
     }

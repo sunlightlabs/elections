@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bruce_Braley",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001259.jpg",
+      "seat_status": "I",
       "bioguide_id": "B001259",
       "fec_summary": {
         "contributions_pac": "632219.95",
@@ -89,6 +90,7 @@
           "name": "Pharmaceuticals/Health Products"
         }
       ],
+      "senate_class": "",
       "name": "Bruce Braley",
       "endorsements": [
         {

@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jim_McDermott",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000404.jpg",
+      "seat_status": "I",
       "bioguide_id": "M000404",
       "fec_summary": {
         "contributions_pac": "179335.00",
@@ -89,6 +90,7 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
       "name": "Jim McDermott",
       "endorsements": [
         {
@@ -130,6 +132,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Maria_Cantwell",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000127.jpg",
+      "seat_status": "I",
       "bioguide_id": "C000127",
       "fec_summary": {
         "contributions_pac": "57300.00",
@@ -209,6 +212,7 @@
           "name": "Casinos/Gambling"
         }
       ],
+      "senate_class": "I",
       "name": "Maria Cantwell",
       "endorsements": [
         {
@@ -260,129 +264,6 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "10"
-        }
-      ]
-    },
-    {
-      "entity_id": "25c7a21fc53b400e8beaf99955f5bdef",
-      "chamber": "senate",
-      "state": "WA",
-      "state_name": "Washington",
-      "district": null,
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=M001111",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001111.jpg",
-      "bioguide_id": "M001111",
-      "fec_summary": {
-        "contributions_pac": "150250.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "38558.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "733901.00",
-        "disbursements": "868797.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "522334.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "280894.00"
-      },
-      "industries": [
-        {
-          "count": "2787",
-          "amount": "1903890.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "3808",
-          "amount": "1582694.00",
-          "id": "6e1074968db94bf4851c0245cd8583bf",
-          "name": "Women's Issues"
-        },
-        {
-          "count": "3506",
-          "amount": "1558455.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "1605",
-          "amount": "1041882.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "954",
-          "amount": "770186.00",
-          "id": "042288e0185a44ec82982814c69abdca",
-          "name": "Computers/Internet"
-        },
-        {
-          "count": "626",
-          "amount": "634207.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "794",
-          "amount": "603690.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "980",
-          "amount": "580776.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "167",
-          "amount": "570151.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "656",
-          "amount": "504086.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        }
-      ],
-      "name": "Patty Murray",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "40"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "5"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "95"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "12"
         }
       ]
     }

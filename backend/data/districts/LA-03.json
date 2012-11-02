@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jeff_Landry",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000574.jpg",
+      "seat_status": "I",
       "bioguide_id": "L000574",
       "fec_summary": {
         "contributions_pac": "178428.73",
@@ -89,6 +90,7 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
       "name": "Jeffrey M. Landry",
       "endorsements": [
         {
@@ -108,6 +110,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Charles_Boustany",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001255.jpg",
+      "seat_status": "I",
       "bioguide_id": "B001255",
       "fec_summary": {
         "contributions_pac": "1002365.44",
@@ -187,6 +190,7 @@
           "name": "Health Services/Hmos"
         }
       ],
+      "senate_class": "",
       "name": "Charles W Boustany Jr",
       "endorsements": [
         {

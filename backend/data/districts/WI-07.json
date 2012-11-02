@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sean_Duffy",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000614.jpg",
+      "seat_status": "I",
       "bioguide_id": "D000614",
       "fec_summary": {
         "contributions_pac": "827786.19",
@@ -89,6 +90,7 @@
           "name": "Misc Finance"
         }
       ],
+      "senate_class": "",
       "name": "Sean P. Duffy",
       "endorsements": [
         {
@@ -130,6 +132,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=K000305",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000305.jpg",
+      "seat_status": "I",
       "bioguide_id": "K000305",
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -209,6 +212,7 @@
           "name": "Retail Sales"
         }
       ],
+      "senate_class": "I",
       "name": "Herb Kohl",
       "endorsements": [
         {

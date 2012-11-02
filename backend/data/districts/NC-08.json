@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Larry_Kissell",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000369.jpg",
+      "seat_status": "I",
       "bioguide_id": "K000369",
       "fec_summary": {
         "contributions_pac": "628650.00",
@@ -89,6 +90,7 @@
           "name": "Misc Unions"
         }
       ],
+      "senate_class": "",
       "name": "Larry Kissell",
       "endorsements": [
         {
@@ -138,6 +140,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "251068.46",

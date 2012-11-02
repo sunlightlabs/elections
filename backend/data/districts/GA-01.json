@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jack_Kingston",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000220.jpg",
+      "seat_status": "I",
       "bioguide_id": "K000220",
       "fec_summary": {
         "contributions_pac": "592255.17",
@@ -89,6 +90,7 @@
           "name": "Poultry & Eggs"
         }
       ],
+      "senate_class": "",
       "name": "Jack Kingston",
       "endorsements": [
         {

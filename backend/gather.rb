@@ -40,6 +40,16 @@ def main
     next if not_candidates.include?(entity_id)
     
     candidate = candidate_for entity_id, options
+
+    if candidate[:senate_class] and (candidate[:senate_class] != "") and (candidate[:senate_class] != "I")
+      puts "[#{entity_id}] Skipping senator, not up for election"
+      next
+    end
+
+    if candidate[:seat_status] == ""
+      puts "[#{entity_id}] Skipping, not up for election"
+      next
+    end
     
     candidate_name = row[1]
 
@@ -156,6 +166,8 @@ def candidate_for(entity_id, options = {})
     bio_url: metadata['bio_url'],
     photo_url: metadata['photo_url'],
 
+    seat_status: metadata['seat_status'],
+
     # incumbents
     bioguide_id: metadata['bioguide_id']
   }
@@ -168,6 +180,14 @@ def candidate_for(entity_id, options = {})
   destination = cache_for entity_id, :industries
   industries = download url, options.merge(destination: destination)
   candidate[:industries] = process_industries industries
+
+  if candidate[:bioguide_id] and (candidate[:bioguide_id] != "")
+    url = sunlight_url_for candidate[:bioguide_id], options[:key]
+    destination = cache_for entity_id, :sunlight
+    result = download url, options.merge(destination: destination)
+    senate_class = result['response']['legislator']['senate_class']
+    candidate[:senate_class] = senate_class
+  end
 
   candidate
 end
@@ -183,6 +203,10 @@ end
 
 def industries_url_for(entity_id, api_key)
   "http://transparencydata.com/api/1.0/aggregates/pol/#{entity_id}/contributors/industries.json?apikey=#{api_key}"
+end
+
+def sunlight_url_for(bioguide_id, api_key)
+  "http://services.sunlightlabs.com/api/legislators.get.json?apikey=#{api_key}&all_legislators=1&bioguide_id=#{bioguide_id}"
 end
 
 def cache_for(entity_id, function = :details)

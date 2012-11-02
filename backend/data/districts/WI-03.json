@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Ron_Kind",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000188.jpg",
+      "seat_status": "I",
       "bioguide_id": "K000188",
       "fec_summary": {
         "contributions_pac": "924933.68",
@@ -89,6 +90,7 @@
           "name": "Retail Sales"
         }
       ],
+      "senate_class": "",
       "name": "Ron Kind",
       "endorsements": [
         {
@@ -140,6 +142,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=K000305",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000305.jpg",
+      "seat_status": "I",
       "bioguide_id": "K000305",
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -219,6 +222,7 @@
           "name": "Retail Sales"
         }
       ],
+      "senate_class": "I",
       "name": "Herb Kohl",
       "endorsements": [
         {

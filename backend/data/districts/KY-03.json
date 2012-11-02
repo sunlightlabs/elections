@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_Yarmuth",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/Y000062.jpg",
+      "seat_status": "I",
       "bioguide_id": "Y000062",
       "fec_summary": {
         "contributions_pac": "327154.62",
@@ -89,6 +90,7 @@
           "name": "Leadership Pacs"
         }
       ],
+      "senate_class": "",
       "name": "John A Yarmuth",
       "endorsements": [
         {

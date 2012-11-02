@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -60,6 +61,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Adam_Kinzinger",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000378.jpg",
+      "seat_status": "I",
       "bioguide_id": "K000378",
       "fec_summary": {
         "contributions_pac": "762207.00",
@@ -139,6 +141,7 @@
           "name": "Republican/Conservative"
         }
       ],
+      "senate_class": "",
       "name": "Adam Kinzinger",
       "endorsements": [
         {

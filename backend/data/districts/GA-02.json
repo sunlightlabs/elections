@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sanford_Bishop",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000490.jpg",
+      "seat_status": "I",
       "bioguide_id": "B000490",
       "fec_summary": {
         "contributions_pac": "532130.00",
@@ -89,6 +90,7 @@
           "name": "Commercial Banks"
         }
       ],
+      "senate_class": "",
       "name": "Sanford D Bishop Jr",
       "endorsements": [
         {

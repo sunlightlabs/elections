@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Carol_Shea-Porter",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001170.jpg",
+      "seat_status": "C",
       "bioguide_id": "S001170",
       "fec_summary": {
         "contributions_pac": "187982.64",
@@ -89,6 +90,7 @@
           "name": "Lawyers/Law Firms"
         }
       ],
+      "senate_class": "",
       "name": "Carol Shea-Porter",
       "endorsements": [
         {
@@ -113,6 +115,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Frank_Guinta",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000570.jpg",
+      "seat_status": "I",
       "bioguide_id": "G000570",
       "fec_summary": {
         "contributions_pac": "560534.43",
@@ -192,6 +195,7 @@
           "name": "General Contractors"
         }
       ],
+      "senate_class": "",
       "name": "Frank Guinta",
       "endorsements": [
         {

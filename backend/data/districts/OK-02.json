@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dan_Boren",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001254.jpg",
+      "seat_status": "I",
       "bioguide_id": "B001254",
       "fec_summary": {
         "contributions_pac": "131574.57",
@@ -89,6 +90,7 @@
           "name": "Electric Utilities"
         }
       ],
+      "senate_class": "",
       "name": "Dan Boren",
       "endorsements": [
         {
@@ -133,6 +135,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "131000.00",

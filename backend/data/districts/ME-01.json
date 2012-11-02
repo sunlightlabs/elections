@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Chellie_Pingree",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000597.jpg",
+      "seat_status": "I",
       "bioguide_id": "P000597",
       "fec_summary": {
         "contributions_pac": "85750.00",
@@ -89,6 +90,7 @@
           "name": "Printing & Publishing"
         }
       ],
+      "senate_class": "",
       "name": "Chellie Pingree",
       "endorsements": [
         {
@@ -130,6 +132,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "1500.00",
@@ -224,129 +227,6 @@
       ]
     },
     {
-      "entity_id": "e6411dc48ad84bc9af5664222ab73c1d",
-      "chamber": "senate",
-      "state": "ME",
-      "state_name": "Maine",
-      "district": null,
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Susan_Collins",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001035.jpg",
-      "bioguide_id": "C001035",
-      "fec_summary": {
-        "contributions_pac": "286937.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "435704.00",
-        "disbursements": "149579.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "148102.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "749489.00"
-      },
-      "industries": [
-        {
-          "count": "1550",
-          "amount": "881819.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "906",
-          "amount": "681043.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "579",
-          "amount": "608454.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "162",
-          "amount": "594475.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "484",
-          "amount": "576495.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "519",
-          "amount": "518493.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "689",
-          "amount": "441548.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "425",
-          "amount": "400033.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "300",
-          "amount": "307851.00",
-          "id": "13ca840788944cc79b362d068985fc73",
-          "name": "Misc Manufacturing & Distributing"
-        },
-        {
-          "count": "252",
-          "amount": "240619.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        }
-      ],
-      "name": "Susan Collins",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "80"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "45"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "D"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "40"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "55"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "55"
-        }
-      ]
-    },
-    {
       "entity_id": "9f88d333363e48f4a7ddc1f03e3b0e9d",
       "chamber": "senate",
       "state": "ME",
@@ -356,6 +236,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Olympia_Snowe",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000663.jpg",
+      "seat_status": "I",
       "bioguide_id": "S000663",
       "fec_summary": {
         "contributions_pac": "1259738.00",
@@ -435,6 +316,7 @@
           "name": "Hospitals/Nursing Homes"
         }
       ],
+      "senate_class": "I",
       "name": "Olympia J Snowe",
       "endorsements": [
         {

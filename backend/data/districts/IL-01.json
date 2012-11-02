@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bobby_Rush",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000515.jpg",
+      "seat_status": "I",
       "bioguide_id": "R000515",
       "fec_summary": {
         "contributions_pac": "304480.50",
@@ -89,6 +90,7 @@
           "name": "Misc Unions"
         }
       ],
+      "senate_class": "",
       "name": "Bobby L Rush",
       "endorsements": [
         {

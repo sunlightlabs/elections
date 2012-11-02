@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "180600.00",
@@ -113,6 +114,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Heath_Shuler",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001171.jpg",
+      "seat_status": "I",
       "bioguide_id": "S001171",
       "fec_summary": {
         "contributions_pac": "415350.00",
@@ -192,6 +194,7 @@
           "name": "Pharmaceuticals/Health Products"
         }
       ],
+      "senate_class": "",
       "name": "Heath Shuler",
       "endorsements": [
         {

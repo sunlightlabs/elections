@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "100.00",
@@ -83,6 +84,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Randy_Hultgren",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001059.jpg",
+      "seat_status": "I",
       "bioguide_id": "H001059",
       "fec_summary": {
         "contributions_pac": "451110.00",
@@ -162,6 +164,7 @@
           "name": "Misc Manufacturing & Distributing"
         }
       ],
+      "senate_class": "",
       "name": "Randy Hultgren",
       "endorsements": [
         {

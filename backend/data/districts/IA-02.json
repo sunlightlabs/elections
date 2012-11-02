@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/David_Loebsack",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000565.jpg",
+      "seat_status": "I",
       "bioguide_id": "L000565",
       "fec_summary": {
         "contributions_pac": "639762.84",
@@ -89,6 +90,7 @@
           "name": "Misc Unions"
         }
       ],
+      "senate_class": "",
       "name": "David Loebsack",
       "endorsements": [
         {
@@ -108,6 +110,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "11000.00",

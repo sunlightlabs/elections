@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Nick_Rahall",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000011.jpg",
+      "seat_status": "I",
       "bioguide_id": "R000011",
       "fec_summary": {
         "contributions_pac": "669182.00",
@@ -89,6 +90,7 @@
           "name": "Casinos/Gambling"
         }
       ],
+      "senate_class": "",
       "name": "Nick Rahall",
       "endorsements": [
         {
@@ -145,6 +147,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Joe_Manchin",
       "photo_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Joe_Manchin%2C_Official_Senate_Portrait.jpg/225px-Joe_Manchin%2C_Official_Senate_Portrait.jpg",
+      "seat_status": "I",
       "bioguide_id": "M001183",
       "fec_summary": {
         "contributions_pac": "1600068.00",
@@ -224,6 +227,7 @@
           "name": "Lobbyists"
         }
       ],
+      "senate_class": "I",
       "name": "Joe Manchin",
       "endorsements": [
         {

@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "1000.00",
@@ -113,6 +114,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Steve_Pearce",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000588.jpg",
+      "seat_status": "I",
       "bioguide_id": "P000588",
       "fec_summary": {
         "contributions_pac": "335556.43",
@@ -192,6 +194,7 @@
           "name": "Misc Energy"
         }
       ],
+      "senate_class": "",
       "name": "Steve Pearce",
       "endorsements": [
         {
@@ -228,6 +231,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=B000468",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000468.jpg",
+      "seat_status": "I",
       "bioguide_id": "B000468",
       "fec_summary": {
         "contributions_pac": "5000.00",
@@ -307,6 +311,7 @@
           "name": "Transportation Unions"
         }
       ],
+      "senate_class": "I",
       "name": "Jeff Bingaman",
       "endorsements": [
         {

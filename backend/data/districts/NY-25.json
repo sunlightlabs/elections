@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Louise_Slaughter",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000480.jpg",
+      "seat_status": "I",
       "bioguide_id": "S000480",
       "fec_summary": {
         "contributions_pac": "625205.07",
@@ -89,6 +90,7 @@
           "name": "Retired"
         }
       ],
+      "senate_class": "",
       "name": "Louise M Slaughter",
       "endorsements": [
         {
@@ -153,6 +155,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "146300.00",
@@ -244,129 +247,6 @@
   ],
   "senate": [
     {
-      "entity_id": "e708669995e844af90f205003683f2fa",
-      "chamber": "senate",
-      "state": "NY",
-      "state_name": "New York",
-      "district": null,
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Chuck_Schumer",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000148.jpg",
-      "bioguide_id": "S000148",
-      "fec_summary": {
-        "contributions_pac": "95900.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "1042052.00",
-        "disbursements": "1063217.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "427445.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "10171927.00"
-      },
-      "industries": [
-        {
-          "count": "7995",
-          "amount": "8819076.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "6443",
-          "amount": "5940689.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "3837",
-          "amount": "4011562.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "1247",
-          "amount": "1436835.00",
-          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
-          "name": "Tv/Movies/Music"
-        },
-        {
-          "count": "1169",
-          "amount": "1355300.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "1161",
-          "amount": "1325138.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        },
-        {
-          "count": "1256",
-          "amount": "1245150.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "1172",
-          "amount": "1239631.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        },
-        {
-          "count": "1218",
-          "amount": "1231175.00",
-          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
-          "name": "Commercial Banks"
-        },
-        {
-          "count": "1073",
-          "amount": "1070849.00",
-          "id": "13ca840788944cc79b362d068985fc73",
-          "name": "Misc Manufacturing & Distributing"
-        }
-      ],
-      "name": "Charles E Schumer",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "50"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "95"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "10"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "0"
-        }
-      ]
-    },
-    {
       "entity_id": null,
       "chamber": "senate",
       "state": "NY",
@@ -376,6 +256,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "21000.00",
