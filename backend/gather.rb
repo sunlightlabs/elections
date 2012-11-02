@@ -24,6 +24,13 @@ def main
     "6ee0ac519a08490594ec3fbce3ce3d8e" # Ron Paul
   ]
 
+  senate_races = [
+    "AZ", "CA", "CT", "DE", "FL", "HI", "IN", "ME", "MD", 
+    "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NJ", 
+    "NM", "NY", "ND", "OH", "PA", "RI", "TN", "TX", "UT", 
+    "VT", "VA", "WA", "WV", "WI", "WY"
+  ]
+
   i = 0
   CSV.foreach("data/endorsements_temp.csv", "r") do |row|
     i += 1
@@ -64,10 +71,12 @@ def main
       houses[full_district][candidate[:entity_id]][:endorsements] ||= []
       houses[full_district][candidate[:entity_id]][:endorsements] << endorsement
     elsif candidate[:chamber] == "senate"
-      senates[candidate[:state]] ||= {}
-      senates[candidate[:state]][candidate[:entity_id]] ||= candidate
-      senates[candidate[:state]][candidate[:entity_id]][:endorsements] ||= []
-      senates[candidate[:state]][candidate[:entity_id]][:endorsements] << endorsement
+      if senate_races.include?(candidate[:state])
+        senates[candidate[:state]] ||= {}
+        senates[candidate[:state]][candidate[:entity_id]] ||= candidate
+        senates[candidate[:state]][candidate[:entity_id]][:endorsements] ||= []
+        senates[candidate[:state]][candidate[:entity_id]][:endorsements] << endorsement
+      end
     end
   end
 
