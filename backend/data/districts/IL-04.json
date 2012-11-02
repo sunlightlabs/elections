@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=G000535",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000535.jpg",
+      "seat_status": "I",
       "bioguide_id": "G000535",
       "fec_summary": {
         "contributions_pac": "162500.00",
@@ -89,6 +90,8 @@
           "name": "Transportation Unions"
         }
       ],
+      "senate_class": "",
+      "name": "Luis V Gutierrez",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

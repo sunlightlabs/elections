@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -30,6 +31,7 @@
       "industries": [
 
       ],
+      "name": "John Andrew Harris",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -53,6 +55,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mike_D._Rogers",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000575.jpg",
+      "seat_status": "I",
       "bioguide_id": "R000575",
       "fec_summary": {
         "contributions_pac": "405000.00",
@@ -132,6 +135,8 @@
           "name": "Electric Utilities"
         }
       ],
+      "senate_class": "",
+      "name": "Mike D Rogers",
       "endorsements": [
         {
           "name": "Americans for Democratic Action",

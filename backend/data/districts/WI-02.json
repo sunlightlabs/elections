@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "262900.77",
@@ -89,6 +90,7 @@
           "name": "Industrial Unions"
         }
       ],
+      "name": "Mark Pocan",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -119,6 +121,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=K000305",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000305.jpg",
+      "seat_status": "I",
       "bioguide_id": "K000305",
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -198,6 +201,8 @@
           "name": "Retail Sales"
         }
       ],
+      "senate_class": "I",
+      "name": "Herb Kohl",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "4000.00",
@@ -59,6 +60,7 @@
           "name": "Business Services"
         }
       ],
+      "name": "Rick Daugherty",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -77,6 +79,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Charlie_Dent",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000604.jpg",
+      "seat_status": "I",
       "bioguide_id": "D000604",
       "fec_summary": {
         "contributions_pac": "564863.59",
@@ -156,6 +159,8 @@
           "name": "Pharmaceuticals/Health Products"
         }
       ],
+      "senate_class": "",
+      "name": "Charlie Dent",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",
@@ -191,6 +196,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001070.jpg",
+      "seat_status": "I",
       "bioguide_id": "C001070",
       "fec_summary": {
         "contributions_pac": "1719495.00",
@@ -270,205 +276,13 @@
           "name": "Business Services"
         }
       ],
+      "senate_class": "I",
+      "name": "Bob Casey",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
           "type": "endorsement",
           "value": "Y"
-        }
-      ]
-    },
-    {
-      "entity_id": "012a8bd14e5441adbb153840afb5b674",
-      "chamber": "senate",
-      "state": "PA",
-      "state_name": "Pennsylvania",
-      "district": null,
-      "party": "D",
-      "incumbent": false,
-      "bio_url": "http://en.wikipedia.org/wiki/Arlen_Specter",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000709.jpg",
-      "bioguide_id": "S000709",
-      "fec_summary": {
-        "contributions_pac": "0.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "697164.00",
-        "disbursements": "40559.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "555430.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "46808.00"
-      },
-      "industries": [
-        {
-          "count": "8545",
-          "amount": "6026963.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "1929",
-          "amount": "1764209.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "2280",
-          "amount": "1701940.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "2118",
-          "amount": "1599668.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "2364",
-          "amount": "1449905.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "1399",
-          "amount": "1173325.00",
-          "id": "bf2cfae020b84fae915ee48e8e15ea87",
-          "name": "Pro-Israel"
-        },
-        {
-          "count": "1813",
-          "amount": "1167437.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "1295",
-          "amount": "1105066.00",
-          "id": "08c1fa7788994f148eddfb78c10032cf",
-          "name": "Pharmaceuticals/Health Products"
-        },
-        {
-          "count": "1511",
-          "amount": "1024351.00",
-          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
-          "name": "Hospitals/Nursing Homes"
-        },
-        {
-          "count": "1243",
-          "amount": "998711.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "90"
-        }
-      ]
-    },
-    {
-      "entity_id": "f661eb3826f3416da845e078ee19d8a3",
-      "chamber": "senate",
-      "state": "PA",
-      "state_name": "Pennsylvania",
-      "district": null,
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Pat_Toomey",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/T000461.jpg",
-      "bioguide_id": "T000461",
-      "fec_summary": {
-        "contributions_pac": "606671.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "22750.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "2296901.00",
-        "disbursements": "955268.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "1525672.00",
-        "contributions_party": "250.00",
-        "cash_on_hand": "1546699.00"
-      },
-      "industries": [
-        {
-          "count": "2775",
-          "amount": "1524008.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "1539",
-          "amount": "1216749.00",
-          "id": "767c434bfd1348638bab7f8c12b9282f",
-          "name": "Republican/Conservative"
-        },
-        {
-          "count": "911",
-          "amount": "1079822.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "665",
-          "amount": "759667.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        },
-        {
-          "count": "318",
-          "amount": "637448.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "852",
-          "amount": "634806.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "668",
-          "amount": "600250.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "660",
-          "amount": "452571.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "457",
-          "amount": "411870.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "392",
-          "amount": "397485.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "90"
         }
       ]
     }

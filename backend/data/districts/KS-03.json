@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Kevin_Yoder",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/Y000063.jpg",
+      "seat_status": "I",
       "bioguide_id": "Y000063",
       "fec_summary": {
         "contributions_pac": "442557.69",
@@ -89,6 +90,8 @@
           "name": "General Contractors"
         }
       ],
+      "senate_class": "",
+      "name": "Kevin W. Yoder",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/William_Lacy_Clay%2C_Jr.",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001049.jpg",
+      "seat_status": "I",
       "bioguide_id": "C001049",
       "fec_summary": {
         "contributions_pac": "393260.85",
@@ -89,6 +90,8 @@
           "name": "Finance/Credit Companies"
         }
       ],
+      "senate_class": "",
+      "name": "William L Clay Jr",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -142,6 +145,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Russ_Carnahan",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001060.jpg",
+      "seat_status": "I",
       "bioguide_id": "C001060",
       "fec_summary": {
         "contributions_pac": "451334.83",
@@ -221,6 +225,8 @@
           "name": "Pro-Israel"
         }
       ],
+      "senate_class": "",
+      "name": "Russ Carnahan",
       "endorsements": [
         {
           "name": "Americans for Democratic Action",
@@ -266,6 +272,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Claire_McCaskill",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001170.jpg",
+      "seat_status": "I",
       "bioguide_id": "M001170",
       "fec_summary": {
         "contributions_pac": "1555358.00",
@@ -345,6 +352,8 @@
           "name": "Business Services"
         }
       ],
+      "senate_class": "I",
+      "name": "Claire McCaskill",
       "endorsements": [
         {
           "name": "AFL-CIO",

@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "7394.00",
@@ -35,6 +36,7 @@
           "name": "Oil & Gas"
         }
       ],
+      "name": "Angela Michael",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -53,6 +55,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_Shimkus",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000364.jpg",
+      "seat_status": "I",
       "bioguide_id": "S000364",
       "fec_summary": {
         "contributions_pac": "1177961.85",
@@ -132,6 +135,8 @@
           "name": "Lawyers/Law Firms"
         }
       ],
+      "senate_class": "",
+      "name": "John M Shimkus",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

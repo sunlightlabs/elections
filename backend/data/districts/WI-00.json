@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Tammy_Baldwin",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001230.jpg",
+      "seat_status": "O",
       "bioguide_id": "B001230",
       "fec_summary": {
         "contributions_pac": "585288.25",
@@ -89,6 +90,8 @@
           "name": "Education"
         }
       ],
+      "senate_class": "",
+      "name": "Tammy Baldwin",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -154,6 +157,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=K000305",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000305.jpg",
+      "seat_status": "I",
       "bioguide_id": "K000305",
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -233,6 +237,8 @@
           "name": "Retail Sales"
         }
       ],
+      "senate_class": "I",
+      "name": "Herb Kohl",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

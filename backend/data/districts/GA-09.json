@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -47,6 +48,7 @@
           "name": "Lawyers/Law Firms"
         }
       ],
+      "name": "Jody Cooley",
       "endorsements": [
         {
           "name": "Gun Owners of America",

@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Kurt_Schrader",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001180.jpg",
+      "seat_status": "I",
       "bioguide_id": "S001180",
       "fec_summary": {
         "contributions_pac": "765769.00",
@@ -89,6 +90,8 @@
           "name": "Transportation Unions"
         }
       ],
+      "senate_class": "",
+      "name": "Kurt Schrader",
       "endorsements": [
         {
           "name": "AFL-CIO",

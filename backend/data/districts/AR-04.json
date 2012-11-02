@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mike_Ross_%28politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000573.jpg",
+      "seat_status": "I",
       "bioguide_id": "R000573",
       "fec_summary": {
         "contributions_pac": "349718.78",
@@ -89,6 +90,8 @@
           "name": "Insurance"
         }
       ],
+      "senate_class": "",
+      "name": "Mike Ross",
       "endorsements": [
         {
           "name": "Americans for Democratic Action",
@@ -132,6 +135,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "11000.00",
@@ -205,6 +209,7 @@
           "name": "Electric Utilities"
         }
       ],
+      "name": "Gene Jeffress",
       "endorsements": [
         {
           "name": "Gun Owners of America",

@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000537",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000537.jpg",
+      "seat_status": "I",
       "bioguide_id": "C000537",
       "fec_summary": {
         "contributions_pac": "1502701.90",
@@ -89,6 +90,8 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
+      "name": "James E Clyburn",
       "endorsements": [
         {
           "name": "Americans for Democratic Action",

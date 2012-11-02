@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -89,6 +90,7 @@
           "name": "Non-Profit Institutions"
         }
       ],
+      "name": "Joyce B. Segers",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -107,6 +109,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Greg_Walden",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000791.jpg",
+      "seat_status": "I",
       "bioguide_id": "W000791",
       "fec_summary": {
         "contributions_pac": "1209525.31",
@@ -186,6 +189,8 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
+      "name": "Greg Walden",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

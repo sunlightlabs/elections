@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Tom_Graves_%28politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000560.jpg",
+      "seat_status": "I",
       "bioguide_id": "G000560",
       "fec_summary": {
         "contributions_pac": "394526.00",
@@ -89,6 +90,8 @@
           "name": "Misc Finance"
         }
       ],
+      "senate_class": "",
+      "name": "Tom Graves",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

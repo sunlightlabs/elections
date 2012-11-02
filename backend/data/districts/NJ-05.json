@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Scott_Garrett",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000548.jpg",
+      "seat_status": "I",
       "bioguide_id": "G000548",
       "fec_summary": {
         "contributions_pac": "772560.81",
@@ -89,6 +90,8 @@
           "name": "Lobbyists"
         }
       ],
+      "senate_class": "",
+      "name": "Scott Garrett",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -124,127 +127,6 @@
     }
   ],
   "senate": [
-    {
-      "entity_id": "f50475a4f7da43718ba089990ebb3b5a",
-      "chamber": "senate",
-      "state": "NJ",
-      "state_name": "New Jersey",
-      "district": null,
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Frank_Lautenberg",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000123.jpg",
-      "bioguide_id": "L000123",
-      "fec_summary": {
-        "contributions_pac": "105500.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "184350.00",
-        "disbursements": "221077.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "69246.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "183665.00"
-      },
-      "industries": [
-        {
-          "count": "2532",
-          "amount": "1968658.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "1523",
-          "amount": "1480318.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "1015",
-          "amount": "1073282.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "662",
-          "amount": "662727.00",
-          "id": "bf2cfae020b84fae915ee48e8e15ea87",
-          "name": "Pro-Israel"
-        },
-        {
-          "count": "540",
-          "amount": "461058.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "428",
-          "amount": "446072.00",
-          "id": "08c1fa7788994f148eddfb78c10032cf",
-          "name": "Pharmaceuticals/Health Products"
-        },
-        {
-          "count": "391",
-          "amount": "432025.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "340",
-          "amount": "397695.00",
-          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
-          "name": "Tv/Movies/Music"
-        },
-        {
-          "count": "449",
-          "amount": "365937.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "386",
-          "amount": "345130.00",
-          "id": "13ca840788944cc79b362d068985fc73",
-          "name": "Misc Manufacturing & Distributing"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "40"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "95"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "11"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "10"
-        }
-      ]
-    }
+
   ]
 }

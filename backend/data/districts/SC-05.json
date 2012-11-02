@@ -1,103 +1,6 @@
 {
   "house": [
     {
-      "entity_id": "424df96d319348a9b2e3964e86314ff9",
-      "chamber": "house",
-      "state": "SC",
-      "state_name": "South Carolina",
-      "district": "05",
-      "party": "D",
-      "incumbent": false,
-      "bio_url": "http://en.wikipedia.org/wiki/John_M._Spratt%2C_Jr.",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000749.jpg",
-      "bioguide_id": "S000749",
-      "fec_summary": {
-        "contributions_pac": "0.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "44864.17",
-        "disbursements": "29375.38",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "0.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "72837.53"
-      },
-      "industries": [
-        {
-          "count": "1213",
-          "amount": "808452.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "307",
-          "amount": "498750.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "408",
-          "amount": "455053.00",
-          "id": "a6997a5a0f674bbc9c371d8e99377259",
-          "name": "Electric Utilities"
-        },
-        {
-          "count": "317",
-          "amount": "356200.00",
-          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
-          "name": "Commercial Banks"
-        },
-        {
-          "count": "289",
-          "amount": "333550.00",
-          "id": "62b2b24eb9c248e68af69cb177822948",
-          "name": "Defense Aerospace"
-        },
-        {
-          "count": "229",
-          "amount": "316650.00",
-          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
-          "name": "Transportation Unions"
-        },
-        {
-          "count": "158",
-          "amount": "312600.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "408",
-          "amount": "303266.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "632",
-          "amount": "290675.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "318",
-          "amount": "281150.00",
-          "id": "19d2d493e60c44eda7d0d1a7c1950a95",
-          "name": "Textiles"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "85"
-        }
-      ]
-    },
-    {
       "entity_id": null,
       "chamber": "house",
       "state": "SC",
@@ -107,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "250.00",
@@ -150,6 +54,7 @@
           "name": "Electric Utilities"
         }
       ],
+      "name": "Joyce Knott",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -168,6 +73,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mick_Mulvaney",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001182.jpg",
+      "seat_status": "I",
       "bioguide_id": "M001182",
       "fec_summary": {
         "contributions_pac": "288385.86",
@@ -247,6 +153,8 @@
           "name": "Electric Utilities"
         }
       ],
+      "senate_class": "",
+      "name": "Mick Mulvaney",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

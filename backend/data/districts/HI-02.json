@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Mazie_Hirono",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001042.jpg",
+      "seat_status": "O",
       "bioguide_id": "H001042",
       "fec_summary": {
         "contributions_pac": "726128.00",
@@ -89,6 +90,8 @@
           "name": "Industrial Unions"
         }
       ],
+      "senate_class": "",
+      "name": "Mazie K Hirono",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -147,6 +150,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "64701.15",
@@ -226,6 +230,7 @@
           "name": "Misc Energy"
         }
       ],
+      "name": "Tulsi Gabbard",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -251,6 +256,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Daniel_Akaka",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000069.jpg",
+      "seat_status": "I",
       "bioguide_id": "A000069",
       "fec_summary": {
         "contributions_pac": "4.00",
@@ -330,6 +336,8 @@
           "name": "Health Professionals"
         }
       ],
+      "senate_class": "I",
+      "name": "Daniel K Akaka",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -360,128 +368,6 @@
           "name": "National Taxpayers Union",
           "type": "rating",
           "value": "9"
-        }
-      ]
-    },
-    {
-      "entity_id": "684176410b3f4094a1a779bc43144509",
-      "chamber": "senate",
-      "state": "HI",
-      "state_name": "Hawaii",
-      "district": null,
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Daniel_Inouye",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/I000025.jpg",
-      "bioguide_id": "I000025",
-      "fec_summary": {
-        "contributions_pac": "76475.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "94843.00",
-        "disbursements": "1012175.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "17460.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "375400.00"
-      },
-      "industries": [
-        {
-          "count": "855",
-          "amount": "782583.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "694",
-          "amount": "600625.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "498",
-          "amount": "552565.00",
-          "id": "bf2cfae020b84fae915ee48e8e15ea87",
-          "name": "Pro-Israel"
-        },
-        {
-          "count": "483",
-          "amount": "485013.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "289",
-          "amount": "376650.00",
-          "id": "13718be68388456d9b6e8db753f06e72",
-          "name": "Casinos/Gambling"
-        },
-        {
-          "count": "335",
-          "amount": "349200.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "250",
-          "amount": "337100.00",
-          "id": "62b2b24eb9c248e68af69cb177822948",
-          "name": "Defense Aerospace"
-        },
-        {
-          "count": "281",
-          "amount": "334707.00",
-          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
-          "name": "Tv/Movies/Music"
-        },
-        {
-          "count": "487",
-          "amount": "333588.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "235",
-          "amount": "286200.00",
-          "id": "1657f29fbf9944f5af4a0d5c4d2eafad",
-          "name": "Sea Transport"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "60"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "5"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "80"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "11"
         }
       ]
     }

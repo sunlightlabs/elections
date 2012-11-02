@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Tim_Huelskamp",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001057.jpg",
+      "seat_status": "I",
       "bioguide_id": "H001057",
       "fec_summary": {
         "contributions_pac": "334374.67",
@@ -89,6 +90,8 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
+      "name": "Tim Huelskamp",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

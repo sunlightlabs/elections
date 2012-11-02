@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "83350.00",
@@ -89,6 +90,7 @@
           "name": "Misc Business"
         }
       ],
+      "name": "Eric Stewart",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -101,228 +103,9 @@
           "value": null
         }
       ]
-    },
-    {
-      "entity_id": "64d765ef81d64da7aa9994996ef2ff8a",
-      "chamber": "house",
-      "state": "TN",
-      "state_name": "Tennessee",
-      "district": "04",
-      "party": "D",
-      "incumbent": false,
-      "bio_url": "http://en.wikipedia.org/wiki/Lincoln_Davis",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000599.jpg",
-      "bioguide_id": "D000599",
-      "fec_summary": {
-        "contributions_pac": "0.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "216.86",
-        "disbursements": "46302.92",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "0.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "49133.92"
-      },
-      "industries": [
-        {
-          "count": "127",
-          "amount": "264259.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "368",
-          "amount": "259925.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "121",
-          "amount": "241100.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "105",
-          "amount": "232250.00",
-          "id": "d22cf14b1cd349b79f2b656b450b3b88",
-          "name": "Industrial Unions"
-        },
-        {
-          "count": "81",
-          "amount": "194500.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "114",
-          "amount": "186000.00",
-          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
-          "name": "Transportation Unions"
-        },
-        {
-          "count": "190",
-          "amount": "185450.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "290",
-          "amount": "157620.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "152",
-          "amount": "153475.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "134",
-          "amount": "127850.00",
-          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
-          "name": "Commercial Banks"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "45"
-        }
-      ]
     }
   ],
   "senate": [
-    {
-      "entity_id": "cdcebbfbaf414fbcb6680823a0b96011",
-      "chamber": "senate",
-      "state": "TN",
-      "state_name": "Tennessee",
-      "district": null,
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Lamar_Alexander",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000360.jpg",
-      "bioguide_id": "A000360",
-      "fec_summary": {
-        "contributions_pac": "91650.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "210963.00",
-        "disbursements": "171726.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "104185.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "1113070.00"
-      },
-      "industries": [
-        {
-          "count": "2742",
-          "amount": "1827867.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "2105",
-          "amount": "1586574.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "1898",
-          "amount": "1532257.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "1504",
-          "amount": "1220060.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "1447",
-          "amount": "962210.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "844",
-          "amount": "713415.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        },
-        {
-          "count": "752",
-          "amount": "597026.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        },
-        {
-          "count": "747",
-          "amount": "584193.00",
-          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
-          "name": "Commercial Banks"
-        },
-        {
-          "count": "568",
-          "amount": "535925.00",
-          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
-          "name": "Hospitals/Nursing Homes"
-        },
-        {
-          "count": "647",
-          "amount": "532375.00",
-          "id": "d9c4a26cd671436eac3c501184364fc4",
-          "name": "Misc Business"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "D"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "10"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "78"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "75"
-        }
-      ]
-    },
     {
       "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "chamber": "senate",
@@ -333,6 +116,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001071",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001071.jpg",
+      "seat_status": "I",
       "bioguide_id": "C001071",
       "fec_summary": {
         "contributions_pac": "1700587.00",
@@ -412,6 +196,8 @@
           "name": "General Contractors"
         }
       ],
+      "senate_class": "I",
+      "name": "Bob Corker",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

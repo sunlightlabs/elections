@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mel_Watt",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000207.jpg",
+      "seat_status": "I",
       "bioguide_id": "W000207",
       "fec_summary": {
         "contributions_pac": "499134.05",
@@ -89,6 +90,8 @@
           "name": "Transportation Unions"
         }
       ],
+      "senate_class": "",
+      "name": "Melvin L Watt",
       "endorsements": [
         {
           "name": "Americans for Democratic Action",

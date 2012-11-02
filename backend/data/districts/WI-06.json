@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Tom_Petri",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000265.jpg",
+      "seat_status": "I",
       "bioguide_id": "P000265",
       "fec_summary": {
         "contributions_pac": "420000.00",
@@ -89,6 +90,8 @@
           "name": "Building Trade Unions"
         }
       ],
+      "senate_class": "",
+      "name": "Tom Petri",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",
@@ -124,6 +127,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=K000305",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000305.jpg",
+      "seat_status": "I",
       "bioguide_id": "K000305",
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -203,6 +207,8 @@
           "name": "Retail Sales"
         }
       ],
+      "senate_class": "I",
+      "name": "Herb Kohl",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

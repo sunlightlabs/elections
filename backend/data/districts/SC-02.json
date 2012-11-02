@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=W000795",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000795.jpg",
+      "seat_status": "I",
       "bioguide_id": "W000795",
       "fec_summary": {
         "contributions_pac": "278910.16",
@@ -89,6 +90,8 @@
           "name": "General Contractors"
         }
       ],
+      "senate_class": "",
+      "name": "Joe Wilson",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

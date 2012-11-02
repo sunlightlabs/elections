@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "347726.84",
@@ -89,6 +90,7 @@
           "name": "Industrial Unions"
         }
       ],
+      "name": "Steven Alexzander Horsford",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -100,128 +102,6 @@
   ],
   "senate": [
     {
-      "entity_id": "b875d19789ce4c88b276a607202b362c",
-      "chamber": "senate",
-      "state": "NV",
-      "state_name": "Nevada",
-      "district": null,
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Harry_Reid",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000146.jpg",
-      "bioguide_id": "R000146",
-      "fec_summary": {
-        "contributions_pac": "303320.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "-99750.00",
-        "transfers_in": "27352.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "830438.00",
-        "disbursements": "934257.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "444633.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "167240.00"
-      },
-      "industries": [
-        {
-          "count": "4945",
-          "amount": "5652779.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "1439",
-          "amount": "1825002.00",
-          "id": "13718be68388456d9b6e8db753f06e72",
-          "name": "Casinos/Gambling"
-        },
-        {
-          "count": "986",
-          "amount": "1590755.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "1735",
-          "amount": "1577356.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "1163",
-          "amount": "1454292.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "1190",
-          "amount": "1326837.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "1246",
-          "amount": "1035503.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "932",
-          "amount": "947267.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        },
-        {
-          "count": "583",
-          "amount": "871151.00",
-          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
-          "name": "Tv/Movies/Music"
-        },
-        {
-          "count": "528",
-          "amount": "684260.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "40"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "75"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "10"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "0"
-        }
-      ]
-    },
-    {
       "entity_id": "703d4b7c37424ae0844d2a0078628644",
       "chamber": "senate",
       "state": "NV",
@@ -231,6 +111,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_Ensign",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/E000194.jpg",
+      "seat_status": "I",
       "bioguide_id": "E000194",
       "fec_summary": {
         "contributions_pac": "42500.00",
@@ -310,6 +191,8 @@
           "name": "General Contractors"
         }
       ],
+      "senate_class": "I",
+      "name": "John Ensign",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

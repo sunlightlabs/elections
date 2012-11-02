@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Leonard_Boswell",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000652.jpg",
+      "seat_status": "I",
       "bioguide_id": "B000652",
       "fec_summary": {
         "contributions_pac": "605725.53",
@@ -89,6 +90,8 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
+      "name": "Leonard L Boswell",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -127,6 +130,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Tom_Latham",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000111.jpg",
+      "seat_status": "I",
       "bioguide_id": "L000111",
       "fec_summary": {
         "contributions_pac": "1650990.92",
@@ -206,6 +210,8 @@
           "name": "Commercial Banks"
         }
       ],
+      "senate_class": "",
+      "name": "Tom Latham",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

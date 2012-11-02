@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "263500.00",
@@ -89,6 +90,7 @@
           "name": "Health Professionals"
         }
       ],
+      "name": "Joe Miklosi",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -117,6 +119,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mike_Coffman",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001077.jpg",
+      "seat_status": "I",
       "bioguide_id": "C001077",
       "fec_summary": {
         "contributions_pac": "610192.50",
@@ -196,6 +199,8 @@
           "name": "Republican/Conservative"
         }
       ],
+      "senate_class": "",
+      "name": "Mike Coffman",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

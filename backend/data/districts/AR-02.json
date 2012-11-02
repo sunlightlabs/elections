@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Timothy_Griffin",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000567.jpg",
+      "seat_status": "I",
       "bioguide_id": "G000567",
       "fec_summary": {
         "contributions_pac": "408798.32",
@@ -89,6 +90,8 @@
           "name": "Republican/Conservative"
         }
       ],
+      "senate_class": "",
+      "name": "Tim Griffin",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -132,6 +135,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -193,6 +197,7 @@
           "name": "Non-Profit Institutions"
         }
       ],
+      "name": "Herb Rule",
       "endorsements": [
         {
           "name": "Gun Owners of America",

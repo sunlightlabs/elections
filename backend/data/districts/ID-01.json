@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "6878.57",
@@ -71,6 +72,7 @@
           "name": "Misc Finance"
         }
       ],
+      "name": "Jimmy Farris",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -89,6 +91,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=L000573",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000573.jpg",
+      "seat_status": "I",
       "bioguide_id": "L000573",
       "fec_summary": {
         "contributions_pac": "233674.70",
@@ -168,6 +171,8 @@
           "name": "Lobbyists"
         }
       ],
+      "senate_class": "",
+      "name": "Raul Labrador",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

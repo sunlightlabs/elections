@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_Sullivan_%28Oklahoma%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001155.jpg",
+      "seat_status": "I",
       "bioguide_id": "S001155",
       "fec_summary": {
         "contributions_pac": "710475.00",
@@ -89,6 +90,8 @@
           "name": "Retired"
         }
       ],
+      "senate_class": "",
+      "name": "John Sullivan",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

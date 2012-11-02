@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "9500.00",
@@ -89,6 +90,7 @@
           "name": "Retail Sales"
         }
       ],
+      "name": "Leslie Coolidge",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -117,6 +119,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Peter_Roskam",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000580.jpg",
+      "seat_status": "I",
       "bioguide_id": "R000580",
       "fec_summary": {
         "contributions_pac": "1170113.00",
@@ -196,6 +199,8 @@
           "name": "Lobbyists"
         }
       ],
+      "senate_class": "",
+      "name": "Peter Roskam",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Billy_Long",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000576.jpg",
+      "seat_status": "I",
       "bioguide_id": "L000576",
       "fec_summary": {
         "contributions_pac": "258636.56",
@@ -89,6 +90,8 @@
           "name": "Food Processing & Sales"
         }
       ],
+      "senate_class": "",
+      "name": "Billy Long",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -116,123 +119,6 @@
           "value": "92"
         }
       ]
-    },
-    {
-      "entity_id": "fdde6f716afa4bb4963424ffe3dd8488",
-      "chamber": "house",
-      "state": "MO",
-      "state_name": "Missouri",
-      "district": "07",
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Roy_Blunt",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000575.jpg",
-      "bioguide_id": "B000575",
-      "fec_summary": {
-        "contributions_pac": "358398.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "1002684.00",
-        "disbursements": "1074722.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "625316.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "107202.00"
-      },
-      "industries": [
-        {
-          "count": "918",
-          "amount": "1314228.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "1010",
-          "amount": "1239745.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "1220",
-          "amount": "912896.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "716",
-          "amount": "900566.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "1020",
-          "amount": "875956.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "686",
-          "amount": "796523.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "507",
-          "amount": "745848.00",
-          "id": "52766c4910a846f2813a1dda212b7027",
-          "name": "Oil & Gas"
-        },
-        {
-          "count": "617",
-          "amount": "728318.00",
-          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
-          "name": "Commercial Banks"
-        },
-        {
-          "count": "688",
-          "amount": "676650.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "390",
-          "amount": "625972.00",
-          "id": "08c1fa7788994f148eddfb78c10032cf",
-          "name": "Pharmaceuticals/Health Products"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "F"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "75"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "70"
-        }
-      ]
     }
   ],
   "senate": [
@@ -246,6 +132,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Claire_McCaskill",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001170.jpg",
+      "seat_status": "I",
       "bioguide_id": "M001170",
       "fec_summary": {
         "contributions_pac": "1555358.00",
@@ -325,6 +212,8 @@
           "name": "Business Services"
         }
       ],
+      "senate_class": "I",
+      "name": "Claire McCaskill",
       "endorsements": [
         {
           "name": "AFL-CIO",

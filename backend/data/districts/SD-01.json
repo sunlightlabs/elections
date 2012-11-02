@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "49552.79",
@@ -89,6 +90,7 @@
           "name": "Commercial Banks"
         }
       ],
+      "name": "Matt Varilek",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -107,6 +109,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=N000184",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/N000184.jpg",
+      "seat_status": "I",
       "bioguide_id": "N000184",
       "fec_summary": {
         "contributions_pac": "781625.00",
@@ -186,6 +189,8 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
+      "name": "Kristi Lynn Noem",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "8662.00",
@@ -89,6 +90,7 @@
           "name": "Health Professionals"
         }
       ],
+      "name": "Patricia Keever",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -107,6 +109,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Patrick_McHenry",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001156.jpg",
+      "seat_status": "I",
       "bioguide_id": "M001156",
       "fec_summary": {
         "contributions_pac": "509337.68",
@@ -186,6 +189,8 @@
           "name": "Retail Sales"
         }
       ],
+      "senate_class": "",
+      "name": "Patrick McHenry",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -35,6 +36,7 @@
           "name": "Lawyers/Law Firms"
         }
       ],
+      "name": "Brian Doyle",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -53,6 +55,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jeff_Duncan_%28politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000615.jpg",
+      "seat_status": "I",
       "bioguide_id": "D000615",
       "fec_summary": {
         "contributions_pac": "342100.12",
@@ -132,6 +135,8 @@
           "name": "Hospitals/Nursing Homes"
         }
       ],
+      "senate_class": "",
+      "name": "Jeff Duncan",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

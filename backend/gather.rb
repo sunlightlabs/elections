@@ -32,7 +32,7 @@ def main
   ]
 
   i = 0
-  CSV.foreach("data/endorsements_temp.csv", "r") do |row|
+  CSV.foreach("data/endorsements.csv", "r") do |row|
     i += 1
     next if i == 1
 
@@ -40,9 +40,20 @@ def main
     next if not_candidates.include?(entity_id)
     
     candidate = candidate_for entity_id, options
-    
-    name = row[2]
 
+    if candidate[:senate_class] and (candidate[:senate_class] != "") and (candidate[:senate_class] != "I")
+      puts "[#{entity_id}] Skipping senator, not up for election"
+      next
+    end
+
+    if candidate[:seat_status] == ""
+      puts "[#{entity_id}] Skipping, not up for election"
+      next
+    end
+    
+    candidate_name = row[1]
+
+    name = row[2]
     endorsement = row[8]
     rating = row[9]
     grade = row[10]
@@ -68,12 +79,14 @@ def main
       full_district = [candidate[:state], candidate[:district]].join "-"
       houses[full_district] ||= {}
       houses[full_district][candidate[:entity_id]] ||= candidate
+      houses[full_district][candidate[:entity_id]][:name] = candidate_name # overwrite each time
       houses[full_district][candidate[:entity_id]][:endorsements] ||= []
       houses[full_district][candidate[:entity_id]][:endorsements] << endorsement
     elsif candidate[:chamber] == "senate"
       if senate_races.include?(candidate[:state])
         senates[candidate[:state]] ||= {}
         senates[candidate[:state]][candidate[:entity_id]] ||= candidate
+        senates[candidate[:state]][candidate[:entity_id]][:name] = candidate_name # overwrite each time
         senates[candidate[:state]][candidate[:entity_id]][:endorsements] ||= []
         senates[candidate[:state]][candidate[:entity_id]][:endorsements] << endorsement
       end
@@ -153,6 +166,8 @@ def candidate_for(entity_id, options = {})
     bio_url: metadata['bio_url'],
     photo_url: metadata['photo_url'],
 
+    seat_status: metadata['seat_status'],
+
     # incumbents
     bioguide_id: metadata['bioguide_id']
   }
@@ -165,6 +180,14 @@ def candidate_for(entity_id, options = {})
   destination = cache_for entity_id, :industries
   industries = download url, options.merge(destination: destination)
   candidate[:industries] = process_industries industries
+
+  if candidate[:bioguide_id] and (candidate[:bioguide_id] != "")
+    url = sunlight_url_for candidate[:bioguide_id], options[:key]
+    destination = cache_for entity_id, :sunlight
+    result = download url, options.merge(destination: destination)
+    senate_class = result['response']['legislator']['senate_class']
+    candidate[:senate_class] = senate_class
+  end
 
   candidate
 end
@@ -180,6 +203,10 @@ end
 
 def industries_url_for(entity_id, api_key)
   "http://transparencydata.com/api/1.0/aggregates/pol/#{entity_id}/contributors/industries.json?apikey=#{api_key}"
+end
+
+def sunlight_url_for(bioguide_id, api_key)
+  "http://services.sunlightlabs.com/api/legislators.get.json?apikey=#{api_key}&all_legislators=1&bioguide_id=#{bioguide_id}"
 end
 
 def cache_for(entity_id, function = :details)

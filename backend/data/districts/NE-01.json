@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -65,6 +66,7 @@
           "name": "Civil Servants/Public Officials"
         }
       ],
+      "name": "Korey Reiman",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -83,6 +85,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jeff_Fortenberry",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000449.jpg",
+      "seat_status": "I",
       "bioguide_id": "F000449",
       "fec_summary": {
         "contributions_pac": "172200.00",
@@ -162,6 +165,8 @@
           "name": "Crop Production & Basic Processing"
         }
       ],
+      "senate_class": "",
+      "name": "Jeff Fortenberry",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",
@@ -202,6 +207,7 @@
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Kerrey",
       "photo_url": "http://upload.wikimedia.org/wikipedia/commons/5/5a/Senator_Bob_Kerrey.jpg",
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "446561.00",
@@ -281,6 +287,7 @@
           "name": "Hospitals/Nursing Homes"
         }
       ],
+      "name": "Bob Kerrey",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -304,6 +311,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "427100.00",
@@ -383,6 +391,7 @@
           "name": "Health Professionals"
         }
       ],
+      "name": "Debra S. Fischer",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -401,6 +410,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=N000180",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/N000180.jpg",
+      "seat_status": "I",
       "bioguide_id": "N000180",
       "fec_summary": {
         "contributions_pac": "1245929.00",
@@ -480,6 +490,8 @@
           "name": "Agricultural Services/Products"
         }
       ],
+      "senate_class": "I",
+      "name": "Ben Nelson",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

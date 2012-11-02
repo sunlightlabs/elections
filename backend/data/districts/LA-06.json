@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bill_Cassidy",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001075.jpg",
+      "seat_status": "I",
       "bioguide_id": "C001075",
       "fec_summary": {
         "contributions_pac": "495803.98",
@@ -89,6 +90,8 @@
           "name": "Health Services/Hmos"
         }
       ],
+      "senate_class": "",
+      "name": "Bill Cassidy",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

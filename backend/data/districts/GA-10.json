@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Paul_Broun",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001262.jpg",
+      "seat_status": "I",
       "bioguide_id": "B001262",
       "fec_summary": {
         "contributions_pac": "291366.52",
@@ -89,6 +90,8 @@
           "name": "Lawyers/Law Firms"
         }
       ],
+      "senate_class": "",
+      "name": "Paul Broun Jr",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "347430.29",
@@ -89,6 +90,7 @@
           "name": "Real Estate"
         }
       ],
+      "name": "Cheri Bustos",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -117,6 +119,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bobby_Schilling",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001182.jpg",
+      "seat_status": "I",
       "bioguide_id": "S001182",
       "fec_summary": {
         "contributions_pac": "584549.41",
@@ -196,6 +199,8 @@
           "name": "Food & Beverage"
         }
       ],
+      "senate_class": "",
+      "name": "Bobby Schilling",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

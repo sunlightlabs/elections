@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Don_Young",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/Y000033.jpg",
+      "seat_status": "I",
       "bioguide_id": "Y000033",
       "fec_summary": {
         "contributions_pac": "262180.21",
@@ -89,6 +90,8 @@
           "name": "Building Trade Unions"
         }
       ],
+      "senate_class": "",
+      "name": "Don Young",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

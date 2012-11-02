@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "136850.00",
@@ -89,6 +90,7 @@
           "name": "Misc Unions"
         }
       ],
+      "name": "Jason Plummer",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -112,6 +114,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jerry_Costello",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000794.jpg",
+      "seat_status": "I",
       "bioguide_id": "C000794",
       "fec_summary": {
         "contributions_pac": "188267.09",
@@ -191,6 +194,8 @@
           "name": "Health Professionals"
         }
       ],
+      "senate_class": "",
+      "name": "Jerry F Costello",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

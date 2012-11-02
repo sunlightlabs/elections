@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mike_McIntyre",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000485.jpg",
+      "seat_status": "I",
       "bioguide_id": "M000485",
       "fec_summary": {
         "contributions_pac": "792609.81",
@@ -89,6 +90,8 @@
           "name": "Insurance"
         }
       ],
+      "senate_class": "",
+      "name": "Mike McIntyre",
       "endorsements": [
         {
           "name": "AFL-CIO",

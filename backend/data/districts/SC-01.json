@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "26000.00",
@@ -83,6 +84,7 @@
           "name": "Misc Services"
         }
       ],
+      "name": "Bobbie Rose",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -106,6 +108,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Tim_Scott_%28politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001184.jpg",
+      "seat_status": "I",
       "bioguide_id": "S001184",
       "fec_summary": {
         "contributions_pac": "592604.77",
@@ -185,6 +188,8 @@
           "name": "Accountants"
         }
       ],
+      "senate_class": "",
+      "name": "Tim Scott",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

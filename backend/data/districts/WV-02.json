@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Shelley_Moore_Capito",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001047.jpg",
+      "seat_status": "I",
       "bioguide_id": "C001047",
       "fec_summary": {
         "contributions_pac": "660150.00",
@@ -89,6 +90,8 @@
           "name": "Securities & Investment"
         }
       ],
+      "senate_class": "",
+      "name": "Shelley Moore Capito",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -129,6 +132,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Joe_Manchin",
       "photo_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Joe_Manchin%2C_Official_Senate_Portrait.jpg/225px-Joe_Manchin%2C_Official_Senate_Portrait.jpg",
+      "seat_status": "I",
       "bioguide_id": "M001183",
       "fec_summary": {
         "contributions_pac": "1600068.00",
@@ -208,6 +212,8 @@
           "name": "Lobbyists"
         }
       ],
+      "senate_class": "I",
+      "name": "Joe Manchin",
       "endorsements": [
         {
           "name": "AFL-CIO",

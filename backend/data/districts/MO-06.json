@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -47,6 +48,7 @@
           "name": "Education"
         }
       ],
+      "name": "Kyle A. Yarber",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -65,6 +67,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sam_Graves",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000546.jpg",
+      "seat_status": "I",
       "bioguide_id": "G000546",
       "fec_summary": {
         "contributions_pac": "780061.01",
@@ -144,6 +147,8 @@
           "name": "Insurance"
         }
       ],
+      "senate_class": "",
+      "name": "Sam Graves",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -184,6 +189,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Claire_McCaskill",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001170.jpg",
+      "seat_status": "I",
       "bioguide_id": "M001170",
       "fec_summary": {
         "contributions_pac": "1555358.00",
@@ -263,6 +269,8 @@
           "name": "Business Services"
         }
       ],
+      "senate_class": "I",
+      "name": "Claire McCaskill",
       "endorsements": [
         {
           "name": "AFL-CIO",

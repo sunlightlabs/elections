@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Danny_K._Davis",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000096.jpg",
+      "seat_status": "I",
       "bioguide_id": "D000096",
       "fec_summary": {
         "contributions_pac": "249314.59",
@@ -89,6 +90,8 @@
           "name": "Misc Unions"
         }
       ],
+      "senate_class": "",
+      "name": "Danny K Davis",
       "endorsements": [
         {
           "name": "AFL-CIO",

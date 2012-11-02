@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -83,6 +84,7 @@
           "name": "Misc Finance"
         }
       ],
+      "name": "Tobias Schlingensiepen",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -106,6 +108,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Lynn_Jenkins",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/J000290.jpg",
+      "seat_status": "I",
       "bioguide_id": "J000290",
       "fec_summary": {
         "contributions_pac": "752112.64",
@@ -185,6 +188,8 @@
           "name": "Lawyers/Law Firms"
         }
       ],
+      "senate_class": "",
+      "name": "Lynn Jenkins",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

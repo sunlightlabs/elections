@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -89,6 +90,7 @@
           "name": "Health Professionals"
         }
       ],
+      "name": "James Cargas",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -112,6 +114,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_Culberson",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001048.jpg",
+      "seat_status": "I",
       "bioguide_id": "C001048",
       "fec_summary": {
         "contributions_pac": "268589.50",
@@ -191,6 +194,8 @@
           "name": "Insurance"
         }
       ],
+      "senate_class": "",
+      "name": "John Culberson",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -231,6 +236,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "37000.00",
@@ -310,6 +316,7 @@
           "name": "Hospitals/Nursing Homes"
         }
       ],
+      "name": "Ted Cruz",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -334,128 +341,6 @@
       ]
     },
     {
-      "entity_id": "61d00a149f0b4f9facc635dd9a3503f9",
-      "chamber": "senate",
-      "state": "TX",
-      "state_name": "Texas",
-      "district": null,
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/John_Cornyn",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001056.jpg",
-      "bioguide_id": "C001056",
-      "fec_summary": {
-        "contributions_pac": "292099.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "92560.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "1453525.00",
-        "disbursements": "639367.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "1024941.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "2610513.00"
-      },
-      "industries": [
-        {
-          "count": "2843",
-          "amount": "2144828.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "1965",
-          "amount": "1809750.00",
-          "id": "52766c4910a846f2813a1dda212b7027",
-          "name": "Oil & Gas"
-        },
-        {
-          "count": "3067",
-          "amount": "1770558.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "2189",
-          "amount": "1553178.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "1487",
-          "amount": "1223451.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        },
-        {
-          "count": "1410",
-          "amount": "1161450.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "950",
-          "amount": "993325.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "1315",
-          "amount": "742110.00",
-          "id": "767c434bfd1348638bab7f8c12b9282f",
-          "name": "Republican/Conservative"
-        },
-        {
-          "count": "761",
-          "amount": "714928.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "731",
-          "amount": "619917.00",
-          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
-          "name": "Commercial Banks"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "F"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "84"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "90"
-        }
-      ]
-    },
-    {
       "entity_id": "967babfa02094120af17d5b0be021f32",
       "chamber": "senate",
       "state": "TX",
@@ -465,6 +350,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=H001016",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001016.jpg",
+      "seat_status": "I",
       "bioguide_id": "H001016",
       "fec_summary": {
         "contributions_pac": "2000.00",
@@ -544,6 +430,8 @@
           "name": "Republican/Conservative"
         }
       ],
+      "senate_class": "I",
+      "name": "Kay Bailey Hutchison",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

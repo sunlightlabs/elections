@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/David_Scott_%28Georgia%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001157.jpg",
+      "seat_status": "I",
       "bioguide_id": "S001157",
       "fec_summary": {
         "contributions_pac": "541810.42",
@@ -89,6 +90,8 @@
           "name": "Industrial Unions"
         }
       ],
+      "senate_class": "",
+      "name": "David Scott",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

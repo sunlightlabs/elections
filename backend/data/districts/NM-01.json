@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Martin_Heinrich",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001046.jpg",
+      "seat_status": "O",
       "bioguide_id": "H001046",
       "fec_summary": {
         "contributions_pac": "756918.70",
@@ -89,6 +90,8 @@
           "name": "Building Trade Unions"
         }
       ],
+      "senate_class": "",
+      "name": "Martin Heinrich",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -142,6 +145,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "174850.00",
@@ -221,6 +225,7 @@
           "name": "Misc Business"
         }
       ],
+      "name": "Eric Griego",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -251,6 +256,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=B000468",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000468.jpg",
+      "seat_status": "I",
       "bioguide_id": "B000468",
       "fec_summary": {
         "contributions_pac": "5000.00",
@@ -330,6 +336,8 @@
           "name": "Transportation Unions"
         }
       ],
+      "senate_class": "I",
+      "name": "Jeff Bingaman",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

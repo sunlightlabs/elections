@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/David_Price_%28U.S._politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000523.jpg",
+      "seat_status": "I",
       "bioguide_id": "P000523",
       "fec_summary": {
         "contributions_pac": "389350.00",
@@ -89,6 +90,8 @@
           "name": "Lobbyists"
         }
       ],
+      "senate_class": "",
+      "name": "David Price",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -142,6 +145,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Brad_Miller_%28North_Carolina_politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001154.jpg",
+      "seat_status": "I",
       "bioguide_id": "M001154",
       "fec_summary": {
         "contributions_pac": "120750.00",
@@ -221,6 +225,8 @@
           "name": "Misc Unions"
         }
       ],
+      "senate_class": "",
+      "name": "Brad Miller",
       "endorsements": [
         {
           "name": "Americans for Democratic Action",

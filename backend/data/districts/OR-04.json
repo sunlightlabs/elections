@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Peter_DeFazio",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000191.jpg",
+      "seat_status": "I",
       "bioguide_id": "D000191",
       "fec_summary": {
         "contributions_pac": "396805.00",
@@ -89,6 +90,8 @@
           "name": "Construction Services"
         }
       ],
+      "senate_class": "",
+      "name": "Peter DeFazio",
       "endorsements": [
         {
           "name": "AFL-CIO",

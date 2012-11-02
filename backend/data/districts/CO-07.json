@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "76621.89",
@@ -89,6 +90,7 @@
           "name": "Lawyers/Law Firms"
         }
       ],
+      "name": "Joe Coors",
       "endorsements": [
         {
           "name": "Gun Owners of America",

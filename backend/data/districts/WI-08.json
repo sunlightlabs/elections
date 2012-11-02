@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "238900.00",
@@ -89,6 +90,7 @@
           "name": "Public Sector Unions"
         }
       ],
+      "name": "Jamie Wall",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -112,6 +114,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Reid_Ribble",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000587.jpg",
+      "seat_status": "I",
       "bioguide_id": "R000587",
       "fec_summary": {
         "contributions_pac": "800509.46",
@@ -191,6 +194,8 @@
           "name": "Misc Manufacturing & Distributing"
         }
       ],
+      "senate_class": "",
+      "name": "Reid Ribble",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -231,6 +236,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=K000305",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000305.jpg",
+      "seat_status": "I",
       "bioguide_id": "K000305",
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -310,6 +316,8 @@
           "name": "Retail Sales"
         }
       ],
+      "senate_class": "I",
+      "name": "Herb Kohl",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

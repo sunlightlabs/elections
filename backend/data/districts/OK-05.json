@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/James_Lankford",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000575.jpg",
+      "seat_status": "I",
       "bioguide_id": "L000575",
       "fec_summary": {
         "contributions_pac": "208224.87",
@@ -89,6 +90,8 @@
           "name": "Insurance"
         }
       ],
+      "senate_class": "",
+      "name": "James Lankford",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Lynn_Westmoreland",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000796.jpg",
+      "seat_status": "I",
       "bioguide_id": "W000796",
       "fec_summary": {
         "contributions_pac": "445655.30",
@@ -89,6 +90,8 @@
           "name": "Beer, Wine & Liquor"
         }
       ],
+      "senate_class": "",
+      "name": "Lynn A Westmoreland",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

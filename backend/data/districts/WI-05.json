@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=S000244",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000244.jpg",
+      "seat_status": "I",
       "bioguide_id": "S000244",
       "fec_summary": {
         "contributions_pac": "208376.55",
@@ -89,6 +90,8 @@
           "name": "Commercial Banks"
         }
       ],
+      "senate_class": "",
+      "name": "F James Sensenbrenner Jr",
       "endorsements": [
         {
           "name": "National Taxpayers Union",
@@ -109,6 +112,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=K000305",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000305.jpg",
+      "seat_status": "I",
       "bioguide_id": "K000305",
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -188,6 +192,8 @@
           "name": "Retail Sales"
         }
       ],
+      "senate_class": "I",
+      "name": "Herb Kohl",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

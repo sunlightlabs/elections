@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Aaron_Schock",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001179.jpg",
+      "seat_status": "I",
       "bioguide_id": "S001179",
       "fec_summary": {
         "contributions_pac": "901682.50",
@@ -89,6 +90,8 @@
           "name": "Crop Production & Basic Processing"
         }
       ],
+      "senate_class": "",
+      "name": "Aaron Schock",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

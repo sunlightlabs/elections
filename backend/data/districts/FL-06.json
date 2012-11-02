@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "22500.00",
@@ -89,6 +90,7 @@
           "name": "Forestry & Forest Products"
         }
       ],
+      "name": "Heather Beaven",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -114,6 +116,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=N000032",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/N000032.jpg",
+      "seat_status": "I",
       "bioguide_id": "N000032",
       "fec_summary": {
         "contributions_pac": "1887907.00",
@@ -193,6 +196,8 @@
           "name": "Leadership Pacs"
         }
       ],
+      "senate_class": "I",
+      "name": "Bill Nelson",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -233,225 +238,6 @@
           "name": "National Taxpayers Union",
           "type": "rating",
           "value": "15"
-        }
-      ]
-    },
-    {
-      "entity_id": "e513c527fe354057b1b97543cc4b9d43",
-      "chamber": "senate",
-      "state": "FL",
-      "state_name": "Florida",
-      "district": null,
-      "party": "D",
-      "incumbent": false,
-      "bio_url": "http://en.wikipedia.org/wiki/Kendrick_Meek",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001148.jpg",
-      "bioguide_id": "M001148",
-      "fec_summary": {
-        "contributions_pac": "0.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "0.00",
-        "disbursements": "6732.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "0.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "46278.63"
-      },
-      "industries": [
-        {
-          "count": "1578",
-          "amount": "1391408.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "572",
-          "amount": "428173.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "345",
-          "amount": "371375.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "369",
-          "amount": "361157.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "137",
-          "amount": "335200.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "452",
-          "amount": "316270.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "236",
-          "amount": "258216.00",
-          "id": "08c1fa7788994f148eddfb78c10032cf",
-          "name": "Pharmaceuticals/Health Products"
-        },
-        {
-          "count": "192",
-          "amount": "238446.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "219",
-          "amount": "233723.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        },
-        {
-          "count": "136",
-          "amount": "185969.00",
-          "id": "d7f2ea758c734016bf689e2d06322df2",
-          "name": "Tobacco"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "AFL-CIO",
-          "type": "endorsement",
-          "value": "Y"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "80"
-        }
-      ]
-    },
-    {
-      "entity_id": "adc3347820d14b8e9468880e3eb010f6",
-      "chamber": "senate",
-      "state": "FL",
-      "state_name": "Florida",
-      "district": null,
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Marco_Rubio",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000595.jpg",
-      "bioguide_id": "R000595",
-      "fec_summary": {
-        "contributions_pac": "386933.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "367875.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "5200148.00",
-        "disbursements": "4156932.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "4156333.00",
-        "contributions_party": "50.00",
-        "cash_on_hand": "1272443.00"
-      },
-      "industries": [
-        {
-          "count": "4772",
-          "amount": "2530170.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "1321",
-          "amount": "825976.00",
-          "id": "767c434bfd1348638bab7f8c12b9282f",
-          "name": "Republican/Conservative"
-        },
-        {
-          "count": "600",
-          "amount": "809413.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "561",
-          "amount": "579969.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "563",
-          "amount": "433873.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "626",
-          "amount": "416355.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "423",
-          "amount": "366462.00",
-          "id": "d9c4a26cd671436eac3c501184364fc4",
-          "name": "Misc Business"
-        },
-        {
-          "count": "479",
-          "amount": "361977.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "357",
-          "amount": "349789.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        },
-        {
-          "count": "235",
-          "amount": "346520.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "F"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "91"
         }
       ]
     }

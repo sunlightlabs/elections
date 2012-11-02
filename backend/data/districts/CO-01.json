@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Diana_DeGette",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000197.jpg",
+      "seat_status": "I",
       "bioguide_id": "D000197",
       "fec_summary": {
         "contributions_pac": "400250.00",
@@ -89,6 +90,8 @@
           "name": "Women's Issues"
         }
       ],
+      "senate_class": "",
+      "name": "Diana DeGette",
       "endorsements": [
         {
           "name": "AFL-CIO",

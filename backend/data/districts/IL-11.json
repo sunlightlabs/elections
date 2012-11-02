@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Bill_Foster_%28Illinois_politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000454.jpg",
+      "seat_status": "C",
       "bioguide_id": "F000454",
       "fec_summary": {
         "contributions_pac": "251800.00",
@@ -89,6 +90,8 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
+      "name": "Bill Foster",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -112,6 +115,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Judy_Biggert",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001232.jpg",
+      "seat_status": "I",
       "bioguide_id": "B001232",
       "fec_summary": {
         "contributions_pac": "957569.42",
@@ -191,6 +195,8 @@
           "name": "Misc Manufacturing & Distributing"
         }
       ],
+      "senate_class": "",
+      "name": "Judy Biggert",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

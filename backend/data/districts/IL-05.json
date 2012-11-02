@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Michael_Quigley",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/Q000023.jpg",
+      "seat_status": "I",
       "bioguide_id": "Q000023",
       "fec_summary": {
         "contributions_pac": "258250.00",
@@ -89,6 +90,8 @@
           "name": "Industrial Unions"
         }
       ],
+      "senate_class": "",
+      "name": "Mike Quigley",
       "endorsements": [
         {
           "name": "AFL-CIO",

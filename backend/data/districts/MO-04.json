@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "122050.00",
@@ -89,6 +90,7 @@
           "name": "Civil Servants/Public Officials"
         }
       ],
+      "name": "Teresa Hensley",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -112,6 +114,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Vicky_Hartzler",
       "photo_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Vicky_Hartzler%2C_Official_Portrait%2C_112th_Congress.JPG/225px-Vicky_Hartzler%2C_Official_Portrait%2C_112th_Congress.JPG",
+      "seat_status": "I",
       "bioguide_id": "H001053",
       "fec_summary": {
         "contributions_pac": "416034.28",
@@ -191,6 +194,8 @@
           "name": "Misc Manufacturing & Distributing"
         }
       ],
+      "senate_class": "",
+      "name": "Vicky Hartzler",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -223,89 +228,6 @@
           "value": "88"
         }
       ]
-    },
-    {
-      "entity_id": "82b276fb5dde4d2eb97d2ab26472d7ff",
-      "chamber": "house",
-      "state": "MO",
-      "state_name": "Missouri",
-      "district": "04",
-      "party": "D",
-      "incumbent": false,
-      "bio_url": "http://en.wikipedia.org/wiki/Ike_Skelton",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000465.jpg",
-      "bioguide_id": "S000465",
-      "fec_summary": {
-      },
-      "industries": [
-        {
-          "count": "533",
-          "amount": "650638.00",
-          "id": "62b2b24eb9c248e68af69cb177822948",
-          "name": "Defense Aerospace"
-        },
-        {
-          "count": "830",
-          "amount": "608360.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "360",
-          "amount": "431869.00",
-          "id": "4c3799fc60b34f2aa250f7e8f5b2c3e6",
-          "name": "Defense Electronics"
-        },
-        {
-          "count": "296",
-          "amount": "416937.00",
-          "id": "f7959bfcdd044aa58cfb2e335cfc67e6",
-          "name": "Misc Defense"
-        },
-        {
-          "count": "471",
-          "amount": "329371.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "161",
-          "amount": "277159.00",
-          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
-          "name": "Transportation Unions"
-        },
-        {
-          "count": "196",
-          "amount": "263025.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "128",
-          "amount": "230500.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "483",
-          "amount": "196689.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "254",
-          "amount": "193064.00",
-          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
-          "name": "Commercial Banks"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "45"
-        }
-      ]
     }
   ],
   "senate": [
@@ -319,6 +241,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Claire_McCaskill",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001170.jpg",
+      "seat_status": "I",
       "bioguide_id": "M001170",
       "fec_summary": {
         "contributions_pac": "1555358.00",
@@ -398,6 +321,8 @@
           "name": "Business Services"
         }
       ],
+      "senate_class": "I",
+      "name": "Claire McCaskill",
       "endorsements": [
         {
           "name": "AFL-CIO",

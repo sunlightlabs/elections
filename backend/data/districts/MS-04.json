@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Steven_Palazzo",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000601.jpg",
+      "seat_status": "I",
       "bioguide_id": "P000601",
       "fec_summary": {
         "contributions_pac": "317285.67",
@@ -89,6 +90,8 @@
           "name": "Defense Aerospace"
         }
       ],
+      "senate_class": "",
+      "name": "Steven Palazzo",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -120,128 +123,6 @@
   ],
   "senate": [
     {
-      "entity_id": "a607dfef822840498b9da16ad8006057",
-      "chamber": "senate",
-      "state": "MS",
-      "state_name": "Mississippi",
-      "district": null,
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Thad_Cochran",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000567.jpg",
-      "bioguide_id": "C000567",
-      "fec_summary": {
-        "contributions_pac": "43000.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "74987.00",
-        "disbursements": "130891.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "28150.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "319632.00"
-      },
-      "industries": [
-        {
-          "count": "575",
-          "amount": "558714.00",
-          "id": "0b27f92a966443129f79dfa42ae1f293",
-          "name": "Crop Production & Basic Processing"
-        },
-        {
-          "count": "392",
-          "amount": "385785.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "210",
-          "amount": "283098.00",
-          "id": "c3081aa14b0141df8d47684635bc0b26",
-          "name": "Agricultural Services/Products"
-        },
-        {
-          "count": "206",
-          "amount": "236700.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "203",
-          "amount": "231985.00",
-          "id": "52766c4910a846f2813a1dda212b7027",
-          "name": "Oil & Gas"
-        },
-        {
-          "count": "255",
-          "amount": "217919.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "151",
-          "amount": "212486.00",
-          "id": "62b2b24eb9c248e68af69cb177822948",
-          "name": "Defense Aerospace"
-        },
-        {
-          "count": "170",
-          "amount": "194712.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "115",
-          "amount": "158250.00",
-          "id": "08c1fa7788994f148eddfb78c10032cf",
-          "name": "Pharmaceuticals/Health Products"
-        },
-        {
-          "count": "44",
-          "amount": "142781.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "70"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "F"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "5"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "71"
-        }
-      ]
-    },
-    {
       "entity_id": "159c40291deb455596155ded63972bf4",
       "chamber": "senate",
       "state": "MS",
@@ -251,6 +132,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Roger_Wicker",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000437.jpg",
+      "seat_status": "I",
       "bioguide_id": "W000437",
       "fec_summary": {
         "contributions_pac": "1105520.00",
@@ -330,6 +212,8 @@
           "name": "Securities & Investment"
         }
       ],
+      "senate_class": "I",
+      "name": "Roger Wicker",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

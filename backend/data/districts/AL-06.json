@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "15000.00",
@@ -65,6 +66,7 @@
           "name": "Lawyers/Law Firms"
         }
       ],
+      "name": "Penny Bailey",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -88,6 +90,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Spencer_Bachus",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000013.jpg",
+      "seat_status": "I",
       "bioguide_id": "B000013",
       "fec_summary": {
         "contributions_pac": "1297807.90",
@@ -167,6 +170,8 @@
           "name": "Lobbyists"
         }
       ],
+      "senate_class": "",
+      "name": "Spencer Bachus",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

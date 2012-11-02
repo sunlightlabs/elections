@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_F._Tierney",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/T000266.jpg",
+      "seat_status": "I",
       "bioguide_id": "T000266",
       "fec_summary": {
         "contributions_pac": "576628.13",
@@ -89,6 +90,8 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
+      "name": "John F Tierney",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -144,6 +147,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "476762.00",
@@ -223,6 +227,7 @@
           "name": "Tv/Movies/Music"
         }
       ],
+      "name": "Elizabeth Warren",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -252,128 +257,6 @@
       ]
     },
     {
-      "entity_id": "38538222db234f209777bbaa003ff6c5",
-      "chamber": "senate",
-      "state": "MA",
-      "state_name": "Massachusetts",
-      "district": null,
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/John_Kerry",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000148.jpg",
-      "bioguide_id": "K000148",
-      "fec_summary": {
-        "contributions_pac": "75088.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "487013.00",
-        "disbursements": "2134591.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "291273.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "1549759.00"
-      },
-      "industries": [
-        {
-          "count": "31838",
-          "amount": "26084675.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "23288",
-          "amount": "14754873.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "12021",
-          "amount": "8825184.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "13758",
-          "amount": "7876016.00",
-          "id": "31657d3c187e4cecb670d228d7e674d2",
-          "name": "Education"
-        },
-        {
-          "count": "9365",
-          "amount": "6862161.00",
-          "id": "d9c4a26cd671436eac3c501184364fc4",
-          "name": "Misc Business"
-        },
-        {
-          "count": "6206",
-          "amount": "6379275.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "6183",
-          "amount": "5277217.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "6518",
-          "amount": "5156124.00",
-          "id": "6e1074968db94bf4851c0245cd8583bf",
-          "name": "Women's Issues"
-        },
-        {
-          "count": "5433",
-          "amount": "4500709.00",
-          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
-          "name": "Tv/Movies/Music"
-        },
-        {
-          "count": "5901",
-          "amount": "4380130.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "44"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "85"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "13"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "5"
-        }
-      ]
-    },
-    {
       "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
       "chamber": "senate",
       "state": "MA",
@@ -383,6 +266,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Scott_Brown",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001268.jpg",
+      "seat_status": "I",
       "bioguide_id": "B001268",
       "fec_summary": {
         "contributions_pac": "2111315.00",
@@ -462,6 +346,8 @@
           "name": "Business Services"
         }
       ],
+      "senate_class": "I",
+      "name": "Scott P. Brown",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
