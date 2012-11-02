@@ -3,23 +3,27 @@
 <% if (house) { %>
 <div class="race race-house">
     <h3>House</h3>
-    <% _.each(house, function(candidate) { %>
+    <% _.each(house, function(candidate, idx) { console.log('a', idx); %>
     <div class="candidate span5">
         <%=candidateTemplate(candidate)%>
     </div>
-    <% }); %>
+    <% if (idx > 0 && idx % 2 == 1) { %>
     <div class="clear"></div>
+    <% } %>
+    <% }); %>
 </div>
 <% } %>
 
 <% if (senate) { %>
 <div class="race race-senate">
     <h3>Senate</h3>
-    <% _.each(senate, function(candidate) { %>
+    <% _.each(senate, function(candidate, idx) { %>
     <div class="candidate span5">
         <%=candidateTemplate(candidate)%>
     </div>
-    <% }); %>
+    <% if (idx > 0 && idx % 2 == 1) { %>
     <div class="clear"></div>
+    <% } %>
+    <% }); %>
 </div>
 <% } %>

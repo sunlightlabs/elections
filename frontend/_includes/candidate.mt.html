@@ -20,5 +20,17 @@
     </ul>
 </div>
 <div class="campaign-finance">
-    <h5>Campaign Finance</h5>
+    <h5>Campaign Contributions</h5>
+    <strong>Total Raised:</strong> $<%=formatDollars(fec_summary.total_raised)%>
+    
+    <% if (industries.length) { %>
+    <div class="industries">
+        <strong>Top Insdustry Contributors:</strong>
+        <ul>
+            <% _.each(industries.slice(0,5), function(industry) { %>
+            <li><%=industry.name%>: $<%=formatDollars(industry.amount)%></li>
+            <% }); %>
+        </ul>
+    </div>
+    <% } %>
 </div>
