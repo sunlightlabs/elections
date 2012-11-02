@@ -1,0 +1,708 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "CA",
+      "state_name": "California",
+      "district": "36",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "195399.00",
+        "office": "H",
+        "total_receipts_rank": 284,
+        "max_rank": 695,
+        "contributions_candidate": "5000.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 196,
+        "total_raised": "846869.81",
+        "disbursements": "222623.10",
+        "total_disbursements_rank": 479,
+        "date": "2012-06-30",
+        "contributions_indiv": "641844.31",
+        "contributions_party": "4600.00",
+        "cash_on_hand": "624871.71"
+      },
+      "industries": [
+        {
+          "count": "116",
+          "amount": "88000.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "88",
+          "amount": "78379.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "49",
+          "amount": "46380.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        },
+        {
+          "count": "8",
+          "amount": "37500.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "41",
+          "amount": "35575.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "47",
+          "amount": "25900.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "6",
+          "amount": "23000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "9",
+          "amount": "19500.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "18",
+          "amount": "17950.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "12",
+          "amount": "17500.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "cadd08c0f4004c6590a74fc1caf6ba28",
+      "chamber": "house",
+      "state": "CA",
+      "state_name": "California",
+      "district": "36",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Jane_Harman",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H000213.jpg",
+      "bioguide_id": "H000213",
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": "H",
+        "total_receipts_rank": 1509,
+        "max_rank": 1515,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 1289,
+        "total_raised": "-1918.24",
+        "disbursements": "41232.29",
+        "total_disbursements_rank": 1047,
+        "date": "2011-05-05",
+        "contributions_indiv": "0.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "44.27"
+      },
+      "industries": [
+        {
+          "count": "1203",
+          "amount": "768771.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1072",
+          "amount": "607334.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "608",
+          "amount": "558299.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "566",
+          "amount": "450988.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "492",
+          "amount": "442647.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "469",
+          "amount": "436550.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "345",
+          "amount": "317135.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "327",
+          "amount": "313499.00",
+          "id": "4c3799fc60b34f2aa250f7e8f5b2c3e6",
+          "name": "Defense Electronics"
+        },
+        {
+          "count": "259",
+          "amount": "286786.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "331",
+          "amount": "250770.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "c84a4c8d94cb4768b697de1f99e00f9e",
+      "chamber": "house",
+      "state": "CA",
+      "state_name": "California",
+      "district": "36",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Mary_Bono_Mack",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001228.jpg",
+      "bioguide_id": "B001228",
+      "fec_summary": {
+        "contributions_pac": "704241.35",
+        "office": "H",
+        "total_receipts_rank": 107,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "95473.87",
+        "cash_on_hand_rank": 142,
+        "total_raised": "1464908.57",
+        "disbursements": "860084.64",
+        "total_disbursements_rank": 113,
+        "date": "2012-06-30",
+        "contributions_indiv": "660870.10",
+        "contributions_party": "0.00",
+        "cash_on_hand": "848211.26"
+      },
+      "industries": [
+        {
+          "count": "995",
+          "amount": "657093.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "420",
+          "amount": "522872.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "374",
+          "amount": "427325.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "300",
+          "amount": "329071.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "119",
+          "amount": "274559.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "351",
+          "amount": "233816.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "295",
+          "amount": "228789.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "200",
+          "amount": "212125.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "168",
+          "amount": "208085.00",
+          "id": "13718be68388456d9b6e8db753f06e72",
+          "name": "Casinos/Gambling"
+        },
+        {
+          "count": "180",
+          "amount": "190200.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "20"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "64"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
+      "chamber": "senate",
+      "state": "CA",
+      "state_name": "California",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Dianne_Feinstein",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000062.jpg",
+      "bioguide_id": "F000062",
+      "fec_summary": {
+        "contributions_pac": "1365713.00",
+        "office": "S",
+        "total_receipts_rank": 6,
+        "max_rank": 62,
+        "contributions_candidate": "77115.00",
+        "transfers_in": "252491.00",
+        "cash_on_hand_rank": 19,
+        "total_raised": "5630955.00",
+        "disbursements": "11392652.00",
+        "total_disbursements_rank": 4,
+        "date": "2012-06-30",
+        "contributions_indiv": "3824089.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "3085602.00"
+      },
+      "industries": [
+        {
+          "count": "4397",
+          "amount": "3130358.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "2797",
+          "amount": "1695579.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1783",
+          "amount": "1428903.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "1430",
+          "amount": "1305503.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1209",
+          "amount": "1216736.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "2071",
+          "amount": "1205507.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "1098",
+          "amount": "817265.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "837",
+          "amount": "687480.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "619",
+          "amount": "663641.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "816",
+          "amount": "658728.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Planned Parenthood California",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "California League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Farm Bureau Federation",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "San Francisco Chronicle",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "San Francisco Labor Council",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "AFL-CIO California",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "NOW California",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "40"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F-"
+        },
+        {
+          "name": "National Rifle Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "9"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "entity_id": "516938dc439c46ac9394a3c449717ac8",
+      "chamber": "senate",
+      "state": "CA",
+      "state_name": "California",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Barbara_Boxer",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000711.jpg",
+      "bioguide_id": "B000711",
+      "fec_summary": {
+        "contributions_pac": "8402.00",
+        "office": "S",
+        "total_receipts_rank": 4,
+        "max_rank": 5,
+        "contributions_candidate": "0.00",
+        "transfers_in": "18455.00",
+        "cash_on_hand_rank": 4,
+        "total_raised": "372234.00",
+        "disbursements": "670673.00",
+        "total_disbursements_rank": 1,
+        "date": "2012-06-30",
+        "contributions_indiv": "25804.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "308897.00"
+      },
+      "industries": [
+        {
+          "count": "7528",
+          "amount": "5229819.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "6991",
+          "amount": "3409438.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "5238",
+          "amount": "2683798.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "3364",
+          "amount": "2628640.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "2550",
+          "amount": "1623659.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "1433",
+          "amount": "1122524.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1039",
+          "amount": "1054276.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "1587",
+          "amount": "938463.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "1258",
+          "amount": "899761.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "1009",
+          "amount": "877926.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "30"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "95"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "9"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "entity_id": "6e77aa224af049429981ebf39089e070",
+      "chamber": "senate",
+      "state": "CA",
+      "state_name": "California",
+      "district": null,
+      "party": "R",
+      "incumbent": false,
+      "bio_url": "http://en.wikipedia.org/wiki/Elizabeth_Emken",
+      "photo_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Emken.jpg/225px-Emken.jpg",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "7500.00",
+        "office": "S",
+        "total_receipts_rank": 55,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "5000.00",
+        "cash_on_hand_rank": 59,
+        "total_raised": "188774.00",
+        "disbursements": "362270.00",
+        "total_disbursements_rank": 55,
+        "date": "2012-06-30",
+        "contributions_indiv": "170425.00",
+        "contributions_party": "5000.00",
+        "cash_on_hand": "26753.00"
+      },
+      "industries": [
+        {
+          "count": "36",
+          "amount": "50350.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "51",
+          "amount": "36550.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "28",
+          "amount": "27000.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "19",
+          "amount": "17100.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "15",
+          "amount": "13299.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "13",
+          "amount": "12120.00",
+          "id": "b3f5a58a6d4e4aebb553fa744082172e",
+          "name": "Other"
+        },
+        {
+          "count": "13",
+          "amount": "12120.00",
+          "id": "9f3c50e47e284b4eb8ae9d49ce226869",
+          "name": "Intl Orgs"
+        },
+        {
+          "count": "9",
+          "amount": "11000.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "6",
+          "amount": "7650.00",
+          "id": "db81234a46874e7392cb5dfec1f07113",
+          "name": "Printing & Publishing"
+        },
+        {
+          "count": "8",
+          "amount": "6300.00",
+          "id": "32383c4d430e4b63aaa584500088331c",
+          "name": "Retail Sales"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "National Rifle Association",
+          "type": "grade",
+          "value": "A"
+        }
+      ]
+    }
+  ]
+}

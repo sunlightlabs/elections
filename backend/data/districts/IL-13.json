@@ -1,0 +1,327 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": "13",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "39870.00",
+        "office": "H",
+        "total_receipts_rank": 462,
+        "max_rank": 695,
+        "contributions_candidate": "702.00",
+        "transfers_in": "3855.32",
+        "cash_on_hand_rank": 410,
+        "total_raised": "427744.88",
+        "disbursements": "230520.14",
+        "total_disbursements_rank": 472,
+        "date": "2012-06-30",
+        "contributions_indiv": "380554.56",
+        "contributions_party": "2000.00",
+        "cash_on_hand": "200606.41"
+      },
+      "industries": [
+        {
+          "count": "282",
+          "amount": "115270.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "118",
+          "amount": "50783.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "60",
+          "amount": "26565.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "14",
+          "amount": "18325.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "35",
+          "amount": "13250.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "22",
+          "amount": "10840.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "27",
+          "amount": "10202.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "12",
+          "amount": "9818.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "3",
+          "amount": "7000.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "4",
+          "amount": "7000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "entity_id": "71363a60af9d4e17afef449164eb8276",
+      "chamber": "house",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": "13",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Tim_Johnson_%28Illinois_politician%29",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/J000285.jpg",
+      "bioguide_id": "J000285",
+      "fec_summary": {
+        "contributions_pac": "358277.49",
+        "office": "H",
+        "total_receipts_rank": 363,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 336,
+        "total_raised": "564703.34",
+        "disbursements": "538256.42",
+        "total_disbursements_rank": 272,
+        "date": "2012-06-30",
+        "contributions_indiv": "263600.39",
+        "contributions_party": "15250.00",
+        "cash_on_hand": "325967.65"
+      },
+      "industries": [
+        {
+          "count": "102",
+          "amount": "217375.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "281",
+          "amount": "202295.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "69",
+          "amount": "144000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "139",
+          "amount": "129078.00",
+          "id": "c3081aa14b0141df8d47684635bc0b26",
+          "name": "Agricultural Services/Products"
+        },
+        {
+          "count": "91",
+          "amount": "116500.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "138",
+          "amount": "115400.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "140",
+          "amount": "106924.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "222",
+          "amount": "105943.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "151",
+          "amount": "103165.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "75",
+          "amount": "92800.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "25"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "78"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "64"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "c852c26ea375407f82fb1a53bb8ca006",
+      "chamber": "senate",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": null,
+      "party": "D",
+      "incumbent": false,
+      "bio_url": "http://en.wikipedia.org/wiki/Roland_Burris",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001266.jpg",
+      "bioguide_id": "B001266",
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "0.00",
+        "disbursements": "18838.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "0.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "0.00"
+      },
+      "industries": [
+        {
+          "count": "5",
+          "amount": "11000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "2",
+          "amount": "10000.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "6",
+          "amount": "9300.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "13",
+          "amount": "7550.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "11",
+          "amount": "6250.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "3",
+          "amount": "6000.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "1",
+          "amount": "5000.00",
+          "id": "3c5d7d12454b43e9ad838eac555a4e81",
+          "name": "Environmental Svcs/Equipment"
+        },
+        {
+          "count": "1",
+          "amount": "5000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "4",
+          "amount": "3000.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "2",
+          "amount": "2900.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "60"
+        }
+      ]
+    }
+  ]
+}

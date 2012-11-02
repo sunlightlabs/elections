@@ -1,0 +1,322 @@
+{
+  "house": [
+    {
+      "entity_id": "3e192fde2cda4ca291a9850ad43776fb",
+      "chamber": "house",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": "11",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": "http://en.wikipedia.org/wiki/Bill_Foster_%28Illinois_politician%29",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000454.jpg",
+      "bioguide_id": "F000454",
+      "fec_summary": {
+        "contributions_pac": "251800.00",
+        "office": "H",
+        "total_receipts_rank": 84,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "4000.00",
+        "cash_on_hand_rank": 65,
+        "total_raised": "1701609.87",
+        "disbursements": "514995.25",
+        "total_disbursements_rank": 284,
+        "date": "2012-06-30",
+        "contributions_indiv": "1439559.78",
+        "contributions_party": "1644.86",
+        "cash_on_hand": "1270375.98"
+      },
+      "industries": [
+        {
+          "count": "1540",
+          "amount": "777359.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "911",
+          "amount": "668928.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "289",
+          "amount": "391755.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "634",
+          "amount": "382574.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "177",
+          "amount": "372500.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "765",
+          "amount": "367484.00",
+          "id": "9e701425eeb14b4c874cfb4415a4ac3b",
+          "name": "Civil Servants/Public Officials"
+        },
+        {
+          "count": "471",
+          "amount": "346875.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "273",
+          "amount": "202892.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "89",
+          "amount": "184800.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "141",
+          "amount": "182583.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "entity_id": "372fa430380d488da5020fc05a69d88f",
+      "chamber": "house",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": "11",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Judy_Biggert",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001232.jpg",
+      "bioguide_id": "B001232",
+      "fec_summary": {
+        "contributions_pac": "957569.42",
+        "office": "H",
+        "total_receipts_rank": 75,
+        "max_rank": 695,
+        "contributions_candidate": "-5000.00",
+        "transfers_in": "17227.83",
+        "cash_on_hand_rank": 39,
+        "total_raised": "1753740.15",
+        "disbursements": "620649.72",
+        "total_disbursements_rank": 214,
+        "date": "2012-06-30",
+        "contributions_indiv": "772419.15",
+        "contributions_party": "10000.00",
+        "cash_on_hand": "1539048.61"
+      },
+      "industries": [
+        {
+          "count": "518",
+          "amount": "629651.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "449",
+          "amount": "523800.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "675",
+          "amount": "495501.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "414",
+          "amount": "467676.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "265",
+          "amount": "343286.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "133",
+          "amount": "293188.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "269",
+          "amount": "206185.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "250",
+          "amount": "186075.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "135",
+          "amount": "179474.00",
+          "id": "7a214b1dc0054b768d4c4eb6f8f625c8",
+          "name": "Accountants"
+        },
+        {
+          "count": "146",
+          "amount": "173150.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "75"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "66"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "44"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "c852c26ea375407f82fb1a53bb8ca006",
+      "chamber": "senate",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": null,
+      "party": "D",
+      "incumbent": false,
+      "bio_url": "http://en.wikipedia.org/wiki/Roland_Burris",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001266.jpg",
+      "bioguide_id": "B001266",
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "0.00",
+        "disbursements": "18838.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "0.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "0.00"
+      },
+      "industries": [
+        {
+          "count": "5",
+          "amount": "11000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "2",
+          "amount": "10000.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "6",
+          "amount": "9300.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "13",
+          "amount": "7550.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "11",
+          "amount": "6250.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "3",
+          "amount": "6000.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "1",
+          "amount": "5000.00",
+          "id": "3c5d7d12454b43e9ad838eac555a4e81",
+          "name": "Environmental Svcs/Equipment"
+        },
+        {
+          "count": "1",
+          "amount": "5000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "4",
+          "amount": "3000.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "2",
+          "amount": "2900.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "60"
+        }
+      ]
+    }
+  ]
+}

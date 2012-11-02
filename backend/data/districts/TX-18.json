@@ -1,0 +1,474 @@
+{
+  "house": [
+    {
+      "entity_id": "eda31b0d8eee41d98e06c75888e792ce",
+      "chamber": "house",
+      "state": "TX",
+      "state_name": "Texas",
+      "district": "18",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Sheila_Jackson_Lee",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/J000032.jpg",
+      "bioguide_id": "J000032",
+      "fec_summary": {
+        "contributions_pac": "204850.00",
+        "office": "H",
+        "total_receipts_rank": 484,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 429,
+        "total_raised": "349512.00",
+        "disbursements": "299458.46",
+        "total_disbursements_rank": 434,
+        "date": "2012-06-30",
+        "contributions_indiv": "144462.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "164707.23"
+      },
+      "industries": [
+        {
+          "count": "466",
+          "amount": "440366.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "435",
+          "amount": "416510.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "113",
+          "amount": "253000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "186",
+          "amount": "227750.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "257",
+          "amount": "195575.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "156",
+          "amount": "192208.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "107",
+          "amount": "191000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "165",
+          "amount": "138498.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "133",
+          "amount": "125800.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "98",
+          "amount": "111750.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "12"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "4"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": null,
+      "chamber": "senate",
+      "state": "TX",
+      "state_name": "Texas",
+      "district": null,
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "37000.00",
+        "office": "S",
+        "total_receipts_rank": 59,
+        "max_rank": 62,
+        "contributions_candidate": "6210.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 57,
+        "total_raised": "138697.00",
+        "disbursements": "108442.00",
+        "total_disbursements_rank": 59,
+        "date": "2012-07-11",
+        "contributions_indiv": "95487.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "30753.00"
+      },
+      "industries": [
+        {
+          "count": "3",
+          "amount": "15000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "8",
+          "amount": "9000.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "8",
+          "amount": "7500.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "2",
+          "amount": "7500.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "1",
+          "amount": "2500.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "1",
+          "amount": "2500.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "1",
+          "amount": "2500.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "2",
+          "amount": "1000.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "1",
+          "amount": "500.00",
+          "id": "9e701425eeb14b4c874cfb4415a4ac3b",
+          "name": "Civil Servants/Public Officials"
+        },
+        {
+          "count": "1",
+          "amount": "500.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "61d00a149f0b4f9facc635dd9a3503f9",
+      "chamber": "senate",
+      "state": "TX",
+      "state_name": "Texas",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/John_Cornyn",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001056.jpg",
+      "bioguide_id": "C001056",
+      "fec_summary": {
+        "contributions_pac": "292099.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "92560.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "1453525.00",
+        "disbursements": "639367.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "1024941.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "2610513.00"
+      },
+      "industries": [
+        {
+          "count": "2843",
+          "amount": "2144828.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1965",
+          "amount": "1809750.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "3067",
+          "amount": "1770558.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "2189",
+          "amount": "1553178.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "1487",
+          "amount": "1223451.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "1410",
+          "amount": "1161450.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "950",
+          "amount": "993325.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "1315",
+          "amount": "742110.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "761",
+          "amount": "714928.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "731",
+          "amount": "619917.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "84"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "90"
+        }
+      ]
+    },
+    {
+      "entity_id": "967babfa02094120af17d5b0be021f32",
+      "chamber": "senate",
+      "state": "TX",
+      "state_name": "Texas",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=H001016",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001016.jpg",
+      "bioguide_id": "H001016",
+      "fec_summary": {
+        "contributions_pac": "2000.00",
+        "office": "S",
+        "total_receipts_rank": 212,
+        "max_rank": 231,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 86,
+        "total_raised": "2428.00",
+        "disbursements": "71338.00",
+        "total_disbursements_rank": 151,
+        "date": "2012-06-30",
+        "contributions_indiv": "4909.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "89445.00"
+      },
+      "industries": [
+        {
+          "count": "2527",
+          "amount": "2136925.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "2445",
+          "amount": "1783348.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "2442",
+          "amount": "1404702.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1716",
+          "amount": "1241832.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "1668",
+          "amount": "937840.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "1006",
+          "amount": "808992.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "1061",
+          "amount": "791506.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "977",
+          "amount": "781256.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "734",
+          "amount": "623950.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "760",
+          "amount": "551601.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "89"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "79"
+        }
+      ]
+    }
+  ]
+}

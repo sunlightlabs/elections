@@ -1,0 +1,245 @@
+{
+  "house": [
+    {
+      "entity_id": "02b3c6f9a1ba458fbf9623e02cfd4001",
+      "chamber": "house",
+      "state": "GA",
+      "state_name": "Georgia",
+      "district": "01",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Jack_Kingston",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000220.jpg",
+      "bioguide_id": "K000220",
+      "fec_summary": {
+        "contributions_pac": "592255.17",
+        "office": "H",
+        "total_receipts_rank": 279,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 68,
+        "total_raised": "855771.73",
+        "disbursements": "557056.64",
+        "total_disbursements_rank": 255,
+        "date": "2012-07-11",
+        "contributions_indiv": "251102.83",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1249626.33"
+      },
+      "industries": [
+        {
+          "count": "580",
+          "amount": "428508.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "555",
+          "amount": "410528.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "613",
+          "amount": "403496.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "471",
+          "amount": "335008.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "414",
+          "amount": "298555.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "322",
+          "amount": "290417.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "244",
+          "amount": "228315.00",
+          "id": "93b0e1ce2e904638a93eb9bbcd0bb7f8",
+          "name": "Food Processing & Sales"
+        },
+        {
+          "count": "187",
+          "amount": "203246.00",
+          "id": "c3081aa14b0141df8d47684635bc0b26",
+          "name": "Agricultural Services/Products"
+        },
+        {
+          "count": "230",
+          "amount": "183160.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "160",
+          "amount": "179709.00",
+          "id": "7238b653baa844b3a5a61f02d8b9b524",
+          "name": "Poultry & Eggs"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "78"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "92"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "e1b31b036bf4439e80d0bc115b842c62",
+      "chamber": "senate",
+      "state": "GA",
+      "state_name": "Georgia",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=I000055",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/I000055.jpg",
+      "bioguide_id": "I000055",
+      "fec_summary": {
+        "contributions_pac": "174750.00",
+        "office": "S",
+        "total_receipts_rank": 1,
+        "max_rank": 5,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 2,
+        "total_raised": "913868.00",
+        "disbursements": "556923.00",
+        "total_disbursements_rank": 2,
+        "date": "2012-06-30",
+        "contributions_indiv": "603225.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1516011.00"
+      },
+      "industries": [
+        {
+          "count": "2836",
+          "amount": "2404632.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1755",
+          "amount": "1254236.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1633",
+          "amount": "1085370.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "838",
+          "amount": "705497.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "629",
+          "amount": "575527.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "536",
+          "amount": "528492.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "147",
+          "amount": "486039.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "461",
+          "amount": "411795.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "373",
+          "amount": "399587.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "311",
+          "amount": "385145.00",
+          "id": "165d820dd48441e1befdc47f3fa3d236",
+          "name": "Food & Beverage"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "5"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "79"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "75"
+        }
+      ]
+    }
+  ]
+}

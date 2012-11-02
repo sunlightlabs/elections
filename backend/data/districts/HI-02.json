@@ -1,0 +1,489 @@
+{
+  "house": [
+    {
+      "entity_id": "79f92c32d0a244009c8c296dd4daff30",
+      "chamber": "house",
+      "state": "HI",
+      "state_name": "Hawaii",
+      "district": "02",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": "http://en.wikipedia.org/wiki/Mazie_Hirono",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001042.jpg",
+      "bioguide_id": "H001042",
+      "fec_summary": {
+        "contributions_pac": "726128.00",
+        "office": "S",
+        "total_receipts_rank": 36,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "214540.00",
+        "cash_on_hand_rank": 39,
+        "total_raised": "3417325.00",
+        "disbursements": "2039270.57",
+        "total_disbursements_rank": 36,
+        "date": "2012-07-22",
+        "contributions_indiv": "2424517.00",
+        "contributions_party": "43100.00",
+        "cash_on_hand": "1600126.00"
+      },
+      "industries": [
+        {
+          "count": "999",
+          "amount": "829439.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "389",
+          "amount": "292440.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "175",
+          "amount": "258500.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "75",
+          "amount": "233550.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "119",
+          "amount": "221868.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "77",
+          "amount": "218500.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "450",
+          "amount": "214787.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "216",
+          "amount": "209084.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "110",
+          "amount": "140549.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        },
+        {
+          "count": "47",
+          "amount": "122750.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "30"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "11"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "HI",
+      "state_name": "Hawaii",
+      "district": "02",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "64701.15",
+        "office": "H",
+        "total_receipts_rank": 223,
+        "max_rank": 695,
+        "contributions_candidate": "29635.47",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 314,
+        "total_raised": "983552.73",
+        "disbursements": "626237.81",
+        "total_disbursements_rank": 210,
+        "date": "2012-07-22",
+        "contributions_indiv": "891639.26",
+        "contributions_party": "0.00",
+        "cash_on_hand": "362049.92"
+      },
+      "industries": [
+        {
+          "count": "52",
+          "amount": "63313.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "54",
+          "amount": "50700.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        },
+        {
+          "count": "49",
+          "amount": "35015.00",
+          "id": "9e701425eeb14b4c874cfb4415a4ac3b",
+          "name": "Civil Servants/Public Officials"
+        },
+        {
+          "count": "19",
+          "amount": "31900.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "43",
+          "amount": "31528.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "55",
+          "amount": "24616.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "31",
+          "amount": "23900.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "29",
+          "amount": "23050.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "19",
+          "amount": "21733.00",
+          "id": "042288e0185a44ec82982814c69abdca",
+          "name": "Computers/Internet"
+        },
+        {
+          "count": "17",
+          "amount": "19500.00",
+          "id": "5acf6d91f2ba46bfbdb94e8011315e09",
+          "name": "Misc Energy"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "ae21d1af545f4940a60cbe9db77afff4",
+      "chamber": "senate",
+      "state": "HI",
+      "state_name": "Hawaii",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Daniel_Akaka",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000069.jpg",
+      "bioguide_id": "A000069",
+      "fec_summary": {
+        "contributions_pac": "4.00",
+        "office": "S",
+        "total_receipts_rank": 211,
+        "max_rank": 231,
+        "contributions_candidate": "7899.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 109,
+        "total_raised": "6970.00",
+        "disbursements": "54965.00",
+        "total_disbursements_rank": 158,
+        "date": "2012-06-30",
+        "contributions_indiv": "0.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "20282.00"
+      },
+      "industries": [
+        {
+          "count": "349",
+          "amount": "331717.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "157",
+          "amount": "290485.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "137",
+          "amount": "284695.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "95",
+          "amount": "224045.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "326",
+          "amount": "214692.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "70",
+          "amount": "189600.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "108",
+          "amount": "167650.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "169",
+          "amount": "160800.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "208",
+          "amount": "157418.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        },
+        {
+          "count": "148",
+          "amount": "156110.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "40"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "85"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "entity_id": "684176410b3f4094a1a779bc43144509",
+      "chamber": "senate",
+      "state": "HI",
+      "state_name": "Hawaii",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Daniel_Inouye",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/I000025.jpg",
+      "bioguide_id": "I000025",
+      "fec_summary": {
+        "contributions_pac": "76475.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "94843.00",
+        "disbursements": "1012175.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "17460.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "375400.00"
+      },
+      "industries": [
+        {
+          "count": "855",
+          "amount": "782583.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "694",
+          "amount": "600625.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "498",
+          "amount": "552565.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "483",
+          "amount": "485013.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "289",
+          "amount": "376650.00",
+          "id": "13718be68388456d9b6e8db753f06e72",
+          "name": "Casinos/Gambling"
+        },
+        {
+          "count": "335",
+          "amount": "349200.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "250",
+          "amount": "337100.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "281",
+          "amount": "334707.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "487",
+          "amount": "333588.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "235",
+          "amount": "286200.00",
+          "id": "1657f29fbf9944f5af4a0d5c4d2eafad",
+          "name": "Sea Transport"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "60"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "5"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "80"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "11"
+        }
+      ]
+    }
+  ]
+}

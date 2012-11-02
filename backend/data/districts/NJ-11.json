@@ -1,0 +1,347 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "district": "11",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "1000.00",
+        "office": "H",
+        "total_receipts_rank": 619,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 565,
+        "total_raised": "27635.00",
+        "disbursements": "13026.94",
+        "total_disbursements_rank": 637,
+        "date": "2012-06-30",
+        "contributions_indiv": "26635.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "14858.06"
+      },
+      "industries": [
+        {
+          "count": "3",
+          "amount": "5250.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "2",
+          "amount": "750.00",
+          "id": "32383c4d430e4b63aaa584500088331c",
+          "name": "Retail Sales"
+        },
+        {
+          "count": "2",
+          "amount": "750.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "2",
+          "amount": "500.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "2",
+          "amount": "500.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "3",
+          "amount": "350.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "1",
+          "amount": "250.00",
+          "id": "db81234a46874e7392cb5dfec1f07113",
+          "name": "Printing & Publishing"
+        },
+        {
+          "count": "1",
+          "amount": "250.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "1",
+          "amount": "250.00",
+          "id": "4b732d5c5c4e43d39df21532b7c3be7b",
+          "name": "Health Services/Hmos"
+        },
+        {
+          "count": "1",
+          "amount": "250.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "entity_id": "9e7e3bd08a4749d68ab359b0bb9745a3",
+      "chamber": "house",
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "district": "11",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Rodney_Frelinghuysen",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000372.jpg",
+      "bioguide_id": "F000372",
+      "fec_summary": {
+        "contributions_pac": "376150.00",
+        "office": "H",
+        "total_receipts_rank": 339,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 207,
+        "total_raised": "735932.75",
+        "disbursements": "456837.21",
+        "total_disbursements_rank": 321,
+        "date": "2012-06-30",
+        "contributions_indiv": "352471.00",
+        "contributions_party": "6775.00",
+        "cash_on_hand": "604404.50"
+      },
+      "industries": [
+        {
+          "count": "1253",
+          "amount": "669559.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "474",
+          "amount": "572743.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "446",
+          "amount": "323227.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "557",
+          "amount": "310875.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "316",
+          "amount": "292250.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "369",
+          "amount": "285000.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "258",
+          "amount": "280550.00",
+          "id": "4c3799fc60b34f2aa250f7e8f5b2c3e6",
+          "name": "Defense Electronics"
+        },
+        {
+          "count": "399",
+          "amount": "268354.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "243",
+          "amount": "244000.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "198",
+          "amount": "196962.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "20"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "65"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "60.87"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "f50475a4f7da43718ba089990ebb3b5a",
+      "chamber": "senate",
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Frank_Lautenberg",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000123.jpg",
+      "bioguide_id": "L000123",
+      "fec_summary": {
+        "contributions_pac": "105500.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "184350.00",
+        "disbursements": "221077.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "69246.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "183665.00"
+      },
+      "industries": [
+        {
+          "count": "2532",
+          "amount": "1968658.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1523",
+          "amount": "1480318.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1015",
+          "amount": "1073282.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "662",
+          "amount": "662727.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "540",
+          "amount": "461058.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "428",
+          "amount": "446072.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "391",
+          "amount": "432025.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "340",
+          "amount": "397695.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "449",
+          "amount": "365937.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "386",
+          "amount": "345130.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "40"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "95"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "11"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "10"
+        }
+      ]
+    }
+  ]
+}

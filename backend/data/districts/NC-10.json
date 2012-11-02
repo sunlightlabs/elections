@@ -1,0 +1,469 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": "10",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "8662.00",
+        "office": "H",
+        "total_receipts_rank": 533,
+        "max_rank": 695,
+        "contributions_candidate": "15050.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 548,
+        "total_raised": "187700.71",
+        "disbursements": "159580.24",
+        "total_disbursements_rank": 512,
+        "date": "2012-06-30",
+        "contributions_indiv": "163488.71",
+        "contributions_party": "500.00",
+        "cash_on_hand": "28120.47"
+      },
+      "industries": [
+        {
+          "count": "237",
+          "amount": "108757.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "169",
+          "amount": "73650.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "25",
+          "amount": "65000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "71",
+          "amount": "63185.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "16",
+          "amount": "40500.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "84",
+          "amount": "39522.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "12",
+          "amount": "38500.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "9",
+          "amount": "32000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "10",
+          "amount": "26500.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "44",
+          "amount": "22672.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        }
+      ]
+    },
+    {
+      "entity_id": "c112b2bca6f342a98c31e5c87fffa35a",
+      "chamber": "house",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": "10",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Patrick_McHenry",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001156.jpg",
+      "bioguide_id": "M001156",
+      "fec_summary": {
+        "contributions_pac": "509337.68",
+        "office": "H",
+        "total_receipts_rank": 237,
+        "max_rank": 695,
+        "contributions_candidate": "-59500.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 351,
+        "total_raised": "888619.76",
+        "disbursements": "737314.43",
+        "total_disbursements_rank": 160,
+        "date": "2012-06-30",
+        "contributions_indiv": "440336.86",
+        "contributions_party": "0.00",
+        "cash_on_hand": "297063.12"
+      },
+      "industries": [
+        {
+          "count": "422",
+          "amount": "352375.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "278",
+          "amount": "311216.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "240",
+          "amount": "295264.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "190",
+          "amount": "271544.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "119",
+          "amount": "261935.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "145",
+          "amount": "214400.00",
+          "id": "e69b2a41cd9645e292e66da69915ee6b",
+          "name": "Finance/Credit Companies"
+        },
+        {
+          "count": "335",
+          "amount": "196895.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "142",
+          "amount": "179550.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "100",
+          "amount": "162310.00",
+          "id": "7a214b1dc0054b768d4c4eb6f8f625c8",
+          "name": "Accountants"
+        },
+        {
+          "count": "101",
+          "amount": "106484.00",
+          "id": "32383c4d430e4b63aaa584500088331c",
+          "name": "Retail Sales"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "84"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "96"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "718908ac89274ef68aecd98c33f40ebd",
+      "chamber": "senate",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Kay_Hagan",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001049.jpg",
+      "bioguide_id": "H001049",
+      "fec_summary": {
+        "contributions_pac": "527619.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "1381227.00",
+        "disbursements": "501156.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "843747.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1159783.00"
+      },
+      "industries": [
+        {
+          "count": "2471",
+          "amount": "1803028.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "691",
+          "amount": "544493.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "691",
+          "amount": "524302.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1069",
+          "amount": "475949.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "84",
+          "amount": "278600.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "204",
+          "amount": "256062.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "227",
+          "amount": "228171.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "178",
+          "amount": "214659.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "142",
+          "amount": "171298.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "115",
+          "amount": "144607.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "40"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "85"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "12"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "entity_id": "2c44128cb0a74cb28409b806aee12aef",
+      "chamber": "senate",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Richard_Burr",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001135.jpg",
+      "bioguide_id": "B001135",
+      "fec_summary": {
+        "contributions_pac": "76000.00",
+        "office": "S",
+        "total_receipts_rank": 5,
+        "max_rank": 5,
+        "contributions_candidate": "0.00",
+        "transfers_in": "238.00",
+        "cash_on_hand_rank": 3,
+        "total_raised": "176085.00",
+        "disbursements": "489191.00",
+        "total_disbursements_rank": 3,
+        "date": "2012-06-30",
+        "contributions_indiv": "57691.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1045215.00"
+      },
+      "industries": [
+        {
+          "count": "2579",
+          "amount": "1450227.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1715",
+          "amount": "1383844.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "1374",
+          "amount": "1004181.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "875",
+          "amount": "993102.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "386",
+          "amount": "902432.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "976",
+          "amount": "827216.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "799",
+          "amount": "812064.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "675",
+          "amount": "805147.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "729",
+          "amount": "689624.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "941",
+          "amount": "658019.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "94"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "5"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "87"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "house": [
+    {
+      "entity_id": "b3bf01adf2fc43209381e342e83ef6fc",
+      "chamber": "house",
+      "state": "LA",
+      "state_name": "Louisiana",
+      "district": "01",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Steve_Scalise",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001176.jpg",
+      "bioguide_id": "S001176",
+      "fec_summary": {
+        "contributions_pac": "521501.00",
+        "office": "H",
+        "total_receipts_rank": 213,
+        "max_rank": 1515,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 170,
+        "total_raised": "1157043.42",
+        "disbursements": "710294.90",
+        "total_disbursements_rank": 238,
+        "date": "2012-07-28",
+        "contributions_indiv": "633236.06",
+        "contributions_party": "0.00",
+        "cash_on_hand": "815440.21"
+      },
+      "industries": [
+        {
+          "count": "225",
+          "amount": "305809.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "145",
+          "amount": "270800.00",
+          "id": "1657f29fbf9944f5af4a0d5c4d2eafad",
+          "name": "Sea Transport"
+        },
+        {
+          "count": "177",
+          "amount": "245285.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "145",
+          "amount": "198185.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "192",
+          "amount": "186076.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "133",
+          "amount": "152825.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "86",
+          "amount": "142700.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "93",
+          "amount": "107450.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        },
+        {
+          "count": "89",
+          "amount": "105601.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "170",
+          "amount": "104236.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "80"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "92"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "bf3d2b7b2c0f436583c7c2845e507540",
+      "chamber": "senate",
+      "state": "LA",
+      "state_name": "Louisiana",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Mary_Landrieu",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000550.jpg",
+      "bioguide_id": "L000550",
+      "fec_summary": {
+        "contributions_pac": "426694.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "85559.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "1398084.00",
+        "disbursements": "489934.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "883328.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1495826.00"
+      },
+      "industries": [
+        {
+          "count": "3916",
+          "amount": "3137950.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "824",
+          "amount": "898644.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "1344",
+          "amount": "877645.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "857",
+          "amount": "775097.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "241",
+          "amount": "689000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "751",
+          "amount": "638766.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "918",
+          "amount": "622051.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "534",
+          "amount": "599840.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "577",
+          "amount": "576123.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "437",
+          "amount": "500299.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "70"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "10"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "75"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "entity_id": "b3b310d15dfa404bb575705b7d1e5c0c",
+      "chamber": "senate",
+      "state": "LA",
+      "state_name": "Louisiana",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/David_Vitter",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/V000127.jpg",
+      "bioguide_id": "V000127",
+      "fec_summary": {
+        "contributions_pac": "291572.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "1248555.00",
+        "disbursements": "960361.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "929706.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "456011.00"
+      },
+      "industries": [
+        {
+          "count": "1367",
+          "amount": "1132745.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "1325",
+          "amount": "1059920.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1695",
+          "amount": "1020447.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "915",
+          "amount": "981885.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "819",
+          "amount": "783877.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "251",
+          "amount": "698520.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "478",
+          "amount": "625116.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "553",
+          "amount": "575913.00",
+          "id": "1657f29fbf9944f5af4a0d5c4d2eafad",
+          "name": "Sea Transport"
+        },
+        {
+          "count": "767",
+          "amount": "481262.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "451",
+          "amount": "441393.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "5"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "100"
+        }
+      ]
+    }
+  ]
+}

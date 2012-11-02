@@ -1,0 +1,464 @@
+{
+  "house": [
+    {
+      "entity_id": "fc44a3ad9e1a4841a24b3149b82a04fd",
+      "chamber": "house",
+      "state": "NH",
+      "state_name": "New Hampshire",
+      "district": "02",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": "http://en.wikipedia.org/wiki/Ann_McLane_Kuster",
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "333081.62",
+        "office": "H",
+        "total_receipts_rank": 42,
+        "max_rank": 695,
+        "contributions_candidate": "80.00",
+        "transfers_in": "13332.94",
+        "cash_on_hand_rank": 85,
+        "total_raised": "2110384.50",
+        "disbursements": "1017638.75",
+        "total_disbursements_rank": 81,
+        "date": "2012-08-22",
+        "contributions_indiv": "1757459.41",
+        "contributions_party": "4661.40",
+        "cash_on_hand": "1118766.63"
+      },
+      "industries": [
+        {
+          "count": "907",
+          "amount": "473404.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "471",
+          "amount": "294514.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "555",
+          "amount": "281857.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "202",
+          "amount": "136333.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "211",
+          "amount": "112850.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "50",
+          "amount": "104000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "84",
+          "amount": "95350.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "124",
+          "amount": "79057.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "21",
+          "amount": "77500.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "24",
+          "amount": "66500.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "a95f3e0dc40e4eb58802d0eef8efa297",
+      "chamber": "house",
+      "state": "NH",
+      "state_name": "New Hampshire",
+      "district": "02",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Charles_Bass",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000220.jpg",
+      "bioguide_id": "B000220",
+      "fec_summary": {
+        "contributions_pac": "872583.55",
+        "office": "H",
+        "total_receipts_rank": 134,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "20545.63",
+        "cash_on_hand_rank": 140,
+        "total_raised": "1368021.02",
+        "disbursements": "554067.67",
+        "total_disbursements_rank": 258,
+        "date": "2012-08-22",
+        "contributions_indiv": "468891.84",
+        "contributions_party": "10000.00",
+        "cash_on_hand": "849629.38"
+      },
+      "industries": [
+        {
+          "count": "352",
+          "amount": "778107.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "664",
+          "amount": "463400.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "332",
+          "amount": "280175.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "319",
+          "amount": "211997.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "244",
+          "amount": "206230.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "217",
+          "amount": "198524.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "148",
+          "amount": "174740.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        },
+        {
+          "count": "103",
+          "amount": "156420.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "138",
+          "amount": "153550.00",
+          "id": "f1c062575ca949fa92ab7066a6648bf3",
+          "name": "Air Transport"
+        },
+        {
+          "count": "171",
+          "amount": "149910.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "30"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "68"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "52"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "32ad9016f5a54f1f91b2ac8aaa1deb88",
+      "chamber": "senate",
+      "state": "NH",
+      "state_name": "New Hampshire",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Jeanne_Shaheen",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001181.jpg",
+      "bioguide_id": "S001181",
+      "fec_summary": {
+        "contributions_pac": "142075.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "11355.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "426845.00",
+        "disbursements": "222128.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "272732.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "250801.00"
+      },
+      "industries": [
+        {
+          "count": "3605",
+          "amount": "1496676.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "1351",
+          "amount": "991018.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "856",
+          "amount": "647120.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "222",
+          "amount": "584398.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "968",
+          "amount": "544731.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "364",
+          "amount": "429609.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "347",
+          "amount": "357019.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "269",
+          "amount": "282046.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "353",
+          "amount": "258501.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "282",
+          "amount": "238080.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "44"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "14"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "entity_id": "3455d3317f2c402b85cb9a9313e5a328",
+      "chamber": "senate",
+      "state": "NH",
+      "state_name": "New Hampshire",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Kelly_Ayotte",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000368.jpg",
+      "bioguide_id": "A000368",
+      "fec_summary": {
+        "contributions_pac": "265451.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "516120.00",
+        "disbursements": "247053.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "250178.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "618335.00"
+      },
+      "industries": [
+        {
+          "count": "361",
+          "amount": "595146.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "392",
+          "amount": "352004.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "76",
+          "amount": "254799.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "169",
+          "amount": "253366.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "332",
+          "amount": "246747.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "261",
+          "amount": "225881.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "136",
+          "amount": "169610.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "108",
+          "amount": "140843.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "102",
+          "amount": "131495.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "65",
+          "amount": "129783.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "91"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "95"
+        }
+      ]
+    }
+  ]
+}

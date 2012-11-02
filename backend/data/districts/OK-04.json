@@ -1,0 +1,422 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "OK",
+      "state_name": "Oklahoma",
+      "district": "04",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": "H",
+        "total_receipts_rank": 640,
+        "max_rank": 695,
+        "contributions_candidate": "8014.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 682,
+        "total_raised": "17532.00",
+        "disbursements": "17359.00",
+        "total_disbursements_rank": 622,
+        "date": "2012-06-30",
+        "contributions_indiv": "9317.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "173.00"
+      },
+      "industries": [
+        {
+          "count": "2",
+          "amount": "1000.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1",
+          "amount": "720.00",
+          "id": "4e62cff90a974840bec347a2e32a58b9",
+          "name": "Beer, Wine & Liquor"
+        },
+        {
+          "count": "1",
+          "amount": "250.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "f7ee773191fb474ca9ebe5ceb2db2ac5",
+      "chamber": "house",
+      "state": "OK",
+      "state_name": "Oklahoma",
+      "district": "04",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Tom_Cole",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001053.jpg",
+      "bioguide_id": "C001053",
+      "fec_summary": {
+        "contributions_pac": "302625.46",
+        "office": "H",
+        "total_receipts_rank": 319,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 112,
+        "total_raised": "768797.39",
+        "disbursements": "356469.60",
+        "total_disbursements_rank": 397,
+        "date": "2012-06-30",
+        "contributions_indiv": "456602.73",
+        "contributions_party": "0.00",
+        "cash_on_hand": "963362.57"
+      },
+      "industries": [
+        {
+          "count": "373",
+          "amount": "497800.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "297",
+          "amount": "383332.00",
+          "id": "13718be68388456d9b6e8db753f06e72",
+          "name": "Casinos/Gambling"
+        },
+        {
+          "count": "370",
+          "amount": "304466.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "101",
+          "amount": "243881.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "202",
+          "amount": "208300.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "296",
+          "amount": "191683.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "143",
+          "amount": "172677.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "140",
+          "amount": "172600.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "272",
+          "amount": "169647.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "170",
+          "amount": "136764.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "69"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "80"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "a35e1d49beec4d2b9bde818d165150d8",
+      "chamber": "senate",
+      "state": "OK",
+      "state_name": "Oklahoma",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Tom_Coburn",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000560.jpg",
+      "bioguide_id": "C000560",
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "11036.00",
+        "disbursements": "111149.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "0.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "318142.00"
+      },
+      "industries": [
+        {
+          "count": "1484",
+          "amount": "1108994.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "795",
+          "amount": "644166.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "520",
+          "amount": "532563.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "870",
+          "amount": "484209.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "171",
+          "amount": "425439.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "282",
+          "amount": "329023.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "203",
+          "amount": "238850.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "286",
+          "amount": "199109.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "209",
+          "amount": "193111.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "229",
+          "amount": "189826.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "5"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "96"
+        }
+      ]
+    },
+    {
+      "entity_id": "ca558ba5501e46cfb2fa2ac09505c5b7",
+      "chamber": "senate",
+      "state": "OK",
+      "state_name": "Oklahoma",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=I000024",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/I000024.jpg",
+      "bioguide_id": "I000024",
+      "fec_summary": {
+        "contributions_pac": "237832.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "777482.00",
+        "disbursements": "454929.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "524164.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "570304.00"
+      },
+      "industries": [
+        {
+          "count": "1696",
+          "amount": "1315568.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "1435",
+          "amount": "672896.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "199",
+          "amount": "536076.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "474",
+          "amount": "470517.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "808",
+          "amount": "452650.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "568",
+          "amount": "372591.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "501",
+          "amount": "362293.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "456",
+          "amount": "358666.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "510",
+          "amount": "326549.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "344",
+          "amount": "292262.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "91"
+        }
+      ]
+    }
+  ]
+}

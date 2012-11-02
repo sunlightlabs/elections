@@ -1,0 +1,571 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "NY",
+      "state_name": "New York",
+      "district": "22",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "19075.00",
+        "office": "H",
+        "total_receipts_rank": 545,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 461,
+        "total_raised": "152559.35",
+        "disbursements": "31901.89",
+        "total_disbursements_rank": 590,
+        "date": "2012-06-30",
+        "contributions_indiv": "133475.40",
+        "contributions_party": "0.00",
+        "cash_on_hand": "120657.39"
+      },
+      "industries": [
+        {
+          "count": "23",
+          "amount": "11325.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "16",
+          "amount": "7350.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "3",
+          "amount": "5500.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "2",
+          "amount": "5000.00",
+          "id": "d8ddc9e3d84b40a2a923545964e6bf80",
+          "name": "Non-Profit Institutions"
+        },
+        {
+          "count": "4",
+          "amount": "4250.00",
+          "id": "db81234a46874e7392cb5dfec1f07113",
+          "name": "Printing & Publishing"
+        },
+        {
+          "count": "3",
+          "amount": "3750.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "2",
+          "amount": "3500.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "5",
+          "amount": "3250.00",
+          "id": "9e701425eeb14b4c874cfb4415a4ac3b",
+          "name": "Civil Servants/Public Officials"
+        },
+        {
+          "count": "5",
+          "amount": "2700.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "4",
+          "amount": "1750.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NY League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Public Employees Federation",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "5251314da0ad4862b188162b4c69fb39",
+      "chamber": "house",
+      "state": "NY",
+      "state_name": "New York",
+      "district": "22",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Maurice_Hinchey",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H000627.jpg",
+      "bioguide_id": "H000627",
+      "fec_summary": {
+        "contributions_pac": "81276.22",
+        "office": "H",
+        "total_receipts_rank": 757,
+        "max_rank": 1515,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 694,
+        "total_raised": "215831.40",
+        "disbursements": "240365.26",
+        "total_disbursements_rank": 667,
+        "date": "2012-06-30",
+        "contributions_indiv": "128237.21",
+        "contributions_party": "0.00",
+        "cash_on_hand": "33791.06"
+      },
+      "industries": [
+        {
+          "count": "306",
+          "amount": "387700.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "260",
+          "amount": "361400.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "836",
+          "amount": "351599.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "232",
+          "amount": "307480.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "406",
+          "amount": "280438.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "230",
+          "amount": "249710.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "434",
+          "amount": "225273.00",
+          "id": "72c7c89ba4ce406d99152105c08ccedf",
+          "name": "Environment"
+        },
+        {
+          "count": "345",
+          "amount": "223140.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "268",
+          "amount": "188837.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "237",
+          "amount": "174529.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "50"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "13"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "5.88"
+        }
+      ]
+    },
+    {
+      "entity_id": "41f2fc48802c4dd4923f24e90d93a58b",
+      "chamber": "house",
+      "state": "NY",
+      "state_name": "New York",
+      "district": "22",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Richard_L._Hanna",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001051.jpg",
+      "bioguide_id": "H001051",
+      "fec_summary": {
+        "contributions_pac": "413902.96",
+        "office": "H",
+        "total_receipts_rank": 315,
+        "max_rank": 695,
+        "contributions_candidate": "25000.00",
+        "transfers_in": "64951.28",
+        "cash_on_hand_rank": 293,
+        "total_raised": "773867.17",
+        "disbursements": "401491.55",
+        "total_disbursements_rank": 354,
+        "date": "2012-06-30",
+        "contributions_indiv": "265486.61",
+        "contributions_party": "0.00",
+        "cash_on_hand": "407117.52"
+      },
+      "industries": [
+        {
+          "count": "126",
+          "amount": "163500.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "65",
+          "amount": "139831.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "89",
+          "amount": "121853.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "134",
+          "amount": "102866.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "100",
+          "amount": "84598.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "38",
+          "amount": "66350.00",
+          "id": "ec9907560c0042e4b831ebd7734d7352",
+          "name": "Building Materials & Equipment"
+        },
+        {
+          "count": "52",
+          "amount": "50308.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "37",
+          "amount": "49750.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "29",
+          "amount": "48150.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "19",
+          "amount": "43375.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "55"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "B"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "64"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "40"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "e708669995e844af90f205003683f2fa",
+      "chamber": "senate",
+      "state": "NY",
+      "state_name": "New York",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Chuck_Schumer",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000148.jpg",
+      "bioguide_id": "S000148",
+      "fec_summary": {
+        "contributions_pac": "95900.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "1042052.00",
+        "disbursements": "1063217.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "427445.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "10171927.00"
+      },
+      "industries": [
+        {
+          "count": "7995",
+          "amount": "8819076.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "6443",
+          "amount": "5940689.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "3837",
+          "amount": "4011562.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1247",
+          "amount": "1436835.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "1169",
+          "amount": "1355300.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "1161",
+          "amount": "1325138.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "1256",
+          "amount": "1245150.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1172",
+          "amount": "1239631.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "1218",
+          "amount": "1231175.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "1073",
+          "amount": "1070849.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "50"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "95"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "10"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "entity_id": null,
+      "chamber": "senate",
+      "state": "NY",
+      "state_name": "New York",
+      "district": null,
+      "party": "R",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "21000.00",
+        "office": "S",
+        "total_receipts_rank": 56,
+        "max_rank": 62,
+        "contributions_candidate": "17000.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 55,
+        "total_raised": "332976.00",
+        "disbursements": "240564.00",
+        "total_disbursements_rank": 57,
+        "date": "2012-06-30",
+        "contributions_indiv": "289976.00",
+        "contributions_party": "5000.00",
+        "cash_on_hand": "96411.00"
+      },
+      "industries": [
+        {
+          "count": "33",
+          "amount": "38550.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "20",
+          "amount": "31750.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "18",
+          "amount": "26250.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "25",
+          "amount": "25050.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "15",
+          "amount": "16000.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "7",
+          "amount": "15150.00",
+          "id": "f7383a21a6214cd68f33bb86e75c25fa",
+          "name": "Abortion Policy/Pro-Life"
+        },
+        {
+          "count": "4",
+          "amount": "11250.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "7",
+          "amount": "7250.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "4",
+          "amount": "7000.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "2",
+          "amount": "5000.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

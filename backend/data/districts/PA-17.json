@@ -1,0 +1,521 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "district": "17",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "53759.38",
+        "office": "H",
+        "total_receipts_rank": 235,
+        "max_rank": 695,
+        "contributions_candidate": "390000.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 486,
+        "total_raised": "951361.49",
+        "disbursements": "861125.76",
+        "total_disbursements_rank": 112,
+        "date": "2012-06-30",
+        "contributions_indiv": "505402.11",
+        "contributions_party": "1000.00",
+        "cash_on_hand": "90235.73"
+      },
+      "industries": [
+        {
+          "count": "159",
+          "amount": "151019.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "11",
+          "amount": "15600.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "5",
+          "amount": "8000.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "2",
+          "amount": "7000.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "7",
+          "amount": "6850.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "1",
+          "amount": "5000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "2",
+          "amount": "3500.00",
+          "id": "9e701425eeb14b4c874cfb4415a4ac3b",
+          "name": "Civil Servants/Public Officials"
+        },
+        {
+          "count": "3",
+          "amount": "3250.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "2",
+          "amount": "3000.00",
+          "id": "4b732d5c5c4e43d39df21532b7c3be7b",
+          "name": "Health Services/Hmos"
+        },
+        {
+          "count": "1",
+          "amount": "2500.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "f7e12a4bf31d4c00ab680f7e9b709279",
+      "chamber": "house",
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "district": "17",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Tim_Holden",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H000712.jpg",
+      "bioguide_id": "H000712",
+      "fec_summary": {
+        "contributions_pac": "758377.74",
+        "office": "H",
+        "total_receipts_rank": 219,
+        "max_rank": 1515,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 1315,
+        "total_raised": "1150155.90",
+        "disbursements": "1166098.50",
+        "total_disbursements_rank": 85,
+        "date": "2012-06-30",
+        "contributions_indiv": "353862.17",
+        "contributions_party": "26148.00",
+        "cash_on_hand": "0.00"
+      },
+      "industries": [
+        {
+          "count": "352",
+          "amount": "549994.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "468",
+          "amount": "511845.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "311",
+          "amount": "504025.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "335",
+          "amount": "496915.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "698",
+          "amount": "385577.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "449",
+          "amount": "357562.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "158",
+          "amount": "314274.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "313",
+          "amount": "291779.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "224",
+          "amount": "244519.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "281",
+          "amount": "237750.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "30"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "55"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "32"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "28"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "78"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "6270f8364eac4b0a88a117c008011e06",
+      "chamber": "senate",
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001070.jpg",
+      "bioguide_id": "C001070",
+      "fec_summary": {
+        "contributions_pac": "1719495.00",
+        "office": "S",
+        "total_receipts_rank": 20,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "481535.00",
+        "cash_on_hand_rank": 8,
+        "total_raised": "7609518.00",
+        "disbursements": "2754060.00",
+        "total_disbursements_rank": 26,
+        "date": "2012-06-30",
+        "contributions_indiv": "5410931.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "6226560.00"
+      },
+      "industries": [
+        {
+          "count": "6419",
+          "amount": "5364591.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1785",
+          "amount": "1088671.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "808",
+          "amount": "782201.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "599",
+          "amount": "649436.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "722",
+          "amount": "588052.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "690",
+          "amount": "561648.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "164",
+          "amount": "507500.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "705",
+          "amount": "448131.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "650",
+          "amount": "448120.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "453",
+          "amount": "396258.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        }
+      ]
+    },
+    {
+      "entity_id": "012a8bd14e5441adbb153840afb5b674",
+      "chamber": "senate",
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "district": null,
+      "party": "D",
+      "incumbent": false,
+      "bio_url": "http://en.wikipedia.org/wiki/Arlen_Specter",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000709.jpg",
+      "bioguide_id": "S000709",
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "697164.00",
+        "disbursements": "40559.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "555430.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "46808.00"
+      },
+      "industries": [
+        {
+          "count": "8545",
+          "amount": "6026963.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1929",
+          "amount": "1764209.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "2280",
+          "amount": "1701940.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "2118",
+          "amount": "1599668.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "2364",
+          "amount": "1449905.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1399",
+          "amount": "1173325.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "1813",
+          "amount": "1167437.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "1295",
+          "amount": "1105066.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "1511",
+          "amount": "1024351.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        },
+        {
+          "count": "1243",
+          "amount": "998711.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "90"
+        }
+      ]
+    },
+    {
+      "entity_id": "f661eb3826f3416da845e078ee19d8a3",
+      "chamber": "senate",
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Pat_Toomey",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/T000461.jpg",
+      "bioguide_id": "T000461",
+      "fec_summary": {
+        "contributions_pac": "606671.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "22750.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "2296901.00",
+        "disbursements": "955268.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "1525672.00",
+        "contributions_party": "250.00",
+        "cash_on_hand": "1546699.00"
+      },
+      "industries": [
+        {
+          "count": "2775",
+          "amount": "1524008.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1539",
+          "amount": "1216749.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "911",
+          "amount": "1079822.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "665",
+          "amount": "759667.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "318",
+          "amount": "637448.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "852",
+          "amount": "634806.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "668",
+          "amount": "600250.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "660",
+          "amount": "452571.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "457",
+          "amount": "411870.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "392",
+          "amount": "397485.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "90"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "house": [
+    {
+      "entity_id": "b0c9963424bf4ec5a1c14bb7dde0bdfd",
+      "chamber": "house",
+      "state": "MS",
+      "state_name": "Mississippi",
+      "district": "03",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Gregg_Harper",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001045.jpg",
+      "bioguide_id": "H001045",
+      "fec_summary": {
+        "contributions_pac": "296744.72",
+        "office": "H",
+        "total_receipts_rank": 374,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "19308.20",
+        "cash_on_hand_rank": 384,
+        "total_raised": "641240.29",
+        "disbursements": "452683.42",
+        "total_disbursements_rank": 322,
+        "date": "2012-06-30",
+        "contributions_indiv": "324231.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "235788.20"
+      },
+      "industries": [
+        {
+          "count": "159",
+          "amount": "216300.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "225",
+          "amount": "178850.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "92",
+          "amount": "116344.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "104",
+          "amount": "109900.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "164",
+          "amount": "108568.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "35",
+          "amount": "96261.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "67",
+          "amount": "88050.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "35",
+          "amount": "72000.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "102",
+          "amount": "64972.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "39",
+          "amount": "57150.00",
+          "id": "87877eea96144b1eb8665e4754bbcd80",
+          "name": "Telephone Utilities"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "71"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "79.17"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "a607dfef822840498b9da16ad8006057",
+      "chamber": "senate",
+      "state": "MS",
+      "state_name": "Mississippi",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Thad_Cochran",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000567.jpg",
+      "bioguide_id": "C000567",
+      "fec_summary": {
+        "contributions_pac": "43000.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "74987.00",
+        "disbursements": "130891.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "28150.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "319632.00"
+      },
+      "industries": [
+        {
+          "count": "575",
+          "amount": "558714.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "392",
+          "amount": "385785.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "210",
+          "amount": "283098.00",
+          "id": "c3081aa14b0141df8d47684635bc0b26",
+          "name": "Agricultural Services/Products"
+        },
+        {
+          "count": "206",
+          "amount": "236700.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "203",
+          "amount": "231985.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "255",
+          "amount": "217919.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "151",
+          "amount": "212486.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "170",
+          "amount": "194712.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "115",
+          "amount": "158250.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "44",
+          "amount": "142781.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "70"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "5"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "71"
+        }
+      ]
+    },
+    {
+      "entity_id": "159c40291deb455596155ded63972bf4",
+      "chamber": "senate",
+      "state": "MS",
+      "state_name": "Mississippi",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Roger_Wicker",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000437.jpg",
+      "bioguide_id": "W000437",
+      "fec_summary": {
+        "contributions_pac": "1105520.00",
+        "office": "S",
+        "total_receipts_rank": 44,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "329973.00",
+        "cash_on_hand_rank": 27,
+        "total_raised": "2640070.00",
+        "disbursements": "739207.00",
+        "total_disbursements_rank": 48,
+        "date": "2012-06-30",
+        "contributions_indiv": "1205574.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "2315467.00"
+      },
+      "industries": [
+        {
+          "count": "1004",
+          "amount": "756013.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "801",
+          "amount": "649820.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "499",
+          "amount": "555142.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "157",
+          "amount": "458977.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "545",
+          "amount": "435486.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "356",
+          "amount": "387054.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "368",
+          "amount": "363550.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "611",
+          "amount": "357330.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "285",
+          "amount": "322407.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "221",
+          "amount": "322116.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "75"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "79"
+        }
+      ]
+    }
+  ]
+}

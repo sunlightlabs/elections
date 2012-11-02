@@ -1,0 +1,260 @@
+{
+  "house": [
+    {
+      "entity_id": "c91f544f18ce4c91a49cc47cd5a1d53b",
+      "chamber": "house",
+      "state": "MI",
+      "state_name": "Michigan",
+      "district": "12",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/John_Dingell",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000355.jpg",
+      "bioguide_id": "D000355",
+      "fec_summary": {
+        "contributions_pac": "789796.29",
+        "office": "H",
+        "total_receipts_rank": 207,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 277,
+        "total_raised": "1044105.77",
+        "disbursements": "642758.00",
+        "total_disbursements_rank": 202,
+        "date": "2012-07-18",
+        "contributions_indiv": "231166.91",
+        "contributions_party": "0.00",
+        "cash_on_hand": "434437.28"
+      },
+      "industries": [
+        {
+          "count": "1211",
+          "amount": "1404547.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "838",
+          "amount": "1230058.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "1035",
+          "amount": "1052815.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        },
+        {
+          "count": "1132",
+          "amount": "1011124.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "618",
+          "amount": "853634.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "634",
+          "amount": "843621.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "1051",
+          "amount": "798534.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "544",
+          "amount": "586209.00",
+          "id": "87877eea96144b1eb8665e4754bbcd80",
+          "name": "Telephone Utilities"
+        },
+        {
+          "count": "456",
+          "amount": "505379.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "415",
+          "amount": "495300.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "85"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "60"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "D-"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "9"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "4.17"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "ac1460cace1540fd97c17dab928c29f2",
+      "chamber": "senate",
+      "state": "MI",
+      "state_name": "Michigan",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Carl_Levin",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000261.jpg",
+      "bioguide_id": "L000261",
+      "fec_summary": {
+        "contributions_pac": "11000.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "15477.00",
+        "disbursements": "629535.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "-11008.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "306773.00"
+      },
+      "industries": [
+        {
+          "count": "3398",
+          "amount": "2060985.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1800",
+          "amount": "1651162.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "1206",
+          "amount": "953809.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1618",
+          "amount": "848777.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "640",
+          "amount": "463264.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "517",
+          "amount": "459234.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "579",
+          "amount": "438304.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        },
+        {
+          "count": "564",
+          "amount": "422095.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "711",
+          "amount": "416460.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "679",
+          "amount": "387530.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "70"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "95"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "7"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "house": [
+    {
+      "entity_id": "399cda56671643bab92aee2cb3819dc5",
+      "chamber": "house",
+      "state": "GA",
+      "state_name": "Georgia",
+      "district": "13",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/David_Scott_%28Georgia%29",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001157.jpg",
+      "bioguide_id": "S001157",
+      "fec_summary": {
+        "contributions_pac": "541810.42",
+        "office": "H",
+        "total_receipts_rank": 378,
+        "max_rank": 695,
+        "contributions_candidate": "1000.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 428,
+        "total_raised": "637505.13",
+        "disbursements": "523492.24",
+        "total_disbursements_rank": 281,
+        "date": "2012-07-11",
+        "contributions_indiv": "92650.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "167848.73"
+      },
+      "industries": [
+        {
+          "count": "625",
+          "amount": "621678.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "199",
+          "amount": "317349.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "206",
+          "amount": "270200.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "167",
+          "amount": "269351.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "237",
+          "amount": "230010.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "254",
+          "amount": "206649.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "105",
+          "amount": "201000.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "124",
+          "amount": "200949.00",
+          "id": "7a214b1dc0054b768d4c4eb6f8f625c8",
+          "name": "Accountants"
+        },
+        {
+          "count": "74",
+          "amount": "173400.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "58",
+          "amount": "168500.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "60"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "12"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "4"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "e1b31b036bf4439e80d0bc115b842c62",
+      "chamber": "senate",
+      "state": "GA",
+      "state_name": "Georgia",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=I000055",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/I000055.jpg",
+      "bioguide_id": "I000055",
+      "fec_summary": {
+        "contributions_pac": "174750.00",
+        "office": "S",
+        "total_receipts_rank": 1,
+        "max_rank": 5,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 2,
+        "total_raised": "913868.00",
+        "disbursements": "556923.00",
+        "total_disbursements_rank": 2,
+        "date": "2012-06-30",
+        "contributions_indiv": "603225.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1516011.00"
+      },
+      "industries": [
+        {
+          "count": "2836",
+          "amount": "2404632.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1755",
+          "amount": "1254236.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1633",
+          "amount": "1085370.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "838",
+          "amount": "705497.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "629",
+          "amount": "575527.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "536",
+          "amount": "528492.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "147",
+          "amount": "486039.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "461",
+          "amount": "411795.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "373",
+          "amount": "399587.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "311",
+          "amount": "385145.00",
+          "id": "165d820dd48441e1befdc47f3fa3d236",
+          "name": "Food & Beverage"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "5"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "79"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "75"
+        }
+      ]
+    }
+  ]
+}

@@ -20,14 +20,25 @@ def main
   houses = {}
   senates = {}
 
-  CSV.foreach("data/endorsements.csv", "r") do |row|
+  not_candidates = [
+    "6ee0ac519a08490594ec3fbce3ce3d8e" # Ron Paul
+  ]
+
+  i = 0
+  CSV.foreach("data/endorsements_temp.csv", "r") do |row|
+    i += 1
+    next if i == 1
+
     entity_id = row[0]
+    next if not_candidates.include?(entity_id)
     
     candidate = candidate_for entity_id, options
     
-    endorsement = row[4]
-    rating = row[5]
-    grade = row[6]
+    name = row[2]
+
+    endorsement = row[8]
+    rating = row[9]
+    grade = row[10]
 
     if rating and rating != ""
       type = "rating"
@@ -41,7 +52,7 @@ def main
     end
 
     endorsement = {
-      name: row[3],
+      name: name,
       type: type,
       value: value
     }
@@ -94,8 +105,19 @@ def candidate_for(entity_id, options = {})
 
   seat = metadata['seat']
   if (seat !~ /^federal/) or (seat !~ /(house|senate)/)
-    puts "[#{entity_id}] Incorrect seat: #{seat}"
-    exit
+
+    prez_house = [
+      "d4407eb6730341758ad300fc09f6a8a8", # Kucinich
+      "86b2f97e11fc4a87be8d621fd46fc7e6"  # Bachmann
+    ]
+    
+    if prez_house.include?(entity_id)
+      seat = "federal:house"
+    else
+      puts "[#{entity_id}] Incorrect seat: #{seat}"
+      exit
+    end
+
   end
 
 
@@ -152,7 +174,7 @@ def industries_url_for(entity_id, api_key)
 end
 
 def cache_for(entity_id, function = :details)
-  "cache/#{entity_id}-#{function}.json"
+  "cache/#{entity_id}/#{function}.json"
 end
 
 def output_for(district)

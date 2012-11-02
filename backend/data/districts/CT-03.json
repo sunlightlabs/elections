@@ -1,0 +1,444 @@
+{
+  "house": [
+    {
+      "entity_id": "dc6627f40ac04f79b589d93b344ec405",
+      "chamber": "house",
+      "state": "CT",
+      "state_name": "Connecticut",
+      "district": "03",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Rosa_DeLauro",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000216.jpg",
+      "bioguide_id": "D000216",
+      "fec_summary": {
+        "contributions_pac": "464466.85",
+        "office": "H",
+        "total_receipts_rank": 323,
+        "max_rank": 1515,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 587,
+        "total_raised": "870955.91",
+        "disbursements": "784986.77",
+        "total_disbursements_rank": 194,
+        "date": "2012-06-30",
+        "contributions_indiv": "404708.86",
+        "contributions_party": "26.73",
+        "cash_on_hand": "92604.09"
+      },
+      "industries": [
+        {
+          "count": "611",
+          "amount": "604826.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "353",
+          "amount": "536600.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "837",
+          "amount": "499959.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "637",
+          "amount": "412105.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "217",
+          "amount": "387750.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "202",
+          "amount": "367600.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "228",
+          "amount": "296750.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "130",
+          "amount": "266100.00",
+          "id": "bcb5ff50850c4e9682b5d4da5d9bf278",
+          "name": "Misc Unions"
+        },
+        {
+          "count": "171",
+          "amount": "195650.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "174",
+          "amount": "194900.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F-"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "40"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "12"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "4"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": null,
+      "chamber": "senate",
+      "state": "CT",
+      "state_name": "Connecticut",
+      "district": null,
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "17850.00",
+        "office": "S",
+        "total_receipts_rank": 59,
+        "max_rank": 231,
+        "contributions_candidate": "7625.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 58,
+        "total_raised": "2275720.00",
+        "disbursements": "1633846.00",
+        "total_disbursements_rank": 56,
+        "date": "2012-07-25",
+        "contributions_indiv": "2248100.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "672984.00"
+      },
+      "industries": [
+        {
+          "count": "484",
+          "amount": "366725.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "218",
+          "amount": "150650.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "243",
+          "amount": "150245.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "71",
+          "amount": "105900.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "112",
+          "amount": "56987.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "72",
+          "amount": "56060.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "41",
+          "amount": "40800.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "26",
+          "amount": "30150.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "40",
+          "amount": "29376.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "25",
+          "amount": "24350.00",
+          "id": "042288e0185a44ec82982814c69abdca",
+          "name": "Computers/Internet"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        }
+      ]
+    },
+    {
+      "entity_id": "909913983c33463790a36e6aefb7444a",
+      "chamber": "senate",
+      "state": "CT",
+      "state_name": "Connecticut",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Richard_Blumenthal",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001277.jpg",
+      "bioguide_id": "B001277",
+      "fec_summary": {
+        "contributions_pac": "194166.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "59208.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "425041.00",
+        "disbursements": "383645.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "140073.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "66545.00"
+      },
+      "industries": [
+        {
+          "count": "846",
+          "amount": "729108.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "746",
+          "amount": "604291.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "333",
+          "amount": "517525.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "377",
+          "amount": "501039.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "237",
+          "amount": "240989.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "54",
+          "amount": "210900.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "233",
+          "amount": "175500.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "131",
+          "amount": "163300.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "95",
+          "amount": "161900.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "126",
+          "amount": "143057.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "60"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "5"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "entity_id": "780a90ac5cf842c8b14e7577a01cfe91",
+      "chamber": "senate",
+      "state": "CT",
+      "state_name": "Connecticut",
+      "district": null,
+      "party": "D",
+      "incumbent": false,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=D000388",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000388.jpg",
+      "bioguide_id": "D000388",
+      "fec_summary": {
+        "contributions_pac": "2000.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "90000.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "92448.86",
+        "disbursements": "107972.66",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "-100.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "17936.99"
+      },
+      "industries": [
+        {
+          "count": "5045",
+          "amount": "6049507.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "3794",
+          "amount": "3131663.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "2358",
+          "amount": "2250275.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "1890",
+          "amount": "1931370.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1192",
+          "amount": "1227463.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "1421",
+          "amount": "1099730.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "1088",
+          "amount": "975687.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1166",
+          "amount": "938703.00",
+          "id": "7a214b1dc0054b768d4c4eb6f8f625c8",
+          "name": "Accountants"
+        },
+        {
+          "count": "858",
+          "amount": "913814.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "589",
+          "amount": "637070.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "85"
+        }
+      ]
+    }
+  ]
+}

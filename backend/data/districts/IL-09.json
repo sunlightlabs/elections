@@ -1,0 +1,220 @@
+{
+  "house": [
+    {
+      "entity_id": "e5221b6ac6524c4786ec36097ceabb1d",
+      "chamber": "house",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": "09",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Jan_Schakowsky",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001145.jpg",
+      "bioguide_id": "S001145",
+      "fec_summary": {
+        "contributions_pac": "262175.00",
+        "office": "H",
+        "total_receipts_rank": 195,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 296,
+        "total_raised": "1091600.61",
+        "disbursements": "957807.94",
+        "total_disbursements_rank": 91,
+        "date": "2012-06-30",
+        "contributions_indiv": "825960.27",
+        "contributions_party": "1000.00",
+        "cash_on_hand": "396840.05"
+      },
+      "industries": [
+        {
+          "count": "1469",
+          "amount": "1086001.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "881",
+          "amount": "450013.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "354",
+          "amount": "365446.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "463",
+          "amount": "356547.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "577",
+          "amount": "321885.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "145",
+          "amount": "319250.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "186",
+          "amount": "310900.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "328",
+          "amount": "269330.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "337",
+          "amount": "235190.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "248",
+          "amount": "204180.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "16"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "8"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "c852c26ea375407f82fb1a53bb8ca006",
+      "chamber": "senate",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": null,
+      "party": "D",
+      "incumbent": false,
+      "bio_url": "http://en.wikipedia.org/wiki/Roland_Burris",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001266.jpg",
+      "bioguide_id": "B001266",
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": null,
+        "total_receipts_rank": null,
+        "max_rank": null,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": null,
+        "total_raised": "0.00",
+        "disbursements": "18838.00",
+        "total_disbursements_rank": null,
+        "date": "2012-06-30",
+        "contributions_indiv": "0.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "0.00"
+      },
+      "industries": [
+        {
+          "count": "5",
+          "amount": "11000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "2",
+          "amount": "10000.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "6",
+          "amount": "9300.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "13",
+          "amount": "7550.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "11",
+          "amount": "6250.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "3",
+          "amount": "6000.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "1",
+          "amount": "5000.00",
+          "id": "3c5d7d12454b43e9ad838eac555a4e81",
+          "name": "Environmental Svcs/Equipment"
+        },
+        {
+          "count": "1",
+          "amount": "5000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "4",
+          "amount": "3000.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "2",
+          "amount": "2900.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "60"
+        }
+      ]
+    }
+  ]
+}
