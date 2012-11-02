@@ -3,6 +3,33 @@
 // Models
 var District = Backbone.Model.extend({ url: function() { return "/json/" + this.id + ".json"; } });
 
+// Template Helpers
+var helpers = {
+    colorOf: function(endorsement) {
+        console.log(endorsement.type);
+        if (endorsement.type === "grade") {
+            var letter = endorsement.value.charAt(0);
+            if (letter <= "B") {
+                return "green";
+            } else if (letter <= "C") {
+                return "yellow";
+            } else {
+                return "red";
+            }
+        } else if (endorsement.type == "endorsement") {
+            return endorsement.value == "Y" ? "green" : "red";
+        } else if (endorsement.type == "rating") {
+            var rating = parseInt(endorsement.value);
+            if (rating >= 75) {
+                return "green";
+            } else if (rating >= 50) {
+                return "yellow";
+            } else {
+                return "red";
+            }
+        }
+    }
+}
 // Views
 var HomeView = Backbone.View.extend({
     tagName: 'div',
@@ -24,8 +51,9 @@ var DistrictView = Backbone.View.extend({
     render: function() {
         this.model.fetch({
             'success': $.proxy(function() {
+                var view = this;
                 var context = this.model.toJSON();
-                this.$el.html(this.template(_.extend(context, {'candidateTemplate': this.candidateTemplate})));
+                this.$el.html(this.template(_.extend(context, helpers, {'candidateTemplate': function(ctx) { return view.candidateTemplate(_.extend({}, helpers, ctx)); } })));
             }, this),
             'error': function() {
                 console.log('failed');

@@ -117,6 +117,36 @@ textarea {
 .race {
     margin-bottom: 50px;
 }
+.endorsements ul, .endorsements ul li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+.endorsements ul li {
+    margin-bottom: 5px;
+}
+.endorsements .rating {
+    display: block;
+    float: left;
+    font-size: 70%;
+    color: #eeeeee;
+    background: #444444;
+    padding: 4px;
+    width: 18px;
+    text-align: center;
+    margin-right: 8px;
+    margin-top: -3px;
+    border-radius: 3px;
+}
+.endorsements .green {
+    background: #008000;
+}
+.endorsements .yellow {
+    background: #808000;
+}
+.endorsements .red {
+    background: #800000;
+}
 
 .form-search {
     float: right;

@@ -12,8 +12,9 @@
     <ul>
         <% _.each(endorsements, function(endorsement) { %>
         <li>
-            <span class="rating"><%=endorsement.value%></span>
+            <span class="rating <%=colorOf(endorsement)%>"><%=endorsement.value%></span>
             <span class="organization"><%=endorsement.name%></span>
+            <div class="clear"></div>
         </li>
         <% }) %>
     </ul>
