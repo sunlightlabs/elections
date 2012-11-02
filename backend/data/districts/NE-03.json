@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -54,6 +55,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Adrian_M._Smith",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001172.jpg",
+      "seat_status": "I",
       "bioguide_id": "S001172",
       "fec_summary": {
         "contributions_pac": "560394.82",
@@ -133,6 +135,7 @@
           "name": "Securities & Investment"
         }
       ],
+      "senate_class": "",
       "name": "Adrian Smith",
       "endorsements": [
         {
@@ -184,6 +187,7 @@
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Kerrey",
       "photo_url": "http://upload.wikimedia.org/wikipedia/commons/5/5a/Senator_Bob_Kerrey.jpg",
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "446561.00",
@@ -287,6 +291,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "427100.00",
@@ -385,6 +390,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=N000180",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/N000180.jpg",
+      "seat_status": "I",
       "bioguide_id": "N000180",
       "fec_summary": {
         "contributions_pac": "1245929.00",
@@ -464,6 +470,7 @@
           "name": "Agricultural Services/Products"
         }
       ],
+      "senate_class": "I",
       "name": "Ben Nelson",
       "endorsements": [
         {

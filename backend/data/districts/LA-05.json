@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Rodney_Alexander",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000361.jpg",
+      "seat_status": "I",
       "bioguide_id": "A000361",
       "fec_summary": {
         "contributions_pac": "335480.53",
@@ -89,6 +90,7 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
       "name": "Rodney Alexander",
       "endorsements": [
         {

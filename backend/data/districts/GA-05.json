@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_Lewis_%28U.S._politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000287.jpg",
+      "seat_status": "I",
       "bioguide_id": "L000287",
       "fec_summary": {
         "contributions_pac": "523400.00",
@@ -89,6 +90,7 @@
           "name": "Tv/Movies/Music"
         }
       ],
+      "senate_class": "",
       "name": "John Lewis",
       "endorsements": [
         {

@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Cedric_Richmond",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000588.jpg",
+      "seat_status": "I",
       "bioguide_id": "R000588",
       "fec_summary": {
         "contributions_pac": "455035.80",
@@ -89,6 +90,7 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
       "name": "Cedric L Richmond",
       "endorsements": [
         {

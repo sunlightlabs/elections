@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Rob_Woodall",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000810.jpg",
+      "seat_status": "I",
       "bioguide_id": "W000810",
       "fec_summary": {
         "contributions_pac": "179050.00",
@@ -89,6 +90,7 @@
           "name": "Food & Beverage"
         }
       ],
+      "senate_class": "",
       "name": "Rob Woodall",
       "endorsements": [
         {

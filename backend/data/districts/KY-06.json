@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "187984.08",
@@ -108,6 +109,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Ben_Chandler",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001058.jpg",
+      "seat_status": "I",
       "bioguide_id": "C001058",
       "fec_summary": {
         "contributions_pac": "671502.73",
@@ -187,6 +189,7 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
       "name": "Ben Chandler",
       "endorsements": [
         {

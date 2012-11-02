@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "2250.00",
@@ -113,6 +114,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sue_Myrick",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001134.jpg",
+      "seat_status": "I",
       "bioguide_id": "M001134",
       "fec_summary": {
         "contributions_pac": "259950.00",
@@ -192,6 +194,7 @@
           "name": "Telephone Utilities"
         }
       ],
+      "senate_class": "",
       "name": "Sue Myrick",
       "endorsements": [
         {

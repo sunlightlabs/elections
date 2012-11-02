@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Steve_Womack",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000809.jpg",
+      "seat_status": "I",
       "bioguide_id": "W000809",
       "fec_summary": {
         "contributions_pac": "320300.00",
@@ -89,6 +90,7 @@
           "name": "General Contractors"
         }
       ],
+      "senate_class": "",
       "name": "Steve Womack",
       "endorsements": [
         {

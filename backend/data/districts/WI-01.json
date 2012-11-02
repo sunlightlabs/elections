@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "102590.07",
@@ -113,6 +114,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Paul_Ryan",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000570.jpg",
+      "seat_status": "I",
       "bioguide_id": "R000570",
       "fec_summary": {
         "contributions_pac": "1020994.19",
@@ -192,6 +194,7 @@
           "name": "Automotive"
         }
       ],
+      "senate_class": "",
       "name": "Paul Ryan",
       "endorsements": [
         {
@@ -233,6 +236,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=K000305",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000305.jpg",
+      "seat_status": "I",
       "bioguide_id": "K000305",
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -312,6 +316,7 @@
           "name": "Retail Sales"
         }
       ],
+      "senate_class": "I",
       "name": "Herb Kohl",
       "endorsements": [
         {

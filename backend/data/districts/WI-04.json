@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Gwen_Moore",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001160.jpg",
+      "seat_status": "I",
       "bioguide_id": "M001160",
       "fec_summary": {
         "contributions_pac": "421615.94",
@@ -89,6 +90,7 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
       "name": "Gwen Moore",
       "endorsements": [
         {
@@ -150,6 +152,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=K000305",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000305.jpg",
+      "seat_status": "I",
       "bioguide_id": "K000305",
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -229,6 +232,7 @@
           "name": "Retail Sales"
         }
       ],
+      "senate_class": "I",
       "name": "Herb Kohl",
       "endorsements": [
         {

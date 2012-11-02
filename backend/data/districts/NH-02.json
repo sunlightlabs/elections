@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Ann_McLane_Kuster",
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "333081.62",
@@ -113,6 +114,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Charles_Bass",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000220.jpg",
+      "seat_status": "I",
       "bioguide_id": "B000220",
       "fec_summary": {
         "contributions_pac": "872583.55",
@@ -192,6 +194,7 @@
           "name": "Oil & Gas"
         }
       ],
+      "senate_class": "",
       "name": "Charles Bass",
       "endorsements": [
         {

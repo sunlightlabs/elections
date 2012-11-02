@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Chris_Van_Hollen",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/V000128.jpg",
+      "seat_status": "I",
       "bioguide_id": "V000128",
       "fec_summary": {
         "contributions_pac": "483704.69",
@@ -89,6 +90,7 @@
           "name": "Misc Unions"
         }
       ],
+      "senate_class": "",
       "name": "Chris Van Hollen",
       "endorsements": [
         {
@@ -135,6 +137,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000141",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000141.jpg",
+      "seat_status": "I",
       "bioguide_id": "C000141",
       "fec_summary": {
         "contributions_pac": "1669919.00",
@@ -214,135 +217,13 @@
           "name": "Public Sector Unions"
         }
       ],
+      "senate_class": "I",
       "name": "Ben Cardin",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
           "type": "endorsement",
           "value": "Y"
-        }
-      ]
-    },
-    {
-      "entity_id": "ca16a38f58f743fa89e9344657226d18",
-      "chamber": "senate",
-      "state": "MD",
-      "state_name": "Maryland",
-      "district": null,
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Barbara_Mikulski",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000702.jpg",
-      "bioguide_id": "M000702",
-      "fec_summary": {
-        "contributions_pac": "150000.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "230003.00",
-        "disbursements": "391115.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "51260.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "732562.00"
-      },
-      "industries": [
-        {
-          "count": "1084",
-          "amount": "824874.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "790",
-          "amount": "556588.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "615",
-          "amount": "539126.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "569",
-          "amount": "529134.00",
-          "id": "bf2cfae020b84fae915ee48e8e15ea87",
-          "name": "Pro-Israel"
-        },
-        {
-          "count": "972",
-          "amount": "463568.00",
-          "id": "6e1074968db94bf4851c0245cd8583bf",
-          "name": "Women's Issues"
-        },
-        {
-          "count": "858",
-          "amount": "434472.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "466",
-          "amount": "419587.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "316",
-          "amount": "362745.00",
-          "id": "08c1fa7788994f148eddfb78c10032cf",
-          "name": "Pharmaceuticals/Health Products"
-        },
-        {
-          "count": "179",
-          "amount": "340275.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "303",
-          "amount": "316531.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        }
-      ],
-      "name": "Barbara A Mikulski",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "40"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "90"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "9"
         }
       ]
     }

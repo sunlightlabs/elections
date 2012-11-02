@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "O",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "39870.00",
@@ -113,6 +114,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Tim_Johnson_%28Illinois_politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/J000285.jpg",
+      "seat_status": "I",
       "bioguide_id": "J000285",
       "fec_summary": {
         "contributions_pac": "358277.49",
@@ -192,6 +194,7 @@
           "name": "Electric Utilities"
         }
       ],
+      "senate_class": "",
       "name": "Timothy V Johnson",
       "endorsements": [
         {

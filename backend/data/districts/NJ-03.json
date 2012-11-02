@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "182325.00",
@@ -99,104 +100,6 @@
       ]
     },
     {
-      "entity_id": "eabd1e38012549b0ab021530fa08f8f1",
-      "chamber": "house",
-      "state": "NJ",
-      "state_name": "New Jersey",
-      "district": "03",
-      "party": "D",
-      "incumbent": false,
-      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=A000364",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000364.jpg",
-      "bioguide_id": "A000364",
-      "fec_summary": {
-        "contributions_pac": "0.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "7501.84",
-        "disbursements": "42441.81",
-        "total_disbursements_rank": null,
-        "date": "2011-12-31",
-        "contributions_indiv": "0.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "0.00"
-      },
-      "industries": [
-        {
-          "count": "1433",
-          "amount": "894982.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "322",
-          "amount": "308625.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "157",
-          "amount": "293030.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "263",
-          "amount": "251523.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "206",
-          "amount": "233861.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "228",
-          "amount": "211167.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "172",
-          "amount": "191421.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "65",
-          "amount": "176266.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "58",
-          "amount": "124000.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "212",
-          "amount": "122138.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        }
-      ],
-      "name": "John H Adler",
-      "endorsements": [
-        {
-          "name": "Gun Owners of America",
-          "type": "endorsement",
-          "value": null
-        }
-      ]
-    },
-    {
       "entity_id": "9329032b509b496784fc7a31b1103e78",
       "chamber": "house",
       "state": "NJ",
@@ -206,6 +109,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jon_Runyan",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000594.jpg",
+      "seat_status": "I",
       "bioguide_id": "R000594",
       "fec_summary": {
         "contributions_pac": "715552.91",
@@ -285,6 +189,7 @@
           "name": "Defense Aerospace"
         }
       ],
+      "senate_class": "",
       "name": "Jon Runyan",
       "endorsements": [
         {
@@ -316,128 +221,6 @@
     }
   ],
   "senate": [
-    {
-      "entity_id": "f50475a4f7da43718ba089990ebb3b5a",
-      "chamber": "senate",
-      "state": "NJ",
-      "state_name": "New Jersey",
-      "district": null,
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Frank_Lautenberg",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000123.jpg",
-      "bioguide_id": "L000123",
-      "fec_summary": {
-        "contributions_pac": "105500.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "184350.00",
-        "disbursements": "221077.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "69246.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "183665.00"
-      },
-      "industries": [
-        {
-          "count": "2532",
-          "amount": "1968658.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "1523",
-          "amount": "1480318.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "1015",
-          "amount": "1073282.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "662",
-          "amount": "662727.00",
-          "id": "bf2cfae020b84fae915ee48e8e15ea87",
-          "name": "Pro-Israel"
-        },
-        {
-          "count": "540",
-          "amount": "461058.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "428",
-          "amount": "446072.00",
-          "id": "08c1fa7788994f148eddfb78c10032cf",
-          "name": "Pharmaceuticals/Health Products"
-        },
-        {
-          "count": "391",
-          "amount": "432025.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "340",
-          "amount": "397695.00",
-          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
-          "name": "Tv/Movies/Music"
-        },
-        {
-          "count": "449",
-          "amount": "365937.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "386",
-          "amount": "345130.00",
-          "id": "13ca840788944cc79b362d068985fc73",
-          "name": "Misc Manufacturing & Distributing"
-        }
-      ],
-      "name": "Frank R Lautenberg",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "40"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "95"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "11"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "10"
-        }
-      ]
-    }
+
   ]
 }

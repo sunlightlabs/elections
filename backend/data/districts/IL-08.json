@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Tammy_Duckworth",
       "photo_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/40/Assistant_Secretary_of_Public_and_Intergovernmental_Affairs_Tammy_Duckworth.jpg/240px-Assistant_Secretary_of_Public_and_Intergovernmental_Affairs_Tammy_Duckworth.jpg",
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "398397.96",
@@ -118,6 +119,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Joe_Walsh_%28Illinois_politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000811.jpg",
+      "seat_status": "I",
       "bioguide_id": "W000811",
       "fec_summary": {
         "contributions_pac": "498384.38",
@@ -197,6 +199,7 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
       "name": "Joe Walsh",
       "endorsements": [
         {

@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jan_Schakowsky",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001145.jpg",
+      "seat_status": "I",
       "bioguide_id": "S001145",
       "fec_summary": {
         "contributions_pac": "262175.00",
@@ -89,6 +90,7 @@
           "name": "Securities & Investment"
         }
       ],
+      "senate_class": "",
       "name": "Jan Schakowsky",
       "endorsements": [
         {

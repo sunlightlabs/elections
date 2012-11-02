@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Blaine_Luetkemeyer",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000569.jpg",
+      "seat_status": "I",
       "bioguide_id": "L000569",
       "fec_summary": {
         "contributions_pac": "437234.67",
@@ -89,6 +90,7 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
       "name": "Blaine Luetkemeyer",
       "endorsements": [
         {
@@ -130,6 +132,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Claire_McCaskill",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001170.jpg",
+      "seat_status": "I",
       "bioguide_id": "M001170",
       "fec_summary": {
         "contributions_pac": "1555358.00",
@@ -209,6 +212,7 @@
           "name": "Business Services"
         }
       ],
+      "senate_class": "I",
       "name": "Claire McCaskill",
       "endorsements": [
         {

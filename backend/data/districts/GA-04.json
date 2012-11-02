@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Hank_Johnson",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/J000288.jpg",
+      "seat_status": "I",
       "bioguide_id": "J000288",
       "fec_summary": {
         "contributions_pac": "291050.00",
@@ -89,6 +90,7 @@
           "name": "Transportation Unions"
         }
       ],
+      "senate_class": "",
       "name": "Hank Johnson",
       "endorsements": [
         {

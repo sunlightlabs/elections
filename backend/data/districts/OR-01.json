@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=B001278",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001278.jpg",
+      "seat_status": "I",
       "bioguide_id": "B001278",
       "fec_summary": {
         "contributions_pac": "588572.51",
@@ -89,6 +90,7 @@
           "name": "Real Estate"
         }
       ],
+      "senate_class": "",
       "name": "Suzanne Bonamici",
       "endorsements": [
         {
@@ -128,6 +130,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/David_Wu",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000793.jpg",
+      "seat_status": "I",
       "bioguide_id": "W000793",
       "fec_summary": {
       },
@@ -193,6 +196,7 @@
           "name": "Building Trade Unions"
         }
       ],
+      "senate_class": "",
       "name": "David Wu",
       "endorsements": [
         {

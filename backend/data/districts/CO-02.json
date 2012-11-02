@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jared_Polis",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000598.jpg",
+      "seat_status": "I",
       "bioguide_id": "P000598",
       "fec_summary": {
         "contributions_pac": "1000.00",
@@ -89,6 +90,7 @@
           "name": "Business Services"
         }
       ],
+      "senate_class": "",
       "name": "Jared Polis",
       "endorsements": [
         {
@@ -143,6 +145,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "1000.00",
@@ -228,129 +231,6 @@
           "name": "Gun Owners of America",
           "type": "grade",
           "value": "A"
-        }
-      ]
-    },
-    {
-      "entity_id": "da73e969cfcb4c22824ff941bbf74159",
-      "chamber": "house",
-      "state": "CO",
-      "state_name": "Colorado",
-      "district": "02",
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Mark_Udall",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/U000038.jpg",
-      "bioguide_id": "U000038",
-      "fec_summary": {
-        "contributions_pac": "354420.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "1824372.00",
-        "disbursements": "834813.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "1463543.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "1065350.00"
-      },
-      "industries": [
-        {
-          "count": "2131",
-          "amount": "1523714.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "1900",
-          "amount": "1170766.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "583",
-          "amount": "705304.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "719",
-          "amount": "596439.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "605",
-          "amount": "589637.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "731",
-          "amount": "553461.00",
-          "id": "72c7c89ba4ce406d99152105c08ccedf",
-          "name": "Environment"
-        },
-        {
-          "count": "501",
-          "amount": "453537.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "627",
-          "amount": "435462.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "146",
-          "amount": "407946.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "399",
-          "amount": "379774.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        }
-      ],
-      "name": "Mark Udall",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "40"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "90"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "14"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "5"
         }
       ]
     }

@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "320200.00",
@@ -118,6 +119,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Scott_Tipton",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/T000470.jpg",
+      "seat_status": "I",
       "bioguide_id": "T000470",
       "fec_summary": {
         "contributions_pac": "471358.86",
@@ -197,6 +199,7 @@
           "name": "Food & Beverage"
         }
       ],
+      "senate_class": "",
       "name": "Scott Tipton",
       "endorsements": [
         {
@@ -228,104 +231,6 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "92"
-        }
-      ]
-    },
-    {
-      "entity_id": "25615c1f07254d3bad690d7759269a78",
-      "chamber": "house",
-      "state": "CO",
-      "state_name": "Colorado",
-      "district": "03",
-      "party": "D",
-      "incumbent": false,
-      "bio_url": "http://en.wikipedia.org/wiki/John_Salazar",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001158.jpg",
-      "bioguide_id": "S001158",
-      "fec_summary": {
-        "contributions_pac": "0.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "628.18",
-        "disbursements": "32015.37",
-        "total_disbursements_rank": null,
-        "date": "2011-05-04",
-        "contributions_indiv": "0.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "26002.17"
-      },
-      "industries": [
-        {
-          "count": "683",
-          "amount": "463497.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "145",
-          "amount": "293242.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "87",
-          "amount": "237500.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "118",
-          "amount": "232500.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "124",
-          "amount": "230512.00",
-          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
-          "name": "Transportation Unions"
-        },
-        {
-          "count": "209",
-          "amount": "222910.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "365",
-          "amount": "215692.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "225",
-          "amount": "212744.00",
-          "id": "0b27f92a966443129f79dfa42ae1f293",
-          "name": "Crop Production & Basic Processing"
-        },
-        {
-          "count": "66",
-          "amount": "178500.00",
-          "id": "d22cf14b1cd349b79f2b656b450b3b88",
-          "name": "Industrial Unions"
-        },
-        {
-          "count": "149",
-          "amount": "159172.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        }
-      ],
-      "name": "John Salazar",
-      "endorsements": [
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "60"
         }
       ]
     }

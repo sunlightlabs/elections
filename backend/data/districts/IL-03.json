@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dan_Lipinski",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000563.jpg",
+      "seat_status": "I",
       "bioguide_id": "L000563",
       "fec_summary": {
         "contributions_pac": "411203.84",
@@ -89,6 +90,7 @@
           "name": "Lobbyists"
         }
       ],
+      "senate_class": "",
       "name": "Daniel Lipinski",
       "endorsements": [
         {

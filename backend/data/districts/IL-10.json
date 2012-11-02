@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "181200.00",
@@ -113,6 +114,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_Dold",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000613.jpg",
+      "seat_status": "I",
       "bioguide_id": "D000613",
       "fec_summary": {
         "contributions_pac": "866380.00",
@@ -192,6 +194,7 @@
           "name": "Misc Services"
         }
       ],
+      "senate_class": "",
       "name": "Robert Dold",
       "endorsements": [
         {
@@ -218,129 +221,6 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "44"
-        }
-      ]
-    },
-    {
-      "entity_id": "048563d4685b4fcab08889881f066fff",
-      "chamber": "house",
-      "state": "IL",
-      "state_name": "Illinois",
-      "district": "10",
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Mark_Kirk",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000360.jpg",
-      "bioguide_id": "K000360",
-      "fec_summary": {
-        "contributions_pac": "230220.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "748503.00",
-        "disbursements": "601292.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "481436.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "483178.00"
-      },
-      "industries": [
-        {
-          "count": "3540",
-          "amount": "2774157.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "1651",
-          "amount": "2294443.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "1171",
-          "amount": "1481181.00",
-          "id": "bf2cfae020b84fae915ee48e8e15ea87",
-          "name": "Pro-Israel"
-        },
-        {
-          "count": "1680",
-          "amount": "1454756.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "1100",
-          "amount": "1223119.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "863",
-          "amount": "963744.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "643",
-          "amount": "787260.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        },
-        {
-          "count": "671",
-          "amount": "664129.00",
-          "id": "767c434bfd1348638bab7f8c12b9282f",
-          "name": "Republican/Conservative"
-        },
-        {
-          "count": "227",
-          "amount": "626950.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "486",
-          "amount": "616212.00",
-          "id": "13ca840788944cc79b362d068985fc73",
-          "name": "Misc Manufacturing & Distributing"
-        }
-      ],
-      "name": "Mark Kirk",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "70"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "60"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "45"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "F"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "endorsement",
-          "value": null
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "83"
         }
       ]
     }

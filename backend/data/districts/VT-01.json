@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Peter_Welch",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000800.jpg",
+      "seat_status": "I",
       "bioguide_id": "W000800",
       "fec_summary": {
         "contributions_pac": "432250.00",
@@ -89,6 +90,7 @@
           "name": "Transportation Unions"
         }
       ],
+      "senate_class": "",
       "name": "Peter Welch",
       "endorsements": [
         {
@@ -140,6 +142,7 @@
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=S000033",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000033.jpg",
+      "seat_status": "I",
       "bioguide_id": "S000033",
       "fec_summary": {
         "contributions_pac": "326350.00",
@@ -219,6 +222,7 @@
           "name": "Leadership Pacs"
         }
       ],
+      "senate_class": "I",
       "name": "Bernie Sanders",
       "endorsements": [
         {
@@ -238,6 +242,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "0.00",
@@ -293,129 +298,6 @@
           "name": "Gun Owners of America",
           "type": "grade",
           "value": "A"
-        }
-      ]
-    },
-    {
-      "entity_id": "f60e39e019054c1680861cd2c0e9c17a",
-      "chamber": "senate",
-      "state": "VT",
-      "state_name": "Vermont",
-      "district": null,
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Patrick_Leahy",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000174.jpg",
-      "bioguide_id": "L000174",
-      "fec_summary": {
-        "contributions_pac": "55750.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "223070.00",
-        "disbursements": "524142.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "111997.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "1847321.00"
-      },
-      "industries": [
-        {
-          "count": "1794",
-          "amount": "1396052.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "1054",
-          "amount": "894666.00",
-          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
-          "name": "Tv/Movies/Music"
-        },
-        {
-          "count": "1446",
-          "amount": "679385.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "425",
-          "amount": "413191.00",
-          "id": "042288e0185a44ec82982814c69abdca",
-          "name": "Computers/Internet"
-        },
-        {
-          "count": "269",
-          "amount": "274106.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "58",
-          "amount": "214150.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "312",
-          "amount": "206875.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "424",
-          "amount": "199829.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "206",
-          "amount": "177800.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "234",
-          "amount": "143022.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        }
-      ],
-      "name": "Patrick Leahy",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "40"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "5"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "8"
         }
       ]
     }

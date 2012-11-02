@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Phil_Gingrey",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000550.jpg",
+      "seat_status": "I",
       "bioguide_id": "G000550",
       "fec_summary": {
         "contributions_pac": "633850.00",
@@ -89,6 +90,7 @@
           "name": "Commercial Banks"
         }
       ],
+      "senate_class": "",
       "name": "Phil Gingrey",
       "endorsements": [
         {

@@ -10,6 +10,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Frank_Lucas_%28Oklahoma%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000491.jpg",
+      "seat_status": "I",
       "bioguide_id": "L000491",
       "fec_summary": {
         "contributions_pac": "877075.70",
@@ -89,6 +90,7 @@
           "name": "Food Processing & Sales"
         }
       ],
+      "senate_class": "",
       "name": "Frank D Lucas",
       "endorsements": [
         {

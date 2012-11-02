@@ -10,6 +10,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "19750.00",
@@ -113,6 +114,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Michele_Bachmann",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001256.jpg",
+      "seat_status": "I",
       "bioguide_id": "B001256",
       "fec_summary": {
         "contributions_pac": "117045.00",
@@ -192,6 +194,7 @@
           "name": "Misc Business"
         }
       ],
+      "senate_class": "",
       "name": "Michele Bachmann",
       "endorsements": [
         {
@@ -233,6 +236,7 @@
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Amy_Klobuchar",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000367.jpg",
+      "seat_status": "I",
       "bioguide_id": "K000367",
       "fec_summary": {
         "contributions_pac": "1560131.00",
@@ -312,6 +316,7 @@
           "name": "Health Professionals"
         }
       ],
+      "senate_class": "I",
       "name": "Amy Klobuchar",
       "endorsements": [
         {
@@ -366,6 +371,7 @@
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
+      "seat_status": "C",
       "bioguide_id": null,
       "fec_summary": {
         "contributions_pac": "48650.00",
@@ -451,129 +457,6 @@
           "name": "Gun Owners of America",
           "type": "grade",
           "value": "A"
-        }
-      ]
-    },
-    {
-      "entity_id": "2356932a051f4ab796df1f26878f6f4a",
-      "chamber": "senate",
-      "state": "MN",
-      "state_name": "Minnesota",
-      "district": null,
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Al_Franken",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000457.jpg",
-      "bioguide_id": "F000457",
-      "fec_summary": {
-        "contributions_pac": "106350.00",
-        "office": null,
-        "total_receipts_rank": null,
-        "max_rank": null,
-        "contributions_candidate": "0.00",
-        "transfers_in": "430440.00",
-        "cash_on_hand_rank": null,
-        "total_raised": "2783437.00",
-        "disbursements": "1942570.00",
-        "total_disbursements_rank": null,
-        "date": "2012-06-30",
-        "contributions_indiv": "2106401.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "972835.00"
-      },
-      "industries": [
-        {
-          "count": "1989",
-          "amount": "1404205.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "2080",
-          "amount": "1028772.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "1715",
-          "amount": "1028740.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "707",
-          "amount": "845733.00",
-          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
-          "name": "Tv/Movies/Music"
-        },
-        {
-          "count": "437",
-          "amount": "549222.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "671",
-          "amount": "505684.00",
-          "id": "d9c4a26cd671436eac3c501184364fc4",
-          "name": "Misc Business"
-        },
-        {
-          "count": "307",
-          "amount": "312185.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "365",
-          "amount": "305280.00",
-          "id": "db81234a46874e7392cb5dfec1f07113",
-          "name": "Printing & Publishing"
-        },
-        {
-          "count": "611",
-          "amount": "287611.00",
-          "id": "31657d3c187e4cecb670d228d7e674d2",
-          "name": "Education"
-        },
-        {
-          "count": "391",
-          "amount": "282527.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        }
-      ],
-      "name": "Al Franken",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "30"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "90"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "9"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "0"
         }
       ]
     }
