@@ -1,5 +1,5 @@
 <div class="candidate-upper">
-    <img src="<%=photo_url%>" />
+    <img src="<%=bioguide_id ? photo_url : (photo_filename ? "/thumbs/" + chamber + "_images_ac/" + state + (chamber === "house" ? "-" + district : "") + "/" + photo_filename : "")%>" />
     <div class="bio">
         <h4><%=name%></h4>
         <div class="party"><%=({'D':'Democrat','R':'Republican','I':'Independent'}[party])%></div>
