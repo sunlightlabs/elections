@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "4e091859472b4257b15caafdf6fc8f48",
-      "name": "Pete Olson",
+      "photo_filename": null,
+      "name": "Kesha Rogers",
+      "party": "D"
+    },
+    {
       "photo_filename": "Pete_Olson.jpg",
+      "name": "Pete Olson",
+      "party": "R",
+      "entity_id": "4e091859472b4257b15caafdf6fc8f48",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
       "district": "22",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Pete_Olson",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/O000168.jpg",
@@ -123,14 +128,14 @@
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Ted Cruz",
       "photo_filename": "Paul_Sadler.jpg",
+      "name": "Paul Sadler",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -222,13 +227,108 @@
         },
         {
           "name": "Gun Owners of America",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Gun Owners of America",
           "type": "endorsement",
           "value": null
+        }
+      ]
+    },
+    {
+      "photo_filename": "Ted_Cruz.jpg",
+      "name": "Ted Cruz",
+      "party": "R",
+      "entity_id": null,
+      "chamber": "senate",
+      "state": "TX",
+      "state_name": "Texas",
+      "district": null,
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "O",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "138370.00",
+        "office": "S",
+        "total_receipts_rank": 12,
+        "max_rank": 62,
+        "contributions_candidate": "795000.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 40,
+        "total_raised": "8721503.00",
+        "disbursements": "7600914.00",
+        "total_disbursements_rank": 8,
+        "date": "2012-07-11",
+        "contributions_indiv": "7778190.00",
+        "contributions_party": "3130.00",
+        "cash_on_hand": "1452297.00"
+      },
+      "industries": [
+        {
+          "count": "1151",
+          "amount": "825098.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "630",
+          "amount": "551662.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "620",
+          "amount": "437961.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "277",
+          "amount": "325850.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "220",
+          "amount": "305110.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "213",
+          "amount": "239800.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "301",
+          "amount": "235549.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "155",
+          "amount": "185700.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "192",
+          "amount": "155880.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "154",
+          "amount": "148874.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A"
         },
         {
           "name": "Family Research Council",

@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "d34cf814990a4f8a9263686d7d08a437",
-      "name": "Diana DeGette",
       "photo_filename": "Diana_DeGette.jpg",
+      "name": "Diana DeGette",
+      "party": "D",
+      "entity_id": "d34cf814990a4f8a9263686d7d08a437",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
       "district": "1",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Diana_DeGette",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000197.jpg",
@@ -129,6 +129,11 @@
           "value": "4"
         }
       ]
+    },
+    {
+      "photo_filename": "Danny_Stroud.jpg",
+      "name": "Danny Stroud",
+      "party": "R"
     }
   ],
   "senate": [

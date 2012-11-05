@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "3e025578600547b9833a303bf4d0b54c",
-      "name": "Mike Quigley",
       "photo_filename": "Mike_Quigley.jpg",
+      "name": "Mike Quigley",
+      "party": "D",
+      "entity_id": "3e025578600547b9833a303bf4d0b54c",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "5",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Michael_Quigley",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/Q000023.jpg",
@@ -129,6 +129,11 @@
           "value": "20"
         }
       ]
+    },
+    {
+      "photo_filename": "Dan_Schmitt.jpg",
+      "name": "Dan Schmitt",
+      "party": "R"
     }
   ],
   "senate": [

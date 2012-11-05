@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "acfb5dfd44ed4122993af7e7f00712fd",
-      "name": "Manan Trivedi",
       "photo_filename": null,
+      "name": "Manan Trivedi",
+      "party": "D",
+      "entity_id": "acfb5dfd44ed4122993af7e7f00712fd",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "6",
-      "party": "D",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Manan_Trivedi",
       "photo_url": "http://upload.wikimedia.org/wikipedia/en/thumb/3/32/Trivedi.jpg/220px-Trivedi.jpg",
@@ -111,14 +111,14 @@
       ]
     },
     {
-      "entity_id": "0a45a2621e79498a8ba264eedbe0624b",
-      "name": "Jim Gerlach",
       "photo_filename": "Jim_Gerlach.jpg",
+      "name": "Jim Gerlach",
+      "party": "R",
+      "entity_id": "0a45a2621e79498a8ba264eedbe0624b",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "6",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jim_Gerlach",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000549.jpg",
@@ -238,14 +238,14 @@
   ],
   "senate": [
     {
-      "entity_id": "6270f8364eac4b0a88a117c008011e06",
-      "name": "Bob Casey",
       "photo_filename": "Bob_Casey,_Jr..jpg",
+      "name": "Bob Casey, Jr.",
+      "party": "D",
+      "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001070.jpg",
@@ -366,6 +366,11 @@
           "value": "90"
         }
       ]
+    },
+    {
+      "photo_filename": "Tom_Smith.jpg",
+      "name": "Tom Smith",
+      "party": "R"
     }
   ]
 }

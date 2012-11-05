@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "77bdd01dbfb246c8860f2af60c4ba7fd",
-      "name": "Leonard Lance",
+      "photo_filename": "Upendra_Chivukula.jpg",
+      "name": "Upendra Chivukula",
+      "party": "D"
+    },
+    {
       "photo_filename": "Leonard_Lance.jpg",
+      "name": "Leonard Lance",
+      "party": "R",
+      "entity_id": "77bdd01dbfb246c8860f2af60c4ba7fd",
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "7",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Leonard_Lance",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000567.jpg",
@@ -128,14 +133,14 @@
   ],
   "senate": [
     {
-      "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
-      "name": "Robert Menendez",
       "photo_filename": "Bob_Menendez.jpg",
+      "name": "Bob Menendez",
+      "party": "D",
+      "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Menendez",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000639.jpg",
@@ -266,6 +271,11 @@
           "value": "13"
         }
       ]
+    },
+    {
+      "photo_filename": "Joe_Kyrillos.jpg",
+      "name": "Joe Kyrillos",
+      "party": "R"
     }
   ]
 }

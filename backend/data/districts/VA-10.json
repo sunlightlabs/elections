@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Kristin Cabral",
       "photo_filename": null,
+      "name": "Kristin Cabral",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
       "district": "10",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -111,14 +111,14 @@
       ]
     },
     {
-      "entity_id": "96bd253297cd42b689edb1549decde78",
-      "name": "Frank R Wolf",
       "photo_filename": "Frank_Wolf.jpg",
+      "name": "Frank Wolf",
+      "party": "R",
+      "entity_id": "96bd253297cd42b689edb1549decde78",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
       "district": "10",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Frank_Wolf",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000672.jpg",
@@ -233,14 +233,14 @@
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Tim Kaine",
       "photo_filename": "Tim_Kaine.png",
+      "name": "Tim Kaine",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -346,6 +346,11 @@
           "value": "F"
         }
       ]
+    },
+    {
+      "photo_filename": "George_Allen.jpg",
+      "name": "George Allen",
+      "party": "R"
     }
   ]
 }

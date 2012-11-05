@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Robert Pittenger",
       "photo_filename": null,
+      "name": "Jennifer Roberts",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "9",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -97,7 +97,102 @@
           "name": "Gun Owners of America",
           "type": "endorsement",
           "value": null
+        }
+      ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Robert Pittenger",
+      "party": "R",
+      "entity_id": null,
+      "chamber": "house",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": "9",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "O",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "11000.00",
+        "office": "H",
+        "total_receipts_rank": 42,
+        "max_rank": 1515,
+        "contributions_candidate": "1923581.67",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 594,
+        "total_raised": "2329339.87",
+        "disbursements": "2238926.15",
+        "total_disbursements_rank": 22,
+        "date": "2012-06-27",
+        "contributions_indiv": "369580.20",
+        "contributions_party": "0.00",
+        "cash_on_hand": "90413.72"
+      },
+      "industries": [
+        {
+          "count": "78",
+          "amount": "70600.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
         },
+        {
+          "count": "24",
+          "amount": "20500.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "33",
+          "amount": "20150.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "9",
+          "amount": "15975.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "11",
+          "amount": "15000.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "2",
+          "amount": "10000.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "8",
+          "amount": "9750.00",
+          "id": "19d2d493e60c44eda7d0d1a7c1950a95",
+          "name": "Textiles"
+        },
+        {
+          "count": "12",
+          "amount": "9000.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "12",
+          "amount": "8533.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        },
+        {
+          "count": "9",
+          "amount": "6500.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        }
+      ],
+      "endorsements": [
         {
           "name": "Family Research Council",
           "type": "endorsement",

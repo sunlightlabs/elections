@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "09e41498c9ea48fd9d285e70579f4c06",
-      "name": "Rodney Alexander",
       "photo_filename": "Rodney_Alexander.jpg",
+      "name": "Rodney Alexander",
+      "party": "R",
+      "entity_id": "09e41498c9ea48fd9d285e70579f4c06",
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",
       "district": "5",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Rodney_Alexander",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000361.jpg",

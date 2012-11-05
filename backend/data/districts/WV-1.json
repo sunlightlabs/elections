@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "b290e7531b31446883253332fad1f693",
-      "name": "David B. McKinley",
+      "photo_filename": "Sue_Thorn.png",
+      "name": "Sue Thorn",
+      "party": "D"
+    },
+    {
       "photo_filename": "David_McKinley.jpg",
+      "name": "David McKinley",
+      "party": "R",
+      "entity_id": "b290e7531b31446883253332fad1f693",
       "chamber": "house",
       "state": "WV",
       "state_name": "West Virginia",
       "district": "1",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/David_McKinley",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001180.jpg",
@@ -123,14 +128,14 @@
   ],
   "senate": [
     {
-      "entity_id": "fea00787eb034cb2a11e8086a48db88e",
-      "name": "Joe Manchin",
       "photo_filename": "Joe_Manchin.jpg",
+      "name": "Joe Manchin",
+      "party": "D",
+      "entity_id": "fea00787eb034cb2a11e8086a48db88e",
       "chamber": "senate",
       "state": "WV",
       "state_name": "West Virginia",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Joe_Manchin",
       "photo_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Joe_Manchin%2C_Official_Senate_Portrait.jpg/225px-Joe_Manchin%2C_Official_Senate_Portrait.jpg",
@@ -256,6 +261,11 @@
           "value": "15"
         }
       ]
+    },
+    {
+      "photo_filename": "John_Raese.png",
+      "name": "John Raese",
+      "party": "R"
     }
   ]
 }

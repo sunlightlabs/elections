@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "78ff25953bbe4d79a069d9492b48ad90",
-      "name": "Suzanne Bonamici",
       "photo_filename": "Suzanne_Bonamici.jpg",
+      "name": "Suzanne Bonamici",
+      "party": "D",
+      "entity_id": "78ff25953bbe4d79a069d9492b48ad90",
       "chamber": "house",
       "state": "OR",
       "state_name": "Oregon",
       "district": "1",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=B001278",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001278.jpg",
@@ -119,6 +119,11 @@
           "value": "F"
         }
       ]
+    },
+    {
+      "photo_filename": "Delinda_Morgan.jpg",
+      "name": "Delinda Morgan",
+      "party": "R"
     }
   ],
   "senate": [

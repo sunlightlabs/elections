@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "4cc8661e10084bdca2aa022bd5f8835d",
-      "name": "Rick Larsen",
       "photo_filename": "Rick_Larsen.jpg",
+      "name": "Rick Larsen",
+      "party": "D",
+      "entity_id": "4cc8661e10084bdca2aa022bd5f8835d",
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
       "district": "2",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Rick_Larsen",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000560.jpg",
@@ -134,18 +134,23 @@
           "value": "0"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Dan Matthews",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
-      "name": "Maria Cantwell",
       "photo_filename": "Maria_Cantwell.jpg",
+      "name": "Maria Cantwell",
+      "party": "D",
+      "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Maria_Cantwell",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000127.jpg",
@@ -281,6 +286,11 @@
           "value": "10"
         }
       ]
+    },
+    {
+      "photo_filename": "Michael_Baumgartner.jpg",
+      "name": "Michael Baumgartner",
+      "party": "R"
     }
   ]
 }

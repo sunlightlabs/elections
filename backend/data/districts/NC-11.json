@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Hayden Rogers",
       "photo_filename": null,
+      "name": "Hayden Rogers",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "11",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -104,6 +104,11 @@
           "value": null
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Mark Meadows",
+      "party": "R"
     }
   ],
   "senate": [

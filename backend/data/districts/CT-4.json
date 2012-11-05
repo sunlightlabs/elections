@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "04763defbce9498c935862ab6cb5b51f",
-      "name": "Jim Himes",
       "photo_filename": "Jim_Himes.jpg",
+      "name": "Jim Himes",
+      "party": "D",
+      "entity_id": "04763defbce9498c935862ab6cb5b51f",
       "chamber": "house",
       "state": "CT",
       "state_name": "Connecticut",
       "district": "4",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jim_Himes",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001047.jpg",
@@ -129,18 +129,23 @@
           "value": "0"
         }
       ]
+    },
+    {
+      "photo_filename": "Steve_Obsitnik.JPG",
+      "name": "Steve Obsitnik",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
-      "name": "Chris Murphy",
       "photo_filename": "Christopher_S._Murphy.jpg",
+      "name": "Chris Murphy",
+      "party": "D",
+      "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "chamber": "senate",
       "state": "CT",
       "state_name": "Connecticut",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Chris_Murphy_%28politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001169.jpg",
@@ -231,6 +236,11 @@
           "value": "Y"
         }
       ]
+    },
+    {
+      "photo_filename": "Linda_McMahon.jpg",
+      "name": "Linda McMahon",
+      "party": "R"
     }
   ]
 }

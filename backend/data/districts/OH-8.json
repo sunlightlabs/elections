@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "f990d08287c34c389cfabe3cbf3dde99",
-      "name": "John Boehner",
       "photo_filename": "John_Boehner.jpg",
+      "name": "John Boehner",
+      "party": "R",
+      "entity_id": "f990d08287c34c389cfabe3cbf3dde99",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
       "district": "8",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_Boehner",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000589.jpg",
@@ -123,14 +123,14 @@
   ],
   "senate": [
     {
-      "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
-      "name": "Sherrod Brown",
       "photo_filename": "Sherrod_Brown.jpg",
+      "name": "Sherrod Brown",
+      "party": "D",
+      "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sherrod_Brown",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000944.jpg",
@@ -263,14 +263,14 @@
       ]
     },
     {
-      "entity_id": null,
-      "name": "Josh Mandel",
       "photo_filename": "Josh_Mandel.jpg",
+      "name": "Josh Mandel",
+      "party": "R",
+      "entity_id": null,
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

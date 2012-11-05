@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "d5a49e57b03a47f6a89287559df7e091",
-      "name": "Luis V Gutierrez",
       "photo_filename": "Luis_V._Gutierrez.jpg",
+      "name": "Luis Gutierrez",
+      "party": "D",
+      "entity_id": "d5a49e57b03a47f6a89287559df7e091",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "4",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=G000535",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000535.jpg",
@@ -124,6 +124,16 @@
           "value": "0"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Jorge Zavala",
+      "party": "D"
+    },
+    {
+      "photo_filename": null,
+      "name": "Hector Concepcion",
+      "party": "R"
     }
   ],
   "senate": [

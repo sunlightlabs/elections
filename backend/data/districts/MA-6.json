@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "4d2ca8dd6a314bda9125abb5133cdbd5",
-      "name": "John F Tierney",
       "photo_filename": "John_Tierney.jpg",
+      "name": "John Tierney",
+      "party": "D",
+      "entity_id": "4d2ca8dd6a314bda9125abb5133cdbd5",
       "chamber": "house",
       "state": "MA",
       "state_name": "Massachusetts",
       "district": "6",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_F._Tierney",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/T000266.jpg",
@@ -134,18 +134,23 @@
           "value": "4"
         }
       ]
+    },
+    {
+      "photo_filename": "Richard_Tisei.jpg",
+      "name": "Richard Tisei",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Elizabeth Warren",
       "photo_filename": "Elizabeth_Warren.jpg",
+      "name": "Elizabeth Warren",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -258,14 +263,14 @@
       ]
     },
     {
-      "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
-      "name": "Scott P. Brown",
       "photo_filename": "Scott_Brown.jpg",
+      "name": "Scott Brown",
+      "party": "R",
+      "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
       "district": null,
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Scott_Brown",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001268.jpg",

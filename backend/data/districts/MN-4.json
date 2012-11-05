@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "7f99871b176345a4b03827b179cef482",
-      "name": "Betty McCollum",
       "photo_filename": "Betty_McCollum.jpg",
+      "name": "Betty McCollum",
+      "party": "D",
+      "entity_id": "7f99871b176345a4b03827b179cef482",
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
       "district": "4",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Betty_McCollum",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001143.jpg",
@@ -134,18 +134,23 @@
           "value": "100"
         }
       ]
+    },
+    {
+      "photo_filename": "Tony_Hernandez.jpg",
+      "name": "Tony Hernandez",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
-      "name": "Amy Klobuchar",
       "photo_filename": "Amy_Klobuchar.jpg",
+      "name": "Amy Klobuchar",
+      "party": "D",
+      "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Amy_Klobuchar",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000367.jpg",
@@ -273,14 +278,14 @@
       ]
     },
     {
-      "entity_id": null,
-      "name": "Kurt Bills",
       "photo_filename": "Kurt_Bills.JPG",
+      "name": "Kurt Bills",
+      "party": "R",
+      "entity_id": null,
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

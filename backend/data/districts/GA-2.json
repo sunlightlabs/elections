@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "69b068c312384b38abf3fb2d2bfc4cdb",
-      "name": "Sanford D Bishop Jr",
       "photo_filename": "Sanford_D._Bishop,_Jr..jpg",
+      "name": "Sanford D. Bishop, Jr.",
+      "party": "D",
+      "entity_id": "69b068c312384b38abf3fb2d2bfc4cdb",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
       "district": "2",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sanford_Bishop",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000490.jpg",
@@ -114,6 +114,11 @@
           "value": "23"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "John House",
+      "party": "R"
     }
   ],
   "senate": [

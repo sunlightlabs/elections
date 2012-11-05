@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Brian Froelich",
       "photo_filename": null,
+      "name": "Brian Froelich",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "4",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -89,14 +89,14 @@
       ]
     },
     {
-      "entity_id": "8caaa00c451748d88555ec4f325f4aba",
-      "name": "Chris Smith",
       "photo_filename": null,
+      "name": "Chris Smith",
+      "party": "R",
+      "entity_id": "8caaa00c451748d88555ec4f325f4aba",
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "4",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Chris_Smith_%28New_Jersey_politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000522.jpg",
@@ -216,14 +216,14 @@
   ],
   "senate": [
     {
-      "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
-      "name": "Robert Menendez",
       "photo_filename": "Bob_Menendez.jpg",
+      "name": "Bob Menendez",
+      "party": "D",
+      "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Menendez",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000639.jpg",
@@ -354,6 +354,11 @@
           "value": "13"
         }
       ]
+    },
+    {
+      "photo_filename": "Joe_Kyrillos.jpg",
+      "name": "Joe Kyrillos",
+      "party": "R"
     }
   ]
 }

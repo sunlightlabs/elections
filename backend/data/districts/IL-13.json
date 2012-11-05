@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "David Gill",
+      "photo_filename": null,
+      "name": "Rodney Davis",
+      "party": "R"
+    },
+    {
       "photo_filename": "David_Gill.jpg",
+      "name": "David Gill",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "13",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

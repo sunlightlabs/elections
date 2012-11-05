@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Charlie L. Holley",
       "photo_filename": "Charlie_L._Holley.jpg",
+      "name": "Charlie L. Holley",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
       "district": "5",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -88,14 +88,14 @@
       ]
     },
     {
-      "entity_id": "86365334cfbd49dcbaf28e501131c126",
-      "name": "Mo Brooks",
       "photo_filename": "Mo_Brooks.jpg",
+      "name": "Mo Brooks",
+      "party": "R",
+      "entity_id": "86365334cfbd49dcbaf28e501131c126",
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
       "district": "5",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mo_Brooks",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001274.jpg",

@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "34ad57ffa65741f8bf3207e336dc4ae8",
-      "name": "David Loebsack",
       "photo_filename": "Dave_Loebsack.jpg",
+      "name": "Dave Loebsack",
+      "party": "D",
+      "entity_id": "34ad57ffa65741f8bf3207e336dc4ae8",
       "chamber": "house",
       "state": "IA",
       "state_name": "Iowa",
       "district": "2",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/David_Loebsack",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000565.jpg",
@@ -126,14 +126,14 @@
       ]
     },
     {
-      "entity_id": null,
-      "name": "John Archer",
       "photo_filename": "John_Archer_(Iowa_2).jpg",
+      "name": "John Archer",
+      "party": "R",
+      "entity_id": null,
       "chamber": "house",
       "state": "IA",
       "state_name": "Iowa",
       "district": "2",
-      "party": "R",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

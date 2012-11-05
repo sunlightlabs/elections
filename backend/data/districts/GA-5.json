@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "5fd8a4d7d8e6404588a0755a0358be15",
-      "name": "John Lewis",
       "photo_filename": "John_Lewis_(Georgia).jpg",
+      "name": "John Lewis",
+      "party": "D",
+      "entity_id": "5fd8a4d7d8e6404588a0755a0358be15",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
       "district": "5",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_Lewis_%28U.S._politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000287.jpg",
@@ -129,6 +129,11 @@
           "value": "8"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Howard Stopeck",
+      "party": "R"
     }
   ],
   "senate": [

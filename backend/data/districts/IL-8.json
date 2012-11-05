@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "5177a0f2fb664404a7abb21340ddc4a8",
-      "name": "Tammy Duckworth",
       "photo_filename": "Tammy_Duckworth.jpg",
+      "name": "Tammy Duckworth",
+      "party": "D",
+      "entity_id": "5177a0f2fb664404a7abb21340ddc4a8",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "8",
-      "party": "D",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Tammy_Duckworth",
       "photo_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/40/Assistant_Secretary_of_Public_and_Intergovernmental_Affairs_Tammy_Duckworth.jpg/240px-Assistant_Secretary_of_Public_and_Intergovernmental_Affairs_Tammy_Duckworth.jpg",
@@ -111,14 +111,14 @@
       ]
     },
     {
-      "entity_id": "69597e34d07545abb4e2f8494865d504",
-      "name": "Joe Walsh",
       "photo_filename": "Joe_Walsh.jpg",
+      "name": "Joe Walsh",
+      "party": "R",
+      "entity_id": "69597e34d07545abb4e2f8494865d504",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "8",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Joe_Walsh_%28Illinois_politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000811.jpg",

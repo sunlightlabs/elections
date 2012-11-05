@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "5703dfa7b4f6426c949c82bf7705575c",
-      "name": "Jared Polis",
       "photo_filename": "Jared_Polis.jpg",
+      "name": "Jared Polis",
+      "party": "D",
+      "entity_id": "5703dfa7b4f6426c949c82bf7705575c",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
       "district": "2",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jared_Polis",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000598.jpg",
@@ -136,14 +136,14 @@
       ]
     },
     {
-      "entity_id": null,
-      "name": "Kevin Lundberg",
       "photo_filename": "Kevin_Lundberg.jpg",
+      "name": "Kevin Lundberg",
+      "party": "R",
+      "entity_id": null,
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
       "district": "2",
-      "party": "R",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

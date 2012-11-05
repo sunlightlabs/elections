@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Tobias Schlingensiepen",
       "photo_filename": "Tobias_Schlingensiepen.jpg",
+      "name": "Tobias Schlingensiepen",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "KS",
       "state_name": "Kansas",
       "district": "2",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -100,14 +100,14 @@
       ]
     },
     {
-      "entity_id": "eb04a699748d4d4abc698d8fe2d94188",
-      "name": "Lynn Jenkins",
       "photo_filename": "Lynn_Jenkins.jpg",
+      "name": "Lynn Jenkins",
+      "party": "R",
+      "entity_id": "eb04a699748d4d4abc698d8fe2d94188",
       "chamber": "house",
       "state": "KS",
       "state_name": "Kansas",
       "district": "2",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Lynn_Jenkins",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/J000290.jpg",

@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Ella Ward",
       "photo_filename": null,
+      "name": "Ella Ward",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
       "district": "4",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -94,14 +94,14 @@
       ]
     },
     {
-      "entity_id": "984fdab134a248a9a42241e0f7cc6c60",
-      "name": "J Randy Forbes",
       "photo_filename": "Randy_Forbes.jpg",
+      "name": "Randy Forbes",
+      "party": "R",
+      "entity_id": "984fdab134a248a9a42241e0f7cc6c60",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
       "district": "4",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Randy_Forbes",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000445.jpg",
@@ -221,14 +221,14 @@
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Tim Kaine",
       "photo_filename": "Tim_Kaine.png",
+      "name": "Tim Kaine",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -334,6 +334,11 @@
           "value": "F"
         }
       ]
+    },
+    {
+      "photo_filename": "George_Allen.jpg",
+      "name": "George Allen",
+      "party": "R"
     }
   ]
 }

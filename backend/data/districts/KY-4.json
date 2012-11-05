@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Thomas Massie",
+      "photo_filename": "Bill_Adkins.jpg",
+      "name": "Bill Adkins",
+      "party": "D"
+    },
+    {
       "photo_filename": "Thomas_Massie.jpg",
+      "name": "Thomas Massie",
+      "party": "R",
+      "entity_id": null,
       "chamber": "house",
       "state": "KY",
       "state_name": "Kentucky",
       "district": "4",
-      "party": "R",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "2d48b2c73ef54ea18cdb6b6ab6004be9",
-      "name": "Tom Graves",
+      "photo_filename": null,
+      "name": "Daniel Grant",
+      "party": "D"
+    },
+    {
       "photo_filename": "Tom_Graves.jpg",
+      "name": "Tom Graves",
+      "party": "R",
+      "entity_id": "2d48b2c73ef54ea18cdb6b6ab6004be9",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
       "district": "14",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Tom_Graves_%28politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000560.jpg",

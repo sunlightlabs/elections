@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Rich Cowan",
       "photo_filename": null,
+      "name": "Rich Cowan",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
       "district": "5",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -104,18 +104,23 @@
           "value": "D"
         }
       ]
+    },
+    {
+      "photo_filename": "Cathy_McMorris_Rodgers.jpg",
+      "name": "Cathy McMorris Rodgers",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
-      "name": "Maria Cantwell",
       "photo_filename": "Maria_Cantwell.jpg",
+      "name": "Maria Cantwell",
+      "party": "D",
+      "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Maria_Cantwell",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000127.jpg",
@@ -251,6 +256,11 @@
           "value": "10"
         }
       ]
+    },
+    {
+      "photo_filename": "Michael_Baumgartner.jpg",
+      "name": "Michael Baumgartner",
+      "party": "R"
     }
   ]
 }

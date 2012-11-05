@@ -1,14 +1,66 @@
 {
   "house": [
     {
-      "entity_id": "9139a6df0e1341e4b3be3b3d262b8c34",
-      "name": "Jo Ann Emerson",
-      "photo_filename": "Jo_Ann_Emerson.jpg",
+      "photo_filename": "Jack_Rushin.jpg",
+      "name": "Jack Rushin",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
       "district": "8",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "300.00",
+        "office": "H",
+        "total_receipts_rank": 659,
+        "max_rank": 695,
+        "contributions_candidate": "4000.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 648,
+        "total_raised": "13181.00",
+        "disbursements": "11140.41",
+        "total_disbursements_rank": 646,
+        "date": "2012-07-18",
+        "contributions_indiv": "5880.00",
+        "contributions_party": "2926.00",
+        "cash_on_hand": "2040.23"
+      },
+      "industries": [
+        {
+          "count": "1",
+          "amount": "500.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "1",
+          "amount": "300.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "photo_filename": "Jo_Ann_Emerson.jpg",
+      "name": "Jo Ann Emerson",
       "party": "R",
+      "entity_id": "9139a6df0e1341e4b3be3b3d262b8c34",
+      "chamber": "house",
+      "state": "MO",
+      "state_name": "Missouri",
+      "district": "8",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jo_Ann_Emerson",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/E000172.jpg",
@@ -124,70 +176,18 @@
           "value": "56"
         }
       ]
-    },
-    {
-      "entity_id": null,
-      "name": "Jack Rushin",
-      "photo_filename": "Jack_Rushin.jpg",
-      "chamber": "house",
-      "state": "MO",
-      "state_name": "Missouri",
-      "district": "8",
-      "party": "D",
-      "incumbent": false,
-      "bio_url": null,
-      "photo_url": null,
-      "seat_status": "C",
-      "bioguide_id": null,
-      "fec_summary": {
-        "contributions_pac": "300.00",
-        "office": "H",
-        "total_receipts_rank": 659,
-        "max_rank": 695,
-        "contributions_candidate": "4000.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 648,
-        "total_raised": "13181.00",
-        "disbursements": "11140.41",
-        "total_disbursements_rank": 646,
-        "date": "2012-07-18",
-        "contributions_indiv": "5880.00",
-        "contributions_party": "2926.00",
-        "cash_on_hand": "2040.23"
-      },
-      "industries": [
-        {
-          "count": "1",
-          "amount": "500.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "1",
-          "amount": "300.00",
-          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
-          "name": "Commercial Banks"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "Gun Owners of America",
-          "type": "grade",
-          "value": "F"
-        }
-      ]
     }
   ],
   "senate": [
     {
-      "entity_id": "98af4916592648c4aa992d8db00e6e5b",
-      "name": "Claire McCaskill",
       "photo_filename": "Claire_McCaskill.jpg",
+      "name": "Claire McCaskill",
+      "party": "D",
+      "entity_id": "98af4916592648c4aa992d8db00e6e5b",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Claire_McCaskill",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001170.jpg",
@@ -315,14 +315,14 @@
       ]
     },
     {
-      "entity_id": "28e6cce459e74dcbb575fa05def946e3",
-      "name": "Todd Akin",
       "photo_filename": "Todd_Akin.jpg",
+      "name": "Todd Akin",
+      "party": "R",
+      "entity_id": "28e6cce459e74dcbb575fa05def946e3",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Todd_Akin",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000358.jpg",

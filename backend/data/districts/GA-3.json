@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "d63cac1343ac4b1aac072e458e99132c",
-      "name": "Lynn A Westmoreland",
       "photo_filename": "Lynn_A._Westmoreland.jpg",
+      "name": "Lynn A. Westmoreland",
+      "party": "R",
+      "entity_id": "d63cac1343ac4b1aac072e458e99132c",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
       "district": "3",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Lynn_Westmoreland",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000796.jpg",

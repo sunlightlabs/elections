@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "d11c75294ed74803b546afb2cdc595ca",
-      "name": "Tom Petri",
+      "photo_filename": null,
+      "name": "Joe Kallas",
+      "party": "D"
+    },
+    {
       "photo_filename": "Tom_Petri.jpg",
+      "name": "Tom Petri",
+      "party": "R",
+      "entity_id": "d11c75294ed74803b546afb2cdc595ca",
       "chamber": "house",
       "state": "WI",
       "state_name": "Wisconsin",
       "district": "6",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Tom_Petri",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000265.jpg",
@@ -128,14 +133,14 @@
   ],
   "senate": [
     {
-      "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
-      "name": "Tammy Baldwin",
       "photo_filename": "Tammy_Baldwin.jpeg",
+      "name": "Tammy Baldwin",
+      "party": "D",
+      "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "chamber": "senate",
       "state": "WI",
       "state_name": "Wisconsin",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Tammy_Baldwin",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001230.jpg",
@@ -271,6 +276,11 @@
           "value": "4"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Tommy Thompson",
+      "party": "R"
     }
   ]
 }

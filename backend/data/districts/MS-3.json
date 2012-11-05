@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "b0c9963424bf4ec5a1c14bb7dde0bdfd",
-      "name": "Gregg Harper",
+      "photo_filename": null,
+      "name": "Vicki Slater",
+      "party": "D"
+    },
+    {
       "photo_filename": "Gregg_Harper.jpg",
+      "name": "Gregg Harper",
+      "party": "R",
+      "entity_id": "b0c9963424bf4ec5a1c14bb7dde0bdfd",
       "chamber": "house",
       "state": "MS",
       "state_name": "Mississippi",
       "district": "3",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Gregg_Harper",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001045.jpg",
@@ -123,14 +128,19 @@
   ],
   "senate": [
     {
-      "entity_id": "159c40291deb455596155ded63972bf4",
-      "name": "Roger Wicker",
+      "photo_filename": null,
+      "name": "Albert N. Gore",
+      "party": "D"
+    },
+    {
       "photo_filename": "Roger_Wicker.jpg",
+      "name": "Roger Wicker",
+      "party": "R",
+      "entity_id": "159c40291deb455596155ded63972bf4",
       "chamber": "senate",
       "state": "MS",
       "state_name": "Mississippi",
       "district": null,
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Roger_Wicker",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000437.jpg",

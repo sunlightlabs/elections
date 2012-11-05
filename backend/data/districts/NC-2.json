@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Steve Wilkins",
       "photo_filename": "Steve_Wilkins.jpg",
+      "name": "Steve Wilkins",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "2",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -52,14 +52,14 @@
       ]
     },
     {
-      "entity_id": "10e885e35c4b44f1a1c5b7ffec6ef6a3",
-      "name": "Renee Ellmers",
       "photo_filename": "Renee_Ellmers.jpg",
+      "name": "Renee Ellmers",
+      "party": "R",
+      "entity_id": "10e885e35c4b44f1a1c5b7ffec6ef6a3",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "2",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Renee_Ellmers",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/E000291.jpg",

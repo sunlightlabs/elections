@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Joyce Beatty",
       "photo_filename": "Joyce_Beatty.jpg",
+      "name": "Joyce Beatty",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
       "district": "3",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -109,18 +109,23 @@
           "value": "F"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Chris Long",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
-      "name": "Sherrod Brown",
       "photo_filename": "Sherrod_Brown.jpg",
+      "name": "Sherrod Brown",
+      "party": "D",
+      "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sherrod_Brown",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000944.jpg",
@@ -253,14 +258,14 @@
       ]
     },
     {
-      "entity_id": null,
-      "name": "Josh Mandel",
       "photo_filename": "Josh_Mandel.jpg",
+      "name": "Josh Mandel",
+      "party": "R",
+      "entity_id": null,
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

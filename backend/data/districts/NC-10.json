@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Patricia Keever",
       "photo_filename": "Patricia_Keever.jpg",
+      "name": "Patricia Keever",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "10",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -106,14 +106,14 @@
       ]
     },
     {
-      "entity_id": "c112b2bca6f342a98c31e5c87fffa35a",
-      "name": "Patrick McHenry",
       "photo_filename": "Patrick_McHenry.jpg",
+      "name": "Patrick McHenry",
+      "party": "R",
+      "entity_id": "c112b2bca6f342a98c31e5c87fffa35a",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "10",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Patrick_McHenry",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001156.jpg",

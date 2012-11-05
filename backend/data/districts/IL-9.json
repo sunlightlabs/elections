@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "e5221b6ac6524c4786ec36097ceabb1d",
-      "name": "Jan Schakowsky",
       "photo_filename": "Janice_D._Schakowsky.jpg",
+      "name": "Jan Schakowsky",
+      "party": "D",
+      "entity_id": "e5221b6ac6524c4786ec36097ceabb1d",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "9",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jan_Schakowsky",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001145.jpg",
@@ -129,6 +129,11 @@
           "value": "95"
         }
       ]
+    },
+    {
+      "photo_filename": "Timothy_Wolfe.jpg",
+      "name": "Timothy Wolfe",
+      "party": "R"
     }
   ],
   "senate": [

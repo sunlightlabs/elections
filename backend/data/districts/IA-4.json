@@ -1,114 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "ad5474bd3d43436982b5243d0897decd",
-      "name": "Steven A King",
-      "photo_filename": "Steve_King_(Iowa).jpg",
-      "chamber": "house",
-      "state": "IA",
-      "state_name": "Iowa",
-      "district": "4",
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Steve_King",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000362.jpg",
-      "seat_status": "I",
-      "bioguide_id": "K000362",
-      "fec_summary": {
-        "contributions_pac": "619000.00",
-        "office": "H",
-        "total_receipts_rank": 23,
-        "max_rank": 717,
-        "contributions_candidate": "0.00",
-        "transfers_in": "1000.00",
-        "cash_on_hand_rank": 114,
-        "total_raised": "3422819.48",
-        "disbursements": "2970078.46",
-        "total_disbursements_rank": 25,
-        "date": "2012-10-17",
-        "contributions_indiv": "2768902.23",
-        "contributions_party": "28106.00",
-        "cash_on_hand": "643074.01"
-      },
-      "industries": [
-        {
-          "count": "339",
-          "amount": "344872.00",
-          "id": "767c434bfd1348638bab7f8c12b9282f",
-          "name": "Republican/Conservative"
-        },
-        {
-          "count": "382",
-          "amount": "292910.00",
-          "id": "0b27f92a966443129f79dfa42ae1f293",
-          "name": "Crop Production & Basic Processing"
-        },
-        {
-          "count": "412",
-          "amount": "245159.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "197",
-          "amount": "237724.00",
-          "id": "c3081aa14b0141df8d47684635bc0b26",
-          "name": "Agricultural Services/Products"
-        },
-        {
-          "count": "175",
-          "amount": "123590.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "59",
-          "amount": "119804.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "117",
-          "amount": "118960.00",
-          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
-          "name": "Commercial Banks"
-        },
-        {
-          "count": "148",
-          "amount": "115155.00",
-          "id": "d9c4a26cd671436eac3c501184364fc4",
-          "name": "Misc Business"
-        },
-        {
-          "count": "126",
-          "amount": "105235.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "57",
-          "amount": "96310.00",
-          "id": "83bece3db3b54ca58b38d3bad679697f",
-          "name": "Automotive"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "Americans for Democratic Action",
-          "type": "grade",
-          "value": "5"
-        }
-      ]
-    },
-    {
-      "entity_id": null,
-      "name": "Christie Vilsack",
       "photo_filename": "Christie_Vilsack.jpg",
+      "name": "Christie Vilsack",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "IA",
       "state_name": "Iowa",
       "district": "4",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -197,6 +97,106 @@
           "name": "Human Rights Campaign",
           "type": "rating",
           "value": "Y"
+        }
+      ]
+    },
+    {
+      "photo_filename": "Steve_King_(Iowa).jpg",
+      "name": "Steve King",
+      "party": "R",
+      "entity_id": "ad5474bd3d43436982b5243d0897decd",
+      "chamber": "house",
+      "state": "IA",
+      "state_name": "Iowa",
+      "district": "4",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Steve_King",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000362.jpg",
+      "seat_status": "I",
+      "bioguide_id": "K000362",
+      "fec_summary": {
+        "contributions_pac": "619000.00",
+        "office": "H",
+        "total_receipts_rank": 23,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "1000.00",
+        "cash_on_hand_rank": 114,
+        "total_raised": "3422819.48",
+        "disbursements": "2970078.46",
+        "total_disbursements_rank": 25,
+        "date": "2012-10-17",
+        "contributions_indiv": "2768902.23",
+        "contributions_party": "28106.00",
+        "cash_on_hand": "643074.01"
+      },
+      "industries": [
+        {
+          "count": "339",
+          "amount": "344872.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "382",
+          "amount": "292910.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "412",
+          "amount": "245159.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "197",
+          "amount": "237724.00",
+          "id": "c3081aa14b0141df8d47684635bc0b26",
+          "name": "Agricultural Services/Products"
+        },
+        {
+          "count": "175",
+          "amount": "123590.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "59",
+          "amount": "119804.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "117",
+          "amount": "118960.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "148",
+          "amount": "115155.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "126",
+          "amount": "105235.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "57",
+          "amount": "96310.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "5"
         }
       ]
     }

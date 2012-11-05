@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "62f82d760a0e42d18b84c0fcaab1c823",
-      "name": "Paul Broun Jr",
       "photo_filename": "Paul_Broun.jpg",
+      "name": "Paul Broun",
+      "party": "R",
+      "entity_id": "62f82d760a0e42d18b84c0fcaab1c823",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
       "district": "10",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Paul_Broun",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001262.jpg",

@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Scott Ellington",
       "photo_filename": null,
+      "name": "Scott Ellington",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "AR",
       "state_name": "Arkansas",
       "district": "1",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -101,14 +101,14 @@
       ]
     },
     {
-      "entity_id": "d2c870b5b50f44d085efba9983d72ca3",
-      "name": "Rick Crawford",
       "photo_filename": "Rick_Crawford_(Arkansas).jpg",
+      "name": "Rick Crawford",
+      "party": "R",
+      "entity_id": "d2c870b5b50f44d085efba9983d72ca3",
       "chamber": "house",
       "state": "AR",
       "state_name": "Arkansas",
       "district": "1",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Rick_Crawford_%28politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001087.jpg",

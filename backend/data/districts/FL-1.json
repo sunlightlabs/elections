@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "bfde006b53cc45f6a3e50e9567216518",
-      "name": "Jeff Miller",
+      "photo_filename": "James_Bryan.jpg",
+      "name": "James Bryan",
+      "party": "D"
+    },
+    {
       "photo_filename": "Jeff_Miller_(Florida).jpg",
+      "name": "Jeff Miller",
+      "party": "R",
+      "entity_id": "bfde006b53cc45f6a3e50e9567216518",
       "chamber": "house",
       "state": "FL",
       "state_name": "Florida",
       "district": "1",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jeff_Miller",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001144.jpg",
@@ -123,14 +128,14 @@
   ],
   "senate": [
     {
-      "entity_id": "5a1a3576871e459e9bb0af1a1d5cd826",
-      "name": "Bill Nelson",
       "photo_filename": "Bill_Nelson_(Florida).jpg",
+      "name": "Bill Nelson",
+      "party": "D",
+      "entity_id": "5a1a3576871e459e9bb0af1a1d5cd826",
       "chamber": "senate",
       "state": "FL",
       "state_name": "Florida",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=N000032",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/N000032.jpg",
@@ -258,14 +263,14 @@
       ]
     },
     {
-      "entity_id": "0bcd3fa0d6a1461d9e8e2948bd853c1e",
-      "name": "Connie Mack",
       "photo_filename": "Connie_Mack.jpg",
+      "name": "Connie Mack",
+      "party": "R",
+      "entity_id": "0bcd3fa0d6a1461d9e8e2948bd853c1e",
       "chamber": "senate",
       "state": "FL",
       "state_name": "Florida",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=M001155",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001155.jpg",

@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "b1939928e8ab4dc2b50ff24fbfc1e6ff",
-      "name": "Nick Rahall",
       "photo_filename": "Nick_Rahall.jpg",
+      "name": "Nick Rahall",
+      "party": "D",
+      "entity_id": "b1939928e8ab4dc2b50ff24fbfc1e6ff",
       "chamber": "house",
       "state": "WV",
       "state_name": "West Virginia",
       "district": "3",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Nick_Rahall",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000011.jpg",
@@ -134,18 +134,23 @@
           "value": "24"
         }
       ]
+    },
+    {
+      "photo_filename": "Rick_Snuffer.jpg",
+      "name": "Rick Snuffer",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "fea00787eb034cb2a11e8086a48db88e",
-      "name": "Joe Manchin",
       "photo_filename": "Joe_Manchin.jpg",
+      "name": "Joe Manchin",
+      "party": "D",
+      "entity_id": "fea00787eb034cb2a11e8086a48db88e",
       "chamber": "senate",
       "state": "WV",
       "state_name": "West Virginia",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Joe_Manchin",
       "photo_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Joe_Manchin%2C_Official_Senate_Portrait.jpg/225px-Joe_Manchin%2C_Official_Senate_Portrait.jpg",
@@ -271,6 +276,11 @@
           "value": "15"
         }
       ]
+    },
+    {
+      "photo_filename": "John_Raese.png",
+      "name": "John Raese",
+      "party": "R"
     }
   ]
 }

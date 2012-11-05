@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "a4c1a99aa50747fda4278b172cdc89a1",
-      "name": "Mike McIntyre",
       "photo_filename": "Mike_McIntyre.jpg",
+      "name": "Mike McIntyre",
+      "party": "D",
+      "entity_id": "a4c1a99aa50747fda4278b172cdc89a1",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "7",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mike_McIntyre",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000485.jpg",
@@ -134,6 +134,11 @@
           "value": "40"
         }
       ]
+    },
+    {
+      "photo_filename": "David_Rouzer.jpg",
+      "name": "David Rouzer",
+      "party": "R"
     }
   ],
   "senate": [

@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Aryanna Strader",
       "photo_filename": null,
+      "name": "Aryanna Strader",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "16",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -106,14 +106,14 @@
       ]
     },
     {
-      "entity_id": "b7b91e6071684e9f91ea062cd73f4aa6",
-      "name": "Joe Pitts",
       "photo_filename": "Joseph_R._Pitts.jpg",
+      "name": "Joseph R. Pitts",
+      "party": "R",
+      "entity_id": "b7b91e6071684e9f91ea062cd73f4aa6",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "16",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Joseph_R._Pitts",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000373.jpg",
@@ -233,14 +233,14 @@
   ],
   "senate": [
     {
-      "entity_id": "6270f8364eac4b0a88a117c008011e06",
-      "name": "Bob Casey",
       "photo_filename": "Bob_Casey,_Jr..jpg",
+      "name": "Bob Casey, Jr.",
+      "party": "D",
+      "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001070.jpg",
@@ -361,6 +361,11 @@
           "value": "90"
         }
       ]
+    },
+    {
+      "photo_filename": "Tom_Smith.jpg",
+      "name": "Tom Smith",
+      "party": "R"
     }
   ]
 }

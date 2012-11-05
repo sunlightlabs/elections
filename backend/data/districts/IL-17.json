@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Cheri Bustos",
       "photo_filename": "Cheri_Bustos.jpg",
+      "name": "Cheri Bustos",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "17",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -111,14 +111,14 @@
       ]
     },
     {
-      "entity_id": "366ee1660de94c6ca630b115061a96a9",
-      "name": "Bobby Schilling",
       "photo_filename": "Bobby_Schilling.jpg",
+      "name": "Bobby Schilling",
+      "party": "R",
+      "entity_id": "366ee1660de94c6ca630b115061a96a9",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "17",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bobby_Schilling",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001182.jpg",

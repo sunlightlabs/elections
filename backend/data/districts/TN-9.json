@@ -1,119 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "George S. Flinn Jr",
-      "photo_filename": null,
-      "chamber": "house",
-      "state": "TN",
-      "state_name": "Tennessee",
-      "district": "9",
-      "party": "R",
-      "incumbent": false,
-      "bio_url": null,
-      "photo_url": null,
-      "seat_status": "C",
-      "bioguide_id": null,
-      "fec_summary": {
-        "contributions_pac": "3000.00",
-        "office": "H",
-        "total_receipts_rank": 308,
-        "max_rank": 695,
-        "contributions_candidate": "750000.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 274,
-        "total_raised": "792691.23",
-        "disbursements": "355594.12",
-        "total_disbursements_rank": 399,
-        "date": "2012-07-13",
-        "contributions_indiv": "38814.33",
-        "contributions_party": "0.00",
-        "cash_on_hand": "442948.61"
-      },
-      "industries": [
-        {
-          "count": "64",
-          "amount": "55200.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "18",
-          "amount": "19200.00",
-          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
-          "name": "Tv/Movies/Music"
-        },
-        {
-          "count": "24",
-          "amount": "13250.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "13",
-          "amount": "10800.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "6",
-          "amount": "4800.00",
-          "id": "7a214b1dc0054b768d4c4eb6f8f625c8",
-          "name": "Accountants"
-        },
-        {
-          "count": "7",
-          "amount": "3750.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "5",
-          "amount": "3500.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "8",
-          "amount": "3250.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "3",
-          "amount": "3150.00",
-          "id": "ce2b63ae7a594a93aefa474489bc7bd1",
-          "name": "Special Trade Contractors"
-        },
-        {
-          "count": "1",
-          "amount": "2400.00",
-          "id": "4e62cff90a974840bec347a2e32a58b9",
-          "name": "Beer, Wine & Liquor"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "Gun Owners of America",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Family Research Council",
-          "type": "endorsement",
-          "value": null
-        }
-      ]
-    },
-    {
-      "entity_id": "6552a8bde0d14af9b26fbb767ce2af04",
-      "name": "Stephen Ira Cohen",
       "photo_filename": "Steve_Cohen.jpeg",
+      "name": "Steve Cohen",
+      "party": "D",
+      "entity_id": "6552a8bde0d14af9b26fbb767ce2af04",
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
       "district": "9",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Steve_Cohen",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001068.jpg",
@@ -234,18 +129,128 @@
           "value": "100"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "George Flinn Jr.",
+      "party": "R",
+      "entity_id": null,
+      "chamber": "house",
+      "state": "TN",
+      "state_name": "Tennessee",
+      "district": "9",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "3000.00",
+        "office": "H",
+        "total_receipts_rank": 308,
+        "max_rank": 695,
+        "contributions_candidate": "750000.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 274,
+        "total_raised": "792691.23",
+        "disbursements": "355594.12",
+        "total_disbursements_rank": 399,
+        "date": "2012-07-13",
+        "contributions_indiv": "38814.33",
+        "contributions_party": "0.00",
+        "cash_on_hand": "442948.61"
+      },
+      "industries": [
+        {
+          "count": "64",
+          "amount": "55200.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "18",
+          "amount": "19200.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "24",
+          "amount": "13250.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "13",
+          "amount": "10800.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "6",
+          "amount": "4800.00",
+          "id": "7a214b1dc0054b768d4c4eb6f8f625c8",
+          "name": "Accountants"
+        },
+        {
+          "count": "7",
+          "amount": "3750.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "5",
+          "amount": "3500.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "8",
+          "amount": "3250.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "3",
+          "amount": "3150.00",
+          "id": "ce2b63ae7a594a93aefa474489bc7bd1",
+          "name": "Special Trade Contractors"
+        },
+        {
+          "count": "1",
+          "amount": "2400.00",
+          "id": "4e62cff90a974840bec347a2e32a58b9",
+          "name": "Beer, Wine & Liquor"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
     }
   ],
   "senate": [
     {
-      "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
-      "name": "Bob Corker",
+      "photo_filename": "Mark_Clayton.jpg",
+      "name": "Mark Clayton",
+      "party": "D"
+    },
+    {
       "photo_filename": "Bob_Corker.jpg",
+      "name": "Bob Corker",
+      "party": "R",
+      "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",
       "district": null,
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001071",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001071.jpg",

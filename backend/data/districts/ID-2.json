@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "f7c014715b7a4f0ea0aae56377c005fe",
-      "name": "Mike Simpson",
+      "photo_filename": "Nicole_LeFavour.jpg",
+      "name": "Nicole LeFavour",
+      "party": "D"
+    },
+    {
       "photo_filename": "Michael_K._Simpson.jpg",
+      "name": "Mike Simpson",
+      "party": "R",
+      "entity_id": "f7c014715b7a4f0ea0aae56377c005fe",
       "chamber": "house",
       "state": "ID",
       "state_name": "Idaho",
       "district": "2",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mike_Simpson",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001148.jpg",

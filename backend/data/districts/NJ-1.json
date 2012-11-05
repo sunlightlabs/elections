@@ -1,17 +1,26 @@
 {
   "house": [
-
+    {
+      "photo_filename": "Rob_Andrews.jpeg",
+      "name": "Rob Andrews",
+      "party": "D"
+    },
+    {
+      "photo_filename": null,
+      "name": "Greg Horton",
+      "party": "R"
+    }
   ],
   "senate": [
     {
-      "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
-      "name": "Robert Menendez",
       "photo_filename": "Bob_Menendez.jpg",
+      "name": "Bob Menendez",
+      "party": "D",
+      "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Menendez",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000639.jpg",
@@ -142,6 +151,11 @@
           "value": "13"
         }
       ]
+    },
+    {
+      "photo_filename": "Joe_Kyrillos.jpg",
+      "name": "Joe Kyrillos",
+      "party": "R"
     }
   ]
 }

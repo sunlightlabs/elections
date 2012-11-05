@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "John Arvanites",
       "photo_filename": null,
+      "name": "John Arvanites",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "11",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -111,14 +111,14 @@
       ]
     },
     {
-      "entity_id": "9e7e3bd08a4749d68ab359b0bb9745a3",
-      "name": "Rodney Frelinghuysen",
       "photo_filename": "Rodney_Frelinghuysen.jpg",
+      "name": "Rodney Frelinghuysen",
+      "party": "R",
+      "entity_id": "9e7e3bd08a4749d68ab359b0bb9745a3",
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "11",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Rodney_Frelinghuysen",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000372.jpg",
@@ -233,14 +233,14 @@
   ],
   "senate": [
     {
-      "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
-      "name": "Robert Menendez",
       "photo_filename": "Bob_Menendez.jpg",
+      "name": "Bob Menendez",
+      "party": "D",
+      "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Menendez",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000639.jpg",
@@ -371,6 +371,11 @@
           "value": "13"
         }
       ]
+    },
+    {
+      "photo_filename": "Joe_Kyrillos.jpg",
+      "name": "Joe Kyrillos",
+      "party": "R"
     }
   ]
 }

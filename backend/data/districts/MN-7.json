@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "c84099ce5eb64a988f1705b7d052cf61",
-      "name": "Collin C Peterson",
       "photo_filename": "Collin_Peterson.jpg",
+      "name": "Collin Peterson",
+      "party": "D",
+      "entity_id": "c84099ce5eb64a988f1705b7d052cf61",
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
       "district": "7",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Collin_Peterson",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000258.jpg",
@@ -129,18 +129,23 @@
           "value": "40"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Lee Byberg",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
-      "name": "Amy Klobuchar",
       "photo_filename": "Amy_Klobuchar.jpg",
+      "name": "Amy Klobuchar",
+      "party": "D",
+      "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Amy_Klobuchar",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000367.jpg",
@@ -268,14 +273,14 @@
       ]
     },
     {
-      "entity_id": null,
-      "name": "Kurt Bills",
       "photo_filename": "Kurt_Bills.JPG",
+      "name": "Kurt Bills",
+      "party": "R",
+      "entity_id": null,
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

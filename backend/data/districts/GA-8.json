@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "4566aa4fea7a4d0da79e8aa27694ad25",
-      "name": "Austin Scott",
       "photo_filename": "Austin_Scott.jpg",
+      "name": "Austin Scott",
+      "party": "R",
+      "entity_id": "4566aa4fea7a4d0da79e8aa27694ad25",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
       "district": "8",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Austin_Scott_%28politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001189.jpg",

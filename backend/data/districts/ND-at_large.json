@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Pam Gulleson",
       "photo_filename": null,
+      "name": "Pam Gulleson",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "ND",
       "state_name": "North Dakota",
       "district": "at_large",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -100,27 +100,127 @@
         },
         {
           "name": "Gun Owners of America",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Gun Owners of America",
           "type": "endorsement",
           "value": null
+        }
+      ]
+    },
+    {
+      "photo_filename": "Kevin_Cramer.jpg",
+      "name": "Kevin Cramer",
+      "party": "R",
+      "entity_id": null,
+      "chamber": "house",
+      "state": "ND",
+      "state_name": "North Dakota",
+      "district": "at_large",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "O",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "3200.00",
+        "office": "H",
+        "total_receipts_rank": 396,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 363,
+        "total_raised": "592675.12",
+        "disbursements": "319174.36",
+        "total_disbursements_rank": 420,
+        "date": "2012-06-30",
+        "contributions_indiv": "589475.12",
+        "contributions_party": "0.00",
+        "cash_on_hand": "273500.76"
+      },
+      "industries": [
+        {
+          "count": "145",
+          "amount": "97460.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "61",
+          "amount": "83150.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "77",
+          "amount": "71540.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "22",
+          "amount": "59963.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "56",
+          "amount": "47850.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "62",
+          "amount": "40429.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "21",
+          "amount": "38800.00",
+          "id": "5acf6d91f2ba46bfbdb94e8011315e09",
+          "name": "Misc Energy"
+        },
+        {
+          "count": "21",
+          "amount": "28550.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "23",
+          "amount": "22300.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "14",
+          "amount": "22300.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A"
         }
       ]
     }
   ],
   "senate": [
     {
-      "entity_id": "06c3f03746c44a78a4fd3e135df4e5c3",
-      "name": "Rick Berg",
+      "photo_filename": null,
+      "name": "Heidi Heitkamp",
+      "party": "D"
+    },
+    {
       "photo_filename": "Rick_Berg.jpg",
+      "name": "Rick Berg",
+      "party": "R",
+      "entity_id": "06c3f03746c44a78a4fd3e135df4e5c3",
       "chamber": "senate",
       "state": "ND",
       "state_name": "North Dakota",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Rick_Berg",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001272.jpg",

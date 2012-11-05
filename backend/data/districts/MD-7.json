@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "91d209e6d96548d6a240ecdb6bbc0491",
-      "name": "Elijah E Cummings",
       "photo_filename": "Elijah_Cummings.jpg",
+      "name": "Elijah Cummings",
+      "party": "D",
+      "entity_id": "91d209e6d96548d6a240ecdb6bbc0491",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
       "district": "7",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Elijah_Cummings",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000984.jpg",
@@ -129,18 +129,33 @@
           "value": "4"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Ty Busch",
+      "party": "D"
+    },
+    {
+      "photo_filename": null,
+      "name": "Charles Smith",
+      "party": "D"
+    },
+    {
+      "photo_filename": null,
+      "name": "Frank Mirabile, Jr.",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "8ff25ab60758494c8b64d66017e87670",
-      "name": "Ben Cardin",
       "photo_filename": "Ben_Cardin.jpg",
+      "name": "Ben Cardin",
+      "party": "D",
+      "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000141",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000141.jpg",
@@ -271,6 +286,21 @@
           "value": "100"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Lih Young",
+      "party": "D"
+    },
+    {
+      "photo_filename": "Dan_Bongino.jpg",
+      "name": "Dan Bongino",
+      "party": "R"
+    },
+    {
+      "photo_filename": null,
+      "name": "Mary Podlesak",
+      "party": "R"
     }
   ]
 }

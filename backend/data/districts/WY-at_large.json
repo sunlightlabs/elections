@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "9ed4a9a7d54a470e886cc6a9b2837a69",
-      "name": "Cynthia Marie Lummis",
+      "photo_filename": null,
+      "name": "Chris Henrichsen",
+      "party": "D"
+    },
+    {
       "photo_filename": "Cynthia_Lummis.jpg",
+      "name": "Cynthia Lummis",
+      "party": "R",
+      "entity_id": "9ed4a9a7d54a470e886cc6a9b2837a69",
       "chamber": "house",
       "state": "WY",
       "state_name": "Wyoming",
       "district": "at_large",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=L000571",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000571.jpg",
@@ -103,14 +108,19 @@
   ],
   "senate": [
     {
-      "entity_id": "68655d30048b451caee7d70688803273",
-      "name": "John A Barrasso",
+      "photo_filename": null,
+      "name": "Tim Chesnut",
+      "party": "D"
+    },
+    {
       "photo_filename": "John_Barrasso.jpg",
+      "name": "John Barrasso",
+      "party": "R",
+      "entity_id": "68655d30048b451caee7d70688803273",
       "chamber": "senate",
       "state": "WY",
       "state_name": "Wyoming",
       "district": null,
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_Barrasso",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001261.jpg",

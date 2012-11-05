@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Markwayne Mullin",
       "photo_filename": null,
+      "name": "Rob Wallace",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "OK",
       "state_name": "Oklahoma",
       "district": "2",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -97,7 +97,102 @@
           "name": "Gun Owners of America",
           "type": "endorsement",
           "value": null
+        }
+      ]
+    },
+    {
+      "photo_filename": "Markwayne_Mullin.png",
+      "name": "Markwayne Mullin",
+      "party": "R",
+      "entity_id": null,
+      "chamber": "house",
+      "state": "OK",
+      "state_name": "Oklahoma",
+      "district": "2",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "O",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "42000.00",
+        "office": "H",
+        "total_receipts_rank": 267,
+        "max_rank": 1515,
+        "contributions_candidate": "277850.94",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 524,
+        "total_raised": "970364.71",
+        "disbursements": "859833.77",
+        "total_disbursements_rank": 154,
+        "date": "2012-08-08",
+        "contributions_indiv": "649578.26",
+        "contributions_party": "0.00",
+        "cash_on_hand": "140005.94"
+      },
+      "industries": [
+        {
+          "count": "55",
+          "amount": "57976.00",
+          "id": "ce2b63ae7a594a93aefa474489bc7bd1",
+          "name": "Special Trade Contractors"
         },
+        {
+          "count": "31",
+          "amount": "27400.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "28",
+          "amount": "25550.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "31",
+          "amount": "21150.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "14",
+          "amount": "20500.00",
+          "id": "d007d0ca512d457990cbb67a7ae136a2",
+          "name": "Livestock"
+        },
+        {
+          "count": "12",
+          "amount": "19500.00",
+          "id": "e537e2f16c4c4fca96402b850aefefcd",
+          "name": "Trucking"
+        },
+        {
+          "count": "16",
+          "amount": "14100.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "10",
+          "amount": "12000.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "8",
+          "amount": "10500.00",
+          "id": "d67273cd049945e08a0f5c53a4870cf3",
+          "name": "Misc Services"
+        },
+        {
+          "count": "10",
+          "amount": "10115.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        }
+      ],
+      "endorsements": [
         {
           "name": "Family Research Council",
           "type": "endorsement",

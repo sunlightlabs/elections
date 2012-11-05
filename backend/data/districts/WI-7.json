@@ -1,14 +1,114 @@
 {
   "house": [
     {
-      "entity_id": "26baf916498d475c9e059292b2aa9221",
-      "name": "Sean P. Duffy",
-      "photo_filename": "Sean_Duffy.jpg",
+      "photo_filename": "Pat_Kreitlow.jpg",
+      "name": "Pat Kreitlow",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "WI",
       "state_name": "Wisconsin",
       "district": "7",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "389718.93",
+        "office": "H",
+        "total_receipts_rank": 277,
+        "max_rank": 717,
+        "contributions_candidate": "12070.79",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 430,
+        "total_raised": "1175897.27",
+        "disbursements": "1058667.51",
+        "total_disbursements_rank": 245,
+        "date": "2012-10-17",
+        "contributions_indiv": "753477.66",
+        "contributions_party": "20508.33",
+        "cash_on_hand": "117479.76"
+      },
+      "industries": [
+        {
+          "count": "28",
+          "amount": "55500.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "100",
+          "amount": "36750.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "71",
+          "amount": "29650.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "7",
+          "amount": "28500.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "6",
+          "amount": "27500.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "44",
+          "amount": "23875.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "8",
+          "amount": "23750.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "53",
+          "amount": "23200.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "8",
+          "amount": "21000.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "5",
+          "amount": "12000.00",
+          "id": "bcb5ff50850c4e9682b5d4da5d9bf278",
+          "name": "Misc Unions"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        }
+      ]
+    },
+    {
+      "photo_filename": "Sean_Duffy.jpg",
+      "name": "Sean Duffy",
       "party": "R",
+      "entity_id": "26baf916498d475c9e059292b2aa9221",
+      "chamber": "house",
+      "state": "WI",
+      "state_name": "Wisconsin",
+      "district": "7",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sean_Duffy",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000614.jpg",
@@ -119,118 +219,18 @@
           "value": "88"
         }
       ]
-    },
-    {
-      "entity_id": null,
-      "name": "Patrick Kreitlow",
-      "photo_filename": "Pat_Kreitlow.jpg",
-      "chamber": "house",
-      "state": "WI",
-      "state_name": "Wisconsin",
-      "district": "7",
-      "party": "D",
-      "incumbent": false,
-      "bio_url": null,
-      "photo_url": null,
-      "seat_status": "C",
-      "bioguide_id": null,
-      "fec_summary": {
-        "contributions_pac": "389718.93",
-        "office": "H",
-        "total_receipts_rank": 277,
-        "max_rank": 717,
-        "contributions_candidate": "12070.79",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 430,
-        "total_raised": "1175897.27",
-        "disbursements": "1058667.51",
-        "total_disbursements_rank": 245,
-        "date": "2012-10-17",
-        "contributions_indiv": "753477.66",
-        "contributions_party": "20508.33",
-        "cash_on_hand": "117479.76"
-      },
-      "industries": [
-        {
-          "count": "28",
-          "amount": "55500.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "100",
-          "amount": "36750.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "71",
-          "amount": "29650.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "7",
-          "amount": "28500.00",
-          "id": "d22cf14b1cd349b79f2b656b450b3b88",
-          "name": "Industrial Unions"
-        },
-        {
-          "count": "6",
-          "amount": "27500.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "44",
-          "amount": "23875.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "8",
-          "amount": "23750.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "53",
-          "amount": "23200.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "8",
-          "amount": "21000.00",
-          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
-          "name": "Transportation Unions"
-        },
-        {
-          "count": "5",
-          "amount": "12000.00",
-          "id": "bcb5ff50850c4e9682b5d4da5d9bf278",
-          "name": "Misc Unions"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "AFL-CIO",
-          "type": "rating",
-          "value": "Y"
-        }
-      ]
     }
   ],
   "senate": [
     {
-      "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
-      "name": "Tammy Baldwin",
       "photo_filename": "Tammy_Baldwin.jpeg",
+      "name": "Tammy Baldwin",
+      "party": "D",
+      "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "chamber": "senate",
       "state": "WI",
       "state_name": "Wisconsin",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Tammy_Baldwin",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001230.jpg",
@@ -366,6 +366,11 @@
           "value": "4"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Tommy Thompson",
+      "party": "R"
     }
   ]
 }

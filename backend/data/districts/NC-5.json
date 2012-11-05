@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Elisabeth Motsinger",
       "photo_filename": null,
+      "name": "Elisabeth Motsinger",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "5",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -106,14 +106,14 @@
       ]
     },
     {
-      "entity_id": "cdddc7b2e5c047109ac0a91d3ac05ee9",
-      "name": "Virginia Foxx",
       "photo_filename": "Virginia_Foxx.jpg",
+      "name": "Virginia Foxx",
+      "party": "R",
+      "entity_id": "cdddc7b2e5c047109ac0a91d3ac05ee9",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "5",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Virginia_Foxx",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000450.jpg",

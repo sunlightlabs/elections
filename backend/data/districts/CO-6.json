@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Joe Miklosi",
       "photo_filename": "Joe_Miklosi.jpg",
+      "name": "Joe Miklosi",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
       "district": "6",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -111,14 +111,14 @@
       ]
     },
     {
-      "entity_id": "9db6c9cf76ab4ce59bb44ae0a01023e7",
-      "name": "Mike Coffman",
       "photo_filename": "Mike_Coffman.jpg",
+      "name": "Mike Coffman",
+      "party": "R",
+      "entity_id": "9db6c9cf76ab4ce59bb44ae0a01023e7",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
       "district": "6",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mike_Coffman",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001077.jpg",

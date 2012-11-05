@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "fc44a3ad9e1a4841a24b3149b82a04fd",
-      "name": "Ann McLane Kuster",
       "photo_filename": "Ann_McLane_Kuster.jpg",
+      "name": "Ann McLane Kuster",
+      "party": "D",
+      "entity_id": "fc44a3ad9e1a4841a24b3149b82a04fd",
       "chamber": "house",
       "state": "NH",
       "state_name": "New Hampshire",
       "district": "2",
-      "party": "D",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Ann_McLane_Kuster",
       "photo_url": null,
@@ -106,14 +106,14 @@
       ]
     },
     {
-      "entity_id": "a95f3e0dc40e4eb58802d0eef8efa297",
-      "name": "Charles Bass",
       "photo_filename": "Charlie_Bass.jpg",
+      "name": "Charlie Bass",
+      "party": "R",
+      "entity_id": "a95f3e0dc40e4eb58802d0eef8efa297",
       "chamber": "house",
       "state": "NH",
       "state_name": "New Hampshire",
       "district": "2",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Charles_Bass",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000220.jpg",

@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "3df139483e7b42ad8535444bdaf30d30",
-      "name": "Tim Ryan",
       "photo_filename": "Tim_Ryan_(Ohio).JPG",
+      "name": "Tim Ryan",
+      "party": "D",
+      "entity_id": "3df139483e7b42ad8535444bdaf30d30",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
       "district": "13",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Tim_Ryan",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000577.jpg",
@@ -129,18 +129,23 @@
           "value": "90"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Marisha Agana",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
-      "name": "Sherrod Brown",
       "photo_filename": "Sherrod_Brown.jpg",
+      "name": "Sherrod Brown",
+      "party": "D",
+      "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sherrod_Brown",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000944.jpg",
@@ -273,14 +278,14 @@
       ]
     },
     {
-      "entity_id": null,
-      "name": "Josh Mandel",
       "photo_filename": "Josh_Mandel.jpg",
+      "name": "Josh Mandel",
+      "party": "R",
+      "entity_id": null,
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

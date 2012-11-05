@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "856f89e7052f4386a0c123a89be790f6",
-      "name": "Jesse Jackson Jr",
       "photo_filename": "Jesse_L._Jackson,_Jr..jpg",
+      "name": "Jesse Jackson Jr.",
+      "party": "D",
+      "entity_id": "856f89e7052f4386a0c123a89be790f6",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "2",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jesse_Jackson%2C_Jr.",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/J000283.jpg",
@@ -109,6 +109,11 @@
           "value": "14"
         }
       ]
+    },
+    {
+      "photo_filename": "Brian_Woodworth.jpg",
+      "name": "Brian Woodworth",
+      "party": "R"
     }
   ],
   "senate": [

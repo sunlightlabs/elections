@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Rick Daugherty",
       "photo_filename": null,
+      "name": "Rick Daugherty",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "15",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -71,14 +71,14 @@
       ]
     },
     {
-      "entity_id": "9b07e0db2a53439b9c33ef057ec7c7ae",
-      "name": "Charlie Dent",
       "photo_filename": "Charlie_Dent.jpg",
+      "name": "Charlie Dent",
+      "party": "R",
+      "entity_id": "9b07e0db2a53439b9c33ef057ec7c7ae",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "15",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Charlie_Dent",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000604.jpg",
@@ -193,14 +193,14 @@
   ],
   "senate": [
     {
-      "entity_id": "6270f8364eac4b0a88a117c008011e06",
-      "name": "Bob Casey",
       "photo_filename": "Bob_Casey,_Jr..jpg",
+      "name": "Bob Casey, Jr.",
+      "party": "D",
+      "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001070.jpg",
@@ -321,6 +321,11 @@
           "value": "90"
         }
       ]
+    },
+    {
+      "photo_filename": "Tom_Smith.jpg",
+      "name": "Tom Smith",
+      "party": "R"
     }
   ]
 }

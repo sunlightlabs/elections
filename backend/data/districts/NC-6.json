@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Tony Foriest",
       "photo_filename": "Tony_Foriest.jpg",
+      "name": "Tony Foriest",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "6",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -59,14 +59,14 @@
       ]
     },
     {
-      "entity_id": "e13fd883959744d69c1dcf243443a7f0",
-      "name": "Howard Coble",
       "photo_filename": "Howard_Coble.jpeg",
+      "name": "Howard Coble",
+      "party": "R",
+      "entity_id": "e13fd883959744d69c1dcf243443a7f0",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "6",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Howard_Coble",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000556.jpg",

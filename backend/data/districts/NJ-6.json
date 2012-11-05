@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "fbfd1e25bbd54c5b8691bd3c56e3f331",
-      "name": "Frank Pallone Jr",
       "photo_filename": "Frank_Pallone.jpg",
+      "name": "Frank Pallone",
+      "party": "D",
+      "entity_id": "fbfd1e25bbd54c5b8691bd3c56e3f331",
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "6",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Frank_Pallone",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000034.jpg",
@@ -124,18 +124,23 @@
           "value": "95"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Anna Little",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
-      "name": "Robert Menendez",
       "photo_filename": "Bob_Menendez.jpg",
+      "name": "Bob Menendez",
+      "party": "D",
+      "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Menendez",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000639.jpg",
@@ -266,6 +271,11 @@
           "value": "13"
         }
       ]
+    },
+    {
+      "photo_filename": "Joe_Kyrillos.jpg",
+      "name": "Joe Kyrillos",
+      "party": "R"
     }
   ]
 }

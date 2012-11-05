@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "018e5c0964614d0882138d77e1052be4",
-      "name": "Steven Palazzo",
+      "photo_filename": null,
+      "name": "Matthew Moore",
+      "party": "D"
+    },
+    {
       "photo_filename": "Steven_Palazzo.jpg",
+      "name": "Steven Palazzo",
+      "party": "R",
+      "entity_id": "018e5c0964614d0882138d77e1052be4",
       "chamber": "house",
       "state": "MS",
       "state_name": "Mississippi",
       "district": "4",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Steven_Palazzo",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000601.jpg",
@@ -123,14 +128,19 @@
   ],
   "senate": [
     {
-      "entity_id": "159c40291deb455596155ded63972bf4",
-      "name": "Roger Wicker",
+      "photo_filename": null,
+      "name": "Albert N. Gore",
+      "party": "D"
+    },
+    {
       "photo_filename": "Roger_Wicker.jpg",
+      "name": "Roger Wicker",
+      "party": "R",
+      "entity_id": "159c40291deb455596155ded63972bf4",
       "chamber": "senate",
       "state": "MS",
       "state_name": "Mississippi",
       "district": null,
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Roger_Wicker",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000437.jpg",

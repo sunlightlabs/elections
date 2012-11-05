@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "77c8009ae194484692833cafa0c22d44",
-      "name": "Ron Kind",
       "photo_filename": "Ron_Kind.JPG",
+      "name": "Ron Kind",
+      "party": "D",
+      "entity_id": "77c8009ae194484692833cafa0c22d44",
       "chamber": "house",
       "state": "WI",
       "state_name": "Wisconsin",
       "district": "3",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Ron_Kind",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000188.jpg",
@@ -129,18 +129,23 @@
           "value": "8"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Ray Boland",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
-      "name": "Tammy Baldwin",
       "photo_filename": "Tammy_Baldwin.jpeg",
+      "name": "Tammy Baldwin",
+      "party": "D",
+      "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "chamber": "senate",
       "state": "WI",
       "state_name": "Wisconsin",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Tammy_Baldwin",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001230.jpg",
@@ -276,6 +281,11 @@
           "value": "4"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Tommy Thompson",
+      "party": "R"
     }
   ]
 }

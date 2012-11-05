@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Mary Margaret Headrick",
       "photo_filename": null,
+      "name": "Mary Headrick",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
       "district": "3",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -58,14 +58,14 @@
       ]
     },
     {
-      "entity_id": "27fad0b2769a44e2aff0ef83489a7517",
-      "name": "Charles J. Fleischmann",
       "photo_filename": "Charles_J._Fleischmann.jpg",
+      "name": "Charles J. Fleischmann",
+      "party": "R",
+      "entity_id": "27fad0b2769a44e2aff0ef83489a7517",
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
       "district": "3",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Chuck_Fleischmann",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000459.jpg",
@@ -180,14 +180,19 @@
   ],
   "senate": [
     {
-      "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
-      "name": "Bob Corker",
+      "photo_filename": "Mark_Clayton.jpg",
+      "name": "Mark Clayton",
+      "party": "D"
+    },
+    {
       "photo_filename": "Bob_Corker.jpg",
+      "name": "Bob Corker",
+      "party": "R",
+      "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",
       "district": null,
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001071",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001071.jpg",

@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "55cd304a9dfb4582b2c721470c25bce1",
-      "name": "Mike Michaud",
       "photo_filename": "Mike_Michaud.jpg",
+      "name": "Mike Michaud",
+      "party": "D",
+      "entity_id": "55cd304a9dfb4582b2c721470c25bce1",
       "chamber": "house",
       "state": "ME",
       "state_name": "Maine",
       "district": "2",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mike_Michaud",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001149.jpg",
@@ -124,18 +124,23 @@
           "value": "19"
         }
       ]
+    },
+    {
+      "photo_filename": "Kevin_Raye.jpg",
+      "name": "Kevin Raye",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Cynthia Dill",
       "photo_filename": "Cynthia_Dill.jpg",
+      "name": "Cynthia Dill",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "ME",
       "state_name": "Maine",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -231,6 +236,26 @@
           "value": "F"
         }
       ]
+    },
+    {
+      "photo_filename": "Charles_Summers.jpg",
+      "name": "Charles Summers",
+      "party": "R"
+    },
+    {
+      "photo_filename": null,
+      "name": "Angus King",
+      "party": "I"
+    },
+    {
+      "photo_filename": null,
+      "name": "Danny Francis Dalton",
+      "party": "I"
+    },
+    {
+      "photo_filename": null,
+      "name": "Stephen Woods",
+      "party": "I"
     }
   ]
 }

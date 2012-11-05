@@ -1,14 +1,119 @@
 {
   "house": [
     {
-      "entity_id": "f0e31da1fd6b41c19674fe2901f31df7",
-      "name": "Tom Reed",
-      "photo_filename": "Tom_Reed.jpg",
+      "photo_filename": null,
+      "name": "Nate Shinagawa",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
       "district": "23",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "87816.76",
+        "office": "H",
+        "total_receipts_rank": 434,
+        "max_rank": 717,
+        "contributions_candidate": "12645.34",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 447,
+        "total_raised": "702376.78",
+        "disbursements": "602568.74",
+        "total_disbursements_rank": 432,
+        "date": "2012-10-17",
+        "contributions_indiv": "597939.78",
+        "contributions_party": "8950.00",
+        "cash_on_hand": "107158.04"
+      },
+      "industries": [
+        {
+          "count": "39",
+          "amount": "39600.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "65",
+          "amount": "29250.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "21",
+          "amount": "9500.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "19",
+          "amount": "8675.00",
+          "id": "9e701425eeb14b4c874cfb4415a4ac3b",
+          "name": "Civil Servants/Public Officials"
+        },
+        {
+          "count": "10",
+          "amount": "7500.00",
+          "id": "042288e0185a44ec82982814c69abdca",
+          "name": "Computers/Internet"
+        },
+        {
+          "count": "4",
+          "amount": "5450.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        },
+        {
+          "count": "10",
+          "amount": "5185.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "2",
+          "amount": "5000.00",
+          "id": "d8ddc9e3d84b40a2a923545964e6bf80",
+          "name": "Non-Profit Institutions"
+        },
+        {
+          "count": "9",
+          "amount": "4750.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "6",
+          "amount": "4250.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Public Employees Federation",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        }
+      ]
+    },
+    {
+      "photo_filename": "Tom_Reed.jpg",
+      "name": "Tom Reed",
       "party": "R",
+      "entity_id": "f0e31da1fd6b41c19674fe2901f31df7",
+      "chamber": "house",
+      "state": "NY",
+      "state_name": "New York",
+      "district": "23",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000585",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000585.jpg",
@@ -124,123 +229,18 @@
           "value": "R"
         }
       ]
-    },
-    {
-      "entity_id": null,
-      "name": "Nathan Shinagawa",
-      "photo_filename": null,
-      "chamber": "house",
-      "state": "NY",
-      "state_name": "New York",
-      "district": "23",
-      "party": "D",
-      "incumbent": false,
-      "bio_url": null,
-      "photo_url": null,
-      "seat_status": "C",
-      "bioguide_id": null,
-      "fec_summary": {
-        "contributions_pac": "87816.76",
-        "office": "H",
-        "total_receipts_rank": 434,
-        "max_rank": 717,
-        "contributions_candidate": "12645.34",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 447,
-        "total_raised": "702376.78",
-        "disbursements": "602568.74",
-        "total_disbursements_rank": 432,
-        "date": "2012-10-17",
-        "contributions_indiv": "597939.78",
-        "contributions_party": "8950.00",
-        "cash_on_hand": "107158.04"
-      },
-      "industries": [
-        {
-          "count": "39",
-          "amount": "39600.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "65",
-          "amount": "29250.00",
-          "id": "31657d3c187e4cecb670d228d7e674d2",
-          "name": "Education"
-        },
-        {
-          "count": "21",
-          "amount": "9500.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "19",
-          "amount": "8675.00",
-          "id": "9e701425eeb14b4c874cfb4415a4ac3b",
-          "name": "Civil Servants/Public Officials"
-        },
-        {
-          "count": "10",
-          "amount": "7500.00",
-          "id": "042288e0185a44ec82982814c69abdca",
-          "name": "Computers/Internet"
-        },
-        {
-          "count": "4",
-          "amount": "5450.00",
-          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
-          "name": "Hospitals/Nursing Homes"
-        },
-        {
-          "count": "10",
-          "amount": "5185.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "2",
-          "amount": "5000.00",
-          "id": "d8ddc9e3d84b40a2a923545964e6bf80",
-          "name": "Non-Profit Institutions"
-        },
-        {
-          "count": "9",
-          "amount": "4750.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        },
-        {
-          "count": "6",
-          "amount": "4250.00",
-          "id": "d9c4a26cd671436eac3c501184364fc4",
-          "name": "Misc Business"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "Public Employees Federation",
-          "type": "rating",
-          "value": "Y"
-        },
-        {
-          "name": "AFL-CIO",
-          "type": "rating",
-          "value": "Y"
-        }
-      ]
     }
   ],
   "senate": [
     {
-      "entity_id": "5133536fdc44445695adf6f244ee69c9",
-      "name": "Kirsten Gillibrand",
       "photo_filename": "Kirsten_Gillibrand.jpg",
+      "name": "Kirsten Gillibrand",
+      "party": "D",
+      "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Kirsten_Gillibrand",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000555.jpg",
@@ -398,14 +398,14 @@
       ]
     },
     {
-      "entity_id": null,
-      "name": "Wendy Long",
       "photo_filename": "Wendy_Long.png",
+      "name": "Wendy Long",
+      "party": "R",
+      "entity_id": null,
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

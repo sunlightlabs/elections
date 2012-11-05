@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Jimmy Farris",
       "photo_filename": "Jimmy_Farris.jpg",
+      "name": "Jimmy Farris",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "ID",
       "state_name": "Idaho",
       "district": "1",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -83,14 +83,14 @@
       ]
     },
     {
-      "entity_id": "6d1ca36002414ec99e21aad1990438ba",
-      "name": "Raul Labrador",
       "photo_filename": "Raul_Labrador.jpg",
+      "name": "Raul Labrador",
+      "party": "R",
+      "entity_id": "6d1ca36002414ec99e21aad1990438ba",
       "chamber": "house",
       "state": "ID",
       "state_name": "Idaho",
       "district": "1",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=L000573",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000573.jpg",

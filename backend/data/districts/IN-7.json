@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "1d1c12df45984293b60a040181ac231b",
-      "name": "Andre Carson",
       "photo_filename": "Andre_Carson.jpg",
+      "name": "Andre Carson",
+      "party": "D",
+      "entity_id": "1d1c12df45984293b60a040181ac231b",
       "chamber": "house",
       "state": "IN",
       "state_name": "Indiana",
       "district": "7",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001072",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001072.jpg",
@@ -129,18 +129,23 @@
           "value": "100"
         }
       ]
+    },
+    {
+      "photo_filename": "Carlos_May.jpg",
+      "name": "Carlos May",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "4d86ffd297c84c059577c0afe4f8d0ee",
-      "name": "Joe Donnelly",
       "photo_filename": "Joe_Donnelly.jpg",
+      "name": "Joe Donnelly",
+      "party": "D",
+      "entity_id": "4d86ffd297c84c059577c0afe4f8d0ee",
       "chamber": "senate",
       "state": "IN",
       "state_name": "Indiana",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Joe_Donnelly",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000607.jpg",
@@ -263,14 +268,14 @@
       ]
     },
     {
-      "entity_id": "5b274cbfd935494cac8560f293fa68ba",
-      "name": "Richard E Mourdock",
       "photo_filename": "Richard_Mourdock.jpg",
+      "name": "Richard Mourdock",
+      "party": "R",
+      "entity_id": "5b274cbfd935494cac8560f293fa68ba",
       "chamber": "senate",
       "state": "IN",
       "state_name": "Indiana",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Richard_Mourdock",
       "photo_url": null,

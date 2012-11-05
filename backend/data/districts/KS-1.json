@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "9a630407d1fb49f5b579dad3743969ce",
-      "name": "Tim Huelskamp",
       "photo_filename": "Tim_Huelskamp.jpg",
+      "name": "Tim Huelskamp",
+      "party": "R",
+      "entity_id": "9a630407d1fb49f5b579dad3743969ce",
       "chamber": "house",
       "state": "KS",
       "state_name": "Kansas",
       "district": "1",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Tim_Huelskamp",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001057.jpg",

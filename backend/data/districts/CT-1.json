@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "3b11c125326e44dea313c70f270a2697",
-      "name": "John B Larson",
       "photo_filename": "John_B._Larson.jpg",
+      "name": "John B. Larson",
+      "party": "D",
+      "entity_id": "3b11c125326e44dea313c70f270a2697",
       "chamber": "house",
       "state": "CT",
       "state_name": "Connecticut",
       "district": "1",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_B._Larson",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000557.jpg",
@@ -129,18 +129,23 @@
           "value": "4"
         }
       ]
+    },
+    {
+      "photo_filename": "John_Henry_Decker.jpg",
+      "name": "John Henry Decker",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
-      "name": "Chris Murphy",
       "photo_filename": "Christopher_S._Murphy.jpg",
+      "name": "Chris Murphy",
+      "party": "D",
+      "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "chamber": "senate",
       "state": "CT",
       "state_name": "Connecticut",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Chris_Murphy_%28politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001169.jpg",
@@ -231,6 +236,11 @@
           "value": "Y"
         }
       ]
+    },
+    {
+      "photo_filename": "Linda_McMahon.jpg",
+      "name": "Linda McMahon",
+      "party": "R"
     }
   ]
 }

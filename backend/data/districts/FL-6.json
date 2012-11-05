@@ -1,14 +1,114 @@
 {
   "house": [
     {
-      "entity_id": null,
+      "photo_filename": "Heather_Beaven.jpg",
       "name": "Heather Beaven",
-      "photo_filename": "Ron_DeSantis.jpg",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "FL",
       "state_name": "Florida",
       "district": "6",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "O",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "23000.00",
+        "office": "H",
+        "total_receipts_rank": 550,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 542,
+        "total_raised": "122937.58",
+        "disbursements": "95796.90",
+        "total_disbursements_rank": 535,
+        "date": "2012-07-25",
+        "contributions_indiv": "99937.58",
+        "contributions_party": "0.00",
+        "cash_on_hand": "29848.98"
+      },
+      "industries": [
+        {
+          "count": "68",
+          "amount": "36511.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "44",
+          "amount": "25677.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "21",
+          "amount": "19200.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "4",
+          "amount": "17000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "4",
+          "amount": "15250.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "15",
+          "amount": "14696.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "10",
+          "amount": "13050.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "13",
+          "amount": "11750.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "3",
+          "amount": "10000.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        },
+        {
+          "count": "9",
+          "amount": "7200.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "photo_filename": "Ron_DeSantis.jpg",
+      "name": "Ron DeSantis",
       "party": "R",
+      "entity_id": null,
+      "chamber": "house",
+      "state": "FL",
+      "state_name": "Florida",
+      "district": "6",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -97,25 +197,20 @@
           "name": "Gun Owners of America",
           "type": "grade",
           "value": "A"
-        },
-        {
-          "name": "Gun Owners of America",
-          "type": "grade",
-          "value": "D"
         }
       ]
     }
   ],
   "senate": [
     {
-      "entity_id": "5a1a3576871e459e9bb0af1a1d5cd826",
-      "name": "Bill Nelson",
       "photo_filename": "Bill_Nelson_(Florida).jpg",
+      "name": "Bill Nelson",
+      "party": "D",
+      "entity_id": "5a1a3576871e459e9bb0af1a1d5cd826",
       "chamber": "senate",
       "state": "FL",
       "state_name": "Florida",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=N000032",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/N000032.jpg",
@@ -243,14 +338,14 @@
       ]
     },
     {
-      "entity_id": "0bcd3fa0d6a1461d9e8e2948bd853c1e",
-      "name": "Connie Mack",
       "photo_filename": "Connie_Mack.jpg",
+      "name": "Connie Mack",
+      "party": "R",
+      "entity_id": "0bcd3fa0d6a1461d9e8e2948bd853c1e",
       "chamber": "senate",
       "state": "FL",
       "state_name": "Florida",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=M001155",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001155.jpg",

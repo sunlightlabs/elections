@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "abd1d0dcce26437f8254e98a60d96db3",
-      "name": "Albio Sires",
       "photo_filename": "Albio_Sires.jpg",
+      "name": "Albio Sires",
+      "party": "D",
+      "entity_id": "abd1d0dcce26437f8254e98a60d96db3",
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "8",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Albio_Sires",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001165.jpg",
@@ -134,18 +134,23 @@
           "value": "90"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Maria Karczewski",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
-      "name": "Robert Menendez",
       "photo_filename": "Bob_Menendez.jpg",
+      "name": "Bob Menendez",
+      "party": "D",
+      "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Menendez",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000639.jpg",
@@ -276,6 +281,11 @@
           "value": "13"
         }
       ]
+    },
+    {
+      "photo_filename": "Joe_Kyrillos.jpg",
+      "name": "Joe Kyrillos",
+      "party": "R"
     }
   ]
 }

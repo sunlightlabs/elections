@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "a5b25d4323cd4feca478301959787daf",
-      "name": "Cedric L Richmond",
       "photo_filename": "Cedric_Richmond.jpg",
+      "name": "Cedric Richmond",
+      "party": "D",
+      "entity_id": "a5b25d4323cd4feca478301959787daf",
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",
       "district": "2",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Cedric_Richmond",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000588.jpg",
@@ -124,6 +124,21 @@
           "value": "0"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Gary Landrieu",
+      "party": "D"
+    },
+    {
+      "photo_filename": null,
+      "name": "Dwayne Bailey",
+      "party": "R"
+    },
+    {
+      "photo_filename": null,
+      "name": "Josue Larose",
+      "party": "R"
     }
   ],
   "senate": [

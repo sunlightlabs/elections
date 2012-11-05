@@ -1,66 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Wanda Rohl",
-      "photo_filename": null,
-      "chamber": "house",
-      "state": "IL",
-      "state_name": "Illinois",
-      "district": "16",
-      "party": "D",
-      "incumbent": false,
-      "bio_url": null,
-      "photo_url": null,
-      "seat_status": "C",
-      "bioguide_id": null,
-      "fec_summary": {
-        "contributions_pac": "0.00",
-        "office": "H",
-        "total_receipts_rank": 1494,
-        "max_rank": 1515,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 1008,
-        "total_raised": "5077.11",
-        "disbursements": "2095.40",
-        "total_disbursements_rank": 1504,
-        "date": "2012-06-30",
-        "contributions_indiv": "3627.11",
-        "contributions_party": "1450.00",
-        "cash_on_hand": "2981.71"
-      },
-      "industries": [
-        {
-          "count": "1",
-          "amount": "520.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "1",
-          "amount": "200.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "Gun Owners of America",
-          "type": "endorsement",
-          "value": null
-        }
-      ]
-    },
-    {
-      "entity_id": "8d27d097226b41be8591ea09fed36eca",
-      "name": "Adam Kinzinger",
       "photo_filename": "Adam_Kinzinger.jpg",
+      "name": "Adam Kinzinger",
+      "party": "R",
+      "entity_id": "8d27d097226b41be8591ea09fed36eca",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "16",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Adam_Kinzinger",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000378.jpg",
@@ -169,6 +117,58 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "72"
+        }
+      ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Wanda Rohl",
+      "party": "D",
+      "entity_id": null,
+      "chamber": "house",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": "16",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": "H",
+        "total_receipts_rank": 1494,
+        "max_rank": 1515,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 1008,
+        "total_raised": "5077.11",
+        "disbursements": "2095.40",
+        "total_disbursements_rank": 1504,
+        "date": "2012-06-30",
+        "contributions_indiv": "3627.11",
+        "contributions_party": "1450.00",
+        "cash_on_hand": "2981.71"
+      },
+      "industries": [
+        {
+          "count": "1",
+          "amount": "520.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1",
+          "amount": "200.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
         }
       ]
     }

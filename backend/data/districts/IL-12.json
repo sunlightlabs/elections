@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Jason Plummer",
+      "photo_filename": null,
+      "name": "William Enyart",
+      "party": "D"
+    },
+    {
       "photo_filename": "Jason_Plummer.jpg",
+      "name": "Jason Plummer",
+      "party": "R",
+      "entity_id": null,
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "12",
-      "party": "R",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

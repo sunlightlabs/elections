@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "aecbd98046f545d092c00ae94a9291c8",
-      "name": "Larry Kissell",
       "photo_filename": "Larry_Kissell.jpg",
+      "name": "Larry Kissell",
+      "party": "D",
+      "entity_id": "aecbd98046f545d092c00ae94a9291c8",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "8",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Larry_Kissell",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000369.jpg",
@@ -136,14 +136,14 @@
       ]
     },
     {
-      "entity_id": null,
-      "name": "Richard Hudson",
       "photo_filename": null,
+      "name": "Richard Hudson",
+      "party": "R",
+      "entity_id": null,
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "8",
-      "party": "R",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

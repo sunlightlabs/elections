@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Gene Stilp",
       "photo_filename": null,
+      "name": "Gene Stilp",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "11",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -94,14 +94,14 @@
       ]
     },
     {
-      "entity_id": "07d5f165d18f4b3f9e972ef53ffba680",
-      "name": "Louis J Barletta",
       "photo_filename": "Lou_Barletta.jpeg",
+      "name": "Lou Barletta",
+      "party": "R",
+      "entity_id": "07d5f165d18f4b3f9e972ef53ffba680",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "11",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Lou_Barletta",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001269.jpg",
@@ -221,14 +221,14 @@
   ],
   "senate": [
     {
-      "entity_id": "6270f8364eac4b0a88a117c008011e06",
-      "name": "Bob Casey",
       "photo_filename": "Bob_Casey,_Jr..jpg",
+      "name": "Bob Casey, Jr.",
+      "party": "D",
+      "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001070.jpg",
@@ -349,6 +349,11 @@
           "value": "90"
         }
       ]
+    },
+    {
+      "photo_filename": "Tom_Smith.jpg",
+      "name": "Tom Smith",
+      "party": "R"
     }
   ]
 }

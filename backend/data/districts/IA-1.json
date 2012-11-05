@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "af2b64366ab344838ddd6352ffb223dc",
-      "name": "Bruce Braley",
       "photo_filename": "Bruce_Braley.jpg",
+      "name": "Bruce Braley",
+      "party": "D",
+      "entity_id": "af2b64366ab344838ddd6352ffb223dc",
       "chamber": "house",
       "state": "IA",
       "state_name": "Iowa",
       "district": "1",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bruce_Braley",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001259.jpg",
@@ -124,6 +124,11 @@
           "value": "4"
         }
       ]
+    },
+    {
+      "photo_filename": "Ben_Lange.jpg",
+      "name": "Ben Lange",
+      "party": "R"
     }
   ],
   "senate": [

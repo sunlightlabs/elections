@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Ron Barber",
       "photo_filename": "Ron_Barber.jpg",
+      "name": "Ron Barber",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "AZ",
       "state_name": "Arizona",
       "district": "2",
-      "party": "D",
       "incumbent": true,
       "bio_url": null,
       "photo_url": null,
@@ -99,18 +99,23 @@
           "value": null
         }
       ]
+    },
+    {
+      "photo_filename": "Martha_McSally.jpg",
+      "name": "Martha McSally",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Richard Carmona",
       "photo_filename": "Richard_Carmona.jpg",
+      "name": "Richard Carmona",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "AZ",
       "state_name": "Arizona",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -208,14 +213,14 @@
       ]
     },
     {
-      "entity_id": "be44f82d0528410fa74c71c886a152f5",
-      "name": "Jeff Flake",
       "photo_filename": "Jeff_Flake.jpg",
+      "name": "Jeff Flake",
+      "party": "R",
+      "entity_id": "be44f82d0528410fa74c71c886a152f5",
       "chamber": "senate",
       "state": "AZ",
       "state_name": "Arizona",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Jeff_Flake",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000444.jpg",

@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Jamie Wall",
       "photo_filename": null,
+      "name": "Jamie Wall",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "WI",
       "state_name": "Wisconsin",
       "district": "8",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -106,14 +106,14 @@
       ]
     },
     {
-      "entity_id": "11bd6ed724be4cb09a12807d800f35fb",
-      "name": "Reid Ribble",
       "photo_filename": "Reid_Ribble.jpg",
+      "name": "Reid Ribble",
+      "party": "R",
+      "entity_id": "11bd6ed724be4cb09a12807d800f35fb",
       "chamber": "house",
       "state": "WI",
       "state_name": "Wisconsin",
       "district": "8",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Reid_Ribble",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000587.jpg",
@@ -228,14 +228,14 @@
   ],
   "senate": [
     {
-      "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
-      "name": "Tammy Baldwin",
       "photo_filename": "Tammy_Baldwin.jpeg",
+      "name": "Tammy Baldwin",
+      "party": "D",
+      "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "chamber": "senate",
       "state": "WI",
       "state_name": "Wisconsin",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Tammy_Baldwin",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001230.jpg",
@@ -371,6 +371,11 @@
           "value": "4"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Tommy Thompson",
+      "party": "R"
     }
   ]
 }

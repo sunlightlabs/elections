@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "6b05171acd604a0c951570e01a88e3bc",
-      "name": "John Barrow",
       "photo_filename": "John_Barrow.jpg",
+      "name": "John Barrow",
+      "party": "D",
+      "entity_id": "6b05171acd604a0c951570e01a88e3bc",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
       "district": "12",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_Barrow_%28Georgia%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001252.jpg",
@@ -131,14 +131,14 @@
       ]
     },
     {
-      "entity_id": null,
-      "name": "Lee Ivey Anderson",
       "photo_filename": "Lee_Anderson.jpg",
+      "name": "Lee Anderson",
+      "party": "R",
+      "entity_id": null,
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
       "district": "12",
-      "party": "R",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

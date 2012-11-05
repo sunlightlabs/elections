@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "bc890c70ed394f78a542cc8a34ca3a97",
-      "name": "Chellie Pingree",
       "photo_filename": "Chellie_Pingree.jpg",
+      "name": "Chellie Pingree",
+      "party": "D",
+      "entity_id": "bc890c70ed394f78a542cc8a34ca3a97",
       "chamber": "house",
       "state": "ME",
       "state_name": "Maine",
       "district": "1",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Chellie_Pingree",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000597.jpg",
@@ -129,18 +129,23 @@
           "value": "100"
         }
       ]
+    },
+    {
+      "photo_filename": "Jonathan_Courtney.jpg",
+      "name": "Jonathan Courtney",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Cynthia Dill",
       "photo_filename": "Cynthia_Dill.jpg",
+      "name": "Cynthia Dill",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "ME",
       "state_name": "Maine",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -236,6 +241,26 @@
           "value": "F"
         }
       ]
+    },
+    {
+      "photo_filename": "Charles_Summers.jpg",
+      "name": "Charles Summers",
+      "party": "R"
+    },
+    {
+      "photo_filename": null,
+      "name": "Angus King",
+      "party": "I"
+    },
+    {
+      "photo_filename": null,
+      "name": "Danny Francis Dalton",
+      "party": "I"
+    },
+    {
+      "photo_filename": null,
+      "name": "Stephen Woods",
+      "party": "I"
     }
   ]
 }

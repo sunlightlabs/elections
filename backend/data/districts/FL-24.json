@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "70eea308f2a043f2aac0b5b7615170b2",
-      "name": "Frederica S Wilson",
       "photo_filename": "Frederica_S._Wilson.jpg",
+      "name": "Frederica S. Wilson",
+      "party": "D",
+      "entity_id": "70eea308f2a043f2aac0b5b7615170b2",
       "chamber": "house",
       "state": "FL",
       "state_name": "Florida",
       "district": "24",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Frederica_Wilson",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000808.jpg",
@@ -133,14 +133,14 @@
   ],
   "senate": [
     {
-      "entity_id": "5a1a3576871e459e9bb0af1a1d5cd826",
-      "name": "Bill Nelson",
       "photo_filename": "Bill_Nelson_(Florida).jpg",
+      "name": "Bill Nelson",
+      "party": "D",
+      "entity_id": "5a1a3576871e459e9bb0af1a1d5cd826",
       "chamber": "senate",
       "state": "FL",
       "state_name": "Florida",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=N000032",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/N000032.jpg",
@@ -268,14 +268,14 @@
       ]
     },
     {
-      "entity_id": "0bcd3fa0d6a1461d9e8e2948bd853c1e",
-      "name": "Connie Mack",
       "photo_filename": "Connie_Mack.jpg",
+      "name": "Connie Mack",
+      "party": "R",
+      "entity_id": "0bcd3fa0d6a1461d9e8e2948bd853c1e",
       "chamber": "senate",
       "state": "FL",
       "state_name": "Florida",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=M001155",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001155.jpg",

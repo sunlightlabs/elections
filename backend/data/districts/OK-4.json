@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Donna Bebo",
       "photo_filename": null,
+      "name": "Donna Marie Bebo",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "OK",
       "state_name": "Oklahoma",
       "district": "4",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -59,14 +59,14 @@
       ]
     },
     {
-      "entity_id": "f7ee773191fb474ca9ebe5ceb2db2ac5",
-      "name": "Tom Cole",
       "photo_filename": "Tom_Cole.jpg",
+      "name": "Tom Cole",
+      "party": "R",
+      "entity_id": "f7ee773191fb474ca9ebe5ceb2db2ac5",
       "chamber": "house",
       "state": "OK",
       "state_name": "Oklahoma",
       "district": "4",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Tom_Cole",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001053.jpg",

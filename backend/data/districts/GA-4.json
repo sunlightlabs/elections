@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "4194d12bd85c4262827926a43e388429",
-      "name": "Hank Johnson",
       "photo_filename": "Henry_C._Johnson,_Jr..jpg",
+      "name": "Henry C. Johnson, Jr.",
+      "party": "D",
+      "entity_id": "4194d12bd85c4262827926a43e388429",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
       "district": "4",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Hank_Johnson",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/J000288.jpg",
@@ -124,6 +124,11 @@
           "value": "90"
         }
       ]
+    },
+    {
+      "photo_filename": "Chris_Vaughn.jpg",
+      "name": "Chris Vaughn",
+      "party": "R"
     }
   ],
   "senate": [

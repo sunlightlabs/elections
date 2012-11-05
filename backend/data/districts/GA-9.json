@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Jody Cooley",
       "photo_filename": "Jody_Cooley.jpg",
+      "name": "Jody Cooley",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
       "district": "9",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -57,6 +57,11 @@
           "value": null
         }
       ]
+    },
+    {
+      "photo_filename": "Doug_Collins.jpg",
+      "name": "Doug Collins",
+      "party": "R"
     }
   ],
   "senate": [

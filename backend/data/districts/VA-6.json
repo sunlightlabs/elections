@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Andy Schmookler",
       "photo_filename": null,
+      "name": "Andy Schmookler",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
       "district": "6",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -106,14 +106,14 @@
       ]
     },
     {
-      "entity_id": "26787e20a4c547b68922aa51339963f9",
-      "name": "Bob Goodlatte",
       "photo_filename": "Bob_Goodlatte.jpg",
+      "name": "Bob Goodlatte",
+      "party": "R",
+      "entity_id": "26787e20a4c547b68922aa51339963f9",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
       "district": "6",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Goodlatte",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000289.jpg",
@@ -238,14 +238,14 @@
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Tim Kaine",
       "photo_filename": "Tim_Kaine.png",
+      "name": "Tim Kaine",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -351,6 +351,11 @@
           "value": "F"
         }
       ]
+    },
+    {
+      "photo_filename": "George_Allen.jpg",
+      "name": "George Allen",
+      "party": "R"
     }
   ]
 }

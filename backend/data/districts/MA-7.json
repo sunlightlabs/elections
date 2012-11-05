@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "3cee7473c2ae4526a72d50e784b0faac",
-      "name": "Michael E Capuano",
       "photo_filename": "Michael_Capuano.jpg",
+      "name": "Michael Capuano",
+      "party": "D",
+      "entity_id": "3cee7473c2ae4526a72d50e784b0faac",
       "chamber": "house",
       "state": "MA",
       "state_name": "Massachusetts",
       "district": "7",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mike_Capuano",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001037.jpg",
@@ -138,14 +138,14 @@
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Elizabeth Warren",
       "photo_filename": "Elizabeth_Warren.jpg",
+      "name": "Elizabeth Warren",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -258,14 +258,14 @@
       ]
     },
     {
-      "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
-      "name": "Scott P. Brown",
       "photo_filename": "Scott_Brown.jpg",
+      "name": "Scott Brown",
+      "party": "R",
+      "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
       "district": null,
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Scott_Brown",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001268.jpg",

@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Paul Hirschbiel",
       "photo_filename": null,
+      "name": "Paul Hirschbiel",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
       "district": "2",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -111,14 +111,14 @@
       ]
     },
     {
-      "entity_id": "ed77d4ca071b4e9c906248d122ff284f",
-      "name": "Scott Rigell",
       "photo_filename": "Scott_Rigell.jpg",
+      "name": "Scott Rigell",
+      "party": "R",
+      "entity_id": "ed77d4ca071b4e9c906248d122ff284f",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
       "district": "2",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Scott_Rigell",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000589.jpg",
@@ -228,14 +228,14 @@
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Tim Kaine",
       "photo_filename": "Tim_Kaine.png",
+      "name": "Tim Kaine",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -341,6 +341,11 @@
           "value": "F"
         }
       ]
+    },
+    {
+      "photo_filename": "George_Allen.jpg",
+      "name": "George Allen",
+      "party": "R"
     }
   ]
 }

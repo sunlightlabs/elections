@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "c8eb2a17f271433885ca8e8872eb0e7a",
-      "name": "James E Clyburn",
       "photo_filename": "James_Clyburn.jpg",
+      "name": "James Clyburn",
+      "party": "D",
+      "entity_id": "c8eb2a17f271433885ca8e8872eb0e7a",
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
       "district": "6",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000537",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000537.jpg",

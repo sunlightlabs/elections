@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "3ed27bb3c6f549428031a7333b377039",
-      "name": "Jim Cooper",
       "photo_filename": "Jim_Cooper.jpeg",
+      "name": "Jim Cooper",
+      "party": "D",
+      "entity_id": "3ed27bb3c6f549428031a7333b377039",
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
       "district": "5",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jim_Cooper",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000754.jpg",
@@ -134,18 +134,28 @@
           "value": "16"
         }
       ]
+    },
+    {
+      "photo_filename": "Brad_Staats.jpg",
+      "name": "Brad Staats",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
-      "name": "Bob Corker",
+      "photo_filename": "Mark_Clayton.jpg",
+      "name": "Mark Clayton",
+      "party": "D"
+    },
+    {
       "photo_filename": "Bob_Corker.jpg",
+      "name": "Bob Corker",
+      "party": "R",
+      "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",
       "district": null,
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001071",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001071.jpg",

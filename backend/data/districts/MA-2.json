@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "d2be869dfbdc4fc29c70916e623e8785",
-      "name": "James P McGovern",
       "photo_filename": "Jim_McGovern.jpg",
+      "name": "Jim McGovern",
+      "party": "D",
+      "entity_id": "d2be869dfbdc4fc29c70916e623e8785",
       "chamber": "house",
       "state": "MA",
       "state_name": "Massachusetts",
       "district": "2",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jim_McGovern",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000312.jpg",
@@ -148,14 +148,14 @@
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Elizabeth Warren",
       "photo_filename": "Elizabeth_Warren.jpg",
+      "name": "Elizabeth Warren",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -268,14 +268,14 @@
       ]
     },
     {
-      "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
-      "name": "Scott P. Brown",
       "photo_filename": "Scott_Brown.jpg",
+      "name": "Scott Brown",
+      "party": "R",
+      "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
       "district": null,
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Scott_Brown",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001268.jpg",

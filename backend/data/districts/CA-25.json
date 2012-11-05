@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Lee C. Rogers",
       "photo_filename": "Lee_Rogers.jpg",
+      "name": "Lee Rogers",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
       "district": "25",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -104,18 +104,23 @@
           "value": null
         }
       ]
+    },
+    {
+      "photo_filename": "Howard_McKeon.jpg",
+      "name": "Howard McKeon",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
-      "name": "Dianne Feinstein",
       "photo_filename": "Dianne_Feinstein.jpg",
+      "name": "Dianne Feinstein",
+      "party": "D",
+      "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dianne_Feinstein",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000062.jpg",
@@ -293,14 +298,14 @@
       ]
     },
     {
-      "entity_id": "6e77aa224af049429981ebf39089e070",
-      "name": "Elizabeth Emken",
       "photo_filename": "Elizabeth_Emken.jpg",
+      "name": "Elizabeth Emken",
+      "party": "R",
+      "entity_id": "6e77aa224af049429981ebf39089e070",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Elizabeth_Emken",
       "photo_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Emken.jpg/225px-Emken.jpg",

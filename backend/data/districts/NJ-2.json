@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Cassandra Shober",
       "photo_filename": null,
+      "name": "Cassandra Shober",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "2",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -76,14 +76,14 @@
       ]
     },
     {
-      "entity_id": "c57d8c97afb24a36973accea41a97915",
-      "name": "Frank A LoBiondo",
       "photo_filename": "Frank_LoBiondo.jpg",
+      "name": "Frank LoBiondo",
+      "party": "R",
+      "entity_id": "c57d8c97afb24a36973accea41a97915",
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "2",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Frank_LoBiondo",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000554.jpg",
@@ -208,14 +208,14 @@
   ],
   "senate": [
     {
-      "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
-      "name": "Robert Menendez",
       "photo_filename": "Bob_Menendez.jpg",
+      "name": "Bob Menendez",
+      "party": "D",
+      "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Menendez",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000639.jpg",
@@ -346,6 +346,11 @@
           "value": "13"
         }
       ]
+    },
+    {
+      "photo_filename": "Joe_Kyrillos.jpg",
+      "name": "Joe Kyrillos",
+      "party": "R"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Bradley T. Bookout",
       "photo_filename": "Brad_Bookout.jpg",
+      "name": "Brad Bookout",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "IN",
       "state_name": "Indiana",
       "district": "6",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -81,18 +81,23 @@
           "value": "Y"
         }
       ]
+    },
+    {
+      "photo_filename": "Luke_Messer.jpg",
+      "name": "Luke Messer",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "4d86ffd297c84c059577c0afe4f8d0ee",
-      "name": "Joe Donnelly",
       "photo_filename": "Joe_Donnelly.jpg",
+      "name": "Joe Donnelly",
+      "party": "D",
+      "entity_id": "4d86ffd297c84c059577c0afe4f8d0ee",
       "chamber": "senate",
       "state": "IN",
       "state_name": "Indiana",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Joe_Donnelly",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000607.jpg",
@@ -215,14 +220,14 @@
       ]
     },
     {
-      "entity_id": "5b274cbfd935494cac8560f293fa68ba",
-      "name": "Richard E Mourdock",
       "photo_filename": "Richard_Mourdock.jpg",
+      "name": "Richard Mourdock",
+      "party": "R",
+      "entity_id": "5b274cbfd935494cac8560f293fa68ba",
       "chamber": "senate",
       "state": "IN",
       "state_name": "Indiana",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Richard_Mourdock",
       "photo_url": null,

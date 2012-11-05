@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Brad Schneider",
       "photo_filename": "Brad_Schneider.jpg",
+      "name": "Brad Schneider",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "10",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -106,14 +106,19 @@
       ]
     },
     {
-      "entity_id": "0c2fc448f2274e3ea7efe8c22f9487e5",
-      "name": "Robert Dold",
+      "photo_filename": null,
+      "name": "Aloys Rutagwibira",
+      "party": "D"
+    },
+    {
       "photo_filename": "Robert_J._Dold.jpg",
+      "name": "Robert J. Dold",
+      "party": "R",
+      "entity_id": "0c2fc448f2274e3ea7efe8c22f9487e5",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "10",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_Dold",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000613.jpg",

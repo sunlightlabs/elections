@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Philip Scollo",
       "photo_filename": "Philip_Scollo.jpg",
+      "name": "Philip Scollo",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "10",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -101,14 +101,14 @@
       ]
     },
     {
-      "entity_id": "3af5f262689b417f8b7dd7a6e815f953",
-      "name": "Tom Marino",
       "photo_filename": "Tom_Marino.jpg",
+      "name": "Tom Marino",
+      "party": "R",
+      "entity_id": "3af5f262689b417f8b7dd7a6e815f953",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "10",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Tom_Marino",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001179.jpg",
@@ -223,14 +223,14 @@
   ],
   "senate": [
     {
-      "entity_id": "6270f8364eac4b0a88a117c008011e06",
-      "name": "Bob Casey",
       "photo_filename": "Bob_Casey,_Jr..jpg",
+      "name": "Bob Casey, Jr.",
+      "party": "D",
+      "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001070.jpg",
@@ -351,6 +351,11 @@
           "value": "90"
         }
       ]
+    },
+    {
+      "photo_filename": "Tom_Smith.jpg",
+      "name": "Tom Smith",
+      "party": "R"
     }
   ]
 }

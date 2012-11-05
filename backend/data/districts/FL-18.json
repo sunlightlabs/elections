@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Patrick Murphy",
       "photo_filename": null,
+      "name": "Patrick Murphy",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "FL",
       "state_name": "Florida",
       "district": "18",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -106,14 +106,19 @@
       ]
     },
     {
-      "entity_id": "fc4314f7c7cd409c9df61be0591e27e2",
-      "name": "Allen B West",
+      "photo_filename": null,
+      "name": "Marilyn Davis Holloman",
+      "party": "D"
+    },
+    {
       "photo_filename": "Allen_West.jpg",
+      "name": "Allen West",
+      "party": "R",
+      "entity_id": "fc4314f7c7cd409c9df61be0591e27e2",
       "chamber": "house",
       "state": "FL",
       "state_name": "Florida",
       "district": "18",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Allen_West_%28politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000807.jpg",
@@ -233,14 +238,14 @@
   ],
   "senate": [
     {
-      "entity_id": "5a1a3576871e459e9bb0af1a1d5cd826",
-      "name": "Bill Nelson",
       "photo_filename": "Bill_Nelson_(Florida).jpg",
+      "name": "Bill Nelson",
+      "party": "D",
+      "entity_id": "5a1a3576871e459e9bb0af1a1d5cd826",
       "chamber": "senate",
       "state": "FL",
       "state_name": "Florida",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=N000032",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/N000032.jpg",
@@ -368,14 +373,14 @@
       ]
     },
     {
-      "entity_id": "0bcd3fa0d6a1461d9e8e2948bd853c1e",
-      "name": "Connie Mack",
       "photo_filename": "Connie_Mack.jpg",
+      "name": "Connie Mack",
+      "party": "R",
+      "entity_id": "0bcd3fa0d6a1461d9e8e2948bd853c1e",
       "chamber": "senate",
       "state": "FL",
       "state_name": "Florida",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=M001155",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001155.jpg",

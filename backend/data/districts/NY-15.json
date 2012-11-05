@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "b2a512ed1d1142cab592c200311bf02d",
-      "name": "Jose E Serrano",
       "photo_filename": "Jose_E._Serrano.jpeg",
+      "name": "Jose E. Serrano",
+      "party": "D",
+      "entity_id": "b2a512ed1d1142cab592c200311bf02d",
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
       "district": "15",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=S000248",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000248.jpg",
@@ -139,18 +139,23 @@
           "value": "100"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Frank Della Valle",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "5133536fdc44445695adf6f244ee69c9",
-      "name": "Kirsten Gillibrand",
       "photo_filename": "Kirsten_Gillibrand.jpg",
+      "name": "Kirsten Gillibrand",
+      "party": "D",
+      "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Kirsten_Gillibrand",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000555.jpg",
@@ -308,14 +313,14 @@
       ]
     },
     {
-      "entity_id": null,
-      "name": "Wendy Long",
       "photo_filename": "Wendy_Long.png",
+      "name": "Wendy Long",
+      "party": "R",
+      "entity_id": null,
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "7f5d375d86d84fbf9d97bfc6682a362c",
-      "name": "G K Butterfield",
       "photo_filename": "G.K._Butterfield.jpg",
+      "name": "G.K. Butterfield",
+      "party": "D",
+      "entity_id": "7f5d375d86d84fbf9d97bfc6682a362c",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "1",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/G._K._Butterfield",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001251.jpg",
@@ -124,6 +124,11 @@
           "value": "11"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Pete DiLauro",
+      "party": "R"
     }
   ],
   "senate": [

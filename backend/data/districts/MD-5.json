@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "4bf3c6ea1d7f420c965a91945b435ea8",
-      "name": "Steny H Hoyer",
       "photo_filename": "Steny_Hoyer.jpg",
+      "name": "Steny Hoyer",
+      "party": "D",
+      "entity_id": "4bf3c6ea1d7f420c965a91945b435ea8",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
       "district": "5",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Steny_Hoyer",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H000874.jpg",
@@ -134,18 +134,23 @@
           "value": "4"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Anthony O'Donnell",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "8ff25ab60758494c8b64d66017e87670",
-      "name": "Ben Cardin",
       "photo_filename": "Ben_Cardin.jpg",
+      "name": "Ben Cardin",
+      "party": "D",
+      "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000141",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000141.jpg",
@@ -276,6 +281,21 @@
           "value": "100"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Lih Young",
+      "party": "D"
+    },
+    {
+      "photo_filename": "Dan_Bongino.jpg",
+      "name": "Dan Bongino",
+      "party": "R"
+    },
+    {
+      "photo_filename": null,
+      "name": "Mary Podlesak",
+      "party": "R"
     }
   ]
 }

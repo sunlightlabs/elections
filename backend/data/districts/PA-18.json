@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Larry Maggi",
       "photo_filename": "Larry_Maggi.jpg",
+      "name": "Larry Maggi",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "18",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -101,14 +101,14 @@
       ]
     },
     {
-      "entity_id": "c865447802d94f1bada09a548715015d",
-      "name": "Tim Murphy",
       "photo_filename": null,
+      "name": "Tim Murphy",
+      "party": "R",
+      "entity_id": "c865447802d94f1bada09a548715015d",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "18",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Timothy_F._Murphy",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001151.jpg",
@@ -228,14 +228,14 @@
   ],
   "senate": [
     {
-      "entity_id": "6270f8364eac4b0a88a117c008011e06",
-      "name": "Bob Casey",
       "photo_filename": "Bob_Casey,_Jr..jpg",
+      "name": "Bob Casey, Jr.",
+      "party": "D",
+      "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001070.jpg",
@@ -356,6 +356,11 @@
           "value": "90"
         }
       ]
+    },
+    {
+      "photo_filename": "Tom_Smith.jpg",
+      "name": "Tom Smith",
+      "party": "R"
     }
   ]
 }

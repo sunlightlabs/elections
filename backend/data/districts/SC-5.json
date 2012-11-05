@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Joyce Knott",
       "photo_filename": null,
+      "name": "Joyce Knott",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
       "district": "5",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -65,14 +65,14 @@
       ]
     },
     {
-      "entity_id": "2ee714bfa1af48a3885846c078a81800",
-      "name": "Mick Mulvaney",
       "photo_filename": "Mick_Mulvaney.jpg",
+      "name": "Mick Mulvaney",
+      "party": "R",
+      "entity_id": "2ee714bfa1af48a3885846c078a81800",
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
       "district": "5",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mick_Mulvaney",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001182.jpg",

@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Penny Bailey",
       "photo_filename": "Penny_H._Bailey.JPG",
+      "name": "Penny H. Bailey",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
       "district": "6",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -82,14 +82,14 @@
       ]
     },
     {
-      "entity_id": "d73266aba56548afa813ce9bb09fc3e1",
-      "name": "Spencer Bachus",
       "photo_filename": "Spencer_Bachus.jpg",
+      "name": "Spencer Bachus",
+      "party": "R",
+      "entity_id": "d73266aba56548afa813ce9bb09fc3e1",
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
       "district": "6",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Spencer_Bachus",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000013.jpg",

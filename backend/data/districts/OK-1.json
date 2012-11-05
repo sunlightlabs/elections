@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "James Bridenstine",
       "photo_filename": null,
+      "name": "John Olson",
+      "party": "D"
+    },
+    {
+      "photo_filename": null,
+      "name": "Jim Bridenstine",
+      "party": "R",
+      "entity_id": null,
       "chamber": "house",
       "state": "OK",
       "state_name": "Oklahoma",
       "district": "1",
-      "party": "R",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

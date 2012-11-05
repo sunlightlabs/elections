@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "cdc36ffaf0544515bc9588cfe52e611d",
-      "name": "Robert B Aderholt",
+      "photo_filename": "Daniel_H._Boman.jpg",
+      "name": "Daniel H. Boman",
+      "party": "D"
+    },
+    {
       "photo_filename": "Robert_Aderholt.jpg",
+      "name": "Robert Aderholt",
+      "party": "R",
+      "entity_id": "cdc36ffaf0544515bc9588cfe52e611d",
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
       "district": "4",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_Aderholt",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000055.jpg",

@@ -1,14 +1,84 @@
 {
   "house": [
     {
-      "entity_id": "f8463d0cb5c74397afc623195e6828c9",
-      "name": "Patrick J Tiberi",
-      "photo_filename": "Patrick_J._Tiberi.jpg",
+      "photo_filename": "James_Reese.jpg",
+      "name": "James Reese",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
       "district": "12",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "7150.00",
+        "office": "H",
+        "total_receipts_rank": 681,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 708,
+        "total_raised": "20793.48",
+        "disbursements": "20683.73",
+        "total_disbursements_rank": 668,
+        "date": "2012-10-17",
+        "contributions_indiv": "13495.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "109.75"
+      },
+      "industries": [
+        {
+          "count": "1",
+          "amount": "2000.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "3",
+          "amount": "1250.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1",
+          "amount": "1000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "3",
+          "amount": "900.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1",
+          "amount": "500.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        }
+      ]
+    },
+    {
+      "photo_filename": "Patrick_J._Tiberi.jpg",
+      "name": "Patrick J. Tiberi",
       "party": "R",
+      "entity_id": "f8463d0cb5c74397afc623195e6828c9",
+      "chamber": "house",
+      "state": "OH",
+      "state_name": "Ohio",
+      "district": "12",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Pat_Tiberi",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/T000462.jpg",
@@ -124,88 +194,18 @@
           "value": "0"
         }
       ]
-    },
-    {
-      "entity_id": null,
-      "name": "James Reese",
-      "photo_filename": "James_Reese.jpg",
-      "chamber": "house",
-      "state": "OH",
-      "state_name": "Ohio",
-      "district": "12",
-      "party": "D",
-      "incumbent": false,
-      "bio_url": null,
-      "photo_url": null,
-      "seat_status": "C",
-      "bioguide_id": null,
-      "fec_summary": {
-        "contributions_pac": "7150.00",
-        "office": "H",
-        "total_receipts_rank": 681,
-        "max_rank": 717,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 708,
-        "total_raised": "20793.48",
-        "disbursements": "20683.73",
-        "total_disbursements_rank": 668,
-        "date": "2012-10-17",
-        "contributions_indiv": "13495.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "109.75"
-      },
-      "industries": [
-        {
-          "count": "1",
-          "amount": "2000.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "3",
-          "amount": "1250.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "1",
-          "amount": "1000.00",
-          "id": "d22cf14b1cd349b79f2b656b450b3b88",
-          "name": "Industrial Unions"
-        },
-        {
-          "count": "3",
-          "amount": "900.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "1",
-          "amount": "500.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "AFL-CIO",
-          "type": "rating",
-          "value": "Y"
-        }
-      ]
     }
   ],
   "senate": [
     {
-      "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
-      "name": "Sherrod Brown",
       "photo_filename": "Sherrod_Brown.jpg",
+      "name": "Sherrod Brown",
+      "party": "D",
+      "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sherrod_Brown",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000944.jpg",
@@ -338,14 +338,14 @@
       ]
     },
     {
-      "entity_id": null,
-      "name": "Josh Mandel",
       "photo_filename": "Josh_Mandel.jpg",
+      "name": "Josh Mandel",
+      "party": "R",
+      "entity_id": null,
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

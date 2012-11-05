@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "6f48017cfaf24da1be8f3fca4b637597",
-      "name": "Kurt Schrader",
       "photo_filename": "Kurt_Schrader.jpg",
+      "name": "Kurt Schrader",
+      "party": "D",
+      "entity_id": "6f48017cfaf24da1be8f3fca4b637597",
       "chamber": "house",
       "state": "OR",
       "state_name": "Oregon",
       "district": "5",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Kurt_Schrader",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001180.jpg",
@@ -119,6 +119,11 @@
           "value": "8.33"
         }
       ]
+    },
+    {
+      "photo_filename": "Fred_Thompson.jpg",
+      "name": "Fred Thompson",
+      "party": "R"
     }
   ],
   "senate": [

@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "9b27589ad6f740778bfe3b60d841a285",
-      "name": "Bennie G Thompson",
       "photo_filename": "Bennie_Thompson.jpg",
+      "name": "Bennie Thompson",
+      "party": "D",
+      "entity_id": "9b27589ad6f740778bfe3b60d841a285",
       "chamber": "house",
       "state": "MS",
       "state_name": "Mississippi",
       "district": "2",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bennie_Thompson",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/T000193.jpg",
@@ -129,18 +129,28 @@
           "value": "8"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Bill Marcy",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "159c40291deb455596155ded63972bf4",
-      "name": "Roger Wicker",
+      "photo_filename": null,
+      "name": "Albert N. Gore",
+      "party": "D"
+    },
+    {
       "photo_filename": "Roger_Wicker.jpg",
+      "name": "Roger Wicker",
+      "party": "R",
+      "entity_id": "159c40291deb455596155ded63972bf4",
       "chamber": "senate",
       "state": "MS",
       "state_name": "Mississippi",
       "district": null,
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Roger_Wicker",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000437.jpg",

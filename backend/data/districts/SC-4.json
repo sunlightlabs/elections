@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "7d251247056c429c9ece4d1adb852289",
-      "name": "Trey Gowdy",
+      "photo_filename": null,
+      "name": "Deb Morrow",
+      "party": "D"
+    },
+    {
       "photo_filename": "Trey_Gowdy.jpg",
+      "name": "Trey Gowdy",
+      "party": "R",
+      "entity_id": "7d251247056c429c9ece4d1adb852289",
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
       "district": "4",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Trey_Gowdy",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000566.jpg",

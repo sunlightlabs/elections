@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "02b3c6f9a1ba458fbf9623e02cfd4001",
-      "name": "Jack Kingston",
+      "photo_filename": "Lesli_Rae_Messinger.jpg",
+      "name": "Lesli Rae Messinger",
+      "party": "D"
+    },
+    {
       "photo_filename": "Jack_Kingston.jpg",
+      "name": "Jack Kingston",
+      "party": "R",
+      "entity_id": "02b3c6f9a1ba458fbf9623e02cfd4001",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
       "district": "1",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jack_Kingston",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000220.jpg",

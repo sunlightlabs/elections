@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "a9cc53410f90408bb89f91f2c3513e01",
-      "name": "Edward J Markey",
       "photo_filename": "Ed_Markey.jpg",
+      "name": "Ed Markey",
+      "party": "D",
+      "entity_id": "a9cc53410f90408bb89f91f2c3513e01",
       "chamber": "house",
       "state": "MA",
       "state_name": "Massachusetts",
       "district": "5",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Ed_Markey",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000133.jpg",
@@ -134,18 +134,23 @@
           "value": "Y"
         }
       ]
+    },
+    {
+      "photo_filename": "Tom_Tierney.jpg",
+      "name": "Tom Tierney",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Elizabeth Warren",
       "photo_filename": "Elizabeth_Warren.jpg",
+      "name": "Elizabeth Warren",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -258,14 +263,14 @@
       ]
     },
     {
-      "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
-      "name": "Scott P. Brown",
       "photo_filename": "Scott_Brown.jpg",
+      "name": "Scott Brown",
+      "party": "R",
+      "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
       "district": null,
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Scott_Brown",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001268.jpg",

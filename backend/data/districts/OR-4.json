@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "582eebf9f66b4c05a93b7088f1c0b291",
-      "name": "Peter DeFazio",
       "photo_filename": "Peter_DeFazio.jpeg",
+      "name": "Peter DeFazio",
+      "party": "D",
+      "entity_id": "582eebf9f66b4c05a93b7088f1c0b291",
       "chamber": "house",
       "state": "OR",
       "state_name": "Oregon",
       "district": "4",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Peter_DeFazio",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000191.jpg",
@@ -134,6 +134,11 @@
           "value": "12"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Art Robinson",
+      "party": "R"
     }
   ],
   "senate": [

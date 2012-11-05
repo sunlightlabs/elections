@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "8ec0f77d4e85471cb73eaeed922c580b",
-      "name": "Gwen Moore",
       "photo_filename": "Gwen_Moore.jpg",
+      "name": "Gwen Moore",
+      "party": "D",
+      "entity_id": "8ec0f77d4e85471cb73eaeed922c580b",
       "chamber": "house",
       "state": "WI",
       "state_name": "Wisconsin",
       "district": "4",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Gwen_Moore",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001160.jpg",
@@ -139,18 +139,23 @@
           "value": "0"
         }
       ]
+    },
+    {
+      "photo_filename": "Dan_Sebring.JPG",
+      "name": "Dan Sebring",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
-      "name": "Tammy Baldwin",
       "photo_filename": "Tammy_Baldwin.jpeg",
+      "name": "Tammy Baldwin",
+      "party": "D",
+      "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "chamber": "senate",
       "state": "WI",
       "state_name": "Wisconsin",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Tammy_Baldwin",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001230.jpg",
@@ -286,6 +291,11 @@
           "value": "4"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Tommy Thompson",
+      "party": "R"
     }
   ]
 }

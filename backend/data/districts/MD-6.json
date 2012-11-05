@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "John K. Delaney",
       "photo_filename": "John_Delaney.jpg",
+      "name": "John Delaney",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
       "district": "6",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -111,14 +111,14 @@
       ]
     },
     {
-      "entity_id": "a0ec0c8a79524903bda3221e9086783a",
-      "name": "Roscoe G Bartlett",
       "photo_filename": "Roscoe_Bartlett.jpg",
+      "name": "Roscoe Bartlett",
+      "party": "R",
+      "entity_id": "a0ec0c8a79524903bda3221e9086783a",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
       "district": "6",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Joseph_R._Bartlett",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000208.jpg",
@@ -238,14 +238,14 @@
   ],
   "senate": [
     {
-      "entity_id": "8ff25ab60758494c8b64d66017e87670",
-      "name": "Ben Cardin",
       "photo_filename": "Ben_Cardin.jpg",
+      "name": "Ben Cardin",
+      "party": "D",
+      "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000141",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000141.jpg",
@@ -376,6 +376,21 @@
           "value": "100"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Lih Young",
+      "party": "D"
+    },
+    {
+      "photo_filename": "Dan_Bongino.jpg",
+      "name": "Dan Bongino",
+      "party": "R"
+    },
+    {
+      "photo_filename": null,
+      "name": "Mary Podlesak",
+      "party": "R"
     }
   ]
 }

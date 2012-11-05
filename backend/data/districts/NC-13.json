@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "George Holding",
       "photo_filename": null,
+      "name": "Charles Malone",
+      "party": "D"
+    },
+    {
+      "photo_filename": null,
+      "name": "George E.B. Holding",
+      "party": "R",
+      "entity_id": null,
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "13",
-      "party": "R",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,

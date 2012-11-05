@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "dcf7868accc44faa84577500a16cef3b",
-      "name": "John Carney",
       "photo_filename": "John_C._Carney,_Jr..jpg",
+      "name": "John Carney",
+      "party": "D",
+      "entity_id": "dcf7868accc44faa84577500a16cef3b",
       "chamber": "house",
       "state": "DE",
       "state_name": "Delaware",
       "district": "at_large",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_C._Carney%2C_Jr.",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001083.jpg",
@@ -119,18 +119,23 @@
           "value": "0"
         }
       ]
+    },
+    {
+      "photo_filename": "Tom_Kovach_(Delaware).jpg",
+      "name": "Tom Kovach",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "68dd7ccd3e1141c1a7050627d87cd253",
-      "name": "Tom Carper",
       "photo_filename": "Tom_Carper.jpg",
+      "name": "Tom Carper",
+      "party": "D",
+      "entity_id": "68dd7ccd3e1141c1a7050627d87cd253",
       "chamber": "senate",
       "state": "DE",
       "state_name": "Delaware",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000174",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000174.jpg",
@@ -251,6 +256,11 @@
           "value": "90"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Kevin Wade",
+      "party": "R"
     }
   ]
 }

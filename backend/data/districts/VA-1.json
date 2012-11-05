@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Adam Cook",
       "photo_filename": null,
+      "name": "Adam Cook",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
       "district": "1",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -106,14 +106,14 @@
       ]
     },
     {
-      "entity_id": "495a271fea8445eab2acbb90997f8507",
-      "name": "Rob Wittman",
       "photo_filename": "Robert_J._Wittman.jpg",
+      "name": "Robert J. Wittman",
+      "party": "R",
+      "entity_id": "495a271fea8445eab2acbb90997f8507",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
       "district": "1",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Rob_Wittman",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000804.jpg",
@@ -233,14 +233,14 @@
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Tim Kaine",
       "photo_filename": "Tim_Kaine.png",
+      "name": "Tim Kaine",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -346,6 +346,11 @@
           "value": "F"
         }
       ]
+    },
+    {
+      "photo_filename": "George_Allen.jpg",
+      "name": "George Allen",
+      "party": "R"
     }
   ]
 }

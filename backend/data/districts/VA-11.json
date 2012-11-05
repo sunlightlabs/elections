@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "7b8acbba05d0487aa74356852d6b4f92",
-      "name": "Gerry Connolly",
       "photo_filename": "Gerald_Connolly.JPG",
+      "name": "Gerald Connolly",
+      "party": "D",
+      "entity_id": "7b8acbba05d0487aa74356852d6b4f92",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
       "district": "11",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Gerry_Connolly",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001078.jpg",
@@ -134,18 +134,23 @@
           "value": "13"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Chris Perkins",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Tim Kaine",
       "photo_filename": "Tim_Kaine.png",
+      "name": "Tim Kaine",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -251,6 +256,11 @@
           "value": "F"
         }
       ]
+    },
+    {
+      "photo_filename": "George_Allen.jpg",
+      "name": "George Allen",
+      "party": "R"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "40e894ae4b004f8fa109efcdf8c6a76e",
-      "name": "Diane Lynn Black",
       "photo_filename": "Diane_Black.jpg",
+      "name": "Diane Black",
+      "party": "R",
+      "entity_id": "40e894ae4b004f8fa109efcdf8c6a76e",
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
       "district": "6",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Diane_Black",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001273.jpg",
@@ -128,14 +128,19 @@
   ],
   "senate": [
     {
-      "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
-      "name": "Bob Corker",
+      "photo_filename": "Mark_Clayton.jpg",
+      "name": "Mark Clayton",
+      "party": "D"
+    },
+    {
       "photo_filename": "Bob_Corker.jpg",
+      "name": "Bob Corker",
+      "party": "R",
+      "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",
       "district": null,
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001071",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001071.jpg",

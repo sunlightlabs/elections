@@ -1,102 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Terry Phillips",
-      "photo_filename": "Terry_Phillips.png",
-      "chamber": "house",
-      "state": "CA",
-      "state_name": "California",
-      "district": "23",
-      "party": "I",
-      "incumbent": false,
-      "bio_url": null,
-      "photo_url": null,
-      "seat_status": "C",
-      "bioguide_id": null,
-      "fec_summary": {
-        "contributions_pac": "0.00",
-        "office": "H",
-        "total_receipts_rank": 635,
-        "max_rank": 695,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 666,
-        "total_raised": "19106.94",
-        "disbursements": "18212.22",
-        "total_disbursements_rank": 619,
-        "date": "2012-06-30",
-        "contributions_indiv": "19092.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "896.72"
-      },
-      "industries": [
-        {
-          "count": "9",
-          "amount": "4700.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "1",
-          "amount": "2500.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        },
-        {
-          "count": "1",
-          "amount": "1001.00",
-          "id": "6570ffe2392e4811805136efe7aa3b2a",
-          "name": "Forestry & Forest Products"
-        },
-        {
-          "count": "1",
-          "amount": "1000.00",
-          "id": "4b732d5c5c4e43d39df21532b7c3be7b",
-          "name": "Health Services/Hmos"
-        },
-        {
-          "count": "2",
-          "amount": "500.00",
-          "id": "9e701425eeb14b4c874cfb4415a4ac3b",
-          "name": "Civil Servants/Public Officials"
-        },
-        {
-          "count": "1",
-          "amount": "250.00",
-          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
-          "name": "Tv/Movies/Music"
-        },
-        {
-          "count": "1",
-          "amount": "250.00",
-          "id": "1f925e5e3e5d4245a29a725cb2aeff22",
-          "name": "Telecom Services & Equipment"
-        },
-        {
-          "count": "1",
-          "amount": "250.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "AFL-CIO",
-          "type": "endorsement",
-          "value": "Y"
-        }
-      ]
-    },
-    {
-      "entity_id": "3385e1e1958a45aa887bfad3a520e3b0",
-      "name": "Kevin McCarthy",
       "photo_filename": "Kevin_McCarthy_(California).jpg",
+      "name": "Kevin McCarthy",
+      "party": "R",
+      "entity_id": "3385e1e1958a45aa887bfad3a520e3b0",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
       "district": "23",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Kevin_McCarthy_%28California_politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001165.jpg",
@@ -216,14 +128,14 @@
   ],
   "senate": [
     {
-      "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
-      "name": "Dianne Feinstein",
       "photo_filename": "Dianne_Feinstein.jpg",
+      "name": "Dianne Feinstein",
+      "party": "D",
+      "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dianne_Feinstein",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000062.jpg",
@@ -401,14 +313,14 @@
       ]
     },
     {
-      "entity_id": "6e77aa224af049429981ebf39089e070",
-      "name": "Elizabeth Emken",
       "photo_filename": "Elizabeth_Emken.jpg",
+      "name": "Elizabeth Emken",
+      "party": "R",
+      "entity_id": "6e77aa224af049429981ebf39089e070",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Elizabeth_Emken",
       "photo_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Emken.jpg/225px-Emken.jpg",

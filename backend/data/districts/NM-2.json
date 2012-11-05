@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Evelyn Madrid Erhard",
       "photo_filename": null,
+      "name": "Evelyn Madrid Erhard",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "NM",
       "state_name": "New Mexico",
       "district": "2",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -104,18 +104,23 @@
           "value": null
         }
       ]
+    },
+    {
+      "photo_filename": "Steve_Pearce.jpg",
+      "name": "Steve Pearce",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "43af19c32e1b469d8f9d07d40b3e8ed7",
-      "name": "Martin Heinrich",
       "photo_filename": "Martin_Heinrich.jpg",
+      "name": "Martin Heinrich",
+      "party": "D",
+      "entity_id": "43af19c32e1b469d8f9d07d40b3e8ed7",
       "chamber": "senate",
       "state": "NM",
       "state_name": "New Mexico",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Martin_Heinrich",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001046.jpg",
@@ -246,6 +251,11 @@
           "value": "100"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Heather Wilson",
+      "party": "R"
     }
   ]
 }

@@ -1,114 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
+      "photo_filename": "Dan_Kildee.jpg",
       "name": "Dan Kildee",
-      "photo_filename": "Dan_Kildee.jpg",
-      "chamber": "house",
-      "state": "MI",
-      "state_name": "Michigan",
-      "district": "5",
       "party": "D",
-      "incumbent": false,
-      "bio_url": null,
-      "photo_url": null,
-      "seat_status": "O",
-      "bioguide_id": null,
-      "fec_summary": {
-        "contributions_pac": "179100.00",
-        "office": "H",
-        "total_receipts_rank": 448,
-        "max_rank": 695,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 352,
-        "total_raised": "463873.76",
-        "disbursements": "178775.38",
-        "total_disbursements_rank": 503,
-        "date": "2012-07-18",
-        "contributions_indiv": "289746.01",
-        "contributions_party": "0.00",
-        "cash_on_hand": "295228.38"
-      },
-      "industries": [
-        {
-          "count": "12",
-          "amount": "28000.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "11",
-          "amount": "26500.00",
-          "id": "13718be68388456d9b6e8db753f06e72",
-          "name": "Casinos/Gambling"
-        },
-        {
-          "count": "27",
-          "amount": "21300.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "27",
-          "amount": "21232.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "4",
-          "amount": "15100.00",
-          "id": "d22cf14b1cd349b79f2b656b450b3b88",
-          "name": "Industrial Unions"
-        },
-        {
-          "count": "14",
-          "amount": "15050.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        },
-        {
-          "count": "12",
-          "amount": "14200.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "4",
-          "amount": "12000.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "6",
-          "amount": "11250.00",
-          "id": "d8ddc9e3d84b40a2a923545964e6bf80",
-          "name": "Non-Profit Institutions"
-        },
-        {
-          "count": "9",
-          "amount": "10500.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "AFL-CIO",
-          "type": "endorsement",
-          "value": "Y"
-        }
-      ]
-    },
-    {
       "entity_id": "de20941551664f648b2705789f222864",
-      "name": "Dale E Kildee",
-      "photo_filename": "Dan_Kildee.jpg",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
       "district": "5",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dale_E._Kildee",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000172.jpg",
@@ -194,6 +94,11 @@
       ],
       "endorsements": [
         {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
           "name": "National Organization of Women (NOW)",
           "type": "endorsement",
           "value": "Y"
@@ -234,123 +139,23 @@
           "value": "4"
         }
       ]
+    },
+    {
+      "photo_filename": "Jim_Slezak.jpg",
+      "name": "Jim Slezak",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "ee58b1dc41824d21aa87f9e9063aa0e7",
-      "name": "Peter Hoekstra",
-      "photo_filename": "Pete_Hoekstra.jpg",
-      "chamber": "senate",
-      "state": "MI",
-      "state_name": "Michigan",
-      "district": null,
-      "party": "R",
-      "incumbent": false,
-      "bio_url": "http://en.wikipedia.org/wiki/Pete_Hoekstra",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H000676.jpg",
-      "seat_status": "C",
-      "bioguide_id": "H000676",
-      "fec_summary": {
-        "contributions_pac": "366400.00",
-        "office": "S",
-        "total_receipts_rank": 37,
-        "max_rank": 62,
-        "contributions_candidate": "0.00",
-        "transfers_in": "950.00",
-        "cash_on_hand_rank": 39,
-        "total_raised": "5365009.00",
-        "disbursements": "4569186.00",
-        "total_disbursements_rank": 37,
-        "date": "2012-10-18",
-        "contributions_indiv": "4991576.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "813591.00"
-      },
-      "industries": [
-        {
-          "count": "666",
-          "amount": "485814.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "312",
-          "amount": "276316.00",
-          "id": "13ca840788944cc79b362d068985fc73",
-          "name": "Misc Manufacturing & Distributing"
-        },
-        {
-          "count": "224",
-          "amount": "215003.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "168",
-          "amount": "154865.00",
-          "id": "83bece3db3b54ca58b38d3bad679697f",
-          "name": "Automotive"
-        },
-        {
-          "count": "158",
-          "amount": "135314.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "219",
-          "amount": "132790.00",
-          "id": "93b0e1ce2e904638a93eb9bbcd0bb7f8",
-          "name": "Food Processing & Sales"
-        },
-        {
-          "count": "208",
-          "amount": "128260.00",
-          "id": "767c434bfd1348638bab7f8c12b9282f",
-          "name": "Republican/Conservative"
-        },
-        {
-          "count": "84",
-          "amount": "103044.00",
-          "id": "f1c062575ca949fa92ab7066a6648bf3",
-          "name": "Air Transport"
-        },
-        {
-          "count": "113",
-          "amount": "101505.00",
-          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
-          "name": "General Contractors"
-        },
-        {
-          "count": "158",
-          "amount": "100823.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "Americans for Democratic Action",
-          "type": "grade",
-          "value": "5"
-        },
-        {
-          "name": "Family Research Council",
-          "type": "endorsement",
-          "value": "R"
-        }
-      ]
-    },
-    {
-      "entity_id": "f0b2ed36768d4c99b3ba68d3a553d8d8",
-      "name": "Deborah Ann Stabenow",
       "photo_filename": "Debbie_Stabenow.jpg",
+      "name": "Debbie Stabenow",
+      "party": "D",
+      "entity_id": "f0b2ed36768d4c99b3ba68d3a553d8d8",
       "chamber": "senate",
       "state": "MI",
       "state_name": "Michigan",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Debbie_Stabenow",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000770.jpg",
@@ -474,6 +279,111 @@
           "name": "Gun Owners of America",
           "type": "endorsement",
           "value": "D"
+        }
+      ]
+    },
+    {
+      "photo_filename": "Pete_Hoekstra.jpg",
+      "name": "Pete Hoekstra",
+      "party": "R",
+      "entity_id": "ee58b1dc41824d21aa87f9e9063aa0e7",
+      "chamber": "senate",
+      "state": "MI",
+      "state_name": "Michigan",
+      "district": null,
+      "incumbent": false,
+      "bio_url": "http://en.wikipedia.org/wiki/Pete_Hoekstra",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H000676.jpg",
+      "seat_status": "C",
+      "bioguide_id": "H000676",
+      "fec_summary": {
+        "contributions_pac": "366400.00",
+        "office": "S",
+        "total_receipts_rank": 37,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "950.00",
+        "cash_on_hand_rank": 39,
+        "total_raised": "5365009.00",
+        "disbursements": "4569186.00",
+        "total_disbursements_rank": 37,
+        "date": "2012-10-18",
+        "contributions_indiv": "4991576.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "813591.00"
+      },
+      "industries": [
+        {
+          "count": "666",
+          "amount": "485814.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "312",
+          "amount": "276316.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "224",
+          "amount": "215003.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "168",
+          "amount": "154865.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        },
+        {
+          "count": "158",
+          "amount": "135314.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "219",
+          "amount": "132790.00",
+          "id": "93b0e1ce2e904638a93eb9bbcd0bb7f8",
+          "name": "Food Processing & Sales"
+        },
+        {
+          "count": "208",
+          "amount": "128260.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "84",
+          "amount": "103044.00",
+          "id": "f1c062575ca949fa92ab7066a6648bf3",
+          "name": "Air Transport"
+        },
+        {
+          "count": "113",
+          "amount": "101505.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "158",
+          "amount": "100823.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "5"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": "R"
         }
       ]
     }

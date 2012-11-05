@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Brandon Shaffer",
       "photo_filename": "Brandon_Shaffer.jpg",
+      "name": "Brandon Shaffer",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
       "district": "4",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -106,14 +106,14 @@
       ]
     },
     {
-      "entity_id": "30438b80959243e0816870cea724b0a7",
-      "name": "Cory Gardner",
       "photo_filename": "Cory_Gardner.jpg",
+      "name": "Cory Gardner",
+      "party": "R",
+      "entity_id": "30438b80959243e0816870cea724b0a7",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
       "district": "4",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Cory_Gardner",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000562.jpg",

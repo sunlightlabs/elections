@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "John Douglass",
       "photo_filename": null,
+      "name": "John Douglass",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
       "district": "5",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -106,14 +106,14 @@
       ]
     },
     {
-      "entity_id": "d211bc3c7fb04a60821698bab75b64e7",
-      "name": "Robert Hurt",
       "photo_filename": "Robert_Hurt.jpg",
+      "name": "Robert Hurt",
+      "party": "R",
+      "entity_id": "d211bc3c7fb04a60821698bab75b64e7",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
       "district": "5",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_Hurt_%28politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001060.jpg",
@@ -233,14 +233,14 @@
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Tim Kaine",
       "photo_filename": "Tim_Kaine.png",
+      "name": "Tim Kaine",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -346,6 +346,11 @@
           "value": "F"
         }
       ]
+    },
+    {
+      "photo_filename": "George_Allen.jpg",
+      "name": "George Allen",
+      "party": "R"
     }
   ]
 }

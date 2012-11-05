@@ -1,114 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Andy Barr",
-      "photo_filename": "Andy_Barr.jpg",
-      "chamber": "house",
-      "state": "KY",
-      "state_name": "Kentucky",
-      "district": "6",
-      "party": "R",
-      "incumbent": false,
-      "bio_url": null,
-      "photo_url": null,
-      "seat_status": "C",
-      "bioguide_id": null,
-      "fec_summary": {
-        "contributions_pac": "187984.08",
-        "office": "H",
-        "total_receipts_rank": 216,
-        "max_rank": 695,
-        "contributions_candidate": "0.00",
-        "transfers_in": "4696.54",
-        "cash_on_hand_rank": 168,
-        "total_raised": "1001058.86",
-        "disbursements": "275683.82",
-        "total_disbursements_rank": 450,
-        "date": "2012-06-30",
-        "contributions_indiv": "799338.25",
-        "contributions_party": "5000.00",
-        "cash_on_hand": "758102.37"
-      },
-      "industries": [
-        {
-          "count": "414",
-          "amount": "288000.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "93",
-          "amount": "178743.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "123",
-          "amount": "149709.00",
-          "id": "8b48cb51f18f4286b8e16b2dc8e9689d",
-          "name": "Mining"
-        },
-        {
-          "count": "186",
-          "amount": "125700.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "125",
-          "amount": "108500.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "187",
-          "amount": "103827.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "88",
-          "amount": "90900.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "87",
-          "amount": "82600.00",
-          "id": "0b27f92a966443129f79dfa42ae1f293",
-          "name": "Crop Production & Basic Processing"
-        },
-        {
-          "count": "49",
-          "amount": "49385.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        },
-        {
-          "count": "42",
-          "amount": "46050.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        }
-      ],
-      "endorsements": [
-        {
-          "name": "Gun Owners of America",
-          "type": "grade",
-          "value": "A"
-        }
-      ]
-    },
-    {
-      "entity_id": "bd237e4ae7104c06941c0539431f0629",
-      "name": "Ben Chandler",
       "photo_filename": "Ben_Chandler.jpg",
+      "name": "Ben Chandler",
+      "party": "D",
+      "entity_id": "bd237e4ae7104c06941c0539431f0629",
       "chamber": "house",
       "state": "KY",
       "state_name": "Kentucky",
       "district": "6",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Ben_Chandler",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001058.jpg",
@@ -222,6 +122,106 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "12"
+        }
+      ]
+    },
+    {
+      "photo_filename": "Andy_Barr.jpg",
+      "name": "Andy Barr",
+      "party": "R",
+      "entity_id": null,
+      "chamber": "house",
+      "state": "KY",
+      "state_name": "Kentucky",
+      "district": "6",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "187984.08",
+        "office": "H",
+        "total_receipts_rank": 216,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "4696.54",
+        "cash_on_hand_rank": 168,
+        "total_raised": "1001058.86",
+        "disbursements": "275683.82",
+        "total_disbursements_rank": 450,
+        "date": "2012-06-30",
+        "contributions_indiv": "799338.25",
+        "contributions_party": "5000.00",
+        "cash_on_hand": "758102.37"
+      },
+      "industries": [
+        {
+          "count": "414",
+          "amount": "288000.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "93",
+          "amount": "178743.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "123",
+          "amount": "149709.00",
+          "id": "8b48cb51f18f4286b8e16b2dc8e9689d",
+          "name": "Mining"
+        },
+        {
+          "count": "186",
+          "amount": "125700.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "125",
+          "amount": "108500.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "187",
+          "amount": "103827.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "88",
+          "amount": "90900.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "87",
+          "amount": "82600.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "49",
+          "amount": "49385.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "42",
+          "amount": "46050.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A"
         }
       ]
     }

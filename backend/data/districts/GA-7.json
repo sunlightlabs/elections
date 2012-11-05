@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "66d9d6d94dec4e36aeefd74d4b5d365a",
-      "name": "Rob Woodall",
+      "photo_filename": "Steve_Reilly.jpg",
+      "name": "Steve Reilly",
+      "party": "D"
+    },
+    {
       "photo_filename": "Rob_Woodall.jpg",
+      "name": "Rob Woodall",
+      "party": "R",
+      "entity_id": "66d9d6d94dec4e36aeefd74d4b5d365a",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
       "district": "7",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Rob_Woodall",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000810.jpg",

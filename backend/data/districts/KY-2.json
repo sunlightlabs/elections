@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "fe27024e69c5429fb93d25bfbb7228f3",
-      "name": "Steven Brett Guthrie",
+      "photo_filename": null,
+      "name": "David Lynn Williams",
+      "party": "D"
+    },
+    {
       "photo_filename": "Brett_Guthrie.jpg",
+      "name": "Brett Guthrie",
+      "party": "R",
+      "entity_id": "fe27024e69c5429fb93d25bfbb7228f3",
       "chamber": "house",
       "state": "KY",
       "state_name": "Kentucky",
       "district": "2",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Brett_Guthrie",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000558.jpg",

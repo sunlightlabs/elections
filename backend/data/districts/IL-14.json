@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Dennis Anderson",
       "photo_filename": "Dennis_Anderson.jpg",
+      "name": "Dennis Anderson",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "14",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -76,14 +76,14 @@
       ]
     },
     {
-      "entity_id": "ed68fa1a00214e358154316a6c72c727",
-      "name": "Randy Hultgren",
       "photo_filename": "Randy_Hultgren.jpg",
+      "name": "Randy Hultgren",
+      "party": "R",
+      "entity_id": "ed68fa1a00214e358154316a6c72c727",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "14",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Randy_Hultgren",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001059.jpg",
@@ -194,6 +194,11 @@
           "value": "88"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Mark Masrogiovanni",
+      "party": "R"
     }
   ],
   "senate": [

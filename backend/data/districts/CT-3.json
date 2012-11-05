@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "dc6627f40ac04f79b589d93b344ec405",
-      "name": "Rosa L DeLauro",
       "photo_filename": "Rosa_L._DeLauro.jpg",
+      "name": "Rosa L. DeLauro",
+      "party": "D",
+      "entity_id": "dc6627f40ac04f79b589d93b344ec405",
       "chamber": "house",
       "state": "CT",
       "state_name": "Connecticut",
       "district": "3",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Rosa_DeLauro",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000216.jpg",
@@ -129,18 +129,23 @@
           "value": "4"
         }
       ]
+    },
+    {
+      "photo_filename": "Wayne_Winsley.jpg",
+      "name": "Wayne Winsley",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
-      "name": "Chris Murphy",
       "photo_filename": "Christopher_S._Murphy.jpg",
+      "name": "Chris Murphy",
+      "party": "D",
+      "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "chamber": "senate",
       "state": "CT",
       "state_name": "Connecticut",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Chris_Murphy_%28politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001169.jpg",
@@ -231,6 +236,11 @@
           "value": "Y"
         }
       ]
+    },
+    {
+      "photo_filename": "Linda_McMahon.jpg",
+      "name": "Linda McMahon",
+      "party": "R"
     }
   ]
 }

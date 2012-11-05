@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "c17641e1cebd490fab943db05c75fd2d",
-      "name": "Melvin L Watt",
       "photo_filename": "Melvin_L._Watt.jpg",
+      "name": "Melvin L. Watt",
+      "party": "D",
+      "entity_id": "c17641e1cebd490fab943db05c75fd2d",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "12",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mel_Watt",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000207.jpg",
@@ -134,6 +134,11 @@
           "value": "Y"
         }
       ]
+    },
+    {
+      "photo_filename": "Jack_Brosch.JPG",
+      "name": "Jack Brosch",
+      "party": "R"
     }
   ],
   "senate": [

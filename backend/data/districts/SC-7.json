@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Gloria Bromell Tinubu",
       "photo_filename": null,
+      "name": "Gloria Bromell Tinubu",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
       "district": "7",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -104,6 +104,11 @@
           "value": null
         }
       ]
+    },
+    {
+      "photo_filename": "Tom_Rice_(SC).png",
+      "name": "Tom Rice",
+      "party": "R"
     }
   ],
   "senate": [

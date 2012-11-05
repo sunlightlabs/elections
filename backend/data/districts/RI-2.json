@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "2ade542c9ee6486ca063f8b0333e7608",
-      "name": "Jim Langevin",
       "photo_filename": "James_R._Langevin.jpg",
+      "name": "James R. Langevin",
+      "party": "D",
+      "entity_id": "2ade542c9ee6486ca063f8b0333e7608",
       "chamber": "house",
       "state": "RI",
       "state_name": "Rhode Island",
       "district": "2",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/James_Langevin",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000559.jpg",
@@ -129,18 +129,23 @@
           "value": "9"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Michael G. Riley",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "64f4b76b98b440cc9bb6b8132cb8fba7",
-      "name": "Sheldon Whitehouse",
       "photo_filename": "Sheldon_Whitehouse.jpg",
+      "name": "Sheldon Whitehouse",
+      "party": "D",
+      "entity_id": "64f4b76b98b440cc9bb6b8132cb8fba7",
       "chamber": "senate",
       "state": "RI",
       "state_name": "Rhode Island",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sheldon_Whitehouse",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000802.jpg",
@@ -271,6 +276,11 @@
           "value": "7"
         }
       ]
+    },
+    {
+      "photo_filename": "Barry_Hinckley.jpg",
+      "name": "Barry Hinckley",
+      "party": "R"
     }
   ]
 }

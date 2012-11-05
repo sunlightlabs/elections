@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Tulsi Gabbard",
       "photo_filename": "Tulsi_Gabbard.jpg",
+      "name": "Tulsi Gabbard",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "HI",
       "state_name": "Hawaii",
       "district": "2",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -104,18 +104,23 @@
           "value": null
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "David Crowley",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "79f92c32d0a244009c8c296dd4daff30",
-      "name": "Mazie K Hirono",
       "photo_filename": "Mazie_Hirono.jpg",
+      "name": "Mazie Hirono",
+      "party": "D",
+      "entity_id": "79f92c32d0a244009c8c296dd4daff30",
       "chamber": "senate",
       "state": "HI",
       "state_name": "Hawaii",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Mazie_Hirono",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001042.jpg",
@@ -251,6 +256,11 @@
           "value": "95"
         }
       ]
+    },
+    {
+      "photo_filename": "Linda_Lingle.jpg",
+      "name": "Linda Lingle",
+      "party": "R"
     }
   ]
 }

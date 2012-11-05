@@ -1,17 +1,26 @@
 {
   "house": [
-
+    {
+      "photo_filename": "Jon_T._Haugen.JPG",
+      "name": "Jon T. Haugen",
+      "party": "D"
+    },
+    {
+      "photo_filename": "Jaime_Herrera_Beutler.jpg",
+      "name": "Jaime Herrera Beutler",
+      "party": "R"
+    }
   ],
   "senate": [
     {
-      "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
-      "name": "Maria Cantwell",
       "photo_filename": "Maria_Cantwell.jpg",
+      "name": "Maria Cantwell",
+      "party": "D",
+      "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Maria_Cantwell",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000127.jpg",
@@ -147,6 +156,11 @@
           "value": "10"
         }
       ]
+    },
+    {
+      "photo_filename": "Michael_Baumgartner.jpg",
+      "name": "Michael Baumgartner",
+      "party": "R"
     }
   ]
 }

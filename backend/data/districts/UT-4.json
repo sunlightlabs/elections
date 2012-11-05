@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "e334fa69690043a0b6118ade3001fda3",
-      "name": "Jim Matheson",
       "photo_filename": "Jim_Matheson.jpg",
+      "name": "Jim Matheson",
+      "party": "D",
+      "entity_id": "e334fa69690043a0b6118ade3001fda3",
       "chamber": "house",
       "state": "UT",
       "state_name": "Utah",
       "district": "4",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jim_Matheson",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001142.jpg",
@@ -134,18 +134,23 @@
           "value": "41.67"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Mia Love",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Scott N Howell",
       "photo_filename": null,
+      "name": "Scott Howell",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "UT",
       "state_name": "Utah",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -243,14 +248,14 @@
       ]
     },
     {
-      "entity_id": "e5aa63ec4a0746fbb9961b325ddb3627",
-      "name": "Orrin G Hatch",
       "photo_filename": "Orrin_Hatch.jpg",
+      "name": "Orrin Hatch",
+      "party": "R",
+      "entity_id": "e5aa63ec4a0746fbb9961b325ddb3627",
       "chamber": "senate",
       "state": "UT",
       "state_name": "Utah",
       "district": null,
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Orrin_Hatch",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H000338.jpg",

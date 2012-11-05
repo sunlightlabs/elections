@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Kim Gillan",
       "photo_filename": "Kim_Gillan.jpg",
+      "name": "Kim Gillan",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "MT",
       "state_name": "Montana",
       "district": "at_large",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -109,18 +109,23 @@
           "value": "F"
         }
       ]
+    },
+    {
+      "photo_filename": "Steve_Daines.jpg",
+      "name": "Steve Daines",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": "0aab575c5cec4e36a2529011488c00fa",
-      "name": "Jon Tester",
       "photo_filename": "Jon_Tester.jpg",
+      "name": "Jon Tester",
+      "party": "D",
+      "entity_id": "0aab575c5cec4e36a2529011488c00fa",
       "chamber": "senate",
       "state": "MT",
       "state_name": "Montana",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jon_Tester",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/T000464.jpg",
@@ -253,14 +258,14 @@
       ]
     },
     {
-      "entity_id": "8cde611c6a554f099ce7e627209172b2",
-      "name": "Denny Rehberg",
       "photo_filename": "Denny_Rehberg.jpg",
+      "name": "Denny Rehberg",
+      "party": "R",
+      "entity_id": "8cde611c6a554f099ce7e627209172b2",
       "chamber": "senate",
       "state": "MT",
       "state_name": "Montana",
       "district": null,
-      "party": "R",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Denny_Rehberg",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000571.jpg",

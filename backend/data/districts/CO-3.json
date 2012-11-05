@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "name": "Sal Pace",
       "photo_filename": "Sal_Pace.jpg",
+      "name": "Sal Pace",
+      "party": "D",
+      "entity_id": null,
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
       "district": "3",
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -111,14 +111,14 @@
       ]
     },
     {
-      "entity_id": "a8bc8f4ddaf94e378c5ad653ca5448aa",
-      "name": "Scott Tipton",
       "photo_filename": "Scott_Tipton.JPG",
+      "name": "Scott Tipton",
+      "party": "R",
+      "entity_id": "a8bc8f4ddaf94e378c5ad653ca5448aa",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
       "district": "3",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Scott_Tipton",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/T000470.jpg",

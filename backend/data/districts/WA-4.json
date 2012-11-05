@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "ab2c546d4cd944a9904268803211029c",
-      "name": "Doc Hastings",
+      "photo_filename": null,
+      "name": "Mary Baechler",
+      "party": "D"
+    },
+    {
       "photo_filename": "Doc_Hastings.jpg",
+      "name": "Doc Hastings",
+      "party": "R",
+      "entity_id": "ab2c546d4cd944a9904268803211029c",
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
       "district": "4",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Doc_Hastings",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H000329.jpg",
@@ -133,14 +138,14 @@
   ],
   "senate": [
     {
-      "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
-      "name": "Maria Cantwell",
       "photo_filename": "Maria_Cantwell.jpg",
+      "name": "Maria Cantwell",
+      "party": "D",
+      "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",
       "district": null,
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Maria_Cantwell",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000127.jpg",
@@ -276,6 +281,11 @@
           "value": "10"
         }
       ]
+    },
+    {
+      "photo_filename": "Michael_Baumgartner.jpg",
+      "name": "Michael Baumgartner",
+      "party": "R"
     }
   ]
 }

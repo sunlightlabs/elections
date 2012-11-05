@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "d455c6ec610c4c33b086293092defe32",
-      "name": "Robert C Scott",
       "photo_filename": "Robert_C._Scott.jpg",
+      "name": "Robert C. Scott",
+      "party": "D",
+      "entity_id": "d455c6ec610c4c33b086293092defe32",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
       "district": "3",
-      "party": "D",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bobby_Scott_%28U.S._politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000185.jpg",
@@ -134,18 +134,23 @@
           "value": "Y"
         }
       ]
+    },
+    {
+      "photo_filename": null,
+      "name": "Dean Longo",
+      "party": "R"
     }
   ],
   "senate": [
     {
-      "entity_id": null,
-      "name": "Tim Kaine",
       "photo_filename": "Tim_Kaine.png",
+      "name": "Tim Kaine",
+      "party": "D",
+      "entity_id": null,
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
-      "party": "D",
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -251,6 +256,11 @@
           "value": "F"
         }
       ]
+    },
+    {
+      "photo_filename": "George_Allen.jpg",
+      "name": "George Allen",
+      "party": "R"
     }
   ]
 }

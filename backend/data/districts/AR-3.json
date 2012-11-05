@@ -1,14 +1,14 @@
 {
   "house": [
     {
-      "entity_id": "8ac17c37b29245b68fa57275cde4c3c5",
-      "name": "Steve Womack",
       "photo_filename": "Steve_Womack.jpg",
+      "name": "Steve Womack",
+      "party": "R",
+      "entity_id": "8ac17c37b29245b68fa57275cde4c3c5",
       "chamber": "house",
       "state": "AR",
       "state_name": "Arkansas",
       "district": "3",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Steve_Womack",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000809.jpg",

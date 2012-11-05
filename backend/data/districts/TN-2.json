@@ -1,14 +1,19 @@
 {
   "house": [
     {
-      "entity_id": "1f399f45650f4e3cb3f31d830d645a89",
-      "name": "John J Duncan Jr",
+      "photo_filename": null,
+      "name": "Troy Goodale",
+      "party": "D"
+    },
+    {
       "photo_filename": "John_J._Duncan,_Jr..jpg",
+      "name": "John J. Duncan, Jr.",
+      "party": "R",
+      "entity_id": "1f399f45650f4e3cb3f31d830d645a89",
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
       "district": "2",
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jimmy_Duncan_%28U.S._politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000533.jpg",
@@ -108,14 +113,19 @@
   ],
   "senate": [
     {
-      "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
-      "name": "Bob Corker",
+      "photo_filename": "Mark_Clayton.jpg",
+      "name": "Mark Clayton",
+      "party": "D"
+    },
+    {
       "photo_filename": "Bob_Corker.jpg",
+      "name": "Bob Corker",
+      "party": "R",
+      "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",
       "district": null,
-      "party": "R",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001071",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001071.jpg",
