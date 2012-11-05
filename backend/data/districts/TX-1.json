@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Shirley McKellar",
+      "photo_filename": null,
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -48,6 +49,7 @@
     {
       "entity_id": "8eb91bccebd24411a67680a2601d1335",
       "name": "Louis B Gohmert Jr",
+      "photo_filename": "Louie_Gohmert.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -179,6 +181,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

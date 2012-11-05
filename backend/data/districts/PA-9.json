@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Karen Ramsburg",
+      "photo_filename": null,
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -48,6 +49,7 @@
     {
       "entity_id": "32887b242ec74a87b45066f70031e13c",
       "name": "Bill Shuster",
+      "photo_filename": "Bill_Shuster.JPG",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -174,6 +176,7 @@
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "name": "Bob Casey",
+      "photo_filename": "Bob_Casey,_Jr..jpg",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",

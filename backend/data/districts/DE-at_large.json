@@ -3,6 +3,7 @@
     {
       "entity_id": "dcf7868accc44faa84577500a16cef3b",
       "name": "John Carney",
+      "photo_filename": "John_C._Carney,_Jr..jpg",
       "chamber": "house",
       "state": "DE",
       "state_name": "Delaware",
@@ -124,6 +125,7 @@
     {
       "entity_id": "68dd7ccd3e1141c1a7050627d87cd253",
       "name": "Tom Carper",
+      "photo_filename": "Tom_Carper.jpg",
       "chamber": "senate",
       "state": "DE",
       "state_name": "Delaware",

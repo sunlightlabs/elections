@@ -3,6 +3,7 @@
     {
       "entity_id": "1cbfdfbf32284d2d9468afab31eb1df0",
       "name": "Richard E Neal",
+      "photo_filename": "Richard_Neal.jpg",
       "chamber": "house",
       "state": "MA",
       "state_name": "Massachusetts",
@@ -139,6 +140,7 @@
     {
       "entity_id": null,
       "name": "Elizabeth Warren",
+      "photo_filename": "Elizabeth_Warren.jpg",
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
@@ -258,6 +260,7 @@
     {
       "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
       "name": "Scott P. Brown",
+      "photo_filename": "Scott_Brown.jpg",
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",

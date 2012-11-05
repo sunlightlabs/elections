@@ -3,6 +3,7 @@
     {
       "entity_id": "c08ecf067b134a9abc53a8b8eea29f4b",
       "name": "Gary J. McDowell",
+      "photo_filename": "Gary_McDowell.jpg",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -112,6 +113,7 @@
     {
       "entity_id": "55edf9f53c664847aeec8ff393116b67",
       "name": "Daniel J. Benishek",
+      "photo_filename": "Dan_Benishek.JPG",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -238,6 +240,7 @@
     {
       "entity_id": "ee58b1dc41824d21aa87f9e9063aa0e7",
       "name": "Peter Hoekstra",
+      "photo_filename": "Pete_Hoekstra.jpg",
       "chamber": "senate",
       "state": "MI",
       "state_name": "Michigan",
@@ -342,6 +345,7 @@
     {
       "entity_id": "f0b2ed36768d4c99b3ba68d3a553d8d8",
       "name": "Deborah Ann Stabenow",
+      "photo_filename": "Debbie_Stabenow.jpg",
       "chamber": "senate",
       "state": "MI",
       "state_name": "Michigan",

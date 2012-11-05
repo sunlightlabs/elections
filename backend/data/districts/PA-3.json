@@ -3,6 +3,7 @@
     {
       "entity_id": "db1cbdfc33194288a15e2542771b4c17",
       "name": "Mike Kelly",
+      "photo_filename": null,
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -122,6 +123,7 @@
     {
       "entity_id": null,
       "name": "Melissa Eaton",
+      "photo_filename": null,
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -223,6 +225,7 @@
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "name": "Bob Casey",
+      "photo_filename": "Bob_Casey,_Jr..jpg",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",

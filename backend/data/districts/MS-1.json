@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Brad Morris",
+      "photo_filename": "Brad_Morris.jpeg",
       "chamber": "house",
       "state": "MS",
       "state_name": "Mississippi",
@@ -102,6 +103,7 @@
     {
       "entity_id": "5f879ef4397f40d5aa225e724d26edeb",
       "name": "Alan Nunnelee",
+      "photo_filename": "Alan_Nunnelee.jpg",
       "chamber": "house",
       "state": "MS",
       "state_name": "Mississippi",
@@ -223,6 +225,7 @@
     {
       "entity_id": "159c40291deb455596155ded63972bf4",
       "name": "Roger Wicker",
+      "photo_filename": "Roger_Wicker.jpg",
       "chamber": "senate",
       "state": "MS",
       "state_name": "Mississippi",

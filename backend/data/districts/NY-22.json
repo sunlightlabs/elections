@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Dan Lamb",
+      "photo_filename": null,
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
@@ -117,6 +118,7 @@
     {
       "entity_id": "41f2fc48802c4dd4923f24e90d93a58b",
       "name": "Richard L Hanna",
+      "photo_filename": "Richard_Hanna.jpg",
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
@@ -238,6 +240,7 @@
     {
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "name": "Kirsten Gillibrand",
+      "photo_filename": "Kirsten_Gillibrand.jpg",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",
@@ -402,6 +405,7 @@
     {
       "entity_id": null,
       "name": "Wendy Long",
+      "photo_filename": "Wendy_Long.png",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",

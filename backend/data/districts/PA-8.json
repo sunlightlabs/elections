@@ -3,6 +3,7 @@
     {
       "entity_id": "736f841f7ac14bc08cabe8a2184e92d4",
       "name": "Michael G Fitzpatrick",
+      "photo_filename": "Michael_G._Fitzpatrick.jpg",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -122,6 +123,7 @@
     {
       "entity_id": null,
       "name": "Kathryn Boockvar",
+      "photo_filename": null,
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -223,6 +225,7 @@
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "name": "Bob Casey",
+      "photo_filename": "Bob_Casey,_Jr..jpg",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",

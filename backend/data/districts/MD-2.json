@@ -3,6 +3,7 @@
     {
       "entity_id": "6965e4b1e5c4449dba46c9de2cfa9915",
       "name": "Dutch Ruppersberger",
+      "photo_filename": "Dutch_Ruppersberger.jpg",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
@@ -109,6 +110,7 @@
     {
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "name": "Ben Cardin",
+      "photo_filename": "Ben_Cardin.jpg",
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",

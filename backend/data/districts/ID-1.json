@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Jimmy Farris",
+      "photo_filename": "Jimmy_Farris.jpg",
       "chamber": "house",
       "state": "ID",
       "state_name": "Idaho",
@@ -84,6 +85,7 @@
     {
       "entity_id": "6d1ca36002414ec99e21aad1990438ba",
       "name": "Raul Labrador",
+      "photo_filename": "Raul_Labrador.jpg",
       "chamber": "house",
       "state": "ID",
       "state_name": "Idaho",

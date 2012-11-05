@@ -3,6 +3,7 @@
     {
       "entity_id": "480f46fdebbe4b299dbf5c49e209ca61",
       "name": "Janice K Hahn",
+      "photo_filename": "Janice_Hahn.jpg",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -142,6 +143,7 @@
     {
       "entity_id": "6d98c9c6935b4758938e478d6794a78a",
       "name": "Laura Richardson",
+      "photo_filename": "Laura_Richardson.jpg",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -268,6 +270,7 @@
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "name": "Dianne Feinstein",
+      "photo_filename": "Dianne_Feinstein.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -452,6 +455,7 @@
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "name": "Elizabeth Emken",
+      "photo_filename": "Elizabeth_Emken.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",

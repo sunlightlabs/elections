@@ -3,6 +3,7 @@
     {
       "entity_id": "6ac7f3e304754f5db07ed5c2b7092781",
       "name": "Mike Doyle",
+      "photo_filename": "Michael_F._Doyle.jpg",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -134,6 +135,7 @@
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "name": "Bob Casey",
+      "photo_filename": "Bob_Casey,_Jr..jpg",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",

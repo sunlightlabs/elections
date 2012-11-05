@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Larry Maggi",
+      "photo_filename": "Larry_Maggi.jpg",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -102,6 +103,7 @@
     {
       "entity_id": "c865447802d94f1bada09a548715015d",
       "name": "Tim Murphy",
+      "photo_filename": null,
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -228,6 +230,7 @@
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "name": "Bob Casey",
+      "photo_filename": "Bob_Casey,_Jr..jpg",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",

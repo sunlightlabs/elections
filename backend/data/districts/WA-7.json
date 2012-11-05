@@ -3,6 +3,7 @@
     {
       "entity_id": "a7a7a868f8d6492b8545dbdae82c386e",
       "name": "Jim McDermott",
+      "photo_filename": "Jim_McDermott_(Washington).jpg",
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
@@ -134,6 +135,7 @@
     {
       "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "name": "Maria Cantwell",
+      "photo_filename": "Maria_Cantwell.jpg",
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",

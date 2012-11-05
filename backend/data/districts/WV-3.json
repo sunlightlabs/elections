@@ -3,6 +3,7 @@
     {
       "entity_id": "b1939928e8ab4dc2b50ff24fbfc1e6ff",
       "name": "Nick Rahall",
+      "photo_filename": "Nick_Rahall.jpg",
       "chamber": "house",
       "state": "WV",
       "state_name": "West Virginia",
@@ -139,6 +140,7 @@
     {
       "entity_id": "fea00787eb034cb2a11e8086a48db88e",
       "name": "Joe Manchin",
+      "photo_filename": "Joe_Manchin.jpg",
       "chamber": "senate",
       "state": "WV",
       "state_name": "West Virginia",

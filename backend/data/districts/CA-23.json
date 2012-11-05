@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Terry Phillips",
+      "photo_filename": "Terry_Phillips.png",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -90,6 +91,7 @@
     {
       "entity_id": "3385e1e1958a45aa887bfad3a520e3b0",
       "name": "Kevin McCarthy",
+      "photo_filename": "Kevin_McCarthy_(California).jpg",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -216,6 +218,7 @@
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "name": "Dianne Feinstein",
+      "photo_filename": "Dianne_Feinstein.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -400,6 +403,7 @@
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "name": "Elizabeth Emken",
+      "photo_filename": "Elizabeth_Emken.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",

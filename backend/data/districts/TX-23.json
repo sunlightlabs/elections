@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Pete Gallego",
+      "photo_filename": "Pete_Gallego.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -107,6 +108,7 @@
     {
       "entity_id": "b472f775845e41fcaa527952b75894a3",
       "name": "Francisco Canseco",
+      "photo_filename": "Francisco_Canseco.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -228,6 +230,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

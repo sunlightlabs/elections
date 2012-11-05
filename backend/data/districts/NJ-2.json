@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Cassandra Shober",
+      "photo_filename": null,
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
@@ -77,6 +78,7 @@
     {
       "entity_id": "c57d8c97afb24a36973accea41a97915",
       "name": "Frank A LoBiondo",
+      "photo_filename": "Frank_LoBiondo.jpg",
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
@@ -208,6 +210,7 @@
     {
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "name": "Robert Menendez",
+      "photo_filename": "Bob_Menendez.jpg",
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",

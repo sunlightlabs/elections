@@ -3,6 +3,7 @@
     {
       "entity_id": "69a2b9ba546749a4b1cf27c979c70b59",
       "name": "Steve Fincher",
+      "photo_filename": "Stephen_Lee_Fincher.jpg",
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
@@ -129,6 +130,7 @@
     {
       "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "name": "Bob Corker",
+      "photo_filename": "Bob_Corker.jpg",
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",

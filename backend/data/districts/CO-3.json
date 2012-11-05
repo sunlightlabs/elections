@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Sal Pace",
+      "photo_filename": "Sal_Pace.jpg",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
@@ -112,6 +113,7 @@
     {
       "entity_id": "a8bc8f4ddaf94e378c5ad653ca5448aa",
       "name": "Scott Tipton",
+      "photo_filename": "Scott_Tipton.JPG",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",

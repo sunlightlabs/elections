@@ -3,6 +3,7 @@
     {
       "entity_id": "28cf1bb4dfa148e7a025513bbda51f7e",
       "name": "Howard L Berman",
+      "photo_filename": "Howard_Berman.jpg",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -132,6 +133,7 @@
     {
       "entity_id": "4a49c109d29549df850dbe27b8cabc12",
       "name": "Brad Sherman",
+      "photo_filename": "Brad_Sherman.jpg",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -263,6 +265,7 @@
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "name": "Dianne Feinstein",
+      "photo_filename": "Dianne_Feinstein.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -447,6 +450,7 @@
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "name": "Elizabeth Emken",
+      "photo_filename": "Elizabeth_Emken.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",

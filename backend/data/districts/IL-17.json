@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Cheri Bustos",
+      "photo_filename": "Cheri_Bustos.jpg",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -112,6 +113,7 @@
     {
       "entity_id": "366ee1660de94c6ca630b115061a96a9",
       "name": "Bobby Schilling",
+      "photo_filename": "Bobby_Schilling.jpg",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",

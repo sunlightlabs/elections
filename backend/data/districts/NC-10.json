@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Patricia Keever",
+      "photo_filename": "Patricia_Keever.jpg",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -107,6 +108,7 @@
     {
       "entity_id": "c112b2bca6f342a98c31e5c87fffa35a",
       "name": "Patrick McHenry",
+      "photo_filename": "Patrick_McHenry.jpg",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",

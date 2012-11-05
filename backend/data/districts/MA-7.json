@@ -3,6 +3,7 @@
     {
       "entity_id": "3cee7473c2ae4526a72d50e784b0faac",
       "name": "Michael E Capuano",
+      "photo_filename": "Michael_Capuano.jpg",
       "chamber": "house",
       "state": "MA",
       "state_name": "Massachusetts",
@@ -139,6 +140,7 @@
     {
       "entity_id": null,
       "name": "Elizabeth Warren",
+      "photo_filename": "Elizabeth_Warren.jpg",
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
@@ -258,6 +260,7 @@
     {
       "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
       "name": "Scott P. Brown",
+      "photo_filename": "Scott_Brown.jpg",
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",

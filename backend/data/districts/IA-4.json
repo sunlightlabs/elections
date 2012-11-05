@@ -3,6 +3,7 @@
     {
       "entity_id": "ad5474bd3d43436982b5243d0897decd",
       "name": "Steven A King",
+      "photo_filename": "Steve_King_(Iowa).jpg",
       "chamber": "house",
       "state": "IA",
       "state_name": "Iowa",
@@ -102,6 +103,7 @@
     {
       "entity_id": null,
       "name": "Christie Vilsack",
+      "photo_filename": "Christie_Vilsack.jpg",
       "chamber": "house",
       "state": "IA",
       "state_name": "Iowa",

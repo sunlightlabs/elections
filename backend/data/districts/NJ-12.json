@@ -3,6 +3,7 @@
     {
       "entity_id": "0ea17932c8c74377a1d9e2906bcf64c4",
       "name": "Rush Holt",
+      "photo_filename": "Rush_D._Holt,_Jr..jpg",
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
@@ -139,6 +140,7 @@
     {
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "name": "Robert Menendez",
+      "photo_filename": "Bob_Menendez.jpg",
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",

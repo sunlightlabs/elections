@@ -3,6 +3,7 @@
     {
       "entity_id": "6b05171acd604a0c951570e01a88e3bc",
       "name": "John Barrow",
+      "photo_filename": "John_Barrow.jpg",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
@@ -132,6 +133,7 @@
     {
       "entity_id": null,
       "name": "Lee Ivey Anderson",
+      "photo_filename": "Lee_Anderson.jpg",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",

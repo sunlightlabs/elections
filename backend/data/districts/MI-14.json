@@ -3,6 +3,7 @@
     {
       "entity_id": "5946ea294dd042d9b9f4d25ea7bb638e",
       "name": "Gary Peters",
+      "photo_filename": "Gary_Peters.jpg",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -139,6 +140,7 @@
     {
       "entity_id": "ee58b1dc41824d21aa87f9e9063aa0e7",
       "name": "Peter Hoekstra",
+      "photo_filename": "Pete_Hoekstra.jpg",
       "chamber": "senate",
       "state": "MI",
       "state_name": "Michigan",
@@ -243,6 +245,7 @@
     {
       "entity_id": "f0b2ed36768d4c99b3ba68d3a553d8d8",
       "name": "Deborah Ann Stabenow",
+      "photo_filename": "Debbie_Stabenow.jpg",
       "chamber": "senate",
       "state": "MI",
       "state_name": "Michigan",

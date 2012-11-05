@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Ella Ward",
+      "photo_filename": null,
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
@@ -95,6 +96,7 @@
     {
       "entity_id": "984fdab134a248a9a42241e0f7cc6c60",
       "name": "J Randy Forbes",
+      "photo_filename": "Randy_Forbes.jpg",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
@@ -221,6 +223,7 @@
     {
       "entity_id": null,
       "name": "Tim Kaine",
+      "photo_filename": "Tim_Kaine.png",
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",

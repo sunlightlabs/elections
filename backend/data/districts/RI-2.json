@@ -3,6 +3,7 @@
     {
       "entity_id": "2ade542c9ee6486ca063f8b0333e7608",
       "name": "Jim Langevin",
+      "photo_filename": "James_R._Langevin.jpg",
       "chamber": "house",
       "state": "RI",
       "state_name": "Rhode Island",
@@ -134,6 +135,7 @@
     {
       "entity_id": "64f4b76b98b440cc9bb6b8132cb8fba7",
       "name": "Sheldon Whitehouse",
+      "photo_filename": "Sheldon_Whitehouse.jpg",
       "chamber": "senate",
       "state": "RI",
       "state_name": "Rhode Island",

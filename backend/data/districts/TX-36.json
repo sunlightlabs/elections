@@ -3,6 +3,7 @@
     {
       "entity_id": "2c46417161ac45f88a38aa130c30e600",
       "name": "Steve Stockman",
+      "photo_filename": "Steve_Stockman.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -109,6 +110,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

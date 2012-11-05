@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Michelle Lujan Grisham",
+      "photo_filename": null,
       "chamber": "house",
       "state": "NM",
       "state_name": "New Mexico",
@@ -109,6 +110,7 @@
     {
       "entity_id": "43af19c32e1b469d8f9d07d40b3e8ed7",
       "name": "Martin Heinrich",
+      "photo_filename": "Martin_Heinrich.jpg",
       "chamber": "senate",
       "state": "NM",
       "state_name": "New Mexico",

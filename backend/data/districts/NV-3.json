@@ -3,6 +3,7 @@
     {
       "entity_id": "e05b378129cb49c7aa41ecf5ba0a7751",
       "name": "Joe Heck",
+      "photo_filename": "Joe_Heck.jpg",
       "chamber": "house",
       "state": "NV",
       "state_name": "Nevada",
@@ -127,6 +128,7 @@
     {
       "entity_id": null,
       "name": "John Oceguera",
+      "photo_filename": null,
       "chamber": "house",
       "state": "NV",
       "state_name": "Nevada",
@@ -228,6 +230,7 @@
     {
       "entity_id": "178edf596d6443ea95262c3606deaea5",
       "name": "Shelley Berkley",
+      "photo_filename": "Shelley_Berkley.jpg",
       "chamber": "senate",
       "state": "NV",
       "state_name": "Nevada",
@@ -362,6 +365,7 @@
     {
       "entity_id": "ba79864862954007883d2b89c0ebfd43",
       "name": "Dean Heller",
+      "photo_filename": "Dean_Heller.jpg",
       "chamber": "senate",
       "state": "NV",
       "state_name": "Nevada",

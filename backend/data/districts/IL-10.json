@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Brad Schneider",
+      "photo_filename": "Brad_Schneider.jpg",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -107,6 +108,7 @@
     {
       "entity_id": "0c2fc448f2274e3ea7efe8c22f9487e5",
       "name": "Robert Dold",
+      "photo_filename": "Robert_J._Dold.jpg",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",

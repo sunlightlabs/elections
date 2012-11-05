@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Matt Jette",
+      "photo_filename": null,
       "chamber": "house",
       "state": "AZ",
       "state_name": "Arizona",
@@ -66,6 +67,7 @@
     {
       "entity_id": "2389345c735a4ec7bc6400105ccba2cd",
       "name": "David Schweikert",
+      "photo_filename": "David_Schweikert.jpg",
       "chamber": "house",
       "state": "AZ",
       "state_name": "Arizona",
@@ -187,6 +189,7 @@
     {
       "entity_id": null,
       "name": "Richard Carmona",
+      "photo_filename": "Richard_Carmona.jpg",
       "chamber": "senate",
       "state": "AZ",
       "state_name": "Arizona",
@@ -291,6 +294,7 @@
     {
       "entity_id": "be44f82d0528410fa74c71c886a152f5",
       "name": "Jeff Flake",
+      "photo_filename": "Jeff_Flake.jpg",
       "chamber": "senate",
       "state": "AZ",
       "state_name": "Arizona",

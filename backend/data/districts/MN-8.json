@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Rick Nolan",
+      "photo_filename": "Rick_Nolan.jpg",
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
@@ -112,6 +113,7 @@
     {
       "entity_id": "84ed292090264b29958cb55388e7c633",
       "name": "Chip Cravaack",
+      "photo_filename": "Chip_Cravaack.jpg",
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
@@ -238,6 +240,7 @@
     {
       "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
       "name": "Amy Klobuchar",
+      "photo_filename": "Amy_Klobuchar.jpg",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
@@ -372,6 +375,7 @@
     {
       "entity_id": null,
       "name": "Kurt Bills",
+      "photo_filename": "Kurt_Bills.JPG",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",

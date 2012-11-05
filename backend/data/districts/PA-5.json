@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Charles Dumas",
+      "photo_filename": null,
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -64,6 +65,7 @@
     {
       "entity_id": "89139f3637214aad9640c974dc65f7b0",
       "name": "Glenn Thompson",
+      "photo_filename": "Glenn_Thompson.jpg",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -190,6 +192,7 @@
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "name": "Bob Casey",
+      "photo_filename": "Bob_Casey,_Jr..jpg",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",

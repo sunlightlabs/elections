@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Donna McAleer",
+      "photo_filename": null,
       "chamber": "house",
       "state": "UT",
       "state_name": "Utah",
@@ -107,6 +108,7 @@
     {
       "entity_id": "d7cf3862971b41b5ac5a892036634f57",
       "name": "Rob Bishop",
+      "photo_filename": "Rob_Bishop.jpg",
       "chamber": "house",
       "state": "UT",
       "state_name": "Utah",
@@ -233,6 +235,7 @@
     {
       "entity_id": null,
       "name": "Scott N Howell",
+      "photo_filename": null,
       "chamber": "senate",
       "state": "UT",
       "state_name": "Utah",
@@ -337,6 +340,7 @@
     {
       "entity_id": "e5aa63ec4a0746fbb9961b325ddb3627",
       "name": "Orrin G Hatch",
+      "photo_filename": "Orrin_Hatch.jpg",
       "chamber": "senate",
       "state": "UT",
       "state_name": "Utah",

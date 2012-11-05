@@ -3,6 +3,7 @@
     {
       "entity_id": "dd9b363b32614d36bc44ca39188e25a3",
       "name": "Mike Conaway",
+      "photo_filename": "Mike_Conaway.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -129,6 +130,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

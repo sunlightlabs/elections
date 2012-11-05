@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "David Sanchez",
+      "photo_filename": null,
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -48,6 +49,7 @@
     {
       "entity_id": "485c7db7d8184909838502fece949f5e",
       "name": "Michael Burgess",
+      "photo_filename": "Michael_C._Burgess.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -169,6 +171,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

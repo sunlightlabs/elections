@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Aryanna Strader",
+      "photo_filename": null,
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -107,6 +108,7 @@
     {
       "entity_id": "b7b91e6071684e9f91ea062cd73f4aa6",
       "name": "Joe Pitts",
+      "photo_filename": "Joseph_R._Pitts.jpg",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -233,6 +235,7 @@
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "name": "Bob Casey",
+      "photo_filename": "Bob_Casey,_Jr..jpg",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",

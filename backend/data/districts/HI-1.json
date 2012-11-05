@@ -3,6 +3,7 @@
     {
       "entity_id": "3f4ac7b9b1d34cabacaf7d9ef6efb69d",
       "name": "Colleen Hanabusa",
+      "photo_filename": "Colleen_Hanabusa.jpg",
       "chamber": "house",
       "state": "HI",
       "state_name": "Hawaii",
@@ -134,6 +135,7 @@
     {
       "entity_id": "79f92c32d0a244009c8c296dd4daff30",
       "name": "Mazie K Hirono",
+      "photo_filename": "Mazie_Hirono.jpg",
       "chamber": "senate",
       "state": "HI",
       "state_name": "Hawaii",

@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Shelley Adler",
+      "photo_filename": null,
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
@@ -102,6 +103,7 @@
     {
       "entity_id": "eabd1e38012549b0ab021530fa08f8f1",
       "name": "John H Adler",
+      "photo_filename": null,
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
@@ -201,6 +203,7 @@
     {
       "entity_id": "9329032b509b496784fc7a31b1103e78",
       "name": "Jon Runyan",
+      "photo_filename": "Jon_Runyan.jpg",
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
@@ -322,6 +325,7 @@
     {
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "name": "Robert Menendez",
+      "photo_filename": "Bob_Menendez.jpg",
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",

@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Alan P. Woodruff",
+      "photo_filename": null,
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
@@ -48,6 +49,7 @@
     {
       "entity_id": "b8c5f7b6c3b645d69f1450dd846a702d",
       "name": "Phil Roe",
+      "photo_filename": "Phil_Roe.jpg",
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
@@ -169,6 +171,7 @@
     {
       "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "name": "Bob Corker",
+      "photo_filename": "Bob_Corker.jpg",
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",

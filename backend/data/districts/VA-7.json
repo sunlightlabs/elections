@@ -3,6 +3,7 @@
     {
       "entity_id": "f06d74b4063a4081bd929738ecf80194",
       "name": "Eric Cantor",
+      "photo_filename": "Eric_Cantor.JPG",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
@@ -122,6 +123,7 @@
     {
       "entity_id": null,
       "name": "E. Wayne Powell",
+      "photo_filename": "E._Wayne_Powell.jpg",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
@@ -228,6 +230,7 @@
     {
       "entity_id": null,
       "name": "Tim Kaine",
+      "photo_filename": "Tim_Kaine.png",
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",

@@ -3,6 +3,7 @@
     {
       "entity_id": "7f99871b176345a4b03827b179cef482",
       "name": "Betty McCollum",
+      "photo_filename": "Betty_McCollum.jpg",
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
@@ -139,6 +140,7 @@
     {
       "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
       "name": "Amy Klobuchar",
+      "photo_filename": "Amy_Klobuchar.jpg",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
@@ -273,6 +275,7 @@
     {
       "entity_id": null,
       "name": "Kurt Bills",
+      "photo_filename": "Kurt_Bills.JPG",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",

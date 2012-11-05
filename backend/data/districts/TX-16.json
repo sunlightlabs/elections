@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Beto O'Rourke",
+      "photo_filename": null,
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -109,6 +110,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

@@ -3,6 +3,7 @@
     {
       "entity_id": "b2e5b793ceff42baa2b058bb43348223",
       "name": "William L Clay Jr",
+      "photo_filename": "Lacy_Clay.JPG",
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
@@ -139,6 +140,7 @@
     {
       "entity_id": "98af4916592648c4aa992d8db00e6e5b",
       "name": "Claire McCaskill",
+      "photo_filename": "Claire_McCaskill.jpg",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",
@@ -273,6 +275,7 @@
     {
       "entity_id": "28e6cce459e74dcbb575fa05def946e3",
       "name": "Todd Akin",
+      "photo_filename": "Todd_Akin.jpg",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",

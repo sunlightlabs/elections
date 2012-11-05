@@ -3,6 +3,7 @@
     {
       "entity_id": "eda31b0d8eee41d98e06c75888e792ce",
       "name": "Sheila Jackson Lee",
+      "photo_filename": "Sheila_Jackson-Lee.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -124,6 +125,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Steve Wilkins",
+      "photo_filename": "Steve_Wilkins.jpg",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -53,6 +54,7 @@
     {
       "entity_id": "10e885e35c4b44f1a1c5b7ffec6ef6a3",
       "name": "Renee Ellmers",
+      "photo_filename": "Renee_Ellmers.jpg",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",

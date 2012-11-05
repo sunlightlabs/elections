@@ -3,6 +3,7 @@
     {
       "entity_id": "bc890c70ed394f78a542cc8a34ca3a97",
       "name": "Chellie Pingree",
+      "photo_filename": "Chellie_Pingree.jpg",
       "chamber": "house",
       "state": "ME",
       "state_name": "Maine",
@@ -134,6 +135,7 @@
     {
       "entity_id": null,
       "name": "Cynthia Dill",
+      "photo_filename": "Cynthia_Dill.jpg",
       "chamber": "senate",
       "state": "ME",
       "state_name": "Maine",

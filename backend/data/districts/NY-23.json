@@ -3,6 +3,7 @@
     {
       "entity_id": "f0e31da1fd6b41c19674fe2901f31df7",
       "name": "Tom Reed",
+      "photo_filename": "Tom_Reed.jpg",
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
@@ -127,6 +128,7 @@
     {
       "entity_id": null,
       "name": "Nathan Shinagawa",
+      "photo_filename": null,
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
@@ -233,6 +235,7 @@
     {
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "name": "Kirsten Gillibrand",
+      "photo_filename": "Kirsten_Gillibrand.jpg",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",
@@ -397,6 +400,7 @@
     {
       "entity_id": null,
       "name": "Wendy Long",
+      "photo_filename": "Wendy_Long.png",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",

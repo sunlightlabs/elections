@@ -3,6 +3,7 @@
     {
       "entity_id": "04763defbce9498c935862ab6cb5b51f",
       "name": "Jim Himes",
+      "photo_filename": "Jim_Himes.jpg",
       "chamber": "house",
       "state": "CT",
       "state_name": "Connecticut",
@@ -134,6 +135,7 @@
     {
       "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "name": "Chris Murphy",
+      "photo_filename": "Christopher_S._Murphy.jpg",
       "chamber": "senate",
       "state": "CT",
       "state_name": "Connecticut",

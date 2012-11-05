@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Joe Miklosi",
+      "photo_filename": "Joe_Miklosi.jpg",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
@@ -112,6 +113,7 @@
     {
       "entity_id": "9db6c9cf76ab4ce59bb44ae0a01023e7",
       "name": "Mike Coffman",
+      "photo_filename": "Mike_Coffman.jpg",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",

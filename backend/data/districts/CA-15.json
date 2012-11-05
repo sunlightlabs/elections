@@ -3,6 +3,7 @@
     {
       "entity_id": "6b159f6cbcef4bc6a338b217bd019b33",
       "name": "Pete Stark",
+      "photo_filename": "Pete_Stark.jpg",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -137,6 +138,7 @@
     {
       "entity_id": null,
       "name": "Eric Swalwell",
+      "photo_filename": "Eric_Swalwell.jpg",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -243,6 +245,7 @@
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "name": "Dianne Feinstein",
+      "photo_filename": "Dianne_Feinstein.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -427,6 +430,7 @@
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "name": "Elizabeth Emken",
+      "photo_filename": "Elizabeth_Emken.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",

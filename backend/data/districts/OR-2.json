@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Joyce B. Segers",
+      "photo_filename": null,
       "chamber": "house",
       "state": "OR",
       "state_name": "Oregon",
@@ -102,6 +103,7 @@
     {
       "entity_id": "ccb067af97274f87afe80fadf9813be2",
       "name": "Greg Walden",
+      "photo_filename": "Greg_Walden.jpg",
       "chamber": "house",
       "state": "OR",
       "state_name": "Oregon",

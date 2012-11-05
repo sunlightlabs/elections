@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Philip Scollo",
+      "photo_filename": "Philip_Scollo.jpg",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -102,6 +103,7 @@
     {
       "entity_id": "3af5f262689b417f8b7dd7a6e815f953",
       "name": "Tom Marino",
+      "photo_filename": "Tom_Marino.jpg",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -223,6 +225,7 @@
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "name": "Bob Casey",
+      "photo_filename": "Bob_Casey,_Jr..jpg",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",

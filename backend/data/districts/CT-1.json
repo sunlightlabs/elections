@@ -3,6 +3,7 @@
     {
       "entity_id": "3b11c125326e44dea313c70f270a2697",
       "name": "John B Larson",
+      "photo_filename": "John_B._Larson.jpg",
       "chamber": "house",
       "state": "CT",
       "state_name": "Connecticut",
@@ -134,6 +135,7 @@
     {
       "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "name": "Chris Murphy",
+      "photo_filename": "Christopher_S._Murphy.jpg",
       "chamber": "senate",
       "state": "CT",
       "state_name": "Connecticut",

@@ -3,6 +3,7 @@
     {
       "entity_id": "3e192fde2cda4ca291a9850ad43776fb",
       "name": "Bill Foster",
+      "photo_filename": null,
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -107,6 +108,7 @@
     {
       "entity_id": "372fa430380d488da5020fc05a69d88f",
       "name": "Judy Biggert",
+      "photo_filename": "Judy_Biggert.jpg",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",

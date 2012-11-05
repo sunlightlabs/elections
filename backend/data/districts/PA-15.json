@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Rick Daugherty",
+      "photo_filename": null,
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -72,6 +73,7 @@
     {
       "entity_id": "9b07e0db2a53439b9c33ef057ec7c7ae",
       "name": "Charlie Dent",
+      "photo_filename": "Charlie_Dent.jpg",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -193,6 +195,7 @@
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "name": "Bob Casey",
+      "photo_filename": "Bob_Casey,_Jr..jpg",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",

@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Brandon Shaffer",
+      "photo_filename": "Brandon_Shaffer.jpg",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
@@ -107,6 +108,7 @@
     {
       "entity_id": "30438b80959243e0816870cea724b0a7",
       "name": "Cory Gardner",
+      "photo_filename": "Cory_Gardner.jpg",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",

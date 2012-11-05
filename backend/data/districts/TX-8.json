@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Neil Burns",
+      "photo_filename": null,
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -59,6 +60,7 @@
     {
       "entity_id": "7edb99d5f74f492a8dd42af2941cd62c",
       "name": "Kevin Brady",
+      "photo_filename": "Kevin_Brady.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -185,6 +187,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

@@ -3,6 +3,7 @@
     {
       "entity_id": "bfbd544a93a3498984b3aca162fff67e",
       "name": "William Flores",
+      "photo_filename": "Bill_Flores.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -129,6 +130,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

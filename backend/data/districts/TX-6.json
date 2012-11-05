@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Kenneth Sanders",
+      "photo_filename": "Kenneth_Sanders.JPG",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -71,6 +72,7 @@
     {
       "entity_id": "b8e5ada20f684e0d86db2fef940e26ac",
       "name": "Joe Barton",
+      "photo_filename": "Joe_Barton.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -192,6 +194,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

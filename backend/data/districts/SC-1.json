@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Bobbie Rose",
+      "photo_filename": null,
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
@@ -101,6 +102,7 @@
     {
       "entity_id": "50d3f8e50a874c27a06fc89e4a1547b9",
       "name": "Tim Scott",
+      "photo_filename": "Timothy_Scott.jpg",
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",

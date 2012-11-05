@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Katherine McGovern",
+      "photo_filename": "Katherine_Savers_McGovern.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -78,6 +79,7 @@
     {
       "entity_id": "9cad0a9ea4be41819f570954afd7b496",
       "name": "Pete Sessions",
+      "photo_filename": "Pete_Sessions.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -204,6 +206,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

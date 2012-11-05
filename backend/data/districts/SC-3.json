@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Brian Doyle",
+      "photo_filename": null,
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
@@ -48,6 +49,7 @@
     {
       "entity_id": "af5049e8f75e453aba2dc52c74736153",
       "name": "Jeff Duncan",
+      "photo_filename": "Jeff_Duncan.jpg",
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",

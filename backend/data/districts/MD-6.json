@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "John K. Delaney",
+      "photo_filename": "John_Delaney.jpg",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
@@ -112,6 +113,7 @@
     {
       "entity_id": "a0ec0c8a79524903bda3221e9086783a",
       "name": "Roscoe G Bartlett",
+      "photo_filename": "Roscoe_Bartlett.jpg",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
@@ -238,6 +240,7 @@
     {
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "name": "Ben Cardin",
+      "photo_filename": "Ben_Cardin.jpg",
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",

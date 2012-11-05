@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "John Douglass",
+      "photo_filename": null,
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
@@ -107,6 +108,7 @@
     {
       "entity_id": "d211bc3c7fb04a60821698bab75b64e7",
       "name": "Robert Hurt",
+      "photo_filename": "Robert_Hurt.jpg",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
@@ -233,6 +235,7 @@
     {
       "entity_id": null,
       "name": "Tim Kaine",
+      "photo_filename": "Tim_Kaine.png",
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",

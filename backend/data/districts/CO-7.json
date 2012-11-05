@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Joe Coors",
+      "photo_filename": "Joe_Coors,_Jr..jpg",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
@@ -102,6 +103,7 @@
     {
       "entity_id": "ce6e4a3f1d8046bbaab4af8c2ed9f5e4",
       "name": "Edwin G Perlmutter",
+      "photo_filename": "Ed_Perlmutter.jpg",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",

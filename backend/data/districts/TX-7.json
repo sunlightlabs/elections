@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "James Cargas",
+      "photo_filename": "James_Cargas.JPG",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -107,6 +108,7 @@
     {
       "entity_id": "12e92e03b21f40208d678296e40baf91",
       "name": "John Culberson",
+      "photo_filename": "John_Culberson.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -228,6 +230,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

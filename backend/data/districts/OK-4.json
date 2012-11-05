@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Donna Bebo",
+      "photo_filename": null,
       "chamber": "house",
       "state": "OK",
       "state_name": "Oklahoma",
@@ -60,6 +61,7 @@
     {
       "entity_id": "f7ee773191fb474ca9ebe5ceb2db2ac5",
       "name": "Tom Cole",
+      "photo_filename": "Tom_Cole.jpg",
       "chamber": "house",
       "state": "OK",
       "state_name": "Oklahoma",

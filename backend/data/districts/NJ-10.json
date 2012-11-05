@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Donald M. Payne Jr",
+      "photo_filename": null,
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
@@ -127,6 +128,7 @@
     {
       "entity_id": "b97a700cf43549acb199371384ab3e7e",
       "name": "Donald M Payne",
+      "photo_filename": null,
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
@@ -233,6 +235,7 @@
     {
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "name": "Robert Menendez",
+      "photo_filename": "Bob_Menendez.jpg",
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",

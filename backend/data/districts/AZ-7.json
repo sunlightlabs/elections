@@ -3,6 +3,7 @@
     {
       "entity_id": "61b82805e2b4493cbb216019e5d4fd33",
       "name": "Ed Pastor",
+      "photo_filename": "Ed_Pastor.jpg",
       "chamber": "house",
       "state": "AZ",
       "state_name": "Arizona",
@@ -139,6 +140,7 @@
     {
       "entity_id": null,
       "name": "Richard Carmona",
+      "photo_filename": "Richard_Carmona.jpg",
       "chamber": "senate",
       "state": "AZ",
       "state_name": "Arizona",
@@ -243,6 +245,7 @@
     {
       "entity_id": "be44f82d0528410fa74c71c886a152f5",
       "name": "Jeff Flake",
+      "photo_filename": "Jeff_Flake.jpg",
       "chamber": "senate",
       "state": "AZ",
       "state_name": "Arizona",

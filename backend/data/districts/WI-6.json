@@ -3,6 +3,7 @@
     {
       "entity_id": "d11c75294ed74803b546afb2cdc595ca",
       "name": "Tom Petri",
+      "photo_filename": "Tom_Petri.jpg",
       "chamber": "house",
       "state": "WI",
       "state_name": "Wisconsin",
@@ -129,6 +130,7 @@
     {
       "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "name": "Tammy Baldwin",
+      "photo_filename": "Tammy_Baldwin.jpeg",
       "chamber": "senate",
       "state": "WI",
       "state_name": "Wisconsin",

@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Tony Foriest",
+      "photo_filename": "Tony_Foriest.jpg",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -60,6 +61,7 @@
     {
       "entity_id": "e13fd883959744d69c1dcf243443a7f0",
       "name": "Howard Coble",
+      "photo_filename": "Howard_Coble.jpeg",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",

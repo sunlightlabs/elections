@@ -3,6 +3,7 @@
     {
       "entity_id": "639f9e218d8e45a7a154b44c7e60cec7",
       "name": "Bill Owens",
+      "photo_filename": "Bill_Owens.jpg",
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
@@ -132,6 +133,7 @@
     {
       "entity_id": null,
       "name": "Matt Doheny",
+      "photo_filename": null,
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
@@ -233,6 +235,7 @@
     {
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "name": "Kirsten Gillibrand",
+      "photo_filename": "Kirsten_Gillibrand.jpg",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",
@@ -397,6 +400,7 @@
     {
       "entity_id": null,
       "name": "Wendy Long",
+      "photo_filename": "Wendy_Long.png",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",

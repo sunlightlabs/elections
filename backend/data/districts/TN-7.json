@@ -3,6 +3,7 @@
     {
       "entity_id": "93568aa9bb0e4b9eb8da00e4ae83339c",
       "name": "Marsha Blackburn",
+      "photo_filename": "Marsha_Blackburn.jpg",
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
@@ -129,6 +130,7 @@
     {
       "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "name": "Bob Corker",
+      "photo_filename": "Bob_Corker.jpg",
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",

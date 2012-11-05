@@ -3,6 +3,7 @@
     {
       "entity_id": "aecbd98046f545d092c00ae94a9291c8",
       "name": "Larry Kissell",
+      "photo_filename": "Larry_Kissell.jpg",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -137,6 +138,7 @@
     {
       "entity_id": null,
       "name": "Richard Hudson",
+      "photo_filename": null,
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
