@@ -227,6 +227,46 @@
           "name": "National Organization of Women (NOW)",
           "type": "endorsement",
           "value": "Y"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "10"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "40"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "90"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "100"
         }
       ]
     }

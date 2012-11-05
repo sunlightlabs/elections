@@ -1,6 +1,104 @@
 {
   "house": [
-
+    {
+      "entity_id": null,
+      "name": "James E. Reed",
+      "chamber": "house",
+      "state": "CA",
+      "state_name": "California",
+      "district": "1",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "O",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "7250.00",
+        "office": "H",
+        "total_receipts_rank": 561,
+        "max_rank": 717,
+        "contributions_candidate": "8994.52",
+        "transfers_in": "62.69",
+        "cash_on_hand_rank": 627,
+        "total_raised": "153517.04",
+        "disbursements": "160183.22",
+        "total_disbursements_rank": 555,
+        "date": "2012-10-17",
+        "contributions_indiv": "123826.18",
+        "contributions_party": "0.00",
+        "cash_on_hand": "6950.99"
+      },
+      "industries": [
+        {
+          "count": "24",
+          "amount": "18450.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "11",
+          "amount": "7410.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "8",
+          "amount": "3825.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "2",
+          "amount": "2000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "2",
+          "amount": "2000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "1",
+          "amount": "1918.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "4",
+          "amount": "1750.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "2",
+          "amount": "1000.00",
+          "id": "db81234a46874e7392cb5dfec1f07113",
+          "name": "Printing & Publishing"
+        },
+        {
+          "count": "1",
+          "amount": "1000.00",
+          "id": "ec9907560c0042e4b831ebd7734d7352",
+          "name": "Building Materials & Equipment"
+        },
+        {
+          "count": "2",
+          "amount": "750.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        }
+      ]
+    }
   ],
   "senate": [
     {
@@ -174,6 +272,16 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "5"
+        },
+        {
+          "name": "San Francisco for Democracy",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "San Francisco League of Pissed Off Voters",
+          "type": "rating",
+          "value": "Y"
         }
       ]
     },

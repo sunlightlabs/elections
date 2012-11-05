@@ -1,6 +1,104 @@
 {
   "house": [
-
+    {
+      "entity_id": "9ed4a9a7d54a470e886cc6a9b2837a69",
+      "name": "Cynthia Marie Lummis",
+      "chamber": "house",
+      "state": "WY",
+      "state_name": "Wyoming",
+      "district": "at_large",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=L000571",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000571.jpg",
+      "seat_status": "I",
+      "bioguide_id": "L000571",
+      "fec_summary": {
+        "contributions_pac": "321440.00",
+        "office": "H",
+        "total_receipts_rank": 452,
+        "max_rank": 717,
+        "contributions_candidate": "-37622.45",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 415,
+        "total_raised": "623536.30",
+        "disbursements": "572977.70",
+        "total_disbursements_rank": 443,
+        "date": "2012-10-17",
+        "contributions_indiv": "334072.75",
+        "contributions_party": "200.00",
+        "cash_on_hand": "127774.68"
+      },
+      "industries": [
+        {
+          "count": "219",
+          "amount": "279250.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "300",
+          "amount": "193760.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "195",
+          "amount": "147526.00",
+          "id": "d007d0ca512d457990cbb67a7ae136a2",
+          "name": "Livestock"
+        },
+        {
+          "count": "86",
+          "amount": "118099.00",
+          "id": "8b48cb51f18f4286b8e16b2dc8e9689d",
+          "name": "Mining"
+        },
+        {
+          "count": "40",
+          "amount": "101823.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "122",
+          "amount": "90326.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "84",
+          "amount": "87450.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "49",
+          "amount": "65450.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "69",
+          "amount": "58410.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "48",
+          "amount": "56300.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "0"
+        }
+      ]
+    }
   ],
   "senate": [
     {

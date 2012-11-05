@@ -126,6 +126,11 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "4"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
         }
       ]
     }

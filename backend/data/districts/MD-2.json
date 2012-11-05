@@ -1,6 +1,109 @@
 {
   "house": [
-
+    {
+      "entity_id": "6965e4b1e5c4449dba46c9de2cfa9915",
+      "name": "Dutch Ruppersberger",
+      "chamber": "house",
+      "state": "MD",
+      "state_name": "Maryland",
+      "district": "2",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Dutch_Ruppersberger",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000576.jpg",
+      "seat_status": "I",
+      "bioguide_id": "R000576",
+      "fec_summary": {
+        "contributions_pac": "693399.68",
+        "office": "H",
+        "total_receipts_rank": 256,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 68,
+        "total_raised": "1238432.83",
+        "disbursements": "887555.75",
+        "total_disbursements_rank": 315,
+        "date": "2012-10-17",
+        "contributions_indiv": "537163.05",
+        "contributions_party": "0.00",
+        "cash_on_hand": "930612.29"
+      },
+      "industries": [
+        {
+          "count": "391",
+          "amount": "365218.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "424",
+          "amount": "303005.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "230",
+          "amount": "268800.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "154",
+          "amount": "263000.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "217",
+          "amount": "240250.00",
+          "id": "f7959bfcdd044aa58cfb2e335cfc67e6",
+          "name": "Misc Defense"
+        },
+        {
+          "count": "106",
+          "amount": "231600.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "104",
+          "amount": "185500.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "79",
+          "amount": "185250.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "133",
+          "amount": "184350.00",
+          "id": "4c3799fc60b34f2aa250f7e8f5b2c3e6",
+          "name": "Defense Electronics"
+        },
+        {
+          "count": "105",
+          "amount": "129100.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "7"
+        }
+      ]
+    }
   ],
   "senate": [
     {
@@ -99,6 +202,46 @@
           "name": "National Organization of Women (NOW)",
           "type": "endorsement",
           "value": "Y"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "10"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "40"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "90"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "100"
         }
       ]
     }

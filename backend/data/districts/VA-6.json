@@ -96,6 +96,11 @@
           "name": "Gun Owners of America",
           "type": "endorsement",
           "value": null
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
         }
       ]
     },
@@ -195,6 +200,36 @@
           "name": "Family Research Council",
           "type": "endorsement",
           "value": null
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "85"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "96"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "90"
         }
       ]
     }

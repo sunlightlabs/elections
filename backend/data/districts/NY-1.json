@@ -126,6 +126,21 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "0"
+        },
+        {
+          "name": "NY League of Conservation Voters",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "30"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "95"
         }
       ]
     },

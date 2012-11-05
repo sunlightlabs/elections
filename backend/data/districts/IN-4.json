@@ -44,6 +44,125 @@
           "value": null
         }
       ]
+    },
+    {
+      "entity_id": "452c1b4e94e3403682c2972303a22e12",
+      "name": "Ted Rokita",
+      "chamber": "house",
+      "state": "IN",
+      "state_name": "Indiana",
+      "district": "4",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000592",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000592.jpg",
+      "seat_status": "I",
+      "bioguide_id": "R000592",
+      "fec_summary": {
+        "contributions_pac": "457600.00",
+        "office": "H",
+        "total_receipts_rank": 267,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 104,
+        "total_raised": "1196294.13",
+        "disbursements": "823682.84",
+        "total_disbursements_rank": 340,
+        "date": "2012-10-17",
+        "contributions_indiv": "719269.18",
+        "contributions_party": "500.00",
+        "cash_on_hand": "682022.15"
+      },
+      "industries": [
+        {
+          "count": "185",
+          "amount": "136008.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "99",
+          "amount": "89606.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "91",
+          "amount": "82114.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "27",
+          "amount": "61750.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "41",
+          "amount": "57400.00",
+          "id": "4b732d5c5c4e43d39df21532b7c3be7b",
+          "name": "Health Services/Hmos"
+        },
+        {
+          "count": "46",
+          "amount": "56790.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "27",
+          "amount": "47450.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        },
+        {
+          "count": "34",
+          "amount": "45050.00",
+          "id": "7a214b1dc0054b768d4c4eb6f8f625c8",
+          "name": "Accountants"
+        },
+        {
+          "count": "48",
+          "amount": "44649.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "45",
+          "amount": "44250.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "87"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "95.83"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "100"
+        }
+      ]
     }
   ],
   "senate": [

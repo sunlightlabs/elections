@@ -91,6 +91,130 @@
           "value": null
         }
       ]
+    },
+    {
+      "entity_id": "984fdab134a248a9a42241e0f7cc6c60",
+      "name": "J Randy Forbes",
+      "chamber": "house",
+      "state": "VA",
+      "state_name": "Virginia",
+      "district": "4",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Randy_Forbes",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000445.jpg",
+      "seat_status": "I",
+      "bioguide_id": "F000445",
+      "fec_summary": {
+        "contributions_pac": "357044.42",
+        "office": "H",
+        "total_receipts_rank": 341,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 278,
+        "total_raised": "1008636.84",
+        "disbursements": "1095694.50",
+        "total_disbursements_rank": 230,
+        "date": "2012-10-17",
+        "contributions_indiv": "647228.54",
+        "contributions_party": "250.00",
+        "cash_on_hand": "266184.86"
+      },
+      "industries": [
+        {
+          "count": "128",
+          "amount": "280456.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "394",
+          "amount": "217067.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "140",
+          "amount": "197000.00",
+          "id": "f7959bfcdd044aa58cfb2e335cfc67e6",
+          "name": "Misc Defense"
+        },
+        {
+          "count": "216",
+          "amount": "166675.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "115",
+          "amount": "164200.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        },
+        {
+          "count": "152",
+          "amount": "145263.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "133",
+          "amount": "145050.00",
+          "id": "4c3799fc60b34f2aa250f7e8f5b2c3e6",
+          "name": "Defense Electronics"
+        },
+        {
+          "count": "193",
+          "amount": "133683.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "99",
+          "amount": "116500.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "109",
+          "amount": "108710.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "84"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "90"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "72"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
     }
   ],
   "senate": [

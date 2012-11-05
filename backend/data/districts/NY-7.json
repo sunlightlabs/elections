@@ -121,6 +121,11 @@
           "name": "American Security Council Foundation",
           "type": "rating",
           "value": "20"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "100"
         }
       ]
     }

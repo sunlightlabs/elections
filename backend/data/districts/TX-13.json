@@ -1,6 +1,129 @@
 {
   "house": [
-
+    {
+      "entity_id": "2f662139b6c542b2b72de2a480680408",
+      "name": "Mac Thornberry",
+      "chamber": "house",
+      "state": "TX",
+      "state_name": "Texas",
+      "district": "13",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Mac_Thornberry",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/T000238.jpg",
+      "seat_status": "I",
+      "bioguide_id": "T000238",
+      "fec_summary": {
+        "contributions_pac": "421302.06",
+        "office": "H",
+        "total_receipts_rank": 315,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 156,
+        "total_raised": "1053176.47",
+        "disbursements": "791991.98",
+        "total_disbursements_rank": 353,
+        "date": "2012-10-17",
+        "contributions_indiv": "627542.37",
+        "contributions_party": "0.00",
+        "cash_on_hand": "503676.98"
+      },
+      "industries": [
+        {
+          "count": "807",
+          "amount": "432605.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "1020",
+          "amount": "427022.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "746",
+          "amount": "384272.00",
+          "id": "d007d0ca512d457990cbb67a7ae136a2",
+          "name": "Livestock"
+        },
+        {
+          "count": "815",
+          "amount": "371952.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "217",
+          "amount": "291050.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "482",
+          "amount": "251750.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "379",
+          "amount": "214179.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "343",
+          "amount": "186688.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "143",
+          "amount": "131049.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "235",
+          "amount": "120850.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "77"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "88"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "100"
+        }
+      ]
+    }
   ],
   "senate": [
     {

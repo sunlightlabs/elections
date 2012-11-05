@@ -116,6 +116,26 @@
           "name": "American Security Council Foundation",
           "type": "rating",
           "value": "20"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "4"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "15"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "100"
         }
       ]
     }

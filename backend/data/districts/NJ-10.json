@@ -123,6 +123,110 @@
           "value": "4.55"
         }
       ]
+    },
+    {
+      "entity_id": "b97a700cf43549acb199371384ab3e7e",
+      "name": "Donald M Payne",
+      "chamber": "house",
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "district": "10",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Donald_M._Payne",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000149.jpg",
+      "seat_status": "I",
+      "bioguide_id": "P000149",
+      "fec_summary": {
+        "contributions_pac": "198260.63",
+        "office": "H",
+        "total_receipts_rank": 714,
+        "max_rank": 1563,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 202,
+        "total_raised": "112791.08",
+        "disbursements": "1011800.54",
+        "total_disbursements_rank": 314,
+        "date": "2012-09-30",
+        "contributions_indiv": "35565.00",
+        "contributions_party": "8350.00",
+        "cash_on_hand": "458789.44"
+      },
+      "industries": [
+        {
+          "count": "295",
+          "amount": "427480.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "286",
+          "amount": "357510.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "499",
+          "amount": "313770.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "229",
+          "amount": "313470.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "186",
+          "amount": "268505.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "220",
+          "amount": "206304.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "165",
+          "amount": "192790.00",
+          "id": "bcb5ff50850c4e9682b5d4da5d9bf278",
+          "name": "Misc Unions"
+        },
+        {
+          "count": "142",
+          "amount": "134400.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "250",
+          "amount": "133320.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "106",
+          "amount": "128188.00",
+          "id": "f1c062575ca949fa92ab7066a6648bf3",
+          "name": "Air Transport"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "95"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        }
+      ]
     }
   ],
   "senate": [

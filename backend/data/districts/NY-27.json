@@ -96,6 +96,41 @@
           "name": "Gun Owners of America",
           "type": "endorsement",
           "value": null
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "20"
+        },
+        {
+          "name": "Public Employees Federation",
+          "type": "rating",
+          "value": "Y"
         }
       ]
     }

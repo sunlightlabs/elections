@@ -187,6 +187,21 @@
           "name": "Family Research Council",
           "type": "endorsement",
           "value": null
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "89"
         }
       ]
     }

@@ -171,6 +171,11 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "0"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "95"
         }
       ]
     },
@@ -427,6 +432,16 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "5"
+        },
+        {
+          "name": "San Francisco for Democracy",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "San Francisco League of Pissed Off Voters",
+          "type": "rating",
+          "value": "Y"
         }
       ]
     },

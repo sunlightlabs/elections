@@ -1,6 +1,124 @@
 {
   "house": [
-
+    {
+      "entity_id": "33e87aacd2f244f7a2ceedec1d1cf27a",
+      "name": "Terrycina Andrea Sewell",
+      "chamber": "house",
+      "state": "AL",
+      "state_name": "Alabama",
+      "district": "7",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=S001185",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001185.jpg",
+      "seat_status": "I",
+      "bioguide_id": "S001185",
+      "fec_summary": {
+        "contributions_pac": "640400.00",
+        "office": "H",
+        "total_receipts_rank": 287,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "950.00",
+        "cash_on_hand_rank": 186,
+        "total_raised": "1130695.14",
+        "disbursements": "735129.95",
+        "total_disbursements_rank": 375,
+        "date": "2012-10-17",
+        "contributions_indiv": "487601.47",
+        "contributions_party": "1000.00",
+        "cash_on_hand": "434083.47"
+      },
+      "industries": [
+        {
+          "count": "739",
+          "amount": "521981.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "260",
+          "amount": "129872.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "99",
+          "amount": "117600.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "60",
+          "amount": "68700.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "67",
+          "amount": "67450.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "108",
+          "amount": "57312.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "99",
+          "amount": "53375.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "42",
+          "amount": "52700.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "33",
+          "amount": "47560.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        },
+        {
+          "count": "58",
+          "amount": "45418.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "12"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "0"
+        }
+      ]
+    }
   ],
   "senate": [
 

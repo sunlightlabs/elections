@@ -121,6 +121,11 @@
           "name": "Family Research Council",
           "type": "endorsement",
           "value": null
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "0"
         }
       ]
     }

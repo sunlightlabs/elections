@@ -118,6 +118,110 @@
           "value": "92"
         }
       ]
+    },
+    {
+      "entity_id": "0d2b0630b58b461d99684fcc97ee7968",
+      "name": "Charles A Wilson Jr",
+      "chamber": "house",
+      "state": "OH",
+      "state_name": "Ohio",
+      "district": "6",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": "http://en.wikipedia.org/wiki/Charlie_Wilson_%28Ohio_politician%29",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000801.jpg",
+      "seat_status": "C",
+      "bioguide_id": "W000801",
+      "fec_summary": {
+        "contributions_pac": "408441.23",
+        "office": "H",
+        "total_receipts_rank": 250,
+        "max_rank": 717,
+        "contributions_candidate": "409000.00",
+        "transfers_in": "975.00",
+        "cash_on_hand_rank": 401,
+        "total_raised": "1176524.65",
+        "disbursements": "1207088.44",
+        "total_disbursements_rank": 200,
+        "date": "2012-10-17",
+        "contributions_indiv": "339704.77",
+        "contributions_party": "5043.94",
+        "cash_on_hand": "133482.94"
+      },
+      "industries": [
+        {
+          "count": "101",
+          "amount": "206632.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "62",
+          "amount": "190500.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "85",
+          "amount": "183750.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "54",
+          "amount": "182250.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "230",
+          "amount": "171807.00",
+          "id": "d67273cd049945e08a0f5c53a4870cf3",
+          "name": "Misc Services"
+        },
+        {
+          "count": "217",
+          "amount": "162222.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "141",
+          "amount": "139750.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "113",
+          "amount": "120500.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "105",
+          "amount": "119310.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "97",
+          "amount": "114987.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "75"
+        }
+      ]
     }
   ],
   "senate": [

@@ -96,6 +96,41 @@
           "name": "Gun Owners of America",
           "type": "grade",
           "value": "F-"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "95"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "4"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "11"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "16"
         }
       ]
     }
@@ -272,6 +307,16 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "5"
+        },
+        {
+          "name": "San Francisco for Democracy",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "San Francisco League of Pissed Off Voters",
+          "type": "rating",
+          "value": "Y"
         }
       ]
     },

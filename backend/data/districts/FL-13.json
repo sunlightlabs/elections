@@ -103,6 +103,125 @@
           "value": null
         }
       ]
+    },
+    {
+      "entity_id": "98052dcd66e24450ab5ed63482af47cb",
+      "name": "C W Bill Young",
+      "chamber": "house",
+      "state": "FL",
+      "state_name": "Florida",
+      "district": "13",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=Y000031",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/Y000031.jpg",
+      "seat_status": "I",
+      "bioguide_id": "Y000031",
+      "fec_summary": {
+        "contributions_pac": "463653.56",
+        "office": "H",
+        "total_receipts_rank": 352,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 198,
+        "total_raised": "987192.05",
+        "disbursements": "783763.90",
+        "total_disbursements_rank": 357,
+        "date": "2012-10-17",
+        "contributions_indiv": "520926.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "406767.93"
+      },
+      "industries": [
+        {
+          "count": "343",
+          "amount": "534325.00",
+          "id": "4c3799fc60b34f2aa250f7e8f5b2c3e6",
+          "name": "Defense Electronics"
+        },
+        {
+          "count": "258",
+          "amount": "446850.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "519",
+          "amount": "379353.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "282",
+          "amount": "315562.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "207",
+          "amount": "282050.00",
+          "id": "f7959bfcdd044aa58cfb2e335cfc67e6",
+          "name": "Misc Defense"
+        },
+        {
+          "count": "136",
+          "amount": "202133.00",
+          "id": "f1c062575ca949fa92ab7066a6648bf3",
+          "name": "Air Transport"
+        },
+        {
+          "count": "132",
+          "amount": "194600.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "128",
+          "amount": "191000.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "115",
+          "amount": "178850.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "156",
+          "amount": "178150.00",
+          "id": "042288e0185a44ec82982814c69abdca",
+          "name": "Computers/Internet"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "67"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "73.91"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "100"
+        }
+      ]
     }
   ],
   "senate": [
@@ -356,6 +475,11 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "92"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "5"
         }
       ]
     }

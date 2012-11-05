@@ -2,7 +2,7 @@
   "house": [
     {
       "entity_id": null,
-      "name": "Gene Jeffress",
+      "name": "Thomas Cotton",
       "chamber": "house",
       "state": "AR",
       "state_name": "Arkansas",
@@ -90,6 +90,11 @@
           "name": "Gun Owners of America",
           "type": "endorsement",
           "value": null
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": "R"
         }
       ]
     }

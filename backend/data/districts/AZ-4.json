@@ -118,6 +118,43 @@
           "value": "84"
         }
       ]
+    },
+    {
+      "entity_id": null,
+      "name": "Richard Grayson",
+      "chamber": "house",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "district": "4",
+      "party": "R",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+      },
+      "industries": [
+        {
+          "count": "1",
+          "amount": "5000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "1",
+          "amount": "1000.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": "AE"
+        }
+      ]
     }
   ],
   "senate": [

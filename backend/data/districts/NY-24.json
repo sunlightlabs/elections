@@ -116,6 +116,11 @@
           "name": "Gun Owners of America",
           "type": "grade",
           "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "90"
         }
       ]
     },

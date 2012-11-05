@@ -1,6 +1,134 @@
 {
   "house": [
-
+    {
+      "entity_id": "2ade542c9ee6486ca063f8b0333e7608",
+      "name": "Jim Langevin",
+      "chamber": "house",
+      "state": "RI",
+      "state_name": "Rhode Island",
+      "district": "2",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/James_Langevin",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000559.jpg",
+      "seat_status": "I",
+      "bioguide_id": "L000559",
+      "fec_summary": {
+        "contributions_pac": "515403.70",
+        "office": "H",
+        "total_receipts_rank": 314,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 284,
+        "total_raised": "1057234.37",
+        "disbursements": "979977.53",
+        "total_disbursements_rank": 282,
+        "date": "2012-10-17",
+        "contributions_indiv": "524061.62",
+        "contributions_party": "97.72",
+        "cash_on_hand": "255183.93"
+      },
+      "industries": [
+        {
+          "count": "768",
+          "amount": "482036.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "174",
+          "amount": "361900.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "303",
+          "amount": "292812.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "210",
+          "amount": "290600.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "282",
+          "amount": "234981.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "139",
+          "amount": "204750.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "93",
+          "amount": "183000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "165",
+          "amount": "175750.00",
+          "id": "4c3799fc60b34f2aa250f7e8f5b2c3e6",
+          "name": "Defense Electronics"
+        },
+        {
+          "count": "196",
+          "amount": "134920.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "49",
+          "amount": "112750.00",
+          "id": "bcb5ff50850c4e9682b5d4da5d9bf278",
+          "name": "Misc Unions"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "40"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "85"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "95"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "9"
+        }
+      ]
+    }
   ],
   "senate": [
     {

@@ -225,6 +225,243 @@
     }
   ],
   "senate": [
-
+    {
+      "entity_id": "ee58b1dc41824d21aa87f9e9063aa0e7",
+      "name": "Peter Hoekstra",
+      "chamber": "senate",
+      "state": "MI",
+      "state_name": "Michigan",
+      "district": null,
+      "party": "R",
+      "incumbent": false,
+      "bio_url": "http://en.wikipedia.org/wiki/Pete_Hoekstra",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H000676.jpg",
+      "seat_status": "C",
+      "bioguide_id": "H000676",
+      "fec_summary": {
+        "contributions_pac": "366400.00",
+        "office": "S",
+        "total_receipts_rank": 37,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "950.00",
+        "cash_on_hand_rank": 39,
+        "total_raised": "5365009.00",
+        "disbursements": "4569186.00",
+        "total_disbursements_rank": 37,
+        "date": "2012-10-18",
+        "contributions_indiv": "4991576.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "813591.00"
+      },
+      "industries": [
+        {
+          "count": "666",
+          "amount": "485814.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "312",
+          "amount": "276316.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "224",
+          "amount": "215003.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "168",
+          "amount": "154865.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        },
+        {
+          "count": "158",
+          "amount": "135314.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "219",
+          "amount": "132790.00",
+          "id": "93b0e1ce2e904638a93eb9bbcd0bb7f8",
+          "name": "Food Processing & Sales"
+        },
+        {
+          "count": "208",
+          "amount": "128260.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "84",
+          "amount": "103044.00",
+          "id": "f1c062575ca949fa92ab7066a6648bf3",
+          "name": "Air Transport"
+        },
+        {
+          "count": "113",
+          "amount": "101505.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "158",
+          "amount": "100823.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "5"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": "R"
+        }
+      ]
+    },
+    {
+      "entity_id": "f0b2ed36768d4c99b3ba68d3a553d8d8",
+      "name": "Deborah Ann Stabenow",
+      "chamber": "senate",
+      "state": "MI",
+      "state_name": "Michigan",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Debbie_Stabenow",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000770.jpg",
+      "seat_status": "I",
+      "bioguide_id": "S000770",
+      "fec_summary": {
+        "contributions_pac": "2680496.00",
+        "office": "S",
+        "total_receipts_rank": 17,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "417435.00",
+        "cash_on_hand_rank": 19,
+        "total_raised": "10182903.00",
+        "disbursements": "10200861.00",
+        "total_disbursements_rank": 17,
+        "date": "2012-10-17",
+        "contributions_indiv": "7037893.00",
+        "contributions_party": "47020.00",
+        "cash_on_hand": "2134381.00"
+      },
+      "industries": [
+        {
+          "count": "3459",
+          "amount": "2620186.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "4119",
+          "amount": "1837723.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "2030",
+          "amount": "1099673.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1121",
+          "amount": "952582.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "688",
+          "amount": "936291.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "718",
+          "amount": "699263.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "655",
+          "amount": "642192.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "260",
+          "amount": "617963.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "823",
+          "amount": "576315.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "773",
+          "amount": "552038.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "6"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "60"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "90"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": "D"
+        }
+      ]
+    }
   ]
 }

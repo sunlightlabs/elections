@@ -1,6 +1,104 @@
 {
   "house": [
-
+    {
+      "entity_id": "22042d9487784aec8d0229f66111307b",
+      "name": "Dennis Heck",
+      "chamber": "house",
+      "state": "WA",
+      "state_name": "Washington",
+      "district": "10",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": "http://en.wikipedia.org/wiki/Dennis_Heck",
+      "photo_url": "",
+      "seat_status": "O",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "703501.22",
+        "office": "H",
+        "total_receipts_rank": 119,
+        "max_rank": 717,
+        "contributions_candidate": "100000.00",
+        "transfers_in": "17344.07",
+        "cash_on_hand_rank": 412,
+        "total_raised": "1934462.38",
+        "disbursements": "1830139.65",
+        "total_disbursements_rank": 84,
+        "date": "2012-10-17",
+        "contributions_indiv": "1086751.82",
+        "contributions_party": "5013.80",
+        "cash_on_hand": "128471.32"
+      },
+      "industries": [
+        {
+          "count": "442",
+          "amount": "264182.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "270",
+          "amount": "154420.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "64",
+          "amount": "148000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "40",
+          "amount": "109500.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "126",
+          "amount": "108310.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "28",
+          "amount": "102500.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "165",
+          "amount": "92318.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "25",
+          "amount": "79500.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "38",
+          "amount": "77300.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "133",
+          "amount": "70919.00",
+          "id": "9e701425eeb14b4c874cfb4415a4ac3b",
+          "name": "Civil Servants/Public Officials"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        }
+      ]
+    }
   ],
   "senate": [
     {

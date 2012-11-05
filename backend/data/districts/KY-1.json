@@ -1,6 +1,124 @@
 {
   "house": [
-
+    {
+      "entity_id": "e8b0cb4d6afe4573a949362db4db3183",
+      "name": "Ed Whitfield",
+      "chamber": "house",
+      "state": "KY",
+      "state_name": "Kentucky",
+      "district": "1",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Ed_Whitfield",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000413.jpg",
+      "seat_status": "I",
+      "bioguide_id": "W000413",
+      "fec_summary": {
+        "contributions_pac": "1279950.00",
+        "office": "H",
+        "total_receipts_rank": 134,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 20,
+        "total_raised": "1832832.37",
+        "disbursements": "1191358.21",
+        "total_disbursements_rank": 204,
+        "date": "2012-10-17",
+        "contributions_indiv": "539195.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1693451.54"
+      },
+      "industries": [
+        {
+          "count": "1104",
+          "amount": "1119483.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "386",
+          "amount": "444865.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "349",
+          "amount": "411709.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "333",
+          "amount": "320997.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "256",
+          "amount": "260977.00",
+          "id": "8b48cb51f18f4286b8e16b2dc8e9689d",
+          "name": "Mining"
+        },
+        {
+          "count": "364",
+          "amount": "257125.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "216",
+          "amount": "255935.00",
+          "id": "d7f2ea758c734016bf689e2d06322df2",
+          "name": "Tobacco"
+        },
+        {
+          "count": "510",
+          "amount": "253405.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "225",
+          "amount": "245490.00",
+          "id": "87877eea96144b1eb8665e4754bbcd80",
+          "name": "Telephone Utilities"
+        },
+        {
+          "count": "300",
+          "amount": "243242.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "68"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "72"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "100"
+        }
+      ]
+    }
   ],
   "senate": [
 

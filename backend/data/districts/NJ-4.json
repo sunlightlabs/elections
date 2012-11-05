@@ -86,6 +86,130 @@
           "value": null
         }
       ]
+    },
+    {
+      "entity_id": "8caaa00c451748d88555ec4f325f4aba",
+      "name": "Chris Smith",
+      "chamber": "house",
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "district": "4",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Chris_Smith_%28New_Jersey_politician%29",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000522.jpg",
+      "seat_status": "I",
+      "bioguide_id": "S000522",
+      "fec_summary": {
+        "contributions_pac": "173185.91",
+        "office": "H",
+        "total_receipts_rank": 478,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 221,
+        "total_raised": "560666.05",
+        "disbursements": "331604.61",
+        "total_disbursements_rank": 520,
+        "date": "2012-10-17",
+        "contributions_indiv": "385054.85",
+        "contributions_party": "1100.00",
+        "cash_on_hand": "375461.72"
+      },
+      "industries": [
+        {
+          "count": "192",
+          "amount": "376924.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "129",
+          "amount": "197855.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "227",
+          "amount": "186936.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "435",
+          "amount": "181880.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "221",
+          "amount": "179044.00",
+          "id": "f7383a21a6214cd68f33bb86e75c25fa",
+          "name": "Abortion Policy/Pro-Life"
+        },
+        {
+          "count": "143",
+          "amount": "168500.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "165",
+          "amount": "146508.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "251",
+          "amount": "136602.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "61",
+          "amount": "110380.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "64",
+          "amount": "82650.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "60"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "44"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "80"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "0"
+        }
+      ]
     }
   ],
   "senate": [
