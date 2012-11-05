@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Tobias Schlingensiepen",
       "chamber": "house",
       "state": "KS",
       "state_name": "Kansas",
@@ -84,7 +85,6 @@
           "name": "Misc Finance"
         }
       ],
-      "name": "Tobias Schlingensiepen",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -100,6 +100,7 @@
     },
     {
       "entity_id": "eb04a699748d4d4abc698d8fe2d94188",
+      "name": "Lynn Jenkins",
       "chamber": "house",
       "state": "KS",
       "state_name": "Kansas",
@@ -188,8 +189,6 @@
           "name": "Lawyers/Law Firms"
         }
       ],
-      "senate_class": "",
-      "name": "Lynn Jenkins",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

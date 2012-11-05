@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "b1939928e8ab4dc2b50ff24fbfc1e6ff",
+      "name": "Nick Rahall",
       "chamber": "house",
       "state": "WV",
       "state_name": "West Virginia",
@@ -90,8 +91,6 @@
           "name": "Casinos/Gambling"
         }
       ],
-      "senate_class": "",
-      "name": "Nick Rahall",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -139,6 +138,7 @@
   "senate": [
     {
       "entity_id": "fea00787eb034cb2a11e8086a48db88e",
+      "name": "Joe Manchin",
       "chamber": "senate",
       "state": "WV",
       "state_name": "West Virginia",
@@ -227,8 +227,6 @@
           "name": "Lobbyists"
         }
       ],
-      "senate_class": "I",
-      "name": "Joe Manchin",
       "endorsements": [
         {
           "name": "AFL-CIO",

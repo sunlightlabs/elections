@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "16b152b77e904b2d96204fa8002c410c",
+      "name": "Emanuel Cleaver",
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
@@ -90,8 +91,6 @@
           "name": "Securities & Investment"
         }
       ],
-      "senate_class": "",
-      "name": "Emanuel Cleaver",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -137,6 +136,7 @@
     },
     {
       "entity_id": null,
+      "name": "Jacob Turk",
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
@@ -225,7 +225,6 @@
           "name": "Misc Services"
         }
       ],
-      "name": "Jacob Turk",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -238,6 +237,7 @@
   "senate": [
     {
       "entity_id": "98af4916592648c4aa992d8db00e6e5b",
+      "name": "Claire McCaskill",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",
@@ -326,8 +326,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Claire McCaskill",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -373,6 +371,7 @@
     },
     {
       "entity_id": "28e6cce459e74dcbb575fa05def946e3",
+      "name": "Todd Akin",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",
@@ -461,8 +460,6 @@
           "name": "Defense Electronics"
         }
       ],
-      "senate_class": "",
-      "name": "Todd Akin",
       "endorsements": [
         {
           "name": "Gun Owners of America",

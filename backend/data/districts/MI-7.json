@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Kurt Haskell",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -42,7 +43,6 @@
           "name": "Misc Business"
         }
       ],
-      "name": "Kurt Haskell",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -53,6 +53,7 @@
     },
     {
       "entity_id": "bd011d12bc3c49fba6cc800ffb33a586",
+      "name": "Tim Walberg",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -141,8 +142,6 @@
           "name": "Oil & Gas"
         }
       ],
-      "senate_class": "",
-      "name": "Tim Walberg",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

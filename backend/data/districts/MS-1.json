@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Brad Morris",
       "chamber": "house",
       "state": "MS",
       "state_name": "Mississippi",
@@ -90,7 +91,6 @@
           "name": "Accountants"
         }
       ],
-      "name": "Brad Morris",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -101,6 +101,7 @@
     },
     {
       "entity_id": "5f879ef4397f40d5aa225e724d26edeb",
+      "name": "Alan Nunnelee",
       "chamber": "house",
       "state": "MS",
       "state_name": "Mississippi",
@@ -189,8 +190,6 @@
           "name": "Insurance"
         }
       ],
-      "senate_class": "",
-      "name": "Alan Nunnelee",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -223,6 +222,7 @@
   "senate": [
     {
       "entity_id": "159c40291deb455596155ded63972bf4",
+      "name": "Roger Wicker",
       "chamber": "senate",
       "state": "MS",
       "state_name": "Mississippi",
@@ -311,8 +311,6 @@
           "name": "Securities & Investment"
         }
       ],
-      "senate_class": "I",
-      "name": "Roger Wicker",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

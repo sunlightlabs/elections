@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "cdc36ffaf0544515bc9588cfe52e611d",
+      "name": "Robert B Aderholt",
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
@@ -90,8 +91,6 @@
           "name": "Oil & Gas"
         }
       ],
-      "senate_class": "",
-      "name": "Robert B Aderholt",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

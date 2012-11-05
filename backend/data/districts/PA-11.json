@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Gene Stilp",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -78,7 +79,6 @@
           "name": "Telecom Services & Equipment"
         }
       ],
-      "name": "Gene Stilp",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -96,6 +96,7 @@
   "senate": [
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
+      "name": "Bob Casey",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -184,8 +185,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Bob Casey",
       "endorsements": [
         {
           "name": "League of Conservation Voters",

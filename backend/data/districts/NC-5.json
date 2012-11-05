@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Elisabeth Motsinger",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -90,7 +91,6 @@
           "name": "Oil & Gas"
         }
       ],
-      "name": "Elisabeth Motsinger",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -106,6 +106,7 @@
     },
     {
       "entity_id": "cdddc7b2e5c047109ac0a91d3ac05ee9",
+      "name": "Virginia Foxx",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -194,8 +195,6 @@
           "name": "Education"
         }
       ],
-      "senate_class": "",
-      "name": "Virginia Foxx",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

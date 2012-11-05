@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Scott Peters",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -90,7 +91,6 @@
           "name": "Public Sector Unions"
         }
       ],
-      "name": "Scott Peters",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -116,6 +116,7 @@
     },
     {
       "entity_id": "1927b0277602411da8d2a0050b3c172f",
+      "name": "Brian P Bilbray",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -204,8 +205,6 @@
           "name": "Oil & Gas"
         }
       ],
-      "senate_class": "",
-      "name": "Brian P Bilbray",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -238,6 +237,7 @@
   "senate": [
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
+      "name": "Dianne Feinstein",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -326,8 +326,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "senate_class": "I",
-      "name": "Dianne Feinstein",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -413,6 +411,7 @@
     },
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
+      "name": "Elizabeth Emken",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -501,7 +500,6 @@
           "name": "Retail Sales"
         }
       ],
-      "name": "Elizabeth Emken",
       "endorsements": [
         {
           "name": "National Rifle Association",

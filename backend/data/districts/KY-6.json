@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Andy Barr",
       "chamber": "house",
       "state": "KY",
       "state_name": "Kentucky",
@@ -90,7 +91,6 @@
           "name": "Misc Finance"
         }
       ],
-      "name": "Andy Barr",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -101,6 +101,7 @@
     },
     {
       "entity_id": "bd237e4ae7104c06941c0539431f0629",
+      "name": "Ben Chandler",
       "chamber": "house",
       "state": "KY",
       "state_name": "Kentucky",
@@ -189,8 +190,6 @@
           "name": "Real Estate"
         }
       ],
-      "senate_class": "",
-      "name": "Ben Chandler",
       "endorsements": [
         {
           "name": "Gun Owners of America",

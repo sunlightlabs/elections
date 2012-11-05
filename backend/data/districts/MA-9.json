@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "595b4e788e3e4c0a9979c25466716c49",
+      "name": "William R. Keating",
       "chamber": "house",
       "state": "MA",
       "state_name": "Massachusetts",
@@ -90,8 +91,6 @@
           "name": "Health Professionals"
         }
       ],
-      "senate_class": "",
-      "name": "William R. Keating",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -139,6 +138,7 @@
   "senate": [
     {
       "entity_id": null,
+      "name": "Elizabeth Warren",
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
@@ -227,7 +227,6 @@
           "name": "Tv/Movies/Music"
         }
       ],
-      "name": "Elizabeth Warren",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -258,6 +257,7 @@
     },
     {
       "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
+      "name": "Scott P. Brown",
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
@@ -346,8 +346,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Scott P. Brown",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

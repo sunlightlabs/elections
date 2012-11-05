@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "d455c6ec610c4c33b086293092defe32",
+      "name": "Robert C Scott",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
@@ -90,8 +91,6 @@
           "name": "Tv/Movies/Music"
         }
       ],
-      "senate_class": "",
-      "name": "Robert C Scott",
       "endorsements": [
         {
           "name": "Americans for Democratic Action",
@@ -134,6 +133,7 @@
   "senate": [
     {
       "entity_id": null,
+      "name": "Tim Kaine",
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
@@ -222,7 +222,6 @@
           "name": "Tv/Movies/Music"
         }
       ],
-      "name": "Tim Kaine",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -243,111 +242,6 @@
           "name": "Gun Owners of America",
           "type": "grade",
           "value": "F"
-        }
-      ]
-    },
-    {
-      "entity_id": "bfbf1ab73bb14028bae4b25ba11d7d0c",
-      "chamber": "senate",
-      "state": "VA",
-      "state_name": "Virginia",
-      "district": null,
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=W000803",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000803.jpg",
-      "seat_status": "I",
-      "bioguide_id": "W000803",
-      "fec_summary": {
-        "contributions_pac": "0.00",
-        "office": "S",
-        "total_receipts_rank": 227,
-        "max_rank": 231,
-        "contributions_candidate": "0.00",
-        "transfers_in": "803.00",
-        "cash_on_hand_rank": 75,
-        "total_raised": "-91655.00",
-        "disbursements": "254932.00",
-        "total_disbursements_rank": 115,
-        "date": "2012-03-31",
-        "contributions_indiv": "-23735.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "191845.00"
-      },
-      "industries": [
-        {
-          "count": "1006",
-          "amount": "653266.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "906",
-          "amount": "602579.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "1021",
-          "amount": "591986.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "218",
-          "amount": "223287.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "188",
-          "amount": "214745.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "197",
-          "amount": "158767.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "206",
-          "amount": "145511.00",
-          "id": "6e1074968db94bf4851c0245cd8583bf",
-          "name": "Women's Issues"
-        },
-        {
-          "count": "286",
-          "amount": "144397.00",
-          "id": "31657d3c187e4cecb670d228d7e674d2",
-          "name": "Education"
-        },
-        {
-          "count": "138",
-          "amount": "132249.00",
-          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
-          "name": "Tv/Movies/Music"
-        },
-        {
-          "count": "121",
-          "amount": "115249.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        }
-      ],
-      "senate_class": "I",
-      "name": "James Webb",
-      "endorsements": [
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "85"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "15"
         }
       ]
     }

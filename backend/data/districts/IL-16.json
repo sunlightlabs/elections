@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Wanda Rohl",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -42,7 +43,6 @@
           "name": "Retired"
         }
       ],
-      "name": "Wanda Rohl",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -53,6 +53,7 @@
     },
     {
       "entity_id": "8d27d097226b41be8591ea09fed36eca",
+      "name": "Adam Kinzinger",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -141,8 +142,6 @@
           "name": "Republican/Conservative"
         }
       ],
-      "senate_class": "",
-      "name": "Adam Kinzinger",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

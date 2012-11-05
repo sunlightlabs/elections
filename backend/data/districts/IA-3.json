@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "147bf690398c4fdcb37695eb402434c2",
+      "name": "Leonard L Boswell",
       "chamber": "house",
       "state": "IA",
       "state_name": "Iowa",
@@ -90,8 +91,6 @@
           "name": "Real Estate"
         }
       ],
-      "senate_class": "",
-      "name": "Leonard L Boswell",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -122,6 +121,7 @@
     },
     {
       "entity_id": "156426c3590847128b18b91c7ed7df13",
+      "name": "Tom Latham",
       "chamber": "house",
       "state": "IA",
       "state_name": "Iowa",
@@ -210,8 +210,6 @@
           "name": "Commercial Banks"
         }
       ],
-      "senate_class": "",
-      "name": "Tom Latham",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

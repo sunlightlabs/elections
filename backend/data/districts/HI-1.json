@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "3f4ac7b9b1d34cabacaf7d9ef6efb69d",
+      "name": "Colleen Hanabusa",
       "chamber": "house",
       "state": "HI",
       "state_name": "Hawaii",
@@ -90,8 +91,6 @@
           "name": "Women's Issues"
         }
       ],
-      "senate_class": "",
-      "name": "Colleen Hanabusa",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -134,6 +133,7 @@
   "senate": [
     {
       "entity_id": "79f92c32d0a244009c8c296dd4daff30",
+      "name": "Mazie K Hirono",
       "chamber": "senate",
       "state": "HI",
       "state_name": "Hawaii",
@@ -222,8 +222,6 @@
           "name": "Industrial Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Mazie K Hirono",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -269,131 +267,6 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "0"
-        }
-      ]
-    },
-    {
-      "entity_id": "ae21d1af545f4940a60cbe9db77afff4",
-      "chamber": "senate",
-      "state": "HI",
-      "state_name": "Hawaii",
-      "district": null,
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Daniel_Akaka",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000069.jpg",
-      "seat_status": "I",
-      "bioguide_id": "A000069",
-      "fec_summary": {
-        "contributions_pac": "4.00",
-        "office": "S",
-        "total_receipts_rank": 211,
-        "max_rank": 231,
-        "contributions_candidate": "7899.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 109,
-        "total_raised": "6970.00",
-        "disbursements": "54965.00",
-        "total_disbursements_rank": 158,
-        "date": "2012-06-30",
-        "contributions_indiv": "0.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "20282.00"
-      },
-      "industries": [
-        {
-          "count": "349",
-          "amount": "331717.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "157",
-          "amount": "290485.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "137",
-          "amount": "284695.00",
-          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
-          "name": "Transportation Unions"
-        },
-        {
-          "count": "95",
-          "amount": "224045.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "326",
-          "amount": "214692.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "70",
-          "amount": "189600.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "108",
-          "amount": "167650.00",
-          "id": "bf2cfae020b84fae915ee48e8e15ea87",
-          "name": "Pro-Israel"
-        },
-        {
-          "count": "169",
-          "amount": "160800.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "208",
-          "amount": "157418.00",
-          "id": "75a85fa019274ab5ae3cc83b5a68972e",
-          "name": "Construction Services"
-        },
-        {
-          "count": "148",
-          "amount": "156110.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        }
-      ],
-      "senate_class": "I",
-      "name": "Daniel K Akaka",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "40"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "85"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "9"
         }
       ]
     }

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "4bf3c6ea1d7f420c965a91945b435ea8",
+      "name": "Steny H Hoyer",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
@@ -90,8 +91,6 @@
           "name": "Transportation Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Steny H Hoyer",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -139,6 +138,7 @@
   "senate": [
     {
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
+      "name": "Ben Cardin",
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
@@ -227,8 +227,6 @@
           "name": "Public Sector Unions"
         }
       ],
-      "senate_class": "I",
-      "name": "Ben Cardin",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",

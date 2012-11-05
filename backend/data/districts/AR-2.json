@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "a78d6b50065444d4b2d329c245055194",
+      "name": "Tim Griffin",
       "chamber": "house",
       "state": "AR",
       "state_name": "Arkansas",
@@ -90,8 +91,6 @@
           "name": "Republican/Conservative"
         }
       ],
-      "senate_class": "",
-      "name": "Tim Griffin",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -127,6 +126,7 @@
     },
     {
       "entity_id": null,
+      "name": "Herb Rule",
       "chamber": "house",
       "state": "AR",
       "state_name": "Arkansas",
@@ -197,7 +197,6 @@
           "name": "Non-Profit Institutions"
         }
       ],
-      "name": "Herb Rule",
       "endorsements": [
         {
           "name": "Gun Owners of America",

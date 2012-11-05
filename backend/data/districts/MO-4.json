@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Teresa Hensley",
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
@@ -90,7 +91,6 @@
           "name": "Civil Servants/Public Officials"
         }
       ],
-      "name": "Teresa Hensley",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -106,6 +106,7 @@
     },
     {
       "entity_id": "67eee71321b545f0b04b910fa8b9ff1a",
+      "name": "Vicky Hartzler",
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
@@ -194,8 +195,6 @@
           "name": "Misc Manufacturing & Distributing"
         }
       ],
-      "senate_class": "",
-      "name": "Vicky Hartzler",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -233,6 +232,7 @@
   "senate": [
     {
       "entity_id": "98af4916592648c4aa992d8db00e6e5b",
+      "name": "Claire McCaskill",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",
@@ -321,8 +321,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Claire McCaskill",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -368,6 +366,7 @@
     },
     {
       "entity_id": "28e6cce459e74dcbb575fa05def946e3",
+      "name": "Todd Akin",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",
@@ -456,8 +455,6 @@
           "name": "Defense Electronics"
         }
       ],
-      "senate_class": "",
-      "name": "Todd Akin",
       "endorsements": [
         {
           "name": "Gun Owners of America",

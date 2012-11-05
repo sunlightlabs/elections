@@ -5,6 +5,7 @@
   "senate": [
     {
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
+      "name": "Ben Cardin",
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
@@ -93,8 +94,6 @@
           "name": "Public Sector Unions"
         }
       ],
-      "senate_class": "I",
-      "name": "Ben Cardin",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "4194d12bd85c4262827926a43e388429",
+      "name": "Hank Johnson",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
@@ -90,8 +91,6 @@
           "name": "Transportation Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Hank Johnson",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Karen Porterfield",
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
@@ -66,7 +67,6 @@
           "name": "Education"
         }
       ],
-      "name": "Karen Porterfield",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -77,6 +77,7 @@
     },
     {
       "entity_id": "2fbb2c967019428a807acafa1c6d39cc",
+      "name": "Dave Reichert",
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
@@ -165,8 +166,6 @@
           "name": "Air Transport"
         }
       ],
-      "senate_class": "",
-      "name": "Dave Reichert",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -199,6 +198,7 @@
   "senate": [
     {
       "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
+      "name": "Maria Cantwell",
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",
@@ -287,8 +287,6 @@
           "name": "Casinos/Gambling"
         }
       ],
-      "senate_class": "I",
-      "name": "Maria Cantwell",
       "endorsements": [
         {
           "name": "League of Conservation Voters",

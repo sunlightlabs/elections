@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "John Ewing",
       "chamber": "house",
       "state": "NE",
       "state_name": "Nebraska",
@@ -90,7 +91,6 @@
           "name": "Civil Servants/Public Officials"
         }
       ],
-      "name": "John Ewing",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -106,6 +106,7 @@
     },
     {
       "entity_id": "066c5ae891da4d069d613d8c90be714b",
+      "name": "Lee Terry",
       "chamber": "house",
       "state": "NE",
       "state_name": "Nebraska",
@@ -194,8 +195,6 @@
           "name": "Tv/Movies/Music"
         }
       ],
-      "senate_class": "",
-      "name": "Lee Terry",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -228,6 +227,7 @@
   "senate": [
     {
       "entity_id": "f1e3264dc9d548219ba5290661c56c3a",
+      "name": "Bob Kerrey",
       "chamber": "senate",
       "state": "NE",
       "state_name": "Nebraska",
@@ -316,7 +316,6 @@
           "name": "Hospitals/Nursing Homes"
         }
       ],
-      "name": "Bob Kerrey",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -332,6 +331,7 @@
     },
     {
       "entity_id": null,
+      "name": "Debra S. Fischer",
       "chamber": "senate",
       "state": "NE",
       "state_name": "Nebraska",
@@ -420,112 +420,11 @@
           "name": "Health Professionals"
         }
       ],
-      "name": "Debra S. Fischer",
       "endorsements": [
         {
           "name": "Gun Owners of America",
           "type": "grade",
           "value": "A"
-        }
-      ]
-    },
-    {
-      "entity_id": "96a8615e99f3470cae19d800df08d3d3",
-      "chamber": "senate",
-      "state": "NE",
-      "state_name": "Nebraska",
-      "district": null,
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=N000180",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/N000180.jpg",
-      "seat_status": "I",
-      "bioguide_id": "N000180",
-      "fec_summary": {
-        "contributions_pac": "1245929.00",
-        "office": "S",
-        "total_receipts_rank": 55,
-        "max_rank": 231,
-        "contributions_candidate": "0.00",
-        "transfers_in": "18250.00",
-        "cash_on_hand_rank": 62,
-        "total_raised": "1656485.00",
-        "disbursements": "3548364.00",
-        "total_disbursements_rank": 29,
-        "date": "2012-06-30",
-        "contributions_indiv": "901216.00",
-        "contributions_party": "43100.00",
-        "cash_on_hand": "555448.00"
-      },
-      "industries": [
-        {
-          "count": "1411",
-          "amount": "1612148.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "1388",
-          "amount": "1090261.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "530",
-          "amount": "617913.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "964",
-          "amount": "614689.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "482",
-          "amount": "539505.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "464",
-          "amount": "486061.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "167",
-          "amount": "468500.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "346",
-          "amount": "446182.00",
-          "id": "08c1fa7788994f148eddfb78c10032cf",
-          "name": "Pharmaceuticals/Health Products"
-        },
-        {
-          "count": "395",
-          "amount": "403170.00",
-          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
-          "name": "Commercial Banks"
-        },
-        {
-          "count": "267",
-          "amount": "388136.00",
-          "id": "c3081aa14b0141df8d47684635bc0b26",
-          "name": "Agricultural Services/Products"
-        }
-      ],
-      "senate_class": "I",
-      "name": "Ben Nelson",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "70"
         }
       ]
     }

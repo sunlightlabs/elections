@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "bef0722c43dc482299d75fa90f163944",
+      "name": "Dave Camp",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -90,8 +91,6 @@
           "name": "Lawyers/Law Firms"
         }
       ],
-      "senate_class": "",
-      "name": "Dave Camp",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

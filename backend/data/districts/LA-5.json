@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "09e41498c9ea48fd9d285e70579f4c06",
+      "name": "Rodney Alexander",
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",
@@ -90,8 +91,6 @@
           "name": "Real Estate"
         }
       ],
-      "senate_class": "",
-      "name": "Rodney Alexander",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

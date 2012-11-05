@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Syed Taj",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -90,7 +91,6 @@
           "name": "Civil Servants/Public Officials"
         }
       ],
-      "name": "Syed Taj",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",

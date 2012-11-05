@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "6f48017cfaf24da1be8f3fca4b637597",
+      "name": "Kurt Schrader",
       "chamber": "house",
       "state": "OR",
       "state_name": "Oregon",
@@ -90,8 +91,6 @@
           "name": "Transportation Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Kurt Schrader",
       "endorsements": [
         {
           "name": "AFL-CIO",

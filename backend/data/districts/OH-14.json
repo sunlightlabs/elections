@@ -1,129 +1,11 @@
 {
   "house": [
-    {
-      "entity_id": "f994a3a0311448d5a22ea9cf1296b24a",
-      "chamber": "house",
-      "state": "OH",
-      "state_name": "Ohio",
-      "district": "14",
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Steve_LaTourette",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000553.jpg",
-      "seat_status": "I",
-      "bioguide_id": "L000553",
-      "fec_summary": {
-        "contributions_pac": "721265.06",
-        "office": "H",
-        "total_receipts_rank": 203,
-        "max_rank": 695,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 202,
-        "total_raised": "1068039.03",
-        "disbursements": "719606.03",
-        "total_disbursements_rank": 167,
-        "date": "2012-06-30",
-        "contributions_indiv": "345765.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "615445.28"
-      },
-      "industries": [
-        {
-          "count": "413",
-          "amount": "614250.00",
-          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
-          "name": "Transportation Unions"
-        },
-        {
-          "count": "816",
-          "amount": "580120.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "424",
-          "amount": "479667.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "421",
-          "amount": "386675.00",
-          "id": "13ca840788944cc79b362d068985fc73",
-          "name": "Misc Manufacturing & Distributing"
-        },
-        {
-          "count": "169",
-          "amount": "378400.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "500",
-          "amount": "362075.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "228",
-          "amount": "300975.00",
-          "id": "bf2cfae020b84fae915ee48e8e15ea87",
-          "name": "Pro-Israel"
-        },
-        {
-          "count": "298",
-          "amount": "295580.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "121",
-          "amount": "282191.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "275",
-          "amount": "256600.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        }
-      ],
-      "senate_class": "",
-      "name": "Steven C LaTourette",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "78"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "61"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "52.17"
-        }
-      ]
-    }
+
   ],
   "senate": [
     {
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
+      "name": "Sherrod Brown",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -212,8 +94,6 @@
           "name": "Industrial Unions"
         }
       ],
-      "senate_class": "I",
-      "name": "Sherrod Brown",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -264,6 +144,7 @@
     },
     {
       "entity_id": null,
+      "name": "Josh Mandel",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -352,7 +233,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "name": "Josh Mandel",
       "endorsements": [
         {
           "name": "Gun Owners of America",

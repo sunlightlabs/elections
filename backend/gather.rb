@@ -23,7 +23,19 @@ def house_races
   end
 end
 
-def main
+def bp_house
+  @bp_house ||= Oj.load(File.open("ballotpedia/house_candidates.json"))
+end
+
+def bp_senate
+  @bp_senate ||= Oj.load(File.open("ballotpedia/senate_candidates.json"))
+end
+
+def options
+  @options ||= load_options
+end
+
+def load_options
   options = {}
 
   ARGV[0..-1].each do |arg|
@@ -33,10 +45,13 @@ def main
     end
   end
 
+  options
+end
 
-  not_candidates = [
-    "6ee0ac519a08490594ec3fbce3ce3d8e" # Ron Paul
-  ]
+def main
+  # not_candidates = [
+  #   "6ee0ac519a08490594ec3fbce3ce3d8e" # Ron Paul
+  # ]
   
   # initialize candidate holders
 
@@ -57,22 +72,12 @@ def main
     i += 1
     next if i == 1
 
-    print "." if i % 100 == 0
+    print "." if !options[:debug] and (i % 100 == 0)
 
     entity_id = row[0]
-    next if not_candidates.include?(entity_id)
+    # next if not_candidates.include?(entity_id)
     
-    candidate = candidate_for entity_id, options
-
-    if candidate[:senate_class] and (candidate[:senate_class] != "") and (candidate[:senate_class] != "I")
-      # puts "[#{entity_id}] Skipping senator, not up for election"
-      next
-    end
-
-    if candidate[:seat_status] == ""
-      # puts "[#{entity_id}] Skipping, not up for election" if options[:debug]
-      next
-    end
+    next unless candidate = candidate_for(entity_id, options)
     
     candidate_name = row[1]
 
@@ -116,9 +121,6 @@ def main
   # go through house and senate districts and 
   # bunch them up by all races relevant to a district
 
-  missing_house = {}
-  missing_senate = {}
-
   districts = {}
   houses.each do |district, candidates|
     state = district.split("-").first
@@ -143,6 +145,9 @@ def main
   # guess at what's missing
 
   if options[:missing]
+
+    missing_house = {}
+    missing_senate = {}
   
     houses.each do |district, candidates|
       if candidates.values.size < 2
@@ -177,8 +182,9 @@ def candidate_for(entity_id, options = {})
   if (seat !~ /^federal/) or (seat !~ /(house|senate)/)
 
     prez_house = [
-      "d4407eb6730341758ad300fc09f6a8a8", # Kucinich
-      "86b2f97e11fc4a87be8d621fd46fc7e6"  # Bachmann
+      "d4407eb6730341758ad300fc09f6a8a8",  # Kucinich
+      "86b2f97e11fc4a87be8d621fd46fc7e6",  # Bachmann
+      "6ee0ac519a08490594ec3fbce3ce3d8e",  # Paul
     ]
     
     if prez_house.include?(entity_id)
@@ -207,20 +213,38 @@ def candidate_for(entity_id, options = {})
       if district == "1"
         district = "at_large"
       else
-        puts state
-        puts district
-        puts "[#{entity_id}] Error, couldn't find correct district"
+        puts "[#{entity_id}] Error, couldn't find correct district: #{state}-#{district}"
         exit
       end
     end
   end
 
+  if chamber == "senate"
+    if !senate_races.include?(state)
+      puts "[#{entity_id}] No senate race in state, skipping" if options[:debug]
+      return nil
+    end
+  end
+
+  # validate that this person is running
+
+  unless ballotpedia_name = ballotpedia_name_for(details['name'], chamber, state, district)
+    # puts "[#{entity_id}][#{details['name']}] Couldn't find in Ballotpedia, skipping" if options[:skips]
+    return nil
+  end
+
+  # if it's valid, find a photo
+  photo = photo_filename_for ballotpedia_name, chamber, state, district
+
   candidate = {
     entity_id: metadata['entity'],
 
+    # name and photo
+    name: details['name'],
+
     # basic bio
     chamber: chamber,
-    state: metadata['state'],
+    state: state,
     state_name: state_map[metadata['state']],
     district: district,
     party: metadata['party'],
@@ -245,13 +269,27 @@ def candidate_for(entity_id, options = {})
   industries = download url, options.merge(destination: destination)
   candidate[:industries] = process_industries industries
 
-  if candidate[:bioguide_id] and (candidate[:bioguide_id] != "")
-    url = sunlight_url_for candidate[:bioguide_id], options[:key]
-    destination = cache_for entity_id, :sunlight
-    result = download url, options.merge(destination: destination)
-    senate_class = result['response']['legislator']['senate_class']
-    candidate[:senate_class] = senate_class
-  end
+  # if candidate[:bioguide_id] and (candidate[:bioguide_id] != "")
+  #   url = sunlight_url_for candidate[:bioguide_id], options[:key]
+  #   destination = cache_for entity_id, :sunlight
+  #   result = download url, options.merge(destination: destination)
+  #   senate_class = result['response']['legislator']['senate_class']
+  #   candidate[:senate_class] = senate_class
+  # end
+  
+  
+  # checks to see if this candidate is valid
+
+  # if candidate[:senate_class] and (candidate[:senate_class] != "") and (candidate[:senate_class] != "I")
+  #   puts "[#{entity_id}] Skipping senator, not up for election"
+  #   return nil
+  # end
+
+  # if candidate[:seat_status] == ""
+  #   puts "[#{entity_id}] Skipping, not up for election"
+  #   return nil
+  # end
+
 
   candidate
 end
@@ -279,6 +317,65 @@ end
 
 def output_for(district)
   "data/districts/#{district}.json"
+end
+
+# match name against ballotpedia data
+def ballotpedia_name_for(name, chamber, state, district)
+  lastname = name.split(" ")[-2]
+  if lastname =~ /^Jr\.?/i
+    lastname = name.split(" ")[-3]
+  end
+
+  if chamber == "house"
+    candidates = bp_house[state][district]
+  else
+    candidates = bp_senate[state]
+  end
+
+  unless candidates
+    puts "[#{chamber}][#{state}][#{district}](#{name}) No district found"
+    exit
+  end
+
+  matches = candidates.select {|candidate| candidate['candidate'] =~ /#{lastname}/i}
+  if matches.size > 1
+    puts "Whoa, multiple matches: #{name} #{chamber} #{state} #{district}"
+    exit
+  elsif matches.size < 1
+    puts "[#{name}][#{chamber}][#{state}][#{district}] No match for #{lastname}, skipping" if options[:skips]
+    nil
+  else
+    if !["D", "R", "I"].include?(matches.first['party'])
+      puts "[#{name}][#{chamber}][#{state}][#{district}] Not doing third parties for #{lastname}, skipping" if options[:skips]
+    end
+
+    # puts "[#{name}][#{chamber}][#{state}][#{district}] MATCHED #{lastname}"
+    matches.first['candidate']
+  end
+end
+
+# get filename from thumbs directory
+def photo_filename_for(ballotpedia_name, chamber, state, district)
+  lastname = ballotpedia_name.split(" ")[-1]
+  if lastname =~ /^Jr\.?/i
+    lastname = ballotpedia_name.split(" ")[-2]
+  end
+
+  # filename = ballotpedia_name.tr " ", "_"
+  place = (chamber == "house") ? [state, district].join("-") : state
+  files = Dir.glob("thumbs/#{chamber}_images_ac/#{place}/*").map {|p| File.basename p}
+  matches = files.select {|f| f =~ /#{lastname}/i}
+  if matches.size != 1
+    puts "[#{ballotpedia_name}](#{lastname}) NO PHOTO - #{place} (#{chamber}) - #{files}"
+    # exit
+  end
+
+  matches.first
+end
+
+def lastname_for(name)
+  
+  lastname
 end
 
 # remove should_show_entity field, clean up name

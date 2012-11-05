@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Cheri Bustos",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -90,7 +91,6 @@
           "name": "Real Estate"
         }
       ],
-      "name": "Cheri Bustos",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -111,6 +111,7 @@
     },
     {
       "entity_id": "366ee1660de94c6ca630b115061a96a9",
+      "name": "Bobby Schilling",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -199,8 +200,6 @@
           "name": "Food & Beverage"
         }
       ],
-      "senate_class": "",
-      "name": "Bobby Schilling",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

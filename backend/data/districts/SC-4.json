@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "7d251247056c429c9ece4d1adb852289",
+      "name": "Trey Gowdy",
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
@@ -90,8 +91,6 @@
           "name": "Food & Beverage"
         }
       ],
-      "senate_class": "",
-      "name": "Trey Gowdy",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

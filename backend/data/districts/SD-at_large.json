@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Matt Varilek",
       "chamber": "house",
       "state": "SD",
       "state_name": "South Dakota",
@@ -90,7 +91,6 @@
           "name": "Commercial Banks"
         }
       ],
-      "name": "Matt Varilek",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -101,6 +101,7 @@
     },
     {
       "entity_id": "168ab1953d4f4d30a985f9bd41ccc89a",
+      "name": "Kristi Lynn Noem",
       "chamber": "house",
       "state": "SD",
       "state_name": "South Dakota",
@@ -189,8 +190,6 @@
           "name": "Real Estate"
         }
       ],
-      "senate_class": "",
-      "name": "Kristi Lynn Noem",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

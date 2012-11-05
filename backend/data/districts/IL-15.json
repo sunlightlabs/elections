@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Angela Michael",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -36,7 +37,6 @@
           "name": "Oil & Gas"
         }
       ],
-      "name": "Angela Michael",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -47,6 +47,7 @@
     },
     {
       "entity_id": "8167ea8dacaf42c2b5f82272eabca661",
+      "name": "John M Shimkus",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -135,8 +136,6 @@
           "name": "Lawyers/Law Firms"
         }
       ],
-      "senate_class": "",
-      "name": "John M Shimkus",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

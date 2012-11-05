@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "a26d4d7dd1754d4a863d55087a52b2a8",
+      "name": "Mark Critz",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -90,8 +91,6 @@
           "name": "Lobbyists"
         }
       ],
-      "senate_class": "",
-      "name": "Mark Critz",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -137,6 +136,7 @@
     },
     {
       "entity_id": "eb3523863f0c4b26ad49958c081596df",
+      "name": "Keith J. Rothfus",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -225,7 +225,6 @@
           "name": "Real Estate"
         }
       ],
-      "name": "Keith J. Rothfus",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -233,131 +232,12 @@
           "value": "A"
         }
       ]
-    },
-    {
-      "entity_id": "554bcb86b2bf40709ef5cd7ec79013b1",
-      "chamber": "house",
-      "state": "PA",
-      "state_name": "Pennsylvania",
-      "district": "12",
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Jason_Altmire",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000362.jpg",
-      "seat_status": "I",
-      "bioguide_id": "A000362",
-      "fec_summary": {
-        "contributions_pac": "916539.23",
-        "office": "H",
-        "total_receipts_rank": 105,
-        "max_rank": 1515,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 1056,
-        "total_raised": "1486580.54",
-        "disbursements": "1643917.92",
-        "total_disbursements_rank": 39,
-        "date": "2012-09-13",
-        "contributions_indiv": "648056.17",
-        "contributions_party": "14.30",
-        "cash_on_hand": "2006.58"
-      },
-      "industries": [
-        {
-          "count": "711",
-          "amount": "441222.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "337",
-          "amount": "338710.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "347",
-          "amount": "326857.00",
-          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
-          "name": "Hospitals/Nursing Homes"
-        },
-        {
-          "count": "240",
-          "amount": "305915.00",
-          "id": "08c1fa7788994f148eddfb78c10032cf",
-          "name": "Pharmaceuticals/Health Products"
-        },
-        {
-          "count": "431",
-          "amount": "273791.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "127",
-          "amount": "260162.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "77",
-          "amount": "213300.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "162",
-          "amount": "207398.00",
-          "id": "8b48cb51f18f4286b8e16b2dc8e9689d",
-          "name": "Mining"
-        },
-        {
-          "count": "208",
-          "amount": "190585.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "165",
-          "amount": "183849.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        }
-      ],
-      "senate_class": "",
-      "name": "Jason Altmire",
-      "endorsements": [
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "35"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "35"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "20"
-        },
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "80"
-        }
-      ]
     }
   ],
   "senate": [
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
+      "name": "Bob Casey",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -446,8 +326,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Bob Casey",
       "endorsements": [
         {
           "name": "League of Conservation Voters",

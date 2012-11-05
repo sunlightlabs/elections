@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "0cabf0ea074544408515ffcf5b6d8bef",
+      "name": "Kenny Marchant",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -90,8 +91,6 @@
           "name": "Credit Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Kenny Marchant",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -124,6 +123,7 @@
   "senate": [
     {
       "entity_id": null,
+      "name": "Ted Cruz",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",
@@ -212,7 +212,6 @@
           "name": "Hospitals/Nursing Homes"
         }
       ],
-      "name": "Ted Cruz",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -233,126 +232,6 @@
           "name": "Family Research Council",
           "type": "endorsement",
           "value": null
-        }
-      ]
-    },
-    {
-      "entity_id": "967babfa02094120af17d5b0be021f32",
-      "chamber": "senate",
-      "state": "TX",
-      "state_name": "Texas",
-      "district": null,
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=H001016",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001016.jpg",
-      "seat_status": "I",
-      "bioguide_id": "H001016",
-      "fec_summary": {
-        "contributions_pac": "2000.00",
-        "office": "S",
-        "total_receipts_rank": 212,
-        "max_rank": 231,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 86,
-        "total_raised": "2428.00",
-        "disbursements": "71338.00",
-        "total_disbursements_rank": 151,
-        "date": "2012-06-30",
-        "contributions_indiv": "4909.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "89445.00"
-      },
-      "industries": [
-        {
-          "count": "2527",
-          "amount": "2136925.00",
-          "id": "52766c4910a846f2813a1dda212b7027",
-          "name": "Oil & Gas"
-        },
-        {
-          "count": "2445",
-          "amount": "1783348.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "2442",
-          "amount": "1404702.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "1716",
-          "amount": "1241832.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        },
-        {
-          "count": "1668",
-          "amount": "937840.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "1006",
-          "amount": "808992.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "1061",
-          "amount": "791506.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "977",
-          "amount": "781256.00",
-          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
-          "name": "Commercial Banks"
-        },
-        {
-          "count": "734",
-          "amount": "623950.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "760",
-          "amount": "551601.00",
-          "id": "767c434bfd1348638bab7f8c12b9282f",
-          "name": "Republican/Conservative"
-        }
-      ],
-      "senate_class": "I",
-      "name": "Kay Bailey Hutchison",
-      "endorsements": [
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "F"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "89"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "79"
         }
       ]
     }

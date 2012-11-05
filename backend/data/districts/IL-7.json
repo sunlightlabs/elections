@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "776e8941d0cc408e9cc9cdfed00c6ce9",
+      "name": "Danny K Davis",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -90,8 +91,6 @@
           "name": "Misc Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Danny K Davis",
       "endorsements": [
         {
           "name": "AFL-CIO",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Rick Nolan",
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
@@ -90,7 +91,6 @@
           "name": "Misc Unions"
         }
       ],
-      "name": "Rick Nolan",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -110,106 +110,8 @@
       ]
     },
     {
-      "entity_id": "57d100e4cc65404295a2ca87b0ac65b0",
-      "chamber": "house",
-      "state": "MN",
-      "state_name": "Minnesota",
-      "district": "8",
-      "party": "D",
-      "incumbent": false,
-      "bio_url": "http://en.wikipedia.org/wiki/Tarryl_Clark",
-      "photo_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Senator_Tarryl_Clark.jpg/225px-Senator_Tarryl_Clark.jpg",
-      "seat_status": "C",
-      "bioguide_id": null,
-      "fec_summary": {
-        "contributions_pac": "33021.97",
-        "office": "H",
-        "total_receipts_rank": 210,
-        "max_rank": 1515,
-        "contributions_candidate": "0.00",
-        "transfers_in": "14250.00",
-        "cash_on_hand_rank": 576,
-        "total_raised": "1163925.17",
-        "disbursements": "1097783.44",
-        "total_disbursements_rank": 95,
-        "date": "2012-07-25",
-        "contributions_indiv": "1087412.60",
-        "contributions_party": "135.77",
-        "cash_on_hand": "98746.16"
-      },
-      "industries": [
-        {
-          "count": "795",
-          "amount": "386424.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "622",
-          "amount": "308446.00",
-          "id": "6e1074968db94bf4851c0245cd8583bf",
-          "name": "Women's Issues"
-        },
-        {
-          "count": "327",
-          "amount": "164722.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "143",
-          "amount": "84355.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "27",
-          "amount": "66000.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "165",
-          "amount": "63363.00",
-          "id": "31657d3c187e4cecb670d228d7e674d2",
-          "name": "Education"
-        },
-        {
-          "count": "18",
-          "amount": "57250.00",
-          "id": "d22cf14b1cd349b79f2b656b450b3b88",
-          "name": "Industrial Unions"
-        },
-        {
-          "count": "28",
-          "amount": "49750.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "15",
-          "amount": "44950.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "21",
-          "amount": "43200.00",
-          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
-          "name": "Transportation Unions"
-        }
-      ],
-      "name": "Tarryl Clark",
-      "endorsements": [
-        {
-          "name": "National Organization of Women (NOW)",
-          "type": "endorsement",
-          "value": "Y"
-        }
-      ]
-    },
-    {
       "entity_id": "84ed292090264b29958cb55388e7c633",
+      "name": "Chip Cravaack",
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
@@ -298,8 +200,6 @@
           "name": "Lawyers/Law Firms"
         }
       ],
-      "senate_class": "",
-      "name": "Chip Cravaack",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -337,6 +237,7 @@
   "senate": [
     {
       "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
+      "name": "Amy Klobuchar",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
@@ -425,8 +326,6 @@
           "name": "Health Professionals"
         }
       ],
-      "senate_class": "I",
-      "name": "Amy Klobuchar",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -472,6 +371,7 @@
     },
     {
       "entity_id": null,
+      "name": "Kurt Bills",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
@@ -560,7 +460,6 @@
           "name": "Real Estate"
         }
       ],
-      "name": "Kurt Bills",
       "endorsements": [
         {
           "name": "Gun Owners of America",

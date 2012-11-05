@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "af2b64366ab344838ddd6352ffb223dc",
+      "name": "Bruce Braley",
       "chamber": "house",
       "state": "IA",
       "state_name": "Iowa",
@@ -90,8 +91,6 @@
           "name": "Pharmaceuticals/Health Products"
         }
       ],
-      "senate_class": "",
-      "name": "Bruce Braley",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "578bae17515c4ac89c8f4abe2f2806aa",
+      "name": "Michael R Turner",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
@@ -90,8 +91,6 @@
           "name": "Defense Aerospace"
         }
       ],
-      "senate_class": "",
-      "name": "Michael R Turner",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -119,131 +118,12 @@
           "value": "72"
         }
       ]
-    },
-    {
-      "entity_id": "1297193941f948169bee19234c9b89d3",
-      "chamber": "house",
-      "state": "OH",
-      "state_name": "Ohio",
-      "district": "10",
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Steve_Austria",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000365.jpg",
-      "seat_status": "I",
-      "bioguide_id": "A000365",
-      "fec_summary": {
-        "contributions_pac": "158925.00",
-        "office": "H",
-        "total_receipts_rank": 502,
-        "max_rank": 1515,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 420,
-        "total_raised": "501962.81",
-        "disbursements": "469733.11",
-        "total_disbursements_rank": 418,
-        "date": "2012-06-30",
-        "contributions_indiv": "343308.27",
-        "contributions_party": "0.00",
-        "cash_on_hand": "268569.45"
-      },
-      "industries": [
-        {
-          "count": "125",
-          "amount": "135350.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "50",
-          "amount": "116434.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "146",
-          "amount": "95119.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "91",
-          "amount": "94534.00",
-          "id": "042288e0185a44ec82982814c69abdca",
-          "name": "Computers/Internet"
-        },
-        {
-          "count": "86",
-          "amount": "85600.00",
-          "id": "a6997a5a0f674bbc9c371d8e99377259",
-          "name": "Electric Utilities"
-        },
-        {
-          "count": "70",
-          "amount": "84850.00",
-          "id": "13ca840788944cc79b362d068985fc73",
-          "name": "Misc Manufacturing & Distributing"
-        },
-        {
-          "count": "83",
-          "amount": "70819.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "48",
-          "amount": "70250.00",
-          "id": "f7959bfcdd044aa58cfb2e335cfc67e6",
-          "name": "Misc Defense"
-        },
-        {
-          "count": "65",
-          "amount": "59900.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "46",
-          "amount": "55200.00",
-          "id": "08c1fa7788994f148eddfb78c10032cf",
-          "name": "Pharmaceuticals/Health Products"
-        }
-      ],
-      "senate_class": "",
-      "name": "Steve C Austria",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "F"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "73"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "80"
-        }
-      ]
     }
   ],
   "senate": [
     {
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
+      "name": "Sherrod Brown",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -332,8 +212,6 @@
           "name": "Industrial Unions"
         }
       ],
-      "senate_class": "I",
-      "name": "Sherrod Brown",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -384,6 +262,7 @@
     },
     {
       "entity_id": null,
+      "name": "Josh Mandel",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -472,7 +351,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "name": "Josh Mandel",
       "endorsements": [
         {
           "name": "Gun Owners of America",

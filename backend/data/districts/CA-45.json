@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Sukhee Kang",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -90,7 +91,6 @@
           "name": "Misc Manufacturing & Distributing"
         }
       ],
-      "name": "Sukhee Kang",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -106,6 +106,7 @@
     },
     {
       "entity_id": "4f44f713073e4136a97d7f80232e60d9",
+      "name": "John Campbell",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -194,8 +195,6 @@
           "name": "Leadership Pacs"
         }
       ],
-      "senate_class": "",
-      "name": "John Campbell",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -228,6 +227,7 @@
   "senate": [
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
+      "name": "Dianne Feinstein",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -316,8 +316,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "senate_class": "I",
-      "name": "Dianne Feinstein",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -403,6 +401,7 @@
     },
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
+      "name": "Elizabeth Emken",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -491,7 +490,6 @@
           "name": "Retail Sales"
         }
       ],
-      "name": "Elizabeth Emken",
       "endorsements": [
         {
           "name": "National Rifle Association",

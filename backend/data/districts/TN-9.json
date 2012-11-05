@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "George S. Flinn Jr",
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
@@ -90,7 +91,6 @@
           "name": "Beer, Wine & Liquor"
         }
       ],
-      "name": "George S. Flinn Jr",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -108,6 +108,7 @@
   "senate": [
     {
       "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
+      "name": "Bob Corker",
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",
@@ -196,8 +197,6 @@
           "name": "General Contractors"
         }
       ],
-      "senate_class": "I",
-      "name": "Bob Corker",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

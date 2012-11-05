@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "aac4b4e13e554061be7a38f4229daa7d",
+      "name": "Shelley Moore Capito",
       "chamber": "house",
       "state": "WV",
       "state_name": "West Virginia",
@@ -90,8 +91,6 @@
           "name": "Securities & Investment"
         }
       ],
-      "senate_class": "",
-      "name": "Shelley Moore Capito",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -124,6 +123,7 @@
   "senate": [
     {
       "entity_id": "fea00787eb034cb2a11e8086a48db88e",
+      "name": "Joe Manchin",
       "chamber": "senate",
       "state": "WV",
       "state_name": "West Virginia",
@@ -212,8 +212,6 @@
           "name": "Lobbyists"
         }
       ],
-      "senate_class": "I",
-      "name": "Joe Manchin",
       "endorsements": [
         {
           "name": "AFL-CIO",

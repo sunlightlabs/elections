@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Elizabeth Esty",
       "chamber": "house",
       "state": "CT",
       "state_name": "Connecticut",
@@ -90,7 +91,6 @@
           "name": "Pharmaceuticals/Health Products"
         }
       ],
-      "name": "Elizabeth Esty",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -107,106 +107,8 @@
   ],
   "senate": [
     {
-      "entity_id": null,
-      "chamber": "senate",
-      "state": "CT",
-      "state_name": "Connecticut",
-      "district": null,
-      "party": "D",
-      "incumbent": false,
-      "bio_url": null,
-      "photo_url": null,
-      "seat_status": "O",
-      "bioguide_id": null,
-      "fec_summary": {
-        "contributions_pac": "17850.00",
-        "office": "S",
-        "total_receipts_rank": 59,
-        "max_rank": 231,
-        "contributions_candidate": "7625.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 58,
-        "total_raised": "2275720.00",
-        "disbursements": "1633846.00",
-        "total_disbursements_rank": 56,
-        "date": "2012-07-25",
-        "contributions_indiv": "2248100.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "672984.00"
-      },
-      "industries": [
-        {
-          "count": "484",
-          "amount": "366725.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "218",
-          "amount": "150650.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "243",
-          "amount": "150245.00",
-          "id": "6e1074968db94bf4851c0245cd8583bf",
-          "name": "Women's Issues"
-        },
-        {
-          "count": "71",
-          "amount": "105900.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "112",
-          "amount": "56987.00",
-          "id": "31657d3c187e4cecb670d228d7e674d2",
-          "name": "Education"
-        },
-        {
-          "count": "72",
-          "amount": "56060.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "41",
-          "amount": "40800.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "26",
-          "amount": "30150.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        },
-        {
-          "count": "40",
-          "amount": "29376.00",
-          "id": "d9c4a26cd671436eac3c501184364fc4",
-          "name": "Misc Business"
-        },
-        {
-          "count": "25",
-          "amount": "24350.00",
-          "id": "042288e0185a44ec82982814c69abdca",
-          "name": "Computers/Internet"
-        }
-      ],
-      "name": "Susan Bysiewicz",
-      "endorsements": [
-        {
-          "name": "National Organization of Women (NOW)",
-          "type": "endorsement",
-          "value": "Y"
-        }
-      ]
-    },
-    {
       "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
+      "name": "Chris Murphy",
       "chamber": "senate",
       "state": "CT",
       "state_name": "Connecticut",
@@ -295,111 +197,9 @@
           "name": "Public Sector Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Chris Murphy",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
-          "type": "endorsement",
-          "value": "Y"
-        }
-      ]
-    },
-    {
-      "entity_id": "a4b90c7c305845f7be118e17e15bc817",
-      "chamber": "senate",
-      "state": "CT",
-      "state_name": "Connecticut",
-      "district": null,
-      "party": "R",
-      "incumbent": false,
-      "bio_url": "http://en.wikipedia.org/wiki/Chris_Shays",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001144.jpg",
-      "seat_status": "O",
-      "bioguide_id": "S001144",
-      "fec_summary": {
-        "contributions_pac": "58229.00",
-        "office": "S",
-        "total_receipts_rank": 67,
-        "max_rank": 231,
-        "contributions_candidate": "55111.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 71,
-        "total_raised": "1511971.00",
-        "disbursements": "1361782.00",
-        "total_disbursements_rank": 64,
-        "date": "2012-07-25",
-        "contributions_indiv": "1398248.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "269500.00"
-      },
-      "industries": [
-        {
-          "count": "2573",
-          "amount": "1582466.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "1552",
-          "amount": "1500286.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "646",
-          "amount": "506802.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "796",
-          "amount": "471535.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "528",
-          "amount": "459868.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        },
-        {
-          "count": "669",
-          "amount": "438609.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        },
-        {
-          "count": "428",
-          "amount": "412133.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "160",
-          "amount": "403457.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "471",
-          "amount": "381069.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "303",
-          "amount": "276626.00",
-          "id": "767c434bfd1348638bab7f8c12b9282f",
-          "name": "Republican/Conservative"
-        }
-      ],
-      "senate_class": "",
-      "name": "Christopher Shays",
-      "endorsements": [
-        {
-          "name": "League of Conservation Voters",
           "type": "endorsement",
           "value": "Y"
         }

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "a9cc53410f90408bb89f91f2c3513e01",
+      "name": "Edward J Markey",
       "chamber": "house",
       "state": "MA",
       "state_name": "Massachusetts",
@@ -90,8 +91,6 @@
           "name": "Real Estate"
         }
       ],
-      "senate_class": "",
-      "name": "Edward J Markey",
       "endorsements": [
         {
           "name": "Americans for Democratic Action",
@@ -134,6 +133,7 @@
   "senate": [
     {
       "entity_id": null,
+      "name": "Elizabeth Warren",
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
@@ -222,7 +222,6 @@
           "name": "Tv/Movies/Music"
         }
       ],
-      "name": "Elizabeth Warren",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -253,6 +252,7 @@
     },
     {
       "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
+      "name": "Scott P. Brown",
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
@@ -341,8 +341,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Scott P. Brown",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

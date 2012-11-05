@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Joyce Knott",
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
@@ -54,7 +55,6 @@
           "name": "Electric Utilities"
         }
       ],
-      "name": "Joyce Knott",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -65,6 +65,7 @@
     },
     {
       "entity_id": "2ee714bfa1af48a3885846c078a81800",
+      "name": "Mick Mulvaney",
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
@@ -153,8 +154,6 @@
           "name": "Electric Utilities"
         }
       ],
-      "senate_class": "",
-      "name": "Mick Mulvaney",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Jimmy Farris",
       "chamber": "house",
       "state": "ID",
       "state_name": "Idaho",
@@ -72,7 +73,6 @@
           "name": "Misc Finance"
         }
       ],
-      "name": "Jimmy Farris",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -83,6 +83,7 @@
     },
     {
       "entity_id": "6d1ca36002414ec99e21aad1990438ba",
+      "name": "Raul Labrador",
       "chamber": "house",
       "state": "ID",
       "state_name": "Idaho",
@@ -171,8 +172,6 @@
           "name": "Lobbyists"
         }
       ],
-      "senate_class": "",
-      "name": "Raul Labrador",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

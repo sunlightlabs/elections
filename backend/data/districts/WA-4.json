@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "ab2c546d4cd944a9904268803211029c",
+      "name": "Doc Hastings",
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
@@ -90,8 +91,6 @@
           "name": "Lobbyists"
         }
       ],
-      "senate_class": "",
-      "name": "Doc Hastings",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -129,6 +128,7 @@
   "senate": [
     {
       "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
+      "name": "Maria Cantwell",
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",
@@ -217,8 +217,6 @@
           "name": "Casinos/Gambling"
         }
       ],
-      "senate_class": "I",
-      "name": "Maria Cantwell",
       "endorsements": [
         {
           "name": "League of Conservation Voters",

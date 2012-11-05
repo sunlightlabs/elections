@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "6b05171acd604a0c951570e01a88e3bc",
+      "name": "John Barrow",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
@@ -90,8 +91,6 @@
           "name": "Transportation Unions"
         }
       ],
-      "senate_class": "",
-      "name": "John Barrow",
       "endorsements": [
         {
           "name": "Americans for Democratic Action",
@@ -132,6 +131,7 @@
     },
     {
       "entity_id": null,
+      "name": "Lee Ivey Anderson",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
@@ -220,7 +220,6 @@
           "name": "Food Processing & Sales"
         }
       ],
-      "name": "Lee Ivey Anderson",
       "endorsements": [
         {
           "name": "Family Research Council",

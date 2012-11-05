@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "8458e7776d454ac68a24440fb69b199d",
+      "name": "James Lankford",
       "chamber": "house",
       "state": "OK",
       "state_name": "Oklahoma",
@@ -90,8 +91,6 @@
           "name": "Insurance"
         }
       ],
-      "senate_class": "",
-      "name": "James Lankford",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

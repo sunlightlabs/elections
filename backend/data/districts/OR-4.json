@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "582eebf9f66b4c05a93b7088f1c0b291",
+      "name": "Peter DeFazio",
       "chamber": "house",
       "state": "OR",
       "state_name": "Oregon",
@@ -90,8 +91,6 @@
           "name": "Construction Services"
         }
       ],
-      "senate_class": "",
-      "name": "Peter DeFazio",
       "endorsements": [
         {
           "name": "AFL-CIO",

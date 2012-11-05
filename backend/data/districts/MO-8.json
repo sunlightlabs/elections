@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "9139a6df0e1341e4b3be3b3d262b8c34",
+      "name": "Jo Ann Emerson",
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
@@ -90,8 +91,6 @@
           "name": "Automotive"
         }
       ],
-      "senate_class": "",
-      "name": "Jo Ann Emerson",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -127,6 +126,7 @@
     },
     {
       "entity_id": null,
+      "name": "Jack Rushin",
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
@@ -167,7 +167,6 @@
           "name": "Commercial Banks"
         }
       ],
-      "name": "Jack Rushin",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -180,6 +179,7 @@
   "senate": [
     {
       "entity_id": "98af4916592648c4aa992d8db00e6e5b",
+      "name": "Claire McCaskill",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",
@@ -268,8 +268,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Claire McCaskill",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -315,6 +313,7 @@
     },
     {
       "entity_id": "28e6cce459e74dcbb575fa05def946e3",
+      "name": "Todd Akin",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",
@@ -403,8 +402,6 @@
           "name": "Defense Electronics"
         }
       ],
-      "senate_class": "",
-      "name": "Todd Akin",
       "endorsements": [
         {
           "name": "Gun Owners of America",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "928f43cea01e4f08a33f4b24971594b5",
+      "name": "Bill Posey",
       "chamber": "house",
       "state": "FL",
       "state_name": "Florida",
@@ -90,8 +91,6 @@
           "name": "Misc Issues"
         }
       ],
-      "senate_class": "",
-      "name": "Bill Posey",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -124,6 +123,7 @@
   "senate": [
     {
       "entity_id": "5a1a3576871e459e9bb0af1a1d5cd826",
+      "name": "Bill Nelson",
       "chamber": "senate",
       "state": "FL",
       "state_name": "Florida",
@@ -212,8 +212,6 @@
           "name": "Leadership Pacs"
         }
       ],
-      "senate_class": "I",
-      "name": "Bill Nelson",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -258,106 +256,8 @@
       ]
     },
     {
-      "entity_id": null,
-      "chamber": "senate",
-      "state": "FL",
-      "state_name": "Florida",
-      "district": null,
-      "party": "R",
-      "incumbent": false,
-      "bio_url": null,
-      "photo_url": null,
-      "seat_status": "O",
-      "bioguide_id": null,
-      "fec_summary": {
-        "contributions_pac": "209625.00",
-        "office": "H",
-        "total_receipts_rank": 25,
-        "max_rank": 695,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 95,
-        "total_raised": "2416661.04",
-        "disbursements": "1366387.37",
-        "total_disbursements_rank": 40,
-        "date": "2012-07-25",
-        "contributions_indiv": "2205623.92",
-        "contributions_party": "0.00",
-        "cash_on_hand": "1069646.70"
-      },
-      "industries": [
-        {
-          "count": "238",
-          "amount": "227400.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "200",
-          "amount": "212390.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "199",
-          "amount": "177600.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "169",
-          "amount": "130777.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "106",
-          "amount": "115400.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        },
-        {
-          "count": "104",
-          "amount": "114800.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "62",
-          "amount": "88300.00",
-          "id": "bf2cfae020b84fae915ee48e8e15ea87",
-          "name": "Pro-Israel"
-        },
-        {
-          "count": "52",
-          "amount": "56250.00",
-          "id": "767c434bfd1348638bab7f8c12b9282f",
-          "name": "Republican/Conservative"
-        },
-        {
-          "count": "48",
-          "amount": "50900.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        },
-        {
-          "count": "50",
-          "amount": "50450.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        }
-      ],
-      "name": "Adam Hasner",
-      "endorsements": [
-        {
-          "name": "Gun Owners of America",
-          "type": "grade",
-          "value": "A"
-        }
-      ]
-    },
-    {
       "entity_id": "0bcd3fa0d6a1461d9e8e2948bd853c1e",
+      "name": "Connie Mack",
       "chamber": "senate",
       "state": "FL",
       "state_name": "Florida",
@@ -446,8 +346,6 @@
           "name": "Crop Production & Basic Processing"
         }
       ],
-      "senate_class": "",
-      "name": "Connie Mack",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

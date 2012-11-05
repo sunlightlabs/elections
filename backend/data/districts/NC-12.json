@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "c17641e1cebd490fab943db05c75fd2d",
+      "name": "Melvin L Watt",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -90,8 +91,6 @@
           "name": "Transportation Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Melvin L Watt",
       "endorsements": [
         {
           "name": "Americans for Democratic Action",

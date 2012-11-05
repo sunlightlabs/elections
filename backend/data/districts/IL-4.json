@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "d5a49e57b03a47f6a89287559df7e091",
+      "name": "Luis V Gutierrez",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -90,8 +91,6 @@
           "name": "Transportation Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Luis V Gutierrez",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

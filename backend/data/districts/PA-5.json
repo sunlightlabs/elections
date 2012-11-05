@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Charles Dumas",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -42,7 +43,6 @@
           "name": "Education"
         }
       ],
-      "name": "Charles Dumas",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -63,6 +63,7 @@
     },
     {
       "entity_id": "89139f3637214aad9640c974dc65f7b0",
+      "name": "Glenn Thompson",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -151,8 +152,6 @@
           "name": "Misc Business"
         }
       ],
-      "senate_class": "",
-      "name": "Glenn Thompson",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",
@@ -180,6 +179,7 @@
   "senate": [
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
+      "name": "Bob Casey",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -268,8 +268,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Bob Casey",
       "endorsements": [
         {
           "name": "League of Conservation Voters",

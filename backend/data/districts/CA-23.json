@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Terry Phillips",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -78,7 +79,6 @@
           "name": "Health Professionals"
         }
       ],
-      "name": "Terry Phillips",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -89,6 +89,7 @@
     },
     {
       "entity_id": "3385e1e1958a45aa887bfad3a520e3b0",
+      "name": "Kevin McCarthy",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -177,8 +178,6 @@
           "name": "Beer, Wine & Liquor"
         }
       ],
-      "senate_class": "",
-      "name": "Kevin McCarthy",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -211,6 +210,7 @@
   "senate": [
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
+      "name": "Dianne Feinstein",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -299,8 +299,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "senate_class": "I",
-      "name": "Dianne Feinstein",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -386,6 +384,7 @@
     },
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
+      "name": "Elizabeth Emken",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -474,7 +473,6 @@
           "name": "Retail Sales"
         }
       ],
-      "name": "Elizabeth Emken",
       "endorsements": [
         {
           "name": "National Rifle Association",

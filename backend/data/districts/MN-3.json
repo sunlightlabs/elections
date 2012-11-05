@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Brian Barnes",
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
@@ -90,7 +91,6 @@
           "name": "Pharmaceuticals/Health Products"
         }
       ],
-      "name": "Brian Barnes",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -106,6 +106,7 @@
     },
     {
       "entity_id": "334a36f20cd84104b9fbdbf7319f7930",
+      "name": "Erik Paulsen",
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
@@ -194,8 +195,6 @@
           "name": "Retail Sales"
         }
       ],
-      "senate_class": "",
-      "name": "Erik Paulsen",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -228,6 +227,7 @@
   "senate": [
     {
       "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
+      "name": "Amy Klobuchar",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
@@ -316,8 +316,6 @@
           "name": "Health Professionals"
         }
       ],
-      "senate_class": "I",
-      "name": "Amy Klobuchar",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -363,6 +361,7 @@
     },
     {
       "entity_id": null,
+      "name": "Kurt Bills",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
@@ -451,7 +450,6 @@
           "name": "Real Estate"
         }
       ],
-      "name": "Kurt Bills",
       "endorsements": [
         {
           "name": "Gun Owners of America",

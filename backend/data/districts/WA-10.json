@@ -5,6 +5,7 @@
   "senate": [
     {
       "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
+      "name": "Maria Cantwell",
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",
@@ -93,8 +94,6 @@
           "name": "Casinos/Gambling"
         }
       ],
-      "senate_class": "I",
-      "name": "Maria Cantwell",
       "endorsements": [
         {
           "name": "League of Conservation Voters",

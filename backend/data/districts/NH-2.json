@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "fc44a3ad9e1a4841a24b3149b82a04fd",
+      "name": "Ann McLane Kuster",
       "chamber": "house",
       "state": "NH",
       "state_name": "New Hampshire",
@@ -90,7 +91,6 @@
           "name": "Public Sector Unions"
         }
       ],
-      "name": "Ann McLane Kuster",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -106,6 +106,7 @@
     },
     {
       "entity_id": "a95f3e0dc40e4eb58802d0eef8efa297",
+      "name": "Charles Bass",
       "chamber": "house",
       "state": "NH",
       "state_name": "New Hampshire",
@@ -194,8 +195,6 @@
           "name": "Oil & Gas"
         }
       ],
-      "senate_class": "",
-      "name": "Charles Bass",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

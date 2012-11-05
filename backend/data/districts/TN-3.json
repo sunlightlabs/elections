@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Mary Margaret Headrick",
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
@@ -42,7 +43,6 @@
           "name": "Computers/Internet"
         }
       ],
-      "name": "Mary Margaret Headrick",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -58,6 +58,7 @@
     },
     {
       "entity_id": "27fad0b2769a44e2aff0ef83489a7517",
+      "name": "Charles J. Fleischmann",
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
@@ -146,8 +147,6 @@
           "name": "Misc Manufacturing & Distributing"
         }
       ],
-      "senate_class": "",
-      "name": "Charles J. Fleischmann",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -160,6 +159,7 @@
   "senate": [
     {
       "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
+      "name": "Bob Corker",
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",
@@ -248,8 +248,6 @@
           "name": "General Contractors"
         }
       ],
-      "senate_class": "I",
-      "name": "Bob Corker",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

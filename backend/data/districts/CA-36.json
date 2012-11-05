@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Raul Ruiz",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -90,7 +91,6 @@
           "name": "Tv/Movies/Music"
         }
       ],
-      "name": "Raul Ruiz",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -105,107 +105,8 @@
       ]
     },
     {
-      "entity_id": "cadd08c0f4004c6590a74fc1caf6ba28",
-      "chamber": "house",
-      "state": "CA",
-      "state_name": "California",
-      "district": "36",
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Jane_Harman",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H000213.jpg",
-      "seat_status": "I",
-      "bioguide_id": "H000213",
-      "fec_summary": {
-        "contributions_pac": "0.00",
-        "office": "H",
-        "total_receipts_rank": 1509,
-        "max_rank": 1515,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 1289,
-        "total_raised": "-1918.24",
-        "disbursements": "41232.29",
-        "total_disbursements_rank": 1047,
-        "date": "2011-05-05",
-        "contributions_indiv": "0.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "44.27"
-      },
-      "industries": [
-        {
-          "count": "1203",
-          "amount": "768771.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "1072",
-          "amount": "607334.00",
-          "id": "6e1074968db94bf4851c0245cd8583bf",
-          "name": "Women's Issues"
-        },
-        {
-          "count": "608",
-          "amount": "558299.00",
-          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
-          "name": "Tv/Movies/Music"
-        },
-        {
-          "count": "566",
-          "amount": "450988.00",
-          "id": "bf2cfae020b84fae915ee48e8e15ea87",
-          "name": "Pro-Israel"
-        },
-        {
-          "count": "492",
-          "amount": "442647.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "469",
-          "amount": "436550.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "345",
-          "amount": "317135.00",
-          "id": "62b2b24eb9c248e68af69cb177822948",
-          "name": "Defense Aerospace"
-        },
-        {
-          "count": "327",
-          "amount": "313499.00",
-          "id": "4c3799fc60b34f2aa250f7e8f5b2c3e6",
-          "name": "Defense Electronics"
-        },
-        {
-          "count": "259",
-          "amount": "286786.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "331",
-          "amount": "250770.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        }
-      ],
-      "senate_class": "",
-      "name": "Jane Harman",
-      "endorsements": [
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "endorsement",
-          "value": null
-        }
-      ]
-    },
-    {
       "entity_id": "c84a4c8d94cb4768b697de1f99e00f9e",
+      "name": "Mary Bono Mack",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -294,8 +195,6 @@
           "name": "Electric Utilities"
         }
       ],
-      "senate_class": "",
-      "name": "Mary Bono Mack",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -323,6 +222,7 @@
   "senate": [
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
+      "name": "Dianne Feinstein",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -411,8 +311,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "senate_class": "I",
-      "name": "Dianne Feinstein",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -498,6 +396,7 @@
     },
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
+      "name": "Elizabeth Emken",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -586,7 +485,6 @@
           "name": "Retail Sales"
         }
       ],
-      "name": "Elizabeth Emken",
       "endorsements": [
         {
           "name": "National Rifle Association",

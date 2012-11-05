@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Karen Ramsburg",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -36,7 +37,6 @@
           "name": "Printing & Publishing"
         }
       ],
-      "name": "Karen Ramsburg",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -47,6 +47,7 @@
     },
     {
       "entity_id": "32887b242ec74a87b45066f70031e13c",
+      "name": "Bill Shuster",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -135,8 +136,6 @@
           "name": "Lobbyists"
         }
       ],
-      "senate_class": "",
-      "name": "Bill Shuster",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",
@@ -164,6 +163,7 @@
   "senate": [
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
+      "name": "Bob Casey",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -252,8 +252,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Bob Casey",
       "endorsements": [
         {
           "name": "League of Conservation Voters",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Joe Kennedy III",
       "chamber": "house",
       "state": "MA",
       "state_name": "Massachusetts",
@@ -90,7 +91,6 @@
           "name": "Misc Finance"
         }
       ],
-      "name": "Joe Kennedy III",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -103,136 +103,12 @@
           "value": null
         }
       ]
-    },
-    {
-      "entity_id": "03576b80ce864df49545447f642a6ab3",
-      "chamber": "house",
-      "state": "MA",
-      "state_name": "Massachusetts",
-      "district": "4",
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000339",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000339.jpg",
-      "seat_status": "I",
-      "bioguide_id": "F000339",
-      "fec_summary": {
-        "contributions_pac": "240868.15",
-        "office": "H",
-        "total_receipts_rank": 299,
-        "max_rank": 1515,
-        "contributions_candidate": "-100000.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 642,
-        "total_raised": "745586.02",
-        "disbursements": "892070.13",
-        "total_disbursements_rank": 142,
-        "date": "2012-06-30",
-        "contributions_indiv": "582292.50",
-        "contributions_party": "0.00",
-        "cash_on_hand": "51403.41"
-      },
-      "industries": [
-        {
-          "count": "793",
-          "amount": "997271.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "980",
-          "amount": "883808.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "665",
-          "amount": "800031.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "1151",
-          "amount": "754920.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "564",
-          "amount": "576900.00",
-          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
-          "name": "Commercial Banks"
-        },
-        {
-          "count": "976",
-          "amount": "460103.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "296",
-          "amount": "341227.00",
-          "id": "05b23aff0dbd4b74b95b3e16074a874c",
-          "name": "Misc Finance"
-        },
-        {
-          "count": "414",
-          "amount": "274852.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "150",
-          "amount": "250100.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "181",
-          "amount": "249342.00",
-          "id": "7a214b1dc0054b768d4c4eb6f8f625c8",
-          "name": "Accountants"
-        }
-      ],
-      "senate_class": "",
-      "name": "Barney Frank",
-      "endorsements": [
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "20"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "20"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "8"
-        }
-      ]
     }
   ],
   "senate": [
     {
       "entity_id": null,
+      "name": "Elizabeth Warren",
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
@@ -321,7 +197,6 @@
           "name": "Tv/Movies/Music"
         }
       ],
-      "name": "Elizabeth Warren",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -352,6 +227,7 @@
     },
     {
       "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
+      "name": "Scott P. Brown",
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
@@ -440,8 +316,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Scott P. Brown",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

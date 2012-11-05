@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Joe Miklosi",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
@@ -90,7 +91,6 @@
           "name": "Health Professionals"
         }
       ],
-      "name": "Joe Miklosi",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -111,6 +111,7 @@
     },
     {
       "entity_id": "9db6c9cf76ab4ce59bb44ae0a01023e7",
+      "name": "Mike Coffman",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
@@ -199,8 +200,6 @@
           "name": "Republican/Conservative"
         }
       ],
-      "senate_class": "",
-      "name": "Mike Coffman",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

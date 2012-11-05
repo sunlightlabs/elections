@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "eb83f3379f0f4d36ab20a1a6f4b93f44",
+      "name": "Peter Welch",
       "chamber": "house",
       "state": "VT",
       "state_name": "Vermont",
@@ -90,8 +91,6 @@
           "name": "Transportation Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Peter Welch",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -134,6 +133,7 @@
   "senate": [
     {
       "entity_id": "d4c558e3d9a747f6bead48799b279be3",
+      "name": "Bernie Sanders",
       "chamber": "senate",
       "state": "VT",
       "state_name": "Vermont",
@@ -222,8 +222,6 @@
           "name": "Leadership Pacs"
         }
       ],
-      "senate_class": "I",
-      "name": "Bernie Sanders",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -234,6 +232,7 @@
     },
     {
       "entity_id": null,
+      "name": "John MacGovern",
       "chamber": "senate",
       "state": "VT",
       "state_name": "Vermont",
@@ -292,7 +291,6 @@
           "name": "Misc Finance"
         }
       ],
-      "name": "John MacGovern",
       "endorsements": [
         {
           "name": "Gun Owners of America",

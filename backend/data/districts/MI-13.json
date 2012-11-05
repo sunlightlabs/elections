@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "33ea88f43869464ca0553189689f1dea",
+      "name": "John Conyers Jr",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -90,8 +91,6 @@
           "name": "Telephone Utilities"
         }
       ],
-      "senate_class": "",
-      "name": "John Conyers Jr",
       "endorsements": [
         {
           "name": "AFL-CIO",

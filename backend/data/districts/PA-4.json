@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Harry Perkinson",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -66,7 +67,6 @@
           "name": "Democratic/Liberal"
         }
       ],
-      "name": "Harry Perkinson",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -79,131 +79,12 @@
           "value": null
         }
       ]
-    },
-    {
-      "entity_id": "906e90328bde45c5b1edb77059136186",
-      "chamber": "house",
-      "state": "PA",
-      "state_name": "Pennsylvania",
-      "district": "4",
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Todd_Russell_Platts",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000585.jpg",
-      "seat_status": "I",
-      "bioguide_id": "P000585",
-      "fec_summary": {
-        "contributions_pac": "0.00",
-        "office": "H",
-        "total_receipts_rank": 1038,
-        "max_rank": 1515,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 760,
-        "total_raised": "51589.33",
-        "disbursements": "50135.00",
-        "total_disbursements_rank": 1005,
-        "date": "2012-06-30",
-        "contributions_indiv": "51537.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "19846.14"
-      },
-      "industries": [
-        {
-          "count": "135",
-          "amount": "108275.00",
-          "id": "13ca840788944cc79b362d068985fc73",
-          "name": "Misc Manufacturing & Distributing"
-        },
-        {
-          "count": "173",
-          "amount": "98075.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "83",
-          "amount": "55605.00",
-          "id": "d9c4a26cd671436eac3c501184364fc4",
-          "name": "Misc Business"
-        },
-        {
-          "count": "82",
-          "amount": "42740.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "64",
-          "amount": "42283.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "31",
-          "amount": "31397.00",
-          "id": "52766c4910a846f2813a1dda212b7027",
-          "name": "Oil & Gas"
-        },
-        {
-          "count": "31",
-          "amount": "30350.00",
-          "id": "32383c4d430e4b63aaa584500088331c",
-          "name": "Retail Sales"
-        },
-        {
-          "count": "73",
-          "amount": "29700.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "38",
-          "amount": "29300.00",
-          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
-          "name": "General Contractors"
-        },
-        {
-          "count": "46",
-          "amount": "27150.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        }
-      ],
-      "senate_class": "",
-      "name": "Todd Platts",
-      "endorsements": [
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "B"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "67"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "48"
-        },
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "100"
-        }
-      ]
     }
   ],
   "senate": [
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
+      "name": "Bob Casey",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -292,8 +173,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Bob Casey",
       "endorsements": [
         {
           "name": "League of Conservation Voters",

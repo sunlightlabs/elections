@@ -5,6 +5,7 @@
   "senate": [
     {
       "entity_id": "68655d30048b451caee7d70688803273",
+      "name": "John A Barrasso",
       "chamber": "senate",
       "state": "WY",
       "state_name": "Wyoming",
@@ -93,8 +94,6 @@
           "name": "Retired"
         }
       ],
-      "senate_class": "I",
-      "name": "John A Barrasso",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

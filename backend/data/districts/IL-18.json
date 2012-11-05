@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "9471015ffe784d9c960721f08ba23e44",
+      "name": "Aaron Schock",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -90,8 +91,6 @@
           "name": "Crop Production & Basic Processing"
         }
       ],
-      "senate_class": "",
-      "name": "Aaron Schock",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

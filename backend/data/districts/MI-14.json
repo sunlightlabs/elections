@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "5946ea294dd042d9b9f4d25ea7bb638e",
+      "name": "Gary Peters",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -90,8 +91,6 @@
           "name": "Industrial Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Gary Peters",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -132,126 +131,6 @@
           "name": "American Security Council Foundation",
           "type": "rating",
           "value": "50"
-        }
-      ]
-    },
-    {
-      "entity_id": "f3bf405b307a46e8a586456ab85da9a5",
-      "chamber": "house",
-      "state": "MI",
-      "state_name": "Michigan",
-      "district": "14",
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Hansen_Clarke",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001085.jpg",
-      "seat_status": "I",
-      "bioguide_id": "C001085",
-      "fec_summary": {
-        "contributions_pac": "223914.65",
-        "office": "H",
-        "total_receipts_rank": 454,
-        "max_rank": 1515,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 634,
-        "total_raised": "638903.28",
-        "disbursements": "807742.19",
-        "total_disbursements_rank": 180,
-        "date": "2012-07-18",
-        "contributions_indiv": "421988.63",
-        "contributions_party": "0.00",
-        "cash_on_hand": "55950.24"
-      },
-      "industries": [
-        {
-          "count": "133",
-          "amount": "92875.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "93",
-          "amount": "59790.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "60",
-          "amount": "52100.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "41",
-          "amount": "49950.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        },
-        {
-          "count": "12",
-          "amount": "34000.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "10",
-          "amount": "33500.00",
-          "id": "d22cf14b1cd349b79f2b656b450b3b88",
-          "name": "Industrial Unions"
-        },
-        {
-          "count": "19",
-          "amount": "29550.00",
-          "id": "83bece3db3b54ca58b38d3bad679697f",
-          "name": "Automotive"
-        },
-        {
-          "count": "34",
-          "amount": "28250.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "12",
-          "amount": "27000.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "6",
-          "amount": "22000.00",
-          "id": "bcb5ff50850c4e9682b5d4da5d9bf278",
-          "name": "Misc Unions"
-        }
-      ],
-      "senate_class": "",
-      "name": "Hansen Clarke",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "30"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "15"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "8"
         }
       ]
     }

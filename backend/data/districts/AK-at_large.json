@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "d3255cc3aabc4b68ab2c798d9e27d95f",
+      "name": "Don Young",
       "chamber": "house",
       "state": "AK",
       "state_name": "Alaska",
@@ -90,8 +91,6 @@
           "name": "Building Trade Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Don Young",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

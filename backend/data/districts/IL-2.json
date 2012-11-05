@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "856f89e7052f4386a0c123a89be790f6",
+      "name": "Jesse Jackson Jr",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -90,8 +91,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "",
-      "name": "Jesse Jackson Jr",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

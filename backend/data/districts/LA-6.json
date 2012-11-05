@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "724698e65db74b89920ad539974078d4",
+      "name": "Bill Cassidy",
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",
@@ -90,8 +91,6 @@
           "name": "Health Services/Hmos"
         }
       ],
-      "senate_class": "",
-      "name": "Bill Cassidy",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

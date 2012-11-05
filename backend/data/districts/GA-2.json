@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "69b068c312384b38abf3fb2d2bfc4cdb",
+      "name": "Sanford D Bishop Jr",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
@@ -90,8 +91,6 @@
           "name": "Commercial Banks"
         }
       ],
-      "senate_class": "",
-      "name": "Sanford D Bishop Jr",
       "endorsements": [
         {
           "name": "Americans for Democratic Action",

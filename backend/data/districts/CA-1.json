@@ -1,124 +1,11 @@
 {
   "house": [
-    {
-      "entity_id": "6cafaf084bd548d6b1e3f868f7ada001",
-      "chamber": "house",
-      "state": "CA",
-      "state_name": "California",
-      "district": "1",
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Wally_Herger",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H000528.jpg",
-      "seat_status": "I",
-      "bioguide_id": "H000528",
-      "fec_summary": {
-        "contributions_pac": "319250.00",
-        "office": "H",
-        "total_receipts_rank": 626,
-        "max_rank": 1515,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 507,
-        "total_raised": "346199.42",
-        "disbursements": "649046.45",
-        "total_disbursements_rank": 271,
-        "date": "2012-06-30",
-        "contributions_indiv": "49710.93",
-        "contributions_party": "0.00",
-        "cash_on_hand": "164048.53"
-      },
-      "industries": [
-        {
-          "count": "552",
-          "amount": "556510.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "927",
-          "amount": "538538.00",
-          "id": "0b27f92a966443129f79dfa42ae1f293",
-          "name": "Crop Production & Basic Processing"
-        },
-        {
-          "count": "528",
-          "amount": "440988.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "229",
-          "amount": "243100.00",
-          "id": "08c1fa7788994f148eddfb78c10032cf",
-          "name": "Pharmaceuticals/Health Products"
-        },
-        {
-          "count": "190",
-          "amount": "170750.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "232",
-          "amount": "145997.00",
-          "id": "6570ffe2392e4811805136efe7aa3b2a",
-          "name": "Forestry & Forest Products"
-        },
-        {
-          "count": "141",
-          "amount": "143900.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "158",
-          "amount": "138410.00",
-          "id": "a6997a5a0f674bbc9c371d8e99377259",
-          "name": "Electric Utilities"
-        },
-        {
-          "count": "196",
-          "amount": "138141.00",
-          "id": "4e62cff90a974840bec347a2e32a58b9",
-          "name": "Beer, Wine & Liquor"
-        },
-        {
-          "count": "395",
-          "amount": "132100.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        }
-      ],
-      "senate_class": "",
-      "name": "Wally Herger",
-      "endorsements": [
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "F"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "81"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "95.65"
-        }
-      ]
-    }
+
   ],
   "senate": [
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
+      "name": "Dianne Feinstein",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -207,8 +94,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "senate_class": "I",
-      "name": "Dianne Feinstein",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -294,6 +179,7 @@
     },
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
+      "name": "Elizabeth Emken",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -382,7 +268,6 @@
           "name": "Retail Sales"
         }
       ],
-      "name": "Elizabeth Emken",
       "endorsements": [
         {
           "name": "National Rifle Association",

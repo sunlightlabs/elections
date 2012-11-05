@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "030bed2e80e54303b9ef68d17a98587f",
+      "name": "Jason Chaffetz",
       "chamber": "house",
       "state": "UT",
       "state_name": "Utah",
@@ -90,8 +91,6 @@
           "name": "Real Estate"
         }
       ],
-      "senate_class": "",
-      "name": "Jason Chaffetz",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -129,6 +128,7 @@
   "senate": [
     {
       "entity_id": null,
+      "name": "Scott N Howell",
       "chamber": "senate",
       "state": "UT",
       "state_name": "Utah",
@@ -217,7 +217,6 @@
           "name": "Democratic/Liberal"
         }
       ],
-      "name": "Scott N Howell",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -233,6 +232,7 @@
     },
     {
       "entity_id": "e5aa63ec4a0746fbb9961b325ddb3627",
+      "name": "Orrin G Hatch",
       "chamber": "senate",
       "state": "UT",
       "state_name": "Utah",
@@ -321,8 +321,6 @@
           "name": "Computers/Internet"
         }
       ],
-      "senate_class": "I",
-      "name": "Orrin G Hatch",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

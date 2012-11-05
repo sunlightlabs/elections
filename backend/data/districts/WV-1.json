@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "b290e7531b31446883253332fad1f693",
+      "name": "David B. McKinley",
       "chamber": "house",
       "state": "WV",
       "state_name": "West Virginia",
@@ -90,8 +91,6 @@
           "name": "Republican/Conservative"
         }
       ],
-      "senate_class": "",
-      "name": "David B. McKinley",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -124,6 +123,7 @@
   "senate": [
     {
       "entity_id": "fea00787eb034cb2a11e8086a48db88e",
+      "name": "Joe Manchin",
       "chamber": "senate",
       "state": "WV",
       "state_name": "West Virginia",
@@ -212,8 +212,6 @@
           "name": "Lobbyists"
         }
       ],
-      "senate_class": "I",
-      "name": "Joe Manchin",
       "endorsements": [
         {
           "name": "AFL-CIO",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Jared Huffman",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -90,7 +91,6 @@
           "name": "Industrial Unions"
         }
       ],
-      "name": "Jared Huffman",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -118,131 +118,12 @@
           "value": "F"
         }
       ]
-    },
-    {
-      "entity_id": "b90e1a1571864660a8d7fa39a34331a7",
-      "chamber": "house",
-      "state": "CA",
-      "state_name": "California",
-      "district": "2",
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Lynn_Woolsey",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000738.jpg",
-      "seat_status": "I",
-      "bioguide_id": "W000738",
-      "fec_summary": {
-        "contributions_pac": "44510.79",
-        "office": "H",
-        "total_receipts_rank": 995,
-        "max_rank": 1515,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 802,
-        "total_raised": "66274.90",
-        "disbursements": "111088.95",
-        "total_disbursements_rank": 855,
-        "date": "2012-06-30",
-        "contributions_indiv": "21700.68",
-        "contributions_party": "0.00",
-        "cash_on_hand": "13881.93"
-      },
-      "industries": [
-        {
-          "count": "307",
-          "amount": "408724.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "249",
-          "amount": "397784.00",
-          "id": "d22cf14b1cd349b79f2b656b450b3b88",
-          "name": "Industrial Unions"
-        },
-        {
-          "count": "655",
-          "amount": "374408.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "199",
-          "amount": "342718.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "495",
-          "amount": "316367.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "306",
-          "amount": "296500.00",
-          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
-          "name": "Transportation Unions"
-        },
-        {
-          "count": "484",
-          "amount": "244299.00",
-          "id": "6e1074968db94bf4851c0245cd8583bf",
-          "name": "Women's Issues"
-        },
-        {
-          "count": "321",
-          "amount": "226199.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "205",
-          "amount": "154670.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "237",
-          "amount": "141851.00",
-          "id": "4e62cff90a974840bec347a2e32a58b9",
-          "name": "Beer, Wine & Liquor"
-        }
-      ],
-      "senate_class": "",
-      "name": "Lynn Woolsey",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "20"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "19"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "8"
-        }
-      ]
     }
   ],
   "senate": [
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
+      "name": "Dianne Feinstein",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -331,8 +212,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "senate_class": "I",
-      "name": "Dianne Feinstein",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -418,6 +297,7 @@
     },
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
+      "name": "Elizabeth Emken",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -506,7 +386,6 @@
           "name": "Retail Sales"
         }
       ],
-      "name": "Elizabeth Emken",
       "endorsements": [
         {
           "name": "National Rifle Association",

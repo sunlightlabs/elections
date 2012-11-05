@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Alan P. Woodruff",
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
@@ -36,7 +37,6 @@
           "name": "Health Professionals"
         }
       ],
-      "name": "Alan P. Woodruff",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -47,6 +47,7 @@
     },
     {
       "entity_id": "b8c5f7b6c3b645d69f1450dd846a702d",
+      "name": "Phil Roe",
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
@@ -135,8 +136,6 @@
           "name": "Misc Business"
         }
       ],
-      "senate_class": "",
-      "name": "Phil Roe",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",
@@ -164,6 +163,7 @@
   "senate": [
     {
       "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
+      "name": "Bob Corker",
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",
@@ -252,8 +252,6 @@
           "name": "General Contractors"
         }
       ],
-      "senate_class": "I",
-      "name": "Bob Corker",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

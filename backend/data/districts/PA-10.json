@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Philip Scollo",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -90,7 +91,6 @@
           "name": "Education"
         }
       ],
-      "name": "Philip Scollo",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -100,107 +100,8 @@
       ]
     },
     {
-      "entity_id": "e4545f65a4b84d228875f259514b06c0",
-      "chamber": "house",
-      "state": "PA",
-      "state_name": "Pennsylvania",
-      "district": "10",
-      "party": "D",
-      "incumbent": false,
-      "bio_url": "http://en.wikipedia.org/wiki/Chris_Carney",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001065.jpg",
-      "seat_status": "C",
-      "bioguide_id": "C001065",
-      "fec_summary": {
-        "contributions_pac": "3000.00",
-        "office": "H",
-        "total_receipts_rank": 1502,
-        "max_rank": 1515,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 1500,
-        "total_raised": "4000.00",
-        "disbursements": "2795.00",
-        "total_disbursements_rank": 1496,
-        "date": "2011-09-30",
-        "contributions_indiv": "1000.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "-6750.00"
-      },
-      "industries": [
-        {
-          "count": "652",
-          "amount": "464423.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "215",
-          "amount": "391550.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "97",
-          "amount": "192769.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "226",
-          "amount": "180097.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "78",
-          "amount": "179750.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "358",
-          "amount": "172272.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "183",
-          "amount": "168691.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "100",
-          "amount": "164450.00",
-          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
-          "name": "Transportation Unions"
-        },
-        {
-          "count": "70",
-          "amount": "147550.00",
-          "id": "d22cf14b1cd349b79f2b656b450b3b88",
-          "name": "Industrial Unions"
-        },
-        {
-          "count": "94",
-          "amount": "125820.00",
-          "id": "f1c062575ca949fa92ab7066a6648bf3",
-          "name": "Air Transport"
-        }
-      ],
-      "senate_class": "",
-      "name": "Chris Carney",
-      "endorsements": [
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "65"
-        }
-      ]
-    },
-    {
       "entity_id": "3af5f262689b417f8b7dd7a6e815f953",
+      "name": "Tom Marino",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -289,8 +190,6 @@
           "name": "General Contractors"
         }
       ],
-      "senate_class": "",
-      "name": "Tom Marino",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",
@@ -323,6 +222,7 @@
   "senate": [
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
+      "name": "Bob Casey",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -411,8 +311,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Bob Casey",
       "endorsements": [
         {
           "name": "League of Conservation Voters",

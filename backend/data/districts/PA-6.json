@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "acfb5dfd44ed4122993af7e7f00712fd",
+      "name": "Manan Trivedi",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -90,7 +91,6 @@
           "name": "Computers/Internet"
         }
       ],
-      "name": "Manan Trivedi",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -111,6 +111,7 @@
     },
     {
       "entity_id": "0a45a2621e79498a8ba264eedbe0624b",
+      "name": "Jim Gerlach",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -199,8 +200,6 @@
           "name": "Commercial Banks"
         }
       ],
-      "senate_class": "",
-      "name": "Jim Gerlach",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",
@@ -233,6 +232,7 @@
   "senate": [
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
+      "name": "Bob Casey",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -321,8 +321,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Bob Casey",
       "endorsements": [
         {
           "name": "League of Conservation Voters",

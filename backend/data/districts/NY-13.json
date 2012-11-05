@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "c7bae5b1210d4861b0445cde83222efa",
+      "name": "Charles B Rangel",
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
@@ -90,8 +91,6 @@
           "name": "Commercial Banks"
         }
       ],
-      "senate_class": "",
-      "name": "Charles B Rangel",
       "endorsements": [
         {
           "name": "NY League of Conservation Voters",
@@ -149,6 +148,7 @@
   "senate": [
     {
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
+      "name": "Kirsten Gillibrand",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",
@@ -237,8 +237,6 @@
           "name": "Leadership Pacs"
         }
       ],
-      "senate_class": "I",
-      "name": "Kirsten Gillibrand",
       "endorsements": [
         {
           "name": "NY League of Conservation Voters",
@@ -313,127 +311,8 @@
       ]
     },
     {
-      "entity_id": "5ce1dbecddbc4dd8bba97b42f15e25b5",
-      "chamber": "senate",
-      "state": "NY",
-      "state_name": "New York",
-      "district": null,
-      "party": "R",
-      "incumbent": false,
-      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=T000471",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/T000471.jpg",
-      "seat_status": "C",
-      "bioguide_id": "T000471",
-      "fec_summary": {
-        "contributions_pac": "94092.00",
-        "office": "S",
-        "total_receipts_rank": 84,
-        "max_rank": 231,
-        "contributions_candidate": "95500.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 90,
-        "total_raised": "844179.90",
-        "disbursements": "792637.57",
-        "total_disbursements_rank": 83,
-        "date": "2012-06-30",
-        "contributions_indiv": "651462.81",
-        "contributions_party": "0.00",
-        "cash_on_hand": "55541.00"
-      },
-      "industries": [
-        {
-          "count": "120",
-          "amount": "86900.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "52",
-          "amount": "75475.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "46",
-          "amount": "54825.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "52",
-          "amount": "53565.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "19",
-          "amount": "50500.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "29",
-          "amount": "33150.00",
-          "id": "767c434bfd1348638bab7f8c12b9282f",
-          "name": "Republican/Conservative"
-        },
-        {
-          "count": "9",
-          "amount": "20250.00",
-          "id": "52766c4910a846f2813a1dda212b7027",
-          "name": "Oil & Gas"
-        },
-        {
-          "count": "13",
-          "amount": "14500.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "10",
-          "amount": "11000.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        },
-        {
-          "count": "20",
-          "amount": "10750.00",
-          "id": "d9c4a26cd671436eac3c501184364fc4",
-          "name": "Misc Business"
-        }
-      ],
-      "senate_class": "",
-      "name": "Robert L. Turner",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "67"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "endorsement",
-          "value": null
-        },
-        {
-          "name": "National Education Association",
-          "type": "endorsement",
-          "value": null
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "endorsement",
-          "value": null
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "endorsement",
-          "value": null
-        }
-      ]
-    },
-    {
       "entity_id": null,
+      "name": "Wendy Long",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",
@@ -522,7 +401,6 @@
           "name": "Construction Services"
         }
       ],
-      "name": "Wendy Long",
       "endorsements": [
         {
           "name": "Family Research Council",

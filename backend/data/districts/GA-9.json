@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Jody Cooley",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
@@ -48,7 +49,6 @@
           "name": "Lawyers/Law Firms"
         }
       ],
-      "name": "Jody Cooley",
       "endorsements": [
         {
           "name": "Gun Owners of America",

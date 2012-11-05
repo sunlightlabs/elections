@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "4566aa4fea7a4d0da79e8aa27694ad25",
+      "name": "Austin Scott",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
@@ -90,8 +91,6 @@
           "name": "Agricultural Services/Products"
         }
       ],
-      "senate_class": "",
-      "name": "Austin Scott",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

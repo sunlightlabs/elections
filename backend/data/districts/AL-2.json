@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "87a4df31e002449d9534e17c14c5f317",
+      "name": "Martha Roby",
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
@@ -90,8 +91,6 @@
           "name": "Securities & Investment"
         }
       ],
-      "senate_class": "",
-      "name": "Martha Roby",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

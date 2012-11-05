@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Leslie Coolidge",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -90,7 +91,6 @@
           "name": "Retail Sales"
         }
       ],
-      "name": "Leslie Coolidge",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -111,6 +111,7 @@
     },
     {
       "entity_id": "bed19b9ade7d4790817066a041978fe6",
+      "name": "Peter Roskam",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -199,8 +200,6 @@
           "name": "Lobbyists"
         }
       ],
-      "senate_class": "",
-      "name": "Peter Roskam",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

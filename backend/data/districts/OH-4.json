@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Jim Slone",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
@@ -48,7 +49,6 @@
           "name": "Retired"
         }
       ],
-      "name": "Jim Slone",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -61,6 +61,7 @@
   "senate": [
     {
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
+      "name": "Sherrod Brown",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -149,8 +150,6 @@
           "name": "Industrial Unions"
         }
       ],
-      "senate_class": "I",
-      "name": "Sherrod Brown",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -201,6 +200,7 @@
     },
     {
       "entity_id": null,
+      "name": "Josh Mandel",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -289,7 +289,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "name": "Josh Mandel",
       "endorsements": [
         {
           "name": "Gun Owners of America",

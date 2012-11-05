@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Donna Bebo",
       "chamber": "house",
       "state": "OK",
       "state_name": "Oklahoma",
@@ -48,7 +49,6 @@
           "name": "Misc Business"
         }
       ],
-      "name": "Donna Bebo",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -59,6 +59,7 @@
     },
     {
       "entity_id": "f7ee773191fb474ca9ebe5ceb2db2ac5",
+      "name": "Tom Cole",
       "chamber": "house",
       "state": "OK",
       "state_name": "Oklahoma",
@@ -147,8 +148,6 @@
           "name": "Health Professionals"
         }
       ],
-      "senate_class": "",
-      "name": "Tom Cole",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "d34cf814990a4f8a9263686d7d08a437",
+      "name": "Diana DeGette",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
@@ -90,8 +91,6 @@
           "name": "Women's Issues"
         }
       ],
-      "senate_class": "",
-      "name": "Diana DeGette",
       "endorsements": [
         {
           "name": "AFL-CIO",

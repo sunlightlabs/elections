@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "e2588145c2d64a70912a6bbabc214ab6",
+      "name": "Sander Levin",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -90,8 +91,6 @@
           "name": "Automotive"
         }
       ],
-      "senate_class": "",
-      "name": "Sander Levin",
       "endorsements": [
         {
           "name": "AFL-CIO",

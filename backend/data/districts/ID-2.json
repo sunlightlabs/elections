@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "f7c014715b7a4f0ea0aae56377c005fe",
+      "name": "Mike Simpson",
       "chamber": "house",
       "state": "ID",
       "state_name": "Idaho",
@@ -90,8 +91,6 @@
           "name": "Retired"
         }
       ],
-      "senate_class": "",
-      "name": "Mike Simpson",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Jack Uppal",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -48,7 +49,6 @@
           "name": "Computers/Internet"
         }
       ],
-      "name": "Jack Uppal",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -59,6 +59,7 @@
     },
     {
       "entity_id": "4dc37b519dfc470f9fd53cb6041dfebd",
+      "name": "Tom McClintock",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -147,8 +148,6 @@
           "name": "Computers/Internet"
         }
       ],
-      "senate_class": "",
-      "name": "Tom McClintock",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",
@@ -181,6 +180,7 @@
   "senate": [
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
+      "name": "Dianne Feinstein",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -269,8 +269,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "senate_class": "I",
-      "name": "Dianne Feinstein",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -356,6 +354,7 @@
     },
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
+      "name": "Elizabeth Emken",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -444,7 +443,6 @@
           "name": "Retail Sales"
         }
       ],
-      "name": "Elizabeth Emken",
       "endorsements": [
         {
           "name": "National Rifle Association",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Erik Anderson",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -36,7 +37,6 @@
           "name": "Retired"
         }
       ],
-      "name": "Erik Anderson",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -47,6 +47,7 @@
     },
     {
       "entity_id": "b17f275d043449049b00eff387787a64",
+      "name": "Walter B Jones Jr",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -135,8 +136,6 @@
           "name": "Crop Production & Basic Processing"
         }
       ],
-      "senate_class": "",
-      "name": "Walter B Jones Jr",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

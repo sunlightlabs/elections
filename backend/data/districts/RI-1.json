@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "2619e5a74bb54ccbb3df5a0cacedae6f",
+      "name": "David N. Cicilline",
       "chamber": "house",
       "state": "RI",
       "state_name": "Rhode Island",
@@ -90,8 +91,6 @@
           "name": "Building Trade Unions"
         }
       ],
-      "senate_class": "",
-      "name": "David N. Cicilline",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -139,6 +138,7 @@
   "senate": [
     {
       "entity_id": "64f4b76b98b440cc9bb6b8132cb8fba7",
+      "name": "Sheldon Whitehouse",
       "chamber": "senate",
       "state": "RI",
       "state_name": "Rhode Island",
@@ -227,8 +227,6 @@
           "name": "Democratic/Liberal"
         }
       ],
-      "senate_class": "I",
-      "name": "Sheldon Whitehouse",
       "endorsements": [
         {
           "name": "AFL-CIO",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "e5221b6ac6524c4786ec36097ceabb1d",
+      "name": "Jan Schakowsky",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -90,8 +91,6 @@
           "name": "Securities & Investment"
         }
       ],
-      "senate_class": "",
-      "name": "Jan Schakowsky",
       "endorsements": [
         {
           "name": "AFL-CIO",

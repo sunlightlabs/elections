@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Penny Bailey",
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
@@ -66,7 +67,6 @@
           "name": "Lawyers/Law Firms"
         }
       ],
-      "name": "Penny Bailey",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -82,6 +82,7 @@
     },
     {
       "entity_id": "d73266aba56548afa813ce9bb09fc3e1",
+      "name": "Spencer Bachus",
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
@@ -170,8 +171,6 @@
           "name": "Lobbyists"
         }
       ],
-      "senate_class": "",
-      "name": "Spencer Bachus",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

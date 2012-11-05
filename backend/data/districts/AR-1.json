@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Scott Ellington",
       "chamber": "house",
       "state": "AR",
       "state_name": "Arkansas",
@@ -90,7 +91,6 @@
           "name": "Commercial Banks"
         }
       ],
-      "name": "Scott Ellington",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -101,6 +101,7 @@
     },
     {
       "entity_id": "d2c870b5b50f44d085efba9983d72ca3",
+      "name": "Rick Crawford",
       "chamber": "house",
       "state": "AR",
       "state_name": "Arkansas",
@@ -189,8 +190,6 @@
           "name": "Lawyers/Law Firms"
         }
       ],
-      "senate_class": "",
-      "name": "Rick Crawford",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

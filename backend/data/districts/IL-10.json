@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Brad Schneider",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -90,7 +91,6 @@
           "name": "Misc Finance"
         }
       ],
-      "name": "Brad Schneider",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -106,6 +106,7 @@
     },
     {
       "entity_id": "0c2fc448f2274e3ea7efe8c22f9487e5",
+      "name": "Robert Dold",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -194,8 +195,6 @@
           "name": "Misc Services"
         }
       ],
-      "senate_class": "",
-      "name": "Robert Dold",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

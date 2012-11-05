@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "George Badey",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -90,7 +91,6 @@
           "name": "Public Sector Unions"
         }
       ],
-      "name": "George Badey",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -101,6 +101,7 @@
     },
     {
       "entity_id": "3165dbb9c7c344a985fd38bc6ba0ce81",
+      "name": "Patrick L. Meehan",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -189,8 +190,6 @@
           "name": "General Contractors"
         }
       ],
-      "senate_class": "",
-      "name": "Patrick L. Meehan",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",
@@ -223,6 +222,7 @@
   "senate": [
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
+      "name": "Bob Casey",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -311,8 +311,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Bob Casey",
       "endorsements": [
         {
           "name": "League of Conservation Voters",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Julia Brownley",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -90,7 +91,6 @@
           "name": "Industrial Unions"
         }
       ],
-      "name": "Julia Brownley",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -118,131 +118,12 @@
           "value": "F"
         }
       ]
-    },
-    {
-      "entity_id": "2630a885d4274c009a318286771abafa",
-      "chamber": "house",
-      "state": "CA",
-      "state_name": "California",
-      "district": "26",
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Elton_Gallegly",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000021.jpg",
-      "seat_status": "I",
-      "bioguide_id": "G000021",
-      "fec_summary": {
-        "contributions_pac": "35470.00",
-        "office": "H",
-        "total_receipts_rank": 726,
-        "max_rank": 1515,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 202,
-        "total_raised": "245225.61",
-        "disbursements": "315526.44",
-        "total_disbursements_rank": 594,
-        "date": "2012-06-30",
-        "contributions_indiv": "201428.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "685608.16"
-      },
-      "industries": [
-        {
-          "count": "647",
-          "amount": "437350.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "639",
-          "amount": "294089.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "264",
-          "amount": "233067.00",
-          "id": "08c1fa7788994f148eddfb78c10032cf",
-          "name": "Pharmaceuticals/Health Products"
-        },
-        {
-          "count": "285",
-          "amount": "182296.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "285",
-          "amount": "158976.00",
-          "id": "0b27f92a966443129f79dfa42ae1f293",
-          "name": "Crop Production & Basic Processing"
-        },
-        {
-          "count": "153",
-          "amount": "149423.00",
-          "id": "83bece3db3b54ca58b38d3bad679697f",
-          "name": "Automotive"
-        },
-        {
-          "count": "253",
-          "amount": "143636.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "180",
-          "amount": "133523.00",
-          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
-          "name": "Tv/Movies/Music"
-        },
-        {
-          "count": "109",
-          "amount": "107702.00",
-          "id": "e7fac06daba94c979b8734fd011528ff",
-          "name": "Home Builders"
-        },
-        {
-          "count": "161",
-          "amount": "106395.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        }
-      ],
-      "senate_class": "",
-      "name": "Elton Gallegly",
-      "endorsements": [
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "0"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "F"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "73"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "84"
-        }
-      ]
     }
   ],
   "senate": [
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
+      "name": "Dianne Feinstein",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -331,8 +212,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "senate_class": "I",
-      "name": "Dianne Feinstein",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -418,6 +297,7 @@
     },
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
+      "name": "Elizabeth Emken",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -506,7 +386,6 @@
           "name": "Retail Sales"
         }
       ],
-      "name": "Elizabeth Emken",
       "endorsements": [
         {
           "name": "National Rifle Association",

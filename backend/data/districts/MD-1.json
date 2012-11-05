@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "b52cdcc185a74129885d1ab6f5eee532",
+      "name": "Andy Harris",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
@@ -90,8 +91,6 @@
           "name": "General Contractors"
         }
       ],
-      "senate_class": "",
-      "name": "Andy Harris",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -124,6 +123,7 @@
   "senate": [
     {
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
+      "name": "Ben Cardin",
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
@@ -212,8 +212,6 @@
           "name": "Public Sector Unions"
         }
       ],
-      "senate_class": "I",
-      "name": "Ben Cardin",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",

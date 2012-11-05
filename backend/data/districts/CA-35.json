@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "c8b3fcf26a1c426fad4b7976838d6251",
+      "name": "Joe Baca",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -90,8 +91,6 @@
           "name": "Telephone Utilities"
         }
       ],
-      "senate_class": "",
-      "name": "Joe Baca",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -142,6 +141,7 @@
     },
     {
       "entity_id": null,
+      "name": "Gloria Negrete McLeod",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -230,7 +230,6 @@
           "name": "Building Materials & Equipment"
         }
       ],
-      "name": "Gloria Negrete McLeod",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -243,6 +242,7 @@
   "senate": [
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
+      "name": "Dianne Feinstein",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -331,8 +331,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "senate_class": "I",
-      "name": "Dianne Feinstein",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -418,6 +416,7 @@
     },
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
+      "name": "Elizabeth Emken",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -506,7 +505,6 @@
           "name": "Retail Sales"
         }
       ],
-      "name": "Elizabeth Emken",
       "endorsements": [
         {
           "name": "National Rifle Association",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "dcf7868accc44faa84577500a16cef3b",
+      "name": "John Carney",
       "chamber": "house",
       "state": "DE",
       "state_name": "Delaware",
@@ -90,8 +91,6 @@
           "name": "Commercial Banks"
         }
       ],
-      "senate_class": "",
-      "name": "John Carney",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -124,6 +123,7 @@
   "senate": [
     {
       "entity_id": "68dd7ccd3e1141c1a7050627d87cd253",
+      "name": "Tom Carper",
       "chamber": "senate",
       "state": "DE",
       "state_name": "Delaware",
@@ -212,8 +212,6 @@
           "name": "Retired"
         }
       ],
-      "senate_class": "I",
-      "name": "Tom Carper",
       "endorsements": [
         {
           "name": "Gun Owners of America",

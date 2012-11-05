@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Joyce Beatty",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
@@ -90,7 +91,6 @@
           "name": "Retired"
         }
       ],
-      "name": "Joyce Beatty",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -108,111 +108,12 @@
           "value": "F"
         }
       ]
-    },
-    {
-      "entity_id": "a2d7a439bd6542f38ec33d2d8cfef247",
-      "chamber": "house",
-      "state": "OH",
-      "state_name": "Ohio",
-      "district": "3",
-      "party": "D",
-      "incumbent": false,
-      "bio_url": "http://en.wikipedia.org/wiki/Mary_Jo_Kilroy",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000372.jpg",
-      "seat_status": "O",
-      "bioguide_id": "K000372",
-      "fec_summary": {
-        "contributions_pac": "89426.70",
-        "office": "H",
-        "total_receipts_rank": 559,
-        "max_rank": 1515,
-        "contributions_candidate": "17500.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 796,
-        "total_raised": "437985.05",
-        "disbursements": "491543.10",
-        "total_disbursements_rank": 403,
-        "date": "2012-06-30",
-        "contributions_indiv": "318680.44",
-        "contributions_party": "0.00",
-        "cash_on_hand": "14150.35"
-      },
-      "industries": [
-        {
-          "count": "1817",
-          "amount": "810289.00",
-          "id": "6e1074968db94bf4851c0245cd8583bf",
-          "name": "Women's Issues"
-        },
-        {
-          "count": "1101",
-          "amount": "601957.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "772",
-          "amount": "476029.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "242",
-          "amount": "468129.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "644",
-          "amount": "323114.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "66",
-          "amount": "222165.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "56",
-          "amount": "181500.00",
-          "id": "d22cf14b1cd349b79f2b656b450b3b88",
-          "name": "Industrial Unions"
-        },
-        {
-          "count": "86",
-          "amount": "180500.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "416",
-          "amount": "180250.00",
-          "id": "31657d3c187e4cecb670d228d7e674d2",
-          "name": "Education"
-        },
-        {
-          "count": "72",
-          "amount": "153000.00",
-          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
-          "name": "Transportation Unions"
-        }
-      ],
-      "senate_class": "",
-      "name": "Mary Jo Kilroy",
-      "endorsements": [
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "95"
-        }
-      ]
     }
   ],
   "senate": [
     {
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
+      "name": "Sherrod Brown",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -301,8 +202,6 @@
           "name": "Industrial Unions"
         }
       ],
-      "senate_class": "I",
-      "name": "Sherrod Brown",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -353,6 +252,7 @@
     },
     {
       "entity_id": null,
+      "name": "Josh Mandel",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -441,7 +341,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "name": "Josh Mandel",
       "endorsements": [
         {
           "name": "Gun Owners of America",

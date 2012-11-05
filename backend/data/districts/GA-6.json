@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "232901b5e78840cfaaf4389cf6e0df95",
+      "name": "Tom Price",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
@@ -90,8 +91,6 @@
           "name": "Republican/Conservative"
         }
       ],
-      "senate_class": "",
-      "name": "Tom Price",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

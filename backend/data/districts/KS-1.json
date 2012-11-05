@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "9a630407d1fb49f5b579dad3743969ce",
+      "name": "Tim Huelskamp",
       "chamber": "house",
       "state": "KS",
       "state_name": "Kansas",
@@ -90,8 +91,6 @@
           "name": "Real Estate"
         }
       ],
-      "senate_class": "",
-      "name": "Tim Huelskamp",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

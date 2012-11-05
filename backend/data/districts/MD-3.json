@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "2d96f89c25b241a6bd72a79c70b4e5fa",
+      "name": "John Sarbanes",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
@@ -90,8 +91,6 @@
           "name": "Building Trade Unions"
         }
       ],
-      "senate_class": "",
-      "name": "John Sarbanes",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -134,6 +133,7 @@
   "senate": [
     {
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
+      "name": "Ben Cardin",
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
@@ -222,8 +222,6 @@
           "name": "Public Sector Unions"
         }
       ],
-      "senate_class": "I",
-      "name": "Ben Cardin",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "f8463d0cb5c74397afc623195e6828c9",
+      "name": "Patrick J Tiberi",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
@@ -90,8 +91,6 @@
           "name": "Retail Sales"
         }
       ],
-      "senate_class": "",
-      "name": "Patrick J Tiberi",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -124,6 +123,7 @@
   "senate": [
     {
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
+      "name": "Sherrod Brown",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -212,8 +212,6 @@
           "name": "Industrial Unions"
         }
       ],
-      "senate_class": "I",
-      "name": "Sherrod Brown",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -264,6 +262,7 @@
     },
     {
       "entity_id": null,
+      "name": "Josh Mandel",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -352,7 +351,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "name": "Josh Mandel",
       "endorsements": [
         {
           "name": "Gun Owners of America",

@@ -1,111 +1,8 @@
 {
   "house": [
     {
-      "entity_id": null,
-      "chamber": "house",
-      "state": "MI",
-      "state_name": "Michigan",
-      "district": "3",
-      "party": "D",
-      "incumbent": false,
-      "bio_url": null,
-      "photo_url": null,
-      "seat_status": "C",
-      "bioguide_id": null,
-      "fec_summary": {
-        "contributions_pac": "0.00",
-        "office": "H",
-        "total_receipts_rank": 696,
-        "max_rank": 1515,
-        "contributions_candidate": "7012.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 601,
-        "total_raised": "293582.14",
-        "disbursements": "207412.43",
-        "total_disbursements_rank": 714,
-        "date": "2012-07-18",
-        "contributions_indiv": "281570.14",
-        "contributions_party": "5000.00",
-        "cash_on_hand": "86169.71"
-      },
-      "industries": [
-        {
-          "count": "24",
-          "amount": "12250.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "28",
-          "amount": "9600.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "18",
-          "amount": "6350.00",
-          "id": "31657d3c187e4cecb670d228d7e674d2",
-          "name": "Education"
-        },
-        {
-          "count": "19",
-          "amount": "6201.00",
-          "id": "e5175721aac9406795a1f97cae01e01d",
-          "name": "Business Services"
-        },
-        {
-          "count": "5",
-          "amount": "6000.00",
-          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
-          "name": "Tv/Movies/Music"
-        },
-        {
-          "count": "12",
-          "amount": "5650.00",
-          "id": "4105890ca25a429681f50494c454426a",
-          "name": "Human Rights"
-        },
-        {
-          "count": "3",
-          "amount": "5500.00",
-          "id": "08c1fa7788994f148eddfb78c10032cf",
-          "name": "Pharmaceuticals/Health Products"
-        },
-        {
-          "count": "8",
-          "amount": "4262.00",
-          "id": "d8ddc9e3d84b40a2a923545964e6bf80",
-          "name": "Non-Profit Institutions"
-        },
-        {
-          "count": "9",
-          "amount": "4150.00",
-          "id": "db81234a46874e7392cb5dfec1f07113",
-          "name": "Printing & Publishing"
-        },
-        {
-          "count": "8",
-          "amount": "3800.00",
-          "id": "d9c4a26cd671436eac3c501184364fc4",
-          "name": "Misc Business"
-        }
-      ],
-      "name": "Steve Pestka",
-      "endorsements": [
-        {
-          "name": "National Organization of Women (NOW)",
-          "type": "endorsement",
-          "value": "Y"
-        },
-        {
-          "name": "Gun Owners of America",
-          "type": "endorsement",
-          "value": null
-        }
-      ]
-    },
-    {
       "entity_id": "8c43b91919e6495d9e9571f01572490a",
+      "name": "Justin Amash",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -194,8 +91,6 @@
           "name": "Misc Services"
         }
       ],
-      "senate_class": "",
-      "name": "Justin Amash",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -226,6 +121,105 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "91.67"
+        }
+      ]
+    },
+    {
+      "entity_id": null,
+      "name": "Steve Pestka",
+      "chamber": "house",
+      "state": "MI",
+      "state_name": "Michigan",
+      "district": "3",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "34550.00",
+        "office": "H",
+        "total_receipts_rank": 306,
+        "max_rank": 695,
+        "contributions_candidate": "590269.33",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 268,
+        "total_raised": "798322.39",
+        "disbursements": "346931.69",
+        "total_disbursements_rank": 403,
+        "date": "2012-07-18",
+        "contributions_indiv": "173503.06",
+        "contributions_party": "0.00",
+        "cash_on_hand": "451590.70"
+      },
+      "industries": [
+        {
+          "count": "26",
+          "amount": "18800.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "10",
+          "amount": "9550.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "4",
+          "amount": "9000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "9",
+          "amount": "7450.00",
+          "id": "9e701425eeb14b4c874cfb4415a4ac3b",
+          "name": "Civil Servants/Public Officials"
+        },
+        {
+          "count": "2",
+          "amount": "6000.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "1",
+          "amount": "5000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "4",
+          "amount": "2750.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1",
+          "amount": "2500.00",
+          "id": "db81234a46874e7392cb5dfec1f07113",
+          "name": "Printing & Publishing"
+        },
+        {
+          "count": "1",
+          "amount": "2500.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "1",
+          "amount": "2000.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
         }
       ]
     }

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "c84099ce5eb64a988f1705b7d052cf61",
+      "name": "Collin C Peterson",
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
@@ -90,8 +91,6 @@
           "name": "Transportation Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Collin C Peterson",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -134,6 +133,7 @@
   "senate": [
     {
       "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
+      "name": "Amy Klobuchar",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
@@ -222,8 +222,6 @@
           "name": "Health Professionals"
         }
       ],
-      "senate_class": "I",
-      "name": "Amy Klobuchar",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -269,6 +267,7 @@
     },
     {
       "entity_id": null,
+      "name": "Kurt Bills",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
@@ -357,7 +356,6 @@
           "name": "Real Estate"
         }
       ],
-      "name": "Kurt Bills",
       "endorsements": [
         {
           "name": "Gun Owners of America",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Sal Pace",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
@@ -90,7 +91,6 @@
           "name": "Business Services"
         }
       ],
-      "name": "Sal Pace",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -111,6 +111,7 @@
     },
     {
       "entity_id": "a8bc8f4ddaf94e378c5ad653ca5448aa",
+      "name": "Scott Tipton",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
@@ -199,8 +200,6 @@
           "name": "Food & Beverage"
         }
       ],
-      "senate_class": "",
-      "name": "Scott Tipton",
       "endorsements": [
         {
           "name": "Gun Owners of America",

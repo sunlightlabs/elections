@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "John K. Delaney",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
@@ -90,7 +91,6 @@
           "name": "Non-Profit Institutions"
         }
       ],
-      "name": "John K. Delaney",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -111,6 +111,7 @@
     },
     {
       "entity_id": "a0ec0c8a79524903bda3221e9086783a",
+      "name": "Roscoe G Bartlett",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
@@ -199,8 +200,6 @@
           "name": "General Contractors"
         }
       ],
-      "senate_class": "",
-      "name": "Roscoe G Bartlett",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -238,6 +237,7 @@
   "senate": [
     {
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
+      "name": "Ben Cardin",
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
@@ -326,8 +326,6 @@
           "name": "Public Sector Unions"
         }
       ],
-      "senate_class": "I",
-      "name": "Ben Cardin",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",

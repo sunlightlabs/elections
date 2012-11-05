@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "66d9d6d94dec4e36aeefd74d4b5d365a",
+      "name": "Rob Woodall",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
@@ -90,8 +91,6 @@
           "name": "Food & Beverage"
         }
       ],
-      "senate_class": "",
-      "name": "Rob Woodall",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

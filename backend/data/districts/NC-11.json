@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Hayden Rogers",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -90,7 +91,6 @@
           "name": "Transportation Unions"
         }
       ],
-      "name": "Hayden Rogers",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -101,131 +101,6 @@
           "name": "Gun Owners of America",
           "type": "endorsement",
           "value": null
-        }
-      ]
-    },
-    {
-      "entity_id": "d9121e840d7d426690efa66d32a1e0ab",
-      "chamber": "house",
-      "state": "NC",
-      "state_name": "North Carolina",
-      "district": "11",
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Heath_Shuler",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001171.jpg",
-      "seat_status": "I",
-      "bioguide_id": "S001171",
-      "fec_summary": {
-        "contributions_pac": "415350.00",
-        "office": "H",
-        "total_receipts_rank": 503,
-        "max_rank": 1515,
-        "contributions_candidate": "0.00",
-        "transfers_in": "1000.00",
-        "cash_on_hand_rank": 527,
-        "total_raised": "468502.49",
-        "disbursements": "501453.79",
-        "total_disbursements_rank": 396,
-        "date": "2012-06-30",
-        "contributions_indiv": "83740.00",
-        "contributions_party": "9.06",
-        "cash_on_hand": "138478.66"
-      },
-      "industries": [
-        {
-          "count": "468",
-          "amount": "306480.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "157",
-          "amount": "299799.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "326",
-          "amount": "241992.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "98",
-          "amount": "187000.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "187",
-          "amount": "184676.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "190",
-          "amount": "180780.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "88",
-          "amount": "160500.00",
-          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
-          "name": "Transportation Unions"
-        },
-        {
-          "count": "122",
-          "amount": "153950.00",
-          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
-          "name": "General Contractors"
-        },
-        {
-          "count": "53",
-          "amount": "149500.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "91",
-          "amount": "137700.00",
-          "id": "08c1fa7788994f148eddfb78c10032cf",
-          "name": "Pharmaceuticals/Health Products"
-        }
-      ],
-      "senate_class": "",
-      "name": "Heath Shuler",
-      "endorsements": [
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "50"
-        },
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "70"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "10"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "28"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "25"
         }
       ]
     }

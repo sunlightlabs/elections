@@ -1,132 +1,8 @@
 {
   "house": [
     {
-      "entity_id": "fbdc9f41bf4943649d5665b99aebab46",
-      "chamber": "house",
-      "state": "AR",
-      "state_name": "Arkansas",
-      "district": "4",
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Mike_Ross_%28politician%29",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000573.jpg",
-      "seat_status": "I",
-      "bioguide_id": "R000573",
-      "fec_summary": {
-        "contributions_pac": "349718.78",
-        "office": "H",
-        "total_receipts_rank": 579,
-        "max_rank": 1515,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 723,
-        "total_raised": "335694.49",
-        "disbursements": "467334.58",
-        "total_disbursements_rank": 424,
-        "date": "2012-06-30",
-        "contributions_indiv": "10160.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "27466.44"
-      },
-      "industries": [
-        {
-          "count": "860",
-          "amount": "845198.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "943",
-          "amount": "680649.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "786",
-          "amount": "390945.00",
-          "id": "32383c4d430e4b63aaa584500088331c",
-          "name": "Retail Sales"
-        },
-        {
-          "count": "260",
-          "amount": "327550.00",
-          "id": "52766c4910a846f2813a1dda212b7027",
-          "name": "Oil & Gas"
-        },
-        {
-          "count": "365",
-          "amount": "326467.00",
-          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
-          "name": "Commercial Banks"
-        },
-        {
-          "count": "115",
-          "amount": "307500.00",
-          "id": "d22cf14b1cd349b79f2b656b450b3b88",
-          "name": "Industrial Unions"
-        },
-        {
-          "count": "169",
-          "amount": "302000.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "122",
-          "amount": "280500.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "205",
-          "amount": "250800.00",
-          "id": "6570ffe2392e4811805136efe7aa3b2a",
-          "name": "Forestry & Forest Products"
-        },
-        {
-          "count": "249",
-          "amount": "247412.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        }
-      ],
-      "senate_class": "",
-      "name": "Mike Ross",
-      "endorsements": [
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "45"
-        },
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "90"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "10"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "46"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "28"
-        }
-      ]
-    },
-    {
       "entity_id": null,
+      "name": "Gene Jeffress",
       "chamber": "house",
       "state": "AR",
       "state_name": "Arkansas",
@@ -209,7 +85,6 @@
           "name": "Electric Utilities"
         }
       ],
-      "name": "Gene Jeffress",
       "endorsements": [
         {
           "name": "Gun Owners of America",

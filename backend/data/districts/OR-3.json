@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "bbfb51c7fc764ad38f6298b35ee05829",
+      "name": "Earl Blumenauer",
       "chamber": "house",
       "state": "OR",
       "state_name": "Oregon",
@@ -90,8 +91,6 @@
           "name": "Building Trade Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Earl Blumenauer",
       "endorsements": [
         {
           "name": "AFL-CIO",

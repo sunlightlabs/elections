@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "399cda56671643bab92aee2cb3819dc5",
+      "name": "David Scott",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
@@ -90,8 +91,6 @@
           "name": "Industrial Unions"
         }
       ],
-      "senate_class": "",
-      "name": "David Scott",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

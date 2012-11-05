@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Brandon Shaffer",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
@@ -90,7 +91,6 @@
           "name": "Insurance"
         }
       ],
-      "name": "Brandon Shaffer",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -106,6 +106,7 @@
     },
     {
       "entity_id": "30438b80959243e0816870cea724b0a7",
+      "name": "Cory Gardner",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
@@ -194,8 +195,6 @@
           "name": "Health Professionals"
         }
       ],
-      "senate_class": "",
-      "name": "Cory Gardner",
       "endorsements": [
         {
           "name": "Gun Owners of America",

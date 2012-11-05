@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Dennis Anderson",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -60,7 +61,6 @@
           "name": "Democratic/Liberal"
         }
       ],
-      "name": "Dennis Anderson",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -76,6 +76,7 @@
     },
     {
       "entity_id": "ed68fa1a00214e358154316a6c72c727",
+      "name": "Randy Hultgren",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -164,8 +165,6 @@
           "name": "Misc Manufacturing & Distributing"
         }
       ],
-      "senate_class": "",
-      "name": "Randy Hultgren",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

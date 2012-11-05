@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Mike Obermueller",
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
@@ -90,7 +91,6 @@
           "name": "Printing & Publishing"
         }
       ],
-      "name": "Mike Obermueller",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -111,6 +111,7 @@
     },
     {
       "entity_id": "2a42e601cc4545e092aab2a057947c88",
+      "name": "John Kline",
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
@@ -199,8 +200,6 @@
           "name": "Commercial Banks"
         }
       ],
-      "senate_class": "",
-      "name": "John Kline",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -233,6 +232,7 @@
   "senate": [
     {
       "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
+      "name": "Amy Klobuchar",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
@@ -321,8 +321,6 @@
           "name": "Health Professionals"
         }
       ],
-      "senate_class": "I",
-      "name": "Amy Klobuchar",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -368,6 +366,7 @@
     },
     {
       "entity_id": null,
+      "name": "Kurt Bills",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
@@ -456,7 +455,6 @@
           "name": "Real Estate"
         }
       ],
-      "name": "Kurt Bills",
       "endorsements": [
         {
           "name": "Gun Owners of America",

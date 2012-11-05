@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Donna McAleer",
       "chamber": "house",
       "state": "UT",
       "state_name": "Utah",
@@ -90,7 +91,6 @@
           "name": "Hospitals/Nursing Homes"
         }
       ],
-      "name": "Donna McAleer",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -106,6 +106,7 @@
     },
     {
       "entity_id": "d7cf3862971b41b5ac5a892036634f57",
+      "name": "Rob Bishop",
       "chamber": "house",
       "state": "UT",
       "state_name": "Utah",
@@ -194,8 +195,6 @@
           "name": "Misc Defense"
         }
       ],
-      "senate_class": "",
-      "name": "Rob Bishop",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -228,6 +227,7 @@
   "senate": [
     {
       "entity_id": null,
+      "name": "Scott N Howell",
       "chamber": "senate",
       "state": "UT",
       "state_name": "Utah",
@@ -316,7 +316,6 @@
           "name": "Democratic/Liberal"
         }
       ],
-      "name": "Scott N Howell",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -332,6 +331,7 @@
     },
     {
       "entity_id": "e5aa63ec4a0746fbb9961b325ddb3627",
+      "name": "Orrin G Hatch",
       "chamber": "senate",
       "state": "UT",
       "state_name": "Utah",
@@ -420,8 +420,6 @@
           "name": "Computers/Internet"
         }
       ],
-      "senate_class": "I",
-      "name": "Orrin G Hatch",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

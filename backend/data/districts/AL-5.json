@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Charlie L. Holley",
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
@@ -72,7 +73,6 @@
           "name": "Hospitals/Nursing Homes"
         }
       ],
-      "name": "Charlie L. Holley",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -88,6 +88,7 @@
     },
     {
       "entity_id": "86365334cfbd49dcbaf28e501131c126",
+      "name": "Mo Brooks",
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
@@ -176,8 +177,6 @@
           "name": "Real Estate"
         }
       ],
-      "senate_class": "",
-      "name": "Mo Brooks",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

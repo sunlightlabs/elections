@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "ec605250c0cb40f3859a631d3e5645d1",
+      "name": "Frank D Lucas",
       "chamber": "house",
       "state": "OK",
       "state_name": "Oklahoma",
@@ -90,8 +91,6 @@
           "name": "Food Processing & Sales"
         }
       ],
-      "senate_class": "",
-      "name": "Frank D Lucas",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

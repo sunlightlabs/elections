@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Mike O'Brien",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -90,7 +91,6 @@
           "name": "Insurance"
         }
       ],
-      "name": "Mike O'Brien",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -106,6 +106,7 @@
     },
     {
       "entity_id": "673b82ae1e2745ff9ee21a8ca1462518",
+      "name": "Fred Upton",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -194,8 +195,6 @@
           "name": "Insurance"
         }
       ],
-      "senate_class": "",
-      "name": "Fred Upton",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

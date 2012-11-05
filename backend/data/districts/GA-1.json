@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "02b3c6f9a1ba458fbf9623e02cfd4001",
+      "name": "Jack Kingston",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
@@ -90,8 +91,6 @@
           "name": "Poultry & Eggs"
         }
       ],
-      "senate_class": "",
-      "name": "Jack Kingston",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

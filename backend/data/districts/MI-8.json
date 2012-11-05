@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Lance Lyle Enderle",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -60,7 +61,6 @@
           "name": "Insurance"
         }
       ],
-      "name": "Lance Lyle Enderle",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -81,6 +81,7 @@
     },
     {
       "entity_id": "a27f164395ca4f68a26c1ca3040c10f1",
+      "name": "Mike Rogers",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -169,8 +170,6 @@
           "name": "Electric Utilities"
         }
       ],
-      "senate_class": "",
-      "name": "Mike Rogers",
       "endorsements": [
         {
           "name": "Americans for Democratic Action",

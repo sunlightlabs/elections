@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "5d5422a948c64345a12178cc6c06c64f",
+      "name": "Betty Sue Sutton",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
@@ -90,8 +91,6 @@
           "name": "Real Estate"
         }
       ],
-      "senate_class": "",
-      "name": "Betty Sue Sutton",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -136,107 +135,8 @@
       ]
     },
     {
-      "entity_id": "84479a6fc4194229b711ee94e539a7e6",
-      "chamber": "house",
-      "state": "OH",
-      "state_name": "Ohio",
-      "district": "16",
-      "party": "D",
-      "incumbent": false,
-      "bio_url": "http://en.wikipedia.org/wiki/John_Boccieri",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001263.jpg",
-      "seat_status": "C",
-      "bioguide_id": "B001263",
-      "fec_summary": {
-        "contributions_pac": "0.00",
-        "office": "H",
-        "total_receipts_rank": 1500,
-        "max_rank": 1515,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 881,
-        "total_raised": "4289.66",
-        "disbursements": "37370.65",
-        "total_disbursements_rank": 1065,
-        "date": "2012-06-30",
-        "contributions_indiv": "0.00",
-        "contributions_party": "0.00",
-        "cash_on_hand": "7450.13"
-      },
-      "industries": [
-        {
-          "count": "194",
-          "amount": "348251.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "410",
-          "amount": "280162.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "79",
-          "amount": "148725.00",
-          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
-          "name": "Transportation Unions"
-        },
-        {
-          "count": "44",
-          "amount": "141770.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "153",
-          "amount": "133210.00",
-          "id": "4f1efa319be14d63b50ebf17a8f1af71",
-          "name": "Democratic/Liberal"
-        },
-        {
-          "count": "57",
-          "amount": "120400.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "84",
-          "amount": "108585.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "33",
-          "amount": "106086.00",
-          "id": "d22cf14b1cd349b79f2b656b450b3b88",
-          "name": "Industrial Unions"
-        },
-        {
-          "count": "167",
-          "amount": "101552.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "102",
-          "amount": "86173.00",
-          "id": "72c7c89ba4ce406d99152105c08ccedf",
-          "name": "Environment"
-        }
-      ],
-      "senate_class": "",
-      "name": "John A Boccieri",
-      "endorsements": [
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "75"
-        }
-      ]
-    },
-    {
       "entity_id": "5be4d196e74d44b382ff03337edebe54",
+      "name": "James B. Renacci",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
@@ -325,8 +225,6 @@
           "name": "Automotive"
         }
       ],
-      "senate_class": "",
-      "name": "James B. Renacci",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -359,6 +257,7 @@
   "senate": [
     {
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
+      "name": "Sherrod Brown",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -447,8 +346,6 @@
           "name": "Industrial Unions"
         }
       ],
-      "senate_class": "I",
-      "name": "Sherrod Brown",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -499,6 +396,7 @@
     },
     {
       "entity_id": null,
+      "name": "Josh Mandel",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -587,7 +485,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "name": "Josh Mandel",
       "endorsements": [
         {
           "name": "Gun Owners of America",

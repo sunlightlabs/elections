@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "a3cd4e6a22674701affdd05b5956b337",
+      "name": "Carol Shea-Porter",
       "chamber": "house",
       "state": "NH",
       "state_name": "New Hampshire",
@@ -90,8 +91,6 @@
           "name": "Lawyers/Law Firms"
         }
       ],
-      "senate_class": "",
-      "name": "Carol Shea-Porter",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -107,6 +106,7 @@
     },
     {
       "entity_id": "6e2793151215468aa942c5d3fe3b661a",
+      "name": "Frank Guinta",
       "chamber": "house",
       "state": "NH",
       "state_name": "New Hampshire",
@@ -195,8 +195,6 @@
           "name": "General Contractors"
         }
       ],
-      "senate_class": "",
-      "name": "Frank Guinta",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

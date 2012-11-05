@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "e1b2c3b28df647cc8b160d341304e718",
+      "name": "Scott Garrett",
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
@@ -90,8 +91,6 @@
           "name": "Lobbyists"
         }
       ],
-      "senate_class": "",
-      "name": "Scott Garrett",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -129,6 +128,7 @@
   "senate": [
     {
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
+      "name": "Robert Menendez",
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",
@@ -217,8 +217,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Robert Menendez",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -264,141 +262,6 @@
           "name": "National Taxpayers Union",
           "type": "rating",
           "value": "13"
-        }
-      ]
-    },
-    {
-      "entity_id": "17ff7339681646d497966cb615990f22",
-      "chamber": "senate",
-      "state": "NJ",
-      "state_name": "New Jersey",
-      "district": null,
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Rob_Andrews",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000210.jpg",
-      "seat_status": "I",
-      "bioguide_id": "A000210",
-      "fec_summary": {
-        "contributions_pac": "442081.44",
-        "office": "H",
-        "total_receipts_rank": 211,
-        "max_rank": 695,
-        "contributions_candidate": "87.18",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 239,
-        "total_raised": "1024114.27",
-        "disbursements": "947722.51",
-        "total_disbursements_rank": 93,
-        "date": "2012-06-30",
-        "contributions_indiv": "580956.75",
-        "contributions_party": "0.00",
-        "cash_on_hand": "515600.25"
-      },
-      "industries": [
-        {
-          "count": "1583",
-          "amount": "1312727.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "775",
-          "amount": "649223.00",
-          "id": "31657d3c187e4cecb670d228d7e674d2",
-          "name": "Education"
-        },
-        {
-          "count": "649",
-          "amount": "563905.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "472",
-          "amount": "449601.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "219",
-          "amount": "433750.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "205",
-          "amount": "380250.00",
-          "id": "d22cf14b1cd349b79f2b656b450b3b88",
-          "name": "Industrial Unions"
-        },
-        {
-          "count": "240",
-          "amount": "366550.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "311",
-          "amount": "337549.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "242",
-          "amount": "304300.00",
-          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
-          "name": "Transportation Unions"
-        },
-        {
-          "count": "311",
-          "amount": "304143.00",
-          "id": "75a85fa019274ab5ae3cc83b5a68972e",
-          "name": "Construction Services"
-        }
-      ],
-      "senate_class": "",
-      "name": "Robert E Andrews",
-      "endorsements": [
-        {
-          "name": "AFL-CIO",
-          "type": "endorsement",
-          "value": "Y"
-        },
-        {
-          "name": "National Organization of Women (NOW)",
-          "type": "endorsement",
-          "value": "Y"
-        },
-        {
-          "name": "Gun Owners of America",
-          "type": "grade",
-          "value": "F"
-        },
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "40"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "100"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "10"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "0"
         }
       ]
     }

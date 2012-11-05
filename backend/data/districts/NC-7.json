@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "a4c1a99aa50747fda4278b172cdc89a1",
+      "name": "Mike McIntyre",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -90,8 +91,6 @@
           "name": "Insurance"
         }
       ],
-      "senate_class": "",
-      "name": "Mike McIntyre",
       "endorsements": [
         {
           "name": "AFL-CIO",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "George Holding",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -90,7 +91,6 @@
           "name": "Special Trade Contractors"
         }
       ],
-      "name": "George Holding",
       "endorsements": [
         {
           "name": "Family Research Council",

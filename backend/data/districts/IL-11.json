@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "3e192fde2cda4ca291a9850ad43776fb",
+      "name": "Bill Foster",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -90,8 +91,6 @@
           "name": "Real Estate"
         }
       ],
-      "senate_class": "",
-      "name": "Bill Foster",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -107,6 +106,7 @@
     },
     {
       "entity_id": "372fa430380d488da5020fc05a69d88f",
+      "name": "Judy Biggert",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -195,8 +195,6 @@
           "name": "Misc Manufacturing & Distributing"
         }
       ],
-      "senate_class": "",
-      "name": "Judy Biggert",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

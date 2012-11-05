@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "28cf1bb4dfa148e7a025513bbda51f7e",
+      "name": "Howard L Berman",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -90,8 +91,6 @@
           "name": "Misc Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Howard L Berman",
       "endorsements": [
         {
           "name": "Americans for Democratic Action",
@@ -132,6 +131,7 @@
     },
     {
       "entity_id": "4a49c109d29549df850dbe27b8cabc12",
+      "name": "Brad Sherman",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -220,8 +220,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "senate_class": "",
-      "name": "Brad Sherman",
       "endorsements": [
         {
           "name": "Americans for Democratic Action",
@@ -264,6 +262,7 @@
   "senate": [
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
+      "name": "Dianne Feinstein",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -352,8 +351,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "senate_class": "I",
-      "name": "Dianne Feinstein",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -439,6 +436,7 @@
     },
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
+      "name": "Elizabeth Emken",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -527,7 +525,6 @@
           "name": "Retail Sales"
         }
       ],
-      "name": "Elizabeth Emken",
       "endorsements": [
         {
           "name": "National Rifle Association",

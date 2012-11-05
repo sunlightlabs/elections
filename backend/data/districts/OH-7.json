@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Joyce Healy-Abrams",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
@@ -90,7 +91,6 @@
           "name": "Democratic/Liberal"
         }
       ],
-      "name": "Joyce Healy-Abrams",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -111,6 +111,7 @@
     },
     {
       "entity_id": "13fda665a73849099d22f59f24bac77e",
+      "name": "Bob Gibbs",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
@@ -199,8 +200,6 @@
           "name": "Retail Sales"
         }
       ],
-      "senate_class": "",
-      "name": "Bob Gibbs",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -238,6 +237,7 @@
   "senate": [
     {
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
+      "name": "Sherrod Brown",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -326,8 +326,6 @@
           "name": "Industrial Unions"
         }
       ],
-      "senate_class": "I",
-      "name": "Sherrod Brown",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -378,6 +376,7 @@
     },
     {
       "entity_id": null,
+      "name": "Josh Mandel",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -466,7 +465,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "name": "Josh Mandel",
       "endorsements": [
         {
           "name": "Gun Owners of America",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "John Andrew Harris",
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
@@ -31,7 +32,6 @@
       "industries": [
 
       ],
-      "name": "John Andrew Harris",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -47,6 +47,7 @@
     },
     {
       "entity_id": "c3bab173af8c418392bf7600abe660d8",
+      "name": "Mike D Rogers",
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
@@ -135,8 +136,6 @@
           "name": "Electric Utilities"
         }
       ],
-      "senate_class": "",
-      "name": "Mike D Rogers",
       "endorsements": [
         {
           "name": "Americans for Democratic Action",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "e334fa69690043a0b6118ade3001fda3",
+      "name": "Jim Matheson",
       "chamber": "house",
       "state": "UT",
       "state_name": "Utah",
@@ -90,8 +91,6 @@
           "name": "Building Trade Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Jim Matheson",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -139,6 +138,7 @@
   "senate": [
     {
       "entity_id": null,
+      "name": "Scott N Howell",
       "chamber": "senate",
       "state": "UT",
       "state_name": "Utah",
@@ -227,7 +227,6 @@
           "name": "Democratic/Liberal"
         }
       ],
-      "name": "Scott N Howell",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -243,6 +242,7 @@
     },
     {
       "entity_id": "e5aa63ec4a0746fbb9961b325ddb3627",
+      "name": "Orrin G Hatch",
       "chamber": "senate",
       "state": "UT",
       "state_name": "Utah",
@@ -331,8 +331,6 @@
           "name": "Computers/Internet"
         }
       ],
-      "senate_class": "I",
-      "name": "Orrin G Hatch",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

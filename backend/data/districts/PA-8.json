@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "736f841f7ac14bc08cabe8a2184e92d4",
+      "name": "Michael G Fitzpatrick",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -90,8 +91,6 @@
           "name": "Republican/Conservative"
         }
       ],
-      "senate_class": "",
-      "name": "Michael G Fitzpatrick",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",
@@ -124,6 +123,7 @@
   "senate": [
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
+      "name": "Bob Casey",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -212,8 +212,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Bob Casey",
       "endorsements": [
         {
           "name": "League of Conservation Voters",

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Joyce B. Segers",
       "chamber": "house",
       "state": "OR",
       "state_name": "Oregon",
@@ -90,7 +91,6 @@
           "name": "Non-Profit Institutions"
         }
       ],
-      "name": "Joyce B. Segers",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -101,6 +101,7 @@
     },
     {
       "entity_id": "ccb067af97274f87afe80fadf9813be2",
+      "name": "Greg Walden",
       "chamber": "house",
       "state": "OR",
       "state_name": "Oregon",
@@ -189,8 +190,6 @@
           "name": "Real Estate"
         }
       ],
-      "senate_class": "",
-      "name": "Greg Walden",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

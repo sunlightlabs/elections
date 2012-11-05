@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Steve Wilkins",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -36,7 +37,6 @@
           "name": "Retired"
         }
       ],
-      "name": "Steve Wilkins",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -52,6 +52,7 @@
     },
     {
       "entity_id": "10e885e35c4b44f1a1c5b7ffec6ef6a3",
+      "name": "Renee Ellmers",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -140,8 +141,6 @@
           "name": "Retail Sales"
         }
       ],
-      "senate_class": "",
-      "name": "Renee Ellmers",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

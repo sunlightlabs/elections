@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Angela Zimmann",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
@@ -90,7 +91,6 @@
           "name": "Misc Finance"
         }
       ],
-      "name": "Angela Zimmann",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -106,6 +106,7 @@
     },
     {
       "entity_id": "7bc4f7437dd542d7a9829c648af74f1d",
+      "name": "Robert E Latta",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
@@ -194,8 +195,6 @@
           "name": "Health Professionals"
         }
       ],
-      "senate_class": "",
-      "name": "Robert E Latta",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -208,6 +207,7 @@
   "senate": [
     {
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
+      "name": "Sherrod Brown",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -296,8 +296,6 @@
           "name": "Industrial Unions"
         }
       ],
-      "senate_class": "I",
-      "name": "Sherrod Brown",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -348,6 +346,7 @@
     },
     {
       "entity_id": null,
+      "name": "Josh Mandel",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -436,7 +435,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "name": "Josh Mandel",
       "endorsements": [
         {
           "name": "Gun Owners of America",

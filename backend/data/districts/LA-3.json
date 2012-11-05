@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "18617d11247548cc981bf89a50a92219",
+      "name": "Jeffrey M. Landry",
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",
@@ -90,8 +91,6 @@
           "name": "Real Estate"
         }
       ],
-      "senate_class": "",
-      "name": "Jeffrey M. Landry",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -102,6 +101,7 @@
     },
     {
       "entity_id": "d392545fba7248f38a5ca25bcda2ae6e",
+      "name": "Charles W Boustany Jr",
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",
@@ -190,8 +190,6 @@
           "name": "Health Services/Hmos"
         }
       ],
-      "senate_class": "",
-      "name": "Charles W Boustany Jr",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

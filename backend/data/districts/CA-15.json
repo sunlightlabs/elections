@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "6b159f6cbcef4bc6a338b217bd019b33",
+      "name": "Pete Stark",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -90,8 +91,6 @@
           "name": "Transportation Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Pete Stark",
       "endorsements": [
         {
           "name": "National Nurses United",
@@ -127,6 +126,7 @@
     },
     {
       "entity_id": null,
+      "name": "Eric Swalwell",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -215,7 +215,6 @@
           "name": "Commercial Banks"
         }
       ],
-      "name": "Eric Swalwell",
       "endorsements": [
         {
           "name": "San Francisco Chronicle",
@@ -233,6 +232,7 @@
   "senate": [
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
+      "name": "Dianne Feinstein",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -321,8 +321,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "senate_class": "I",
-      "name": "Dianne Feinstein",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -408,6 +406,7 @@
     },
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
+      "name": "Elizabeth Emken",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -496,7 +495,6 @@
           "name": "Retail Sales"
         }
       ],
-      "name": "Elizabeth Emken",
       "endorsements": [
         {
           "name": "National Rifle Association",

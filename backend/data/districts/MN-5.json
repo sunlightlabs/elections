@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "69450767ce3c46bda62793e3dab644f6",
+      "name": "Keith Ellison",
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
@@ -90,8 +91,6 @@
           "name": "Misc Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Keith Ellison",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -144,6 +143,7 @@
   "senate": [
     {
       "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
+      "name": "Amy Klobuchar",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
@@ -232,8 +232,6 @@
           "name": "Health Professionals"
         }
       ],
-      "senate_class": "I",
-      "name": "Amy Klobuchar",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -279,6 +277,7 @@
     },
     {
       "entity_id": null,
+      "name": "Kurt Bills",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
@@ -367,7 +366,6 @@
           "name": "Real Estate"
         }
       ],
-      "name": "Kurt Bills",
       "endorsements": [
         {
           "name": "Gun Owners of America",

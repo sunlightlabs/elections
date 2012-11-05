@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Kim Gillan",
       "chamber": "house",
       "state": "MT",
       "state_name": "Montana",
@@ -90,7 +91,6 @@
           "name": "Real Estate"
         }
       ],
-      "name": "Kim Gillan",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -113,6 +113,7 @@
   "senate": [
     {
       "entity_id": "0aab575c5cec4e36a2529011488c00fa",
+      "name": "Jon Tester",
       "chamber": "senate",
       "state": "MT",
       "state_name": "Montana",
@@ -201,8 +202,6 @@
           "name": "Health Professionals"
         }
       ],
-      "senate_class": "I",
-      "name": "Jon Tester",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -248,6 +247,7 @@
     },
     {
       "entity_id": "8cde611c6a554f099ce7e627209172b2",
+      "name": "Denny Rehberg",
       "chamber": "senate",
       "state": "MT",
       "state_name": "Montana",
@@ -336,8 +336,6 @@
           "name": "Electric Utilities"
         }
       ],
-      "senate_class": "",
-      "name": "Denny Rehberg",
       "endorsements": [
         {
           "name": "Gun Owners of America",

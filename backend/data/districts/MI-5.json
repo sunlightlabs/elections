@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Dan Kildee",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -90,7 +91,6 @@
           "name": "Real Estate"
         }
       ],
-      "name": "Dan Kildee",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -101,6 +101,7 @@
     },
     {
       "entity_id": "de20941551664f648b2705789f222864",
+      "name": "Dale E Kildee",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -189,8 +190,6 @@
           "name": "Misc Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Dale E Kildee",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",

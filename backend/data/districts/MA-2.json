@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "d2be869dfbdc4fc29c70916e623e8785",
+      "name": "James P McGovern",
       "chamber": "house",
       "state": "MA",
       "state_name": "Massachusetts",
@@ -90,8 +91,6 @@
           "name": "Insurance"
         }
       ],
-      "senate_class": "",
-      "name": "James P McGovern",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -119,6 +118,7 @@
   "senate": [
     {
       "entity_id": null,
+      "name": "Elizabeth Warren",
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
@@ -207,7 +207,6 @@
           "name": "Tv/Movies/Music"
         }
       ],
-      "name": "Elizabeth Warren",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -238,6 +237,7 @@
     },
     {
       "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
+      "name": "Scott P. Brown",
       "chamber": "senate",
       "state": "MA",
       "state_name": "Massachusetts",
@@ -326,8 +326,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Scott P. Brown",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

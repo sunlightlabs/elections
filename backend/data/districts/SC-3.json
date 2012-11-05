@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Brian Doyle",
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
@@ -36,7 +37,6 @@
           "name": "Lawyers/Law Firms"
         }
       ],
-      "name": "Brian Doyle",
       "endorsements": [
         {
           "name": "Gun Owners of America",
@@ -47,6 +47,7 @@
     },
     {
       "entity_id": "af5049e8f75e453aba2dc52c74736153",
+      "name": "Jeff Duncan",
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
@@ -135,8 +136,6 @@
           "name": "Hospitals/Nursing Homes"
         }
       ],
-      "senate_class": "",
-      "name": "Jeff Duncan",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

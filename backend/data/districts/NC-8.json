@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "aecbd98046f545d092c00ae94a9291c8",
+      "name": "Larry Kissell",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -90,8 +91,6 @@
           "name": "Misc Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Larry Kissell",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -132,6 +131,7 @@
     },
     {
       "entity_id": null,
+      "name": "Richard Hudson",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -220,7 +220,6 @@
           "name": "Business Services"
         }
       ],
-      "name": "Richard Hudson",
       "endorsements": [
         {
           "name": "Gun Owners of America",

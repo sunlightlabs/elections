@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "34ad57ffa65741f8bf3207e336dc4ae8",
+      "name": "David Loebsack",
       "chamber": "house",
       "state": "IA",
       "state_name": "Iowa",
@@ -90,8 +91,6 @@
           "name": "Misc Unions"
         }
       ],
-      "senate_class": "",
-      "name": "David Loebsack",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -102,6 +101,7 @@
     },
     {
       "entity_id": null,
+      "name": "John Archer",
       "chamber": "house",
       "state": "IA",
       "state_name": "Iowa",
@@ -190,7 +190,6 @@
           "name": "Commercial Banks"
         }
       ],
-      "name": "John Archer",
       "endorsements": [
         {
           "name": "Family Research Council",

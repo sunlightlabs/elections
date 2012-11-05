@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "c8eb2a17f271433885ca8e8872eb0e7a",
+      "name": "James E Clyburn",
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
@@ -90,8 +91,6 @@
           "name": "Real Estate"
         }
       ],
-      "senate_class": "",
-      "name": "James E Clyburn",
       "endorsements": [
         {
           "name": "Americans for Democratic Action",

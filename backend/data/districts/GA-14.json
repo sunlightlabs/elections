@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "2d48b2c73ef54ea18cdb6b6ab6004be9",
+      "name": "Tom Graves",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
@@ -90,8 +91,6 @@
           "name": "Misc Finance"
         }
       ],
-      "senate_class": "",
-      "name": "Tom Graves",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

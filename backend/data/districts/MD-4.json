@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "340b9524e8674d4687209e70c262c194",
+      "name": "Donna Edwards",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
@@ -90,8 +91,6 @@
           "name": "Environment"
         }
       ],
-      "senate_class": "",
-      "name": "Donna Edwards",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -149,6 +148,7 @@
   "senate": [
     {
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
+      "name": "Ben Cardin",
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
@@ -237,8 +237,6 @@
           "name": "Public Sector Unions"
         }
       ],
-      "senate_class": "I",
-      "name": "Ben Cardin",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",

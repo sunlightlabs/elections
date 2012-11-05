@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Joe Coors",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
@@ -90,7 +91,6 @@
           "name": "Lawyers/Law Firms"
         }
       ],
-      "name": "Joe Coors",
       "endorsements": [
         {
           "name": "Gun Owners of America",

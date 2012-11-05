@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "f46e5bf9c795465f866ff8c8b445099b",
+      "name": "Joe Wilson",
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
@@ -90,8 +91,6 @@
           "name": "General Contractors"
         }
       ],
-      "senate_class": "",
-      "name": "Joe Wilson",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

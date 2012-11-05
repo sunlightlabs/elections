@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Aryanna Strader",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -90,7 +91,6 @@
           "name": "Food Processing & Sales"
         }
       ],
-      "name": "Aryanna Strader",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -108,6 +108,7 @@
   "senate": [
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
+      "name": "Bob Casey",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -196,8 +197,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Bob Casey",
       "endorsements": [
         {
           "name": "League of Conservation Voters",

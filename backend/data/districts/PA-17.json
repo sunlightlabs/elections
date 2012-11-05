@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Matt Cartwright",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -90,7 +91,6 @@
           "name": "Democratic/Liberal"
         }
       ],
-      "name": "Matt Cartwright",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -103,136 +103,12 @@
           "value": null
         }
       ]
-    },
-    {
-      "entity_id": "f7e12a4bf31d4c00ab680f7e9b709279",
-      "chamber": "house",
-      "state": "PA",
-      "state_name": "Pennsylvania",
-      "district": "17",
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Tim_Holden",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H000712.jpg",
-      "seat_status": "I",
-      "bioguide_id": "H000712",
-      "fec_summary": {
-        "contributions_pac": "758377.74",
-        "office": "H",
-        "total_receipts_rank": 219,
-        "max_rank": 1515,
-        "contributions_candidate": "0.00",
-        "transfers_in": "0.00",
-        "cash_on_hand_rank": 1315,
-        "total_raised": "1150155.90",
-        "disbursements": "1166098.50",
-        "total_disbursements_rank": 85,
-        "date": "2012-06-30",
-        "contributions_indiv": "353862.17",
-        "contributions_party": "26148.00",
-        "cash_on_hand": "0.00"
-      },
-      "industries": [
-        {
-          "count": "352",
-          "amount": "549994.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        },
-        {
-          "count": "468",
-          "amount": "511845.00",
-          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
-          "name": "Transportation Unions"
-        },
-        {
-          "count": "311",
-          "amount": "504025.00",
-          "id": "d22cf14b1cd349b79f2b656b450b3b88",
-          "name": "Industrial Unions"
-        },
-        {
-          "count": "335",
-          "amount": "496915.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "698",
-          "amount": "385577.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "449",
-          "amount": "357562.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "158",
-          "amount": "314274.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "313",
-          "amount": "291779.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "224",
-          "amount": "244519.00",
-          "id": "a6997a5a0f674bbc9c371d8e99377259",
-          "name": "Electric Utilities"
-        },
-        {
-          "count": "281",
-          "amount": "237750.00",
-          "id": "0b27f92a966443129f79dfa42ae1f293",
-          "name": "Crop Production & Basic Processing"
-        }
-      ],
-      "senate_class": "",
-      "name": "Tim Holden",
-      "endorsements": [
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "30"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "A"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "55"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "32"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "28"
-        },
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "78"
-        }
-      ]
     }
   ],
   "senate": [
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
+      "name": "Bob Casey",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -321,8 +197,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Bob Casey",
       "endorsements": [
         {
           "name": "League of Conservation Voters",

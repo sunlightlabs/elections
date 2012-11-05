@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "62f82d760a0e42d18b84c0fcaab1c823",
+      "name": "Paul Broun Jr",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
@@ -90,8 +91,6 @@
           "name": "Lawyers/Law Firms"
         }
       ],
-      "senate_class": "",
-      "name": "Paul Broun Jr",
       "endorsements": [
         {
           "name": "NARAL Pro-Choice America",

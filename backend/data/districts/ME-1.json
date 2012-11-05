@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "bc890c70ed394f78a542cc8a34ca3a97",
+      "name": "Chellie Pingree",
       "chamber": "house",
       "state": "ME",
       "state_name": "Maine",
@@ -90,8 +91,6 @@
           "name": "Printing & Publishing"
         }
       ],
-      "senate_class": "",
-      "name": "Chellie Pingree",
       "endorsements": [
         {
           "name": "National Nurses United",
@@ -124,6 +123,7 @@
   "senate": [
     {
       "entity_id": null,
+      "name": "Cynthia Dill",
       "chamber": "senate",
       "state": "ME",
       "state_name": "Maine",
@@ -212,7 +212,6 @@
           "name": "Food Processing & Sales"
         }
       ],
-      "name": "Cynthia Dill",
       "endorsements": [
         {
           "name": "National Nurses United",
@@ -223,126 +222,6 @@
           "name": "Gun Owners of America",
           "type": "grade",
           "value": "F"
-        }
-      ]
-    },
-    {
-      "entity_id": "9f88d333363e48f4a7ddc1f03e3b0e9d",
-      "chamber": "senate",
-      "state": "ME",
-      "state_name": "Maine",
-      "district": null,
-      "party": "R",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/Olympia_Snowe",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000663.jpg",
-      "seat_status": "I",
-      "bioguide_id": "S000663",
-      "fec_summary": {
-        "contributions_pac": "1259738.00",
-        "office": "S",
-        "total_receipts_rank": 45,
-        "max_rank": 231,
-        "contributions_candidate": "0.00",
-        "transfers_in": "227371.00",
-        "cash_on_hand_rank": 35,
-        "total_raised": "2705768.00",
-        "disbursements": "2709868.00",
-        "total_disbursements_rank": 35,
-        "date": "2012-06-30",
-        "contributions_indiv": "1543376.00",
-        "contributions_party": "43100.00",
-        "cash_on_hand": "2063723.00"
-      },
-      "industries": [
-        {
-          "count": "1109",
-          "amount": "610185.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "521",
-          "amount": "583542.00",
-          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
-          "name": "Insurance"
-        },
-        {
-          "count": "617",
-          "amount": "541669.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "531",
-          "amount": "506516.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "754",
-          "amount": "499636.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "532",
-          "amount": "440573.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "136",
-          "amount": "392608.00",
-          "id": "9162d091922d4bb0a9e02bf0e42915b8",
-          "name": "Leadership Pacs"
-        },
-        {
-          "count": "527",
-          "amount": "364625.00",
-          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
-          "name": "Lobbyists"
-        },
-        {
-          "count": "478",
-          "amount": "336700.00",
-          "id": "e69b2a41cd9645e292e66da69915ee6b",
-          "name": "Finance/Credit Companies"
-        },
-        {
-          "count": "204",
-          "amount": "225945.00",
-          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
-          "name": "Hospitals/Nursing Homes"
-        }
-      ],
-      "senate_class": "I",
-      "name": "Olympia J Snowe",
-      "endorsements": [
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "55"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "rating",
-          "value": "45"
-        },
-        {
-          "name": "National Education Association",
-          "type": "grade",
-          "value": "C"
-        },
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "40"
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "60"
         }
       ]
     }

@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "a1b346a0010143a89a5d46397033dd24",
+      "name": "Bill Huizenga",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -90,8 +91,6 @@
           "name": "Accountants"
         }
       ],
-      "senate_class": "",
-      "name": "Bill Huizenga",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

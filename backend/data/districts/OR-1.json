@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "78ff25953bbe4d79a069d9492b48ad90",
+      "name": "Suzanne Bonamici",
       "chamber": "house",
       "state": "OR",
       "state_name": "Oregon",
@@ -90,8 +91,6 @@
           "name": "Real Estate"
         }
       ],
-      "senate_class": "",
-      "name": "Suzanne Bonamici",
       "endorsements": [
         {
           "name": "League of Conservation Voters",
@@ -117,117 +116,6 @@
           "name": "Gun Owners of America",
           "type": "grade",
           "value": "F"
-        }
-      ]
-    },
-    {
-      "entity_id": "2de58c0bd50b4473847ede0c1d922977",
-      "chamber": "house",
-      "state": "OR",
-      "state_name": "Oregon",
-      "district": "1",
-      "party": "D",
-      "incumbent": true,
-      "bio_url": "http://en.wikipedia.org/wiki/David_Wu",
-      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000793.jpg",
-      "seat_status": "I",
-      "bioguide_id": "W000793",
-      "fec_summary": {
-      },
-      "industries": [
-        {
-          "count": "1291",
-          "amount": "817766.00",
-          "id": "f50cf984a2e3477c8167d32e2b14e052",
-          "name": "Lawyers/Law Firms"
-        },
-        {
-          "count": "546",
-          "amount": "448435.00",
-          "id": "a05a0d06f6814b31bece35a81fcb40c7",
-          "name": "Health Professionals"
-        },
-        {
-          "count": "772",
-          "amount": "444714.00",
-          "id": "b21467ae32924f84ada9076535401a91",
-          "name": "Retired"
-        },
-        {
-          "count": "211",
-          "amount": "382000.00",
-          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
-          "name": "Public Sector Unions"
-        },
-        {
-          "count": "135",
-          "amount": "320000.00",
-          "id": "d22cf14b1cd349b79f2b656b450b3b88",
-          "name": "Industrial Unions"
-        },
-        {
-          "count": "342",
-          "amount": "312635.00",
-          "id": "0af3f418f426497e8bbf916bfc074ebc",
-          "name": "Securities & Investment"
-        },
-        {
-          "count": "212",
-          "amount": "293500.00",
-          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
-          "name": "Transportation Unions"
-        },
-        {
-          "count": "327",
-          "amount": "269379.00",
-          "id": "042288e0185a44ec82982814c69abdca",
-          "name": "Computers/Internet"
-        },
-        {
-          "count": "345",
-          "amount": "257138.00",
-          "id": "7500030dffe24844aa467a75f7aedfd1",
-          "name": "Real Estate"
-        },
-        {
-          "count": "109",
-          "amount": "209000.00",
-          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
-          "name": "Building Trade Unions"
-        }
-      ],
-      "senate_class": "",
-      "name": "David Wu",
-      "endorsements": [
-        {
-          "name": "Americans for Democratic Action",
-          "type": "rating",
-          "value": "85"
-        },
-        {
-          "name": "American Security Council Foundation",
-          "type": "rating",
-          "value": "16"
-        },
-        {
-          "name": "NARAL Pro-Choice America",
-          "type": "endorsement",
-          "value": null
-        },
-        {
-          "name": "National Education Association",
-          "type": "endorsement",
-          "value": null
-        },
-        {
-          "name": "National Taxpayers Union",
-          "type": "rating",
-          "value": "77"
-        },
-        {
-          "name": "American Conservative Union",
-          "type": "rating",
-          "value": "0"
         }
       ]
     }

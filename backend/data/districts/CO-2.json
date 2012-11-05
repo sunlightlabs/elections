@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "5703dfa7b4f6426c949c82bf7705575c",
+      "name": "Jared Polis",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
@@ -90,8 +91,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "",
-      "name": "Jared Polis",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -137,6 +136,7 @@
     },
     {
       "entity_id": null,
+      "name": "Kevin Lundberg",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
@@ -225,7 +225,6 @@
           "name": "Computers/Internet"
         }
       ],
-      "name": "Kevin Lundberg",
       "endorsements": [
         {
           "name": "Gun Owners of America",

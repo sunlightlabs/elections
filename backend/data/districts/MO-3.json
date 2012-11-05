@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": "efa5a740040444559a7a4bfe953ad021",
+      "name": "Blaine Luetkemeyer",
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
@@ -90,8 +91,6 @@
           "name": "Real Estate"
         }
       ],
-      "senate_class": "",
-      "name": "Blaine Luetkemeyer",
       "endorsements": [
         {
           "name": "American Security Council Foundation",
@@ -124,6 +123,7 @@
   "senate": [
     {
       "entity_id": "98af4916592648c4aa992d8db00e6e5b",
+      "name": "Claire McCaskill",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",
@@ -212,8 +212,6 @@
           "name": "Business Services"
         }
       ],
-      "senate_class": "I",
-      "name": "Claire McCaskill",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -259,6 +257,7 @@
     },
     {
       "entity_id": "28e6cce459e74dcbb575fa05def946e3",
+      "name": "Todd Akin",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",
@@ -347,8 +346,6 @@
           "name": "Defense Electronics"
         }
       ],
-      "senate_class": "",
-      "name": "Todd Akin",
       "endorsements": [
         {
           "name": "Gun Owners of America",

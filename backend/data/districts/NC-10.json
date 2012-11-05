@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Patricia Keever",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -90,7 +91,6 @@
           "name": "Health Professionals"
         }
       ],
-      "name": "Patricia Keever",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
@@ -101,6 +101,7 @@
     },
     {
       "entity_id": "c112b2bca6f342a98c31e5c87fffa35a",
+      "name": "Patrick McHenry",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -189,8 +190,6 @@
           "name": "Retail Sales"
         }
       ],
-      "senate_class": "",
-      "name": "Patrick McHenry",
       "endorsements": [
         {
           "name": "American Security Council Foundation",

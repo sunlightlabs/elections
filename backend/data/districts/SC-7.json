@@ -2,6 +2,7 @@
   "house": [
     {
       "entity_id": null,
+      "name": "Gloria Bromell Tinubu",
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
@@ -90,7 +91,6 @@
           "name": "Misc Business"
         }
       ],
-      "name": "Gloria Bromell Tinubu",
       "endorsements": [
         {
           "name": "National Organization of Women (NOW)",
