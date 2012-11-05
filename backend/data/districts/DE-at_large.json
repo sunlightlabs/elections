@@ -5,11 +5,11 @@
       "name": "John Carney",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "dcf7868accc44faa84577500a16cef3b",
       "chamber": "house",
       "state": "DE",
       "state_name": "Delaware",
       "district": "at_large",
+      "entity_id": "dcf7868accc44faa84577500a16cef3b",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_C._Carney%2C_Jr.",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001083.jpg",
@@ -125,7 +125,11 @@
       "photo_filename": "Tom_Kovach_(Delaware).jpg",
       "name": "Tom Kovach",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "DE",
+      "state_name": "Delaware",
+      "district": "at_large"
     }
   ],
   "senate": [
@@ -134,11 +138,11 @@
       "name": "Tom Carper",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "68dd7ccd3e1141c1a7050627d87cd253",
       "chamber": "senate",
       "state": "DE",
       "state_name": "Delaware",
       "district": null,
+      "entity_id": "68dd7ccd3e1141c1a7050627d87cd253",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000174",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000174.jpg",
@@ -264,7 +268,11 @@
       "photo_filename": null,
       "name": "Kevin Wade",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "DE",
+      "state_name": "Delaware",
+      "district": null
     }
   ]
 }

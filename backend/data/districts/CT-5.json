@@ -5,11 +5,11 @@
       "name": "Elizabeth Esty",
       "party": "D",
       "abbreviated": false,
-      "entity_id": null,
       "chamber": "house",
       "state": "CT",
       "state_name": "Connecticut",
       "district": "5",
+      "entity_id": null,
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -110,7 +110,11 @@
       "photo_filename": "Andrew_Roraback.jpg",
       "name": "Andrew Roraback",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "CT",
+      "state_name": "Connecticut",
+      "district": "5"
     }
   ],
   "senate": [
@@ -119,11 +123,11 @@
       "name": "Chris Murphy",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "chamber": "senate",
       "state": "CT",
       "state_name": "Connecticut",
       "district": null,
+      "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Chris_Murphy_%28politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001169.jpg",
@@ -219,7 +223,11 @@
       "photo_filename": "Linda_McMahon.jpg",
       "name": "Linda McMahon",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "CT",
+      "state_name": "Connecticut",
+      "district": null
     }
   ]
 }

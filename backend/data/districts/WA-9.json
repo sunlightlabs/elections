@@ -5,11 +5,11 @@
       "name": "Adam Smith",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "132bd6de165540159b7d7fc51c8e9253",
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
       "district": "9",
+      "entity_id": "132bd6de165540159b7d7fc51c8e9253",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Adam_Smith_%28politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000510.jpg",
@@ -140,7 +140,11 @@
       "photo_filename": null,
       "name": "James Postma",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "WA",
+      "state_name": "Washington",
+      "district": "9"
     }
   ],
   "senate": [
@@ -149,11 +153,11 @@
       "name": "Maria Cantwell",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",
       "district": null,
+      "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Maria_Cantwell",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000127.jpg",
@@ -294,7 +298,11 @@
       "photo_filename": "Michael_Baumgartner.jpg",
       "name": "Michael Baumgartner",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "WA",
+      "state_name": "Washington",
+      "district": null
     }
   ]
 }

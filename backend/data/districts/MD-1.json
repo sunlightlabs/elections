@@ -4,18 +4,22 @@
       "photo_filename": "John_LaFerla.jpg",
       "name": "John LaFerla",
       "party": "D",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "MD",
+      "state_name": "Maryland",
+      "district": "1"
     },
     {
       "photo_filename": "Andy_Harris.jpg",
       "name": "Andy Harris",
       "party": "R",
       "abbreviated": false,
-      "entity_id": "b52cdcc185a74129885d1ab6f5eee532",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
       "district": "1",
+      "entity_id": "b52cdcc185a74129885d1ab6f5eee532",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Andrew_P._Harris",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001052.jpg",
@@ -134,11 +138,11 @@
       "name": "Ben Cardin",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
       "district": null,
+      "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000141",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000141.jpg",
@@ -274,19 +278,31 @@
       "photo_filename": null,
       "name": "Lih Young",
       "party": "D",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "MD",
+      "state_name": "Maryland",
+      "district": null
     },
     {
       "photo_filename": "Dan_Bongino.jpg",
       "name": "Dan Bongino",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "MD",
+      "state_name": "Maryland",
+      "district": null
     },
     {
       "photo_filename": null,
       "name": "Mary Podlesak",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "MD",
+      "state_name": "Maryland",
+      "district": null
     }
   ]
 }

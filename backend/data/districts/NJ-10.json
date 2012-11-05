@@ -5,11 +5,11 @@
       "name": "Donald Payne Jr.",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "b97a700cf43549acb199371384ab3e7e",
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "10",
+      "entity_id": "b97a700cf43549acb199371384ab3e7e",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Donald_M._Payne",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000149.jpg",
@@ -140,7 +140,11 @@
       "photo_filename": null,
       "name": "Brian Kelemen",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "district": "10"
     }
   ],
   "senate": [
@@ -149,11 +153,11 @@
       "name": "Bob Menendez",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",
       "district": null,
+      "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Menendez",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000639.jpg",
@@ -289,7 +293,11 @@
       "photo_filename": "Joe_Kyrillos.jpg",
       "name": "Joe Kyrillos",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "district": null
     }
   ]
 }

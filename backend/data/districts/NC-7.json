@@ -5,11 +5,11 @@
       "name": "Mike McIntyre",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "a4c1a99aa50747fda4278b172cdc89a1",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "7",
+      "entity_id": "a4c1a99aa50747fda4278b172cdc89a1",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mike_McIntyre",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000485.jpg",
@@ -140,7 +140,11 @@
       "photo_filename": "David_Rouzer.jpg",
       "name": "David Rouzer",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": "7"
     }
   ],
   "senate": [

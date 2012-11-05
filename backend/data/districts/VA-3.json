@@ -5,11 +5,11 @@
       "name": "Robert C. Scott",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "d455c6ec610c4c33b086293092defe32",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
       "district": "3",
+      "entity_id": "d455c6ec610c4c33b086293092defe32",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bobby_Scott_%28U.S._politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000185.jpg",
@@ -140,7 +140,11 @@
       "photo_filename": null,
       "name": "Dean Longo",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "VA",
+      "state_name": "Virginia",
+      "district": "3"
     }
   ],
   "senate": [
@@ -149,11 +153,11 @@
       "name": "Tim Kaine",
       "party": "D",
       "abbreviated": false,
-      "entity_id": null,
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
+      "entity_id": null,
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -264,7 +268,11 @@
       "photo_filename": "George_Allen.jpg",
       "name": "George Allen",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "VA",
+      "state_name": "Virginia",
+      "district": null
     }
   ]
 }

@@ -5,11 +5,11 @@
       "name": "David E. Price",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "4afec43dc23f4b40a7cefc31dbd6582a",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
       "district": "4",
+      "entity_id": "4afec43dc23f4b40a7cefc31dbd6582a",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/David_Price_%28U.S._politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000523.jpg",
@@ -140,7 +140,11 @@
       "photo_filename": null,
       "name": "Tim D'Annunzio",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": "4"
     }
   ],
   "senate": [

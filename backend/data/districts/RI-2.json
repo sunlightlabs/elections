@@ -5,11 +5,11 @@
       "name": "James R. Langevin",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "2ade542c9ee6486ca063f8b0333e7608",
       "chamber": "house",
       "state": "RI",
       "state_name": "Rhode Island",
       "district": "2",
+      "entity_id": "2ade542c9ee6486ca063f8b0333e7608",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/James_Langevin",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000559.jpg",
@@ -135,7 +135,11 @@
       "photo_filename": null,
       "name": "Michael G. Riley",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "RI",
+      "state_name": "Rhode Island",
+      "district": "2"
     }
   ],
   "senate": [
@@ -144,11 +148,11 @@
       "name": "Sheldon Whitehouse",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "64f4b76b98b440cc9bb6b8132cb8fba7",
       "chamber": "senate",
       "state": "RI",
       "state_name": "Rhode Island",
       "district": null,
+      "entity_id": "64f4b76b98b440cc9bb6b8132cb8fba7",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sheldon_Whitehouse",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000802.jpg",
@@ -284,7 +288,11 @@
       "photo_filename": "Barry_Hinckley.jpg",
       "name": "Barry Hinckley",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "RI",
+      "state_name": "Rhode Island",
+      "district": null
     }
   ]
 }

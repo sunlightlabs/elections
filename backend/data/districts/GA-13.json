@@ -5,11 +5,11 @@
       "name": "David Scott",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "399cda56671643bab92aee2cb3819dc5",
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
       "district": "13",
+      "entity_id": "399cda56671643bab92aee2cb3819dc5",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/David_Scott_%28Georgia%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001157.jpg",
@@ -135,7 +135,11 @@
       "photo_filename": null,
       "name": "S. Malik",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "GA",
+      "state_name": "Georgia",
+      "district": "13"
     }
   ],
   "senate": [

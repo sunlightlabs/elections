@@ -5,11 +5,11 @@
       "name": "Jim Moran",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "1915c94342b64b72b35b417778cb5c7a",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
       "district": "8",
+      "entity_id": "1915c94342b64b72b35b417778cb5c7a",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jim_Moran",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000933.jpg",
@@ -135,7 +135,11 @@
       "photo_filename": null,
       "name": "Patrick Murray",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "VA",
+      "state_name": "Virginia",
+      "district": "8"
     }
   ],
   "senate": [
@@ -144,11 +148,11 @@
       "name": "Tim Kaine",
       "party": "D",
       "abbreviated": false,
-      "entity_id": null,
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
+      "entity_id": null,
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -259,7 +263,11 @@
       "photo_filename": "George_Allen.jpg",
       "name": "George Allen",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "VA",
+      "state_name": "Virginia",
+      "district": null
     }
   ]
 }

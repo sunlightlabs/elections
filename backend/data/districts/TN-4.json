@@ -5,11 +5,11 @@
       "name": "Eric Stewart",
       "party": "D",
       "abbreviated": false,
-      "entity_id": null,
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
       "district": "4",
+      "entity_id": null,
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -110,7 +110,11 @@
       "photo_filename": "Scott_DesJarlais.jpg",
       "name": "Scott DesJarlais",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "TN",
+      "state_name": "Tennessee",
+      "district": "4"
     }
   ],
   "senate": [
@@ -118,18 +122,22 @@
       "photo_filename": "Mark_Clayton.jpg",
       "name": "Mark Clayton",
       "party": "D",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "TN",
+      "state_name": "Tennessee",
+      "district": null
     },
     {
       "photo_filename": "Bob_Corker.jpg",
       "name": "Bob Corker",
       "party": "R",
       "abbreviated": false,
-      "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",
       "district": null,
+      "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001071",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001071.jpg",

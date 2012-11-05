@@ -5,11 +5,11 @@
       "name": "Danny K. Davis",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "776e8941d0cc408e9cc9cdfed00c6ce9",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "7",
+      "entity_id": "776e8941d0cc408e9cc9cdfed00c6ce9",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Danny_K._Davis",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000096.jpg",
@@ -135,7 +135,11 @@
       "photo_filename": null,
       "name": "Rita Zak",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": "7"
     }
   ],
   "senate": [

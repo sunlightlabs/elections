@@ -5,11 +5,11 @@
       "name": "Chellie Pingree",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "bc890c70ed394f78a542cc8a34ca3a97",
       "chamber": "house",
       "state": "ME",
       "state_name": "Maine",
       "district": "1",
+      "entity_id": "bc890c70ed394f78a542cc8a34ca3a97",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Chellie_Pingree",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000597.jpg",
@@ -135,7 +135,11 @@
       "photo_filename": "Jonathan_Courtney.jpg",
       "name": "Jonathan Courtney",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "ME",
+      "state_name": "Maine",
+      "district": "1"
     }
   ],
   "senate": [
@@ -144,11 +148,11 @@
       "name": "Cynthia Dill",
       "party": "D",
       "abbreviated": false,
-      "entity_id": null,
       "chamber": "senate",
       "state": "ME",
       "state_name": "Maine",
       "district": null,
+      "entity_id": null,
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -249,25 +253,41 @@
       "photo_filename": "Charles_Summers.jpg",
       "name": "Charles Summers",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "ME",
+      "state_name": "Maine",
+      "district": null
     },
     {
       "photo_filename": null,
       "name": "Angus King",
       "party": "I",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "ME",
+      "state_name": "Maine",
+      "district": null
     },
     {
       "photo_filename": null,
       "name": "Danny Francis Dalton",
       "party": "I",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "ME",
+      "state_name": "Maine",
+      "district": null
     },
     {
       "photo_filename": null,
       "name": "Stephen Woods",
       "party": "I",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "ME",
+      "state_name": "Maine",
+      "district": null
     }
   ]
 }

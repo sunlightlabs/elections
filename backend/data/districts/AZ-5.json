@@ -4,13 +4,21 @@
       "photo_filename": "Morgan_Spencer.jpg",
       "name": "Morgan Spencer",
       "party": "D",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "district": "5"
     },
     {
       "photo_filename": "Matt_Salmon.jpg",
       "name": "Matt Salmon",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "district": "5"
     }
   ],
   "senate": [
@@ -19,11 +27,11 @@
       "name": "Richard Carmona",
       "party": "D",
       "abbreviated": false,
-      "entity_id": null,
       "chamber": "senate",
       "state": "AZ",
       "state_name": "Arizona",
       "district": null,
+      "entity_id": null,
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -125,11 +133,11 @@
       "name": "Jeff Flake",
       "party": "R",
       "abbreviated": false,
-      "entity_id": "be44f82d0528410fa74c71c886a152f5",
       "chamber": "senate",
       "state": "AZ",
       "state_name": "Arizona",
       "district": null,
+      "entity_id": "be44f82d0528410fa74c71c886a152f5",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Jeff_Flake",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000444.jpg",

@@ -5,11 +5,11 @@
       "name": "Mark Pocan",
       "party": "D",
       "abbreviated": false,
-      "entity_id": null,
       "chamber": "house",
       "state": "WI",
       "state_name": "Wisconsin",
       "district": "2",
+      "entity_id": null,
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -115,7 +115,11 @@
       "photo_filename": "Chad_Lee.jpg",
       "name": "Chad Lee",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "WI",
+      "state_name": "Wisconsin",
+      "district": "2"
     }
   ],
   "senate": [
@@ -124,11 +128,11 @@
       "name": "Tammy Baldwin",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "chamber": "senate",
       "state": "WI",
       "state_name": "Wisconsin",
       "district": null,
+      "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Tammy_Baldwin",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001230.jpg",
@@ -269,7 +273,11 @@
       "photo_filename": null,
       "name": "Tommy Thompson",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "WI",
+      "state_name": "Wisconsin",
+      "district": null
     }
   ]
 }

@@ -5,11 +5,11 @@
       "name": "Bill Foster",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "3e192fde2cda4ca291a9850ad43776fb",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "11",
+      "entity_id": "3e192fde2cda4ca291a9850ad43776fb",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Bill_Foster_%28Illinois_politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000454.jpg",
@@ -111,11 +111,11 @@
       "name": "Judy Biggert",
       "party": "R",
       "abbreviated": false,
-      "entity_id": "372fa430380d488da5020fc05a69d88f",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "11",
+      "entity_id": "372fa430380d488da5020fc05a69d88f",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Judy_Biggert",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001232.jpg",
@@ -231,7 +231,11 @@
       "photo_filename": null,
       "name": "Diane Harris",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": "11"
     }
   ],
   "senate": [

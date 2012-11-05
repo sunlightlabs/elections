@@ -5,11 +5,11 @@
       "name": "Colleen Hanabusa",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "3f4ac7b9b1d34cabacaf7d9ef6efb69d",
       "chamber": "house",
       "state": "HI",
       "state_name": "Hawaii",
       "district": "1",
+      "entity_id": "3f4ac7b9b1d34cabacaf7d9ef6efb69d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Colleen_Hanabusa",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001050.jpg",
@@ -135,7 +135,11 @@
       "photo_filename": "Charles_Djou.jpg",
       "name": "Charles Djou",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "HI",
+      "state_name": "Hawaii",
+      "district": "1"
     }
   ],
   "senate": [
@@ -144,11 +148,11 @@
       "name": "Mazie Hirono",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "79f92c32d0a244009c8c296dd4daff30",
       "chamber": "senate",
       "state": "HI",
       "state_name": "Hawaii",
       "district": null,
+      "entity_id": "79f92c32d0a244009c8c296dd4daff30",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Mazie_Hirono",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001042.jpg",
@@ -289,7 +293,11 @@
       "photo_filename": "Linda_Lingle.jpg",
       "name": "Linda Lingle",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "HI",
+      "state_name": "Hawaii",
+      "district": null
     }
   ]
 }

@@ -5,11 +5,11 @@
       "name": "John Yarmuth",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "dd3d539d8f9b4df6a72d8cd41eeb1853",
       "chamber": "house",
       "state": "KY",
       "state_name": "Kentucky",
       "district": "3",
+      "entity_id": "dd3d539d8f9b4df6a72d8cd41eeb1853",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_Yarmuth",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/Y000062.jpg",
@@ -130,7 +130,11 @@
       "photo_filename": "Brooks_Wicker.jpg",
       "name": "Brooks Wicker",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "KY",
+      "state_name": "Kentucky",
+      "district": "3"
     }
   ],
   "senate": [

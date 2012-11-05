@@ -5,11 +5,11 @@
       "name": "David N. Cicilline",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "2619e5a74bb54ccbb3df5a0cacedae6f",
       "chamber": "house",
       "state": "RI",
       "state_name": "Rhode Island",
       "district": "1",
+      "entity_id": "2619e5a74bb54ccbb3df5a0cacedae6f",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/David_Cicilline",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001084.jpg",
@@ -140,7 +140,11 @@
       "photo_filename": null,
       "name": "Brendan Doherty",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "RI",
+      "state_name": "Rhode Island",
+      "district": "1"
     }
   ],
   "senate": [
@@ -149,11 +153,11 @@
       "name": "Sheldon Whitehouse",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "64f4b76b98b440cc9bb6b8132cb8fba7",
       "chamber": "senate",
       "state": "RI",
       "state_name": "Rhode Island",
       "district": null,
+      "entity_id": "64f4b76b98b440cc9bb6b8132cb8fba7",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sheldon_Whitehouse",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000802.jpg",
@@ -289,7 +293,11 @@
       "photo_filename": "Barry_Hinckley.jpg",
       "name": "Barry Hinckley",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "RI",
+      "state_name": "Rhode Island",
+      "district": null
     }
   ]
 }

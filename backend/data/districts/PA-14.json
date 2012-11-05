@@ -5,11 +5,11 @@
       "name": "Michael F. Doyle",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "6ac7f3e304754f5db07ed5c2b7092781",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "14",
+      "entity_id": "6ac7f3e304754f5db07ed5c2b7092781",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Michael_F._Doyle",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000482.jpg",
@@ -135,7 +135,11 @@
       "photo_filename": null,
       "name": "Hans Lessmann",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "district": "14"
     }
   ],
   "senate": [
@@ -144,11 +148,11 @@
       "name": "Bob Casey, Jr.",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": null,
+      "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001070.jpg",
@@ -274,7 +278,11 @@
       "photo_filename": "Tom_Smith.jpg",
       "name": "Tom Smith",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "district": null
     }
   ]
 }

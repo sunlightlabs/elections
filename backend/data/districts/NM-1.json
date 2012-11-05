@@ -5,11 +5,11 @@
       "name": "Michelle Lujan Grisham",
       "party": "D",
       "abbreviated": false,
-      "entity_id": null,
       "chamber": "house",
       "state": "NM",
       "state_name": "New Mexico",
       "district": "1",
+      "entity_id": null,
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -110,7 +110,11 @@
       "photo_filename": "Janice_Arnold-Jones.jpg",
       "name": "Janice Arnold-Jones",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "NM",
+      "state_name": "New Mexico",
+      "district": "1"
     }
   ],
   "senate": [
@@ -119,11 +123,11 @@
       "name": "Martin Heinrich",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "43af19c32e1b469d8f9d07d40b3e8ed7",
       "chamber": "senate",
       "state": "NM",
       "state_name": "New Mexico",
       "district": null,
+      "entity_id": "43af19c32e1b469d8f9d07d40b3e8ed7",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Martin_Heinrich",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001046.jpg",
@@ -259,7 +263,11 @@
       "photo_filename": null,
       "name": "Heather Wilson",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "NM",
+      "state_name": "New Mexico",
+      "district": null
     }
   ]
 }

@@ -4,18 +4,22 @@
       "photo_filename": null,
       "name": "Ron Richard",
       "party": "D",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "LA",
+      "state_name": "Louisiana",
+      "district": "3"
     },
     {
       "photo_filename": "Jeff_Landry.jpg",
       "name": "Jeff Landry",
       "party": "R",
       "abbreviated": false,
-      "entity_id": "18617d11247548cc981bf89a50a92219",
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",
       "district": "3",
+      "entity_id": "18617d11247548cc981bf89a50a92219",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jeff_Landry",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000574.jpg",
@@ -132,11 +136,11 @@
       "name": "Charles Boustany Jr.",
       "party": "R",
       "abbreviated": false,
-      "entity_id": "d392545fba7248f38a5ca25bcda2ae6e",
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",
       "district": "3",
+      "entity_id": "d392545fba7248f38a5ca25bcda2ae6e",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Charles_Boustany",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001255.jpg",
@@ -237,7 +241,11 @@
       "photo_filename": null,
       "name": "Bryan Barrilleaux",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "LA",
+      "state_name": "Louisiana",
+      "district": "3"
     }
   ],
   "senate": [

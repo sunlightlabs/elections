@@ -4,18 +4,22 @@
       "photo_filename": null,
       "name": "Howard Swint",
       "party": "D",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "WV",
+      "state_name": "West Virginia",
+      "district": "2"
     },
     {
       "photo_filename": "Shelley_Moore_Capito.jpeg",
       "name": "Shelley Moore Capito",
       "party": "R",
       "abbreviated": false,
-      "entity_id": "aac4b4e13e554061be7a38f4229daa7d",
       "chamber": "house",
       "state": "WV",
       "state_name": "West Virginia",
       "district": "2",
+      "entity_id": "aac4b4e13e554061be7a38f4229daa7d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Shelley_Moore_Capito",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001047.jpg",
@@ -134,11 +138,11 @@
       "name": "Joe Manchin",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "fea00787eb034cb2a11e8086a48db88e",
       "chamber": "senate",
       "state": "WV",
       "state_name": "West Virginia",
       "district": null,
+      "entity_id": "fea00787eb034cb2a11e8086a48db88e",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Joe_Manchin",
       "photo_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Joe_Manchin%2C_Official_Senate_Portrait.jpg/225px-Joe_Manchin%2C_Official_Senate_Portrait.jpg",
@@ -269,7 +273,11 @@
       "photo_filename": "John_Raese.png",
       "name": "John Raese",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "WV",
+      "state_name": "West Virginia",
+      "district": null
     }
   ]
 }

@@ -5,11 +5,11 @@
       "name": "Jim McDermott",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "a7a7a868f8d6492b8545dbdae82c386e",
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
       "district": "7",
+      "entity_id": "a7a7a868f8d6492b8545dbdae82c386e",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jim_McDermott",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000404.jpg",
@@ -135,7 +135,11 @@
       "photo_filename": "Ron_Bemis.jpeg",
       "name": "Ron Bemis",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "WA",
+      "state_name": "Washington",
+      "district": "7"
     }
   ],
   "senate": [
@@ -144,11 +148,11 @@
       "name": "Maria Cantwell",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",
       "district": null,
+      "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Maria_Cantwell",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000127.jpg",
@@ -289,7 +293,11 @@
       "photo_filename": "Michael_Baumgartner.jpg",
       "name": "Michael Baumgartner",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "WA",
+      "state_name": "Washington",
+      "district": null
     }
   ]
 }

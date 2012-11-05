@@ -5,11 +5,11 @@
       "name": "Terri Sewell",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "33e87aacd2f244f7a2ceedec1d1cf27a",
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
       "district": "7",
+      "entity_id": "33e87aacd2f244f7a2ceedec1d1cf27a",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=S001185",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001185.jpg",
@@ -125,7 +125,11 @@
       "photo_filename": "Don_Chamberlain.jpg",
       "name": "Don Chamberlain",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "AL",
+      "state_name": "Alabama",
+      "district": "7"
     }
   ],
   "senate": [

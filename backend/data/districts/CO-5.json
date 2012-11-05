@@ -5,11 +5,11 @@
       "name": "Doug Lamborn",
       "party": "R",
       "abbreviated": false,
-      "entity_id": "b2d0d2ff8df04961b13ac9253998f489",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
       "district": "5",
+      "entity_id": "b2d0d2ff8df04961b13ac9253998f489",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Doug_Lamborn",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000564.jpg",
@@ -135,7 +135,11 @@
       "photo_filename": null,
       "name": "George Allen Cantrell",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "CO",
+      "state_name": "Colorado",
+      "district": "5"
     }
   ],
   "senate": [

@@ -5,11 +5,11 @@
       "name": "Earl Blumenauer",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "bbfb51c7fc764ad38f6298b35ee05829",
       "chamber": "house",
       "state": "OR",
       "state_name": "Oregon",
       "district": "3",
+      "entity_id": "bbfb51c7fc764ad38f6298b35ee05829",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Earl_Blumenauer",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000574.jpg",
@@ -140,7 +140,11 @@
       "photo_filename": null,
       "name": "Ronald Green",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "OR",
+      "state_name": "Oregon",
+      "district": "3"
     }
   ],
   "senate": [

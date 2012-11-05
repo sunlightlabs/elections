@@ -5,11 +5,11 @@
       "name": "Mike Quigley",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "3e025578600547b9833a303bf4d0b54c",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "5",
+      "entity_id": "3e025578600547b9833a303bf4d0b54c",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Michael_Quigley",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/Q000023.jpg",
@@ -135,7 +135,11 @@
       "photo_filename": "Dan_Schmitt.jpg",
       "name": "Dan Schmitt",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": "5"
     }
   ],
   "senate": [

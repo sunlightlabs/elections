@@ -5,11 +5,11 @@
       "name": "Dutch Ruppersberger",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "6965e4b1e5c4449dba46c9de2cfa9915",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
       "district": "2",
+      "entity_id": "6965e4b1e5c4449dba46c9de2cfa9915",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dutch_Ruppersberger",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000576.jpg",
@@ -110,13 +110,21 @@
       "photo_filename": "Nancy_Jacobs.jpg",
       "name": "Nancy Jacobs",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "MD",
+      "state_name": "Maryland",
+      "district": "2"
     },
     {
       "photo_filename": "Ray_Bly.jpg",
       "name": "Ray Bly",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "MD",
+      "state_name": "Maryland",
+      "district": "2"
     }
   ],
   "senate": [
@@ -125,11 +133,11 @@
       "name": "Ben Cardin",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
       "district": null,
+      "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000141",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000141.jpg",
@@ -265,19 +273,31 @@
       "photo_filename": null,
       "name": "Lih Young",
       "party": "D",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "MD",
+      "state_name": "Maryland",
+      "district": null
     },
     {
       "photo_filename": "Dan_Bongino.jpg",
       "name": "Dan Bongino",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "MD",
+      "state_name": "Maryland",
+      "district": null
     },
     {
       "photo_filename": null,
       "name": "Mary Podlesak",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "MD",
+      "state_name": "Maryland",
+      "district": null
     }
   ]
 }

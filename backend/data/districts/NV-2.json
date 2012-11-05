@@ -4,13 +4,21 @@
       "photo_filename": "Samuel_Koepnick.jpg",
       "name": "Samuel Koepnick",
       "party": "D",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "NV",
+      "state_name": "Nevada",
+      "district": "2"
     },
     {
       "photo_filename": "Mark_Amodei.jpg",
       "name": "Mark Amodei",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "NV",
+      "state_name": "Nevada",
+      "district": "2"
     }
   ],
   "senate": [
@@ -19,11 +27,11 @@
       "name": "Shelley Berkley",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "178edf596d6443ea95262c3606deaea5",
       "chamber": "senate",
       "state": "NV",
       "state_name": "Nevada",
       "district": null,
+      "entity_id": "178edf596d6443ea95262c3606deaea5",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Shelley_Berkley",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001231.jpg",
@@ -155,11 +163,11 @@
       "name": "Dean Heller",
       "party": "R",
       "abbreviated": false,
-      "entity_id": "ba79864862954007883d2b89c0ebfd43",
       "chamber": "senate",
       "state": "NV",
       "state_name": "Nevada",
       "district": null,
+      "entity_id": "ba79864862954007883d2b89c0ebfd43",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dean_Heller",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001041.jpg",

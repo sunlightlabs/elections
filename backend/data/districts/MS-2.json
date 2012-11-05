@@ -5,11 +5,11 @@
       "name": "Bennie Thompson",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "9b27589ad6f740778bfe3b60d841a285",
       "chamber": "house",
       "state": "MS",
       "state_name": "Mississippi",
       "district": "2",
+      "entity_id": "9b27589ad6f740778bfe3b60d841a285",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bennie_Thompson",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/T000193.jpg",
@@ -135,7 +135,11 @@
       "photo_filename": null,
       "name": "Bill Marcy",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "MS",
+      "state_name": "Mississippi",
+      "district": "2"
     }
   ],
   "senate": [
@@ -143,18 +147,22 @@
       "photo_filename": null,
       "name": "Albert N. Gore",
       "party": "D",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "MS",
+      "state_name": "Mississippi",
+      "district": null
     },
     {
       "photo_filename": "Roger_Wicker.jpg",
       "name": "Roger Wicker",
       "party": "R",
       "abbreviated": false,
-      "entity_id": "159c40291deb455596155ded63972bf4",
       "chamber": "senate",
       "state": "MS",
       "state_name": "Mississippi",
       "district": null,
+      "entity_id": "159c40291deb455596155ded63972bf4",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Roger_Wicker",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000437.jpg",

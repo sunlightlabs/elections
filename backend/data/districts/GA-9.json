@@ -5,11 +5,11 @@
       "name": "Jody Cooley",
       "party": "D",
       "abbreviated": false,
-      "entity_id": null,
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
       "district": "9",
+      "entity_id": null,
       "incumbent": false,
       "bio_url": null,
       "photo_url": null,
@@ -63,7 +63,11 @@
       "photo_filename": "Doug_Collins.jpg",
       "name": "Doug Collins",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "GA",
+      "state_name": "Georgia",
+      "district": "9"
     }
   ],
   "senate": [

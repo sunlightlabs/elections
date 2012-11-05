@@ -5,11 +5,11 @@
       "name": "Bobby Rush",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "d06f13db42d842d38a6505b0d66977d3",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "1",
+      "entity_id": "d06f13db42d842d38a6505b0d66977d3",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bobby_Rush",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000515.jpg",
@@ -135,7 +135,11 @@
       "photo_filename": "Donald_Peloquin.JPG",
       "name": "Donald Peloquin",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": "1"
     }
   ],
   "senate": [

@@ -5,11 +5,11 @@
       "name": "Ben Ray Lujan",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "64dfd7a675804e64ad1b3c12eba6c7fa",
       "chamber": "house",
       "state": "NM",
       "state_name": "New Mexico",
       "district": "3",
+      "entity_id": "64dfd7a675804e64ad1b3c12eba6c7fa",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Ben_Luj%C3%A1n",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000570.jpg",
@@ -120,7 +120,11 @@
       "photo_filename": null,
       "name": "Jeff Byrd",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "NM",
+      "state_name": "New Mexico",
+      "district": "3"
     }
   ],
   "senate": [
@@ -129,11 +133,11 @@
       "name": "Martin Heinrich",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "43af19c32e1b469d8f9d07d40b3e8ed7",
       "chamber": "senate",
       "state": "NM",
       "state_name": "New Mexico",
       "district": null,
+      "entity_id": "43af19c32e1b469d8f9d07d40b3e8ed7",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Martin_Heinrich",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/H001046.jpg",
@@ -269,7 +273,11 @@
       "photo_filename": null,
       "name": "Heather Wilson",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "NM",
+      "state_name": "New Mexico",
+      "district": null
     }
   ]
 }

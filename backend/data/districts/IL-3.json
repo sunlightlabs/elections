@@ -5,11 +5,11 @@
       "name": "Daniel Lipinski",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "f2530a1171d54d6d9b8fb24991493f60",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "3",
+      "entity_id": "f2530a1171d54d6d9b8fb24991493f60",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dan_Lipinski",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000563.jpg",
@@ -140,7 +140,11 @@
       "photo_filename": "Richard_Grabowski.jpg",
       "name": "Richard Grabowski",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": "3"
     }
   ],
   "senate": [

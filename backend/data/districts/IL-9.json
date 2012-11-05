@@ -5,11 +5,11 @@
       "name": "Jan Schakowsky",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "e5221b6ac6524c4786ec36097ceabb1d",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
       "district": "9",
+      "entity_id": "e5221b6ac6524c4786ec36097ceabb1d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jan_Schakowsky",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001145.jpg",
@@ -135,7 +135,11 @@
       "photo_filename": "Timothy_Wolfe.jpg",
       "name": "Timothy Wolfe",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "IL",
+      "state_name": "Illinois",
+      "district": "9"
     }
   ],
   "senate": [

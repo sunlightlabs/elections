@@ -5,11 +5,11 @@
       "name": "Joe Courtney",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "1fd892f6fba0433da6db1ba9fa969f7c",
       "chamber": "house",
       "state": "CT",
       "state_name": "Connecticut",
       "district": "2",
+      "entity_id": "1fd892f6fba0433da6db1ba9fa969f7c",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Joe_Courtney_%28politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001069.jpg",
@@ -135,7 +135,11 @@
       "photo_filename": "Paul_M_Formica.jpg",
       "name": "Paul M Formica",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "house",
+      "state": "CT",
+      "state_name": "Connecticut",
+      "district": "2"
     }
   ],
   "senate": [
@@ -144,11 +148,11 @@
       "name": "Chris Murphy",
       "party": "D",
       "abbreviated": false,
-      "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "chamber": "senate",
       "state": "CT",
       "state_name": "Connecticut",
       "district": null,
+      "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Chris_Murphy_%28politician%29",
       "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001169.jpg",
@@ -244,7 +248,11 @@
       "photo_filename": "Linda_McMahon.jpg",
       "name": "Linda McMahon",
       "party": "R",
-      "abbreviated": true
+      "abbreviated": true,
+      "chamber": "senate",
+      "state": "CT",
+      "state_name": "Connecticut",
+      "district": null
     }
   ]
 }
