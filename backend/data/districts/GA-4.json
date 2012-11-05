@@ -1,0 +1,122 @@
+{
+  "house": [
+    {
+      "entity_id": "4194d12bd85c4262827926a43e388429",
+      "chamber": "house",
+      "state": "GA",
+      "state_name": "Georgia",
+      "district": "4",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Hank_Johnson",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/J000288.jpg",
+      "seat_status": "I",
+      "bioguide_id": "J000288",
+      "fec_summary": {
+        "contributions_pac": "291050.00",
+        "office": "H",
+        "total_receipts_rank": 488,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 543,
+        "total_raised": "336565.16",
+        "disbursements": "310081.51",
+        "total_disbursements_rank": 424,
+        "date": "2012-07-11",
+        "contributions_indiv": "44016.01",
+        "contributions_party": "0.00",
+        "cash_on_hand": "29833.73"
+      },
+      "industries": [
+        {
+          "count": "310",
+          "amount": "224852.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "28",
+          "amount": "92321.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "60",
+          "amount": "91000.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "109",
+          "amount": "84615.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "69",
+          "amount": "78950.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "26",
+          "amount": "65050.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "40",
+          "amount": "61000.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "74",
+          "amount": "53050.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "30",
+          "amount": "52000.00",
+          "id": "4e62cff90a974840bec347a2e32a58b9",
+          "name": "Beer, Wine & Liquor"
+        },
+        {
+          "count": "33",
+          "amount": "51000.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        }
+      ],
+      "senate_class": "",
+      "name": "Hank Johnson",
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "8"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

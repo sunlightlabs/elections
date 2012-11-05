@@ -1,0 +1,380 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "WA",
+      "state_name": "Washington",
+      "district": "6",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "O",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "212345.00",
+        "office": "H",
+        "total_receipts_rank": 260,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 198,
+        "total_raised": "899365.49",
+        "disbursements": "280575.80",
+        "total_disbursements_rank": 445,
+        "date": "2012-07-18",
+        "contributions_indiv": "684930.27",
+        "contributions_party": "2090.22",
+        "cash_on_hand": "620389.69"
+      },
+      "industries": [
+        {
+          "count": "40",
+          "amount": "44350.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "62",
+          "amount": "36050.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "39",
+          "amount": "29400.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "30",
+          "amount": "29205.00",
+          "id": "042288e0185a44ec82982814c69abdca",
+          "name": "Computers/Internet"
+        },
+        {
+          "count": "42",
+          "amount": "27600.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "35",
+          "amount": "27000.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "17",
+          "amount": "19900.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "22",
+          "amount": "19300.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "6",
+          "amount": "17000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "4",
+          "amount": "16000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        }
+      ],
+      "name": "Derek Kilmer",
+      "endorsements": [
+        {
+          "name": "League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "cfe8505ad83442a693c81fd3eb4b93ee",
+      "chamber": "house",
+      "state": "WA",
+      "state_name": "Washington",
+      "district": "6",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Norman_D._Dicks",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000327.jpg",
+      "seat_status": "I",
+      "bioguide_id": "D000327",
+      "fec_summary": {
+        "contributions_pac": "426650.00",
+        "office": "H",
+        "total_receipts_rank": 459,
+        "max_rank": 1515,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 362,
+        "total_raised": "584752.65",
+        "disbursements": "564950.47",
+        "total_disbursements_rank": 340,
+        "date": "2012-06-30",
+        "contributions_indiv": "202305.00",
+        "contributions_party": "1000.00",
+        "cash_on_hand": "350725.21"
+      },
+      "industries": [
+        {
+          "count": "1078",
+          "amount": "671568.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "783",
+          "amount": "494411.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "371",
+          "amount": "463000.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "296",
+          "amount": "343830.00",
+          "id": "4c3799fc60b34f2aa250f7e8f5b2c3e6",
+          "name": "Defense Electronics"
+        },
+        {
+          "count": "424",
+          "amount": "320925.00",
+          "id": "1657f29fbf9944f5af4a0d5c4d2eafad",
+          "name": "Sea Transport"
+        },
+        {
+          "count": "302",
+          "amount": "273600.00",
+          "id": "042288e0185a44ec82982814c69abdca",
+          "name": "Computers/Internet"
+        },
+        {
+          "count": "366",
+          "amount": "266960.00",
+          "id": "6570ffe2392e4811805136efe7aa3b2a",
+          "name": "Forestry & Forest Products"
+        },
+        {
+          "count": "198",
+          "amount": "250800.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "263",
+          "amount": "246050.00",
+          "id": "f7959bfcdd044aa58cfb2e335cfc67e6",
+          "name": "Misc Defense"
+        },
+        {
+          "count": "313",
+          "amount": "228433.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        }
+      ],
+      "senate_class": "",
+      "name": "Norm Dicks",
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "10"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
+      "chamber": "senate",
+      "state": "WA",
+      "state_name": "Washington",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Maria_Cantwell",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000127.jpg",
+      "seat_status": "I",
+      "bioguide_id": "C000127",
+      "fec_summary": {
+        "contributions_pac": "57300.00",
+        "office": "S",
+        "total_receipts_rank": 15,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "377566.00",
+        "cash_on_hand_rank": 32,
+        "total_raised": "7963098.00",
+        "disbursements": "6355260.00",
+        "total_disbursements_rank": 9,
+        "date": "2012-07-18",
+        "contributions_indiv": "7481395.00",
+        "contributions_party": "3342.00",
+        "cash_on_hand": "2176258.00"
+      },
+      "industries": [
+        {
+          "count": "3386",
+          "amount": "2563844.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "4087",
+          "amount": "2125811.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "886",
+          "amount": "986521.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "1354",
+          "amount": "956249.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "1090",
+          "amount": "920862.00",
+          "id": "042288e0185a44ec82982814c69abdca",
+          "name": "Computers/Internet"
+        },
+        {
+          "count": "795",
+          "amount": "676870.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "871",
+          "amount": "650526.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "540",
+          "amount": "525982.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "831",
+          "amount": "483594.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "421",
+          "amount": "458150.00",
+          "id": "13718be68388456d9b6e8db753f06e72",
+          "name": "Casinos/Gambling"
+        }
+      ],
+      "senate_class": "I",
+      "name": "Maria Cantwell",
+      "endorsements": [
+        {
+          "name": "League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "40"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "16"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "10"
+        }
+      ]
+    }
+  ]
+}

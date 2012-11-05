@@ -1,0 +1,340 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "MD",
+      "state_name": "Maryland",
+      "district": "6",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "122056.40",
+        "office": "H",
+        "total_receipts_rank": 14,
+        "max_rank": 695,
+        "contributions_candidate": "1731956.15",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 389,
+        "total_raised": "2983762.60",
+        "disbursements": "2755944.25",
+        "total_disbursements_rank": 9,
+        "date": "2012-06-30",
+        "contributions_indiv": "1126361.86",
+        "contributions_party": "0.00",
+        "cash_on_hand": "227818.35"
+      },
+      "industries": [
+        {
+          "count": "83",
+          "amount": "162500.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "102",
+          "amount": "124439.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "44",
+          "amount": "81350.00",
+          "id": "e69b2a41cd9645e292e66da69915ee6b",
+          "name": "Finance/Credit Companies"
+        },
+        {
+          "count": "37",
+          "amount": "76750.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "44",
+          "amount": "62250.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "29",
+          "amount": "44250.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "9",
+          "amount": "31500.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "18",
+          "amount": "23550.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "15",
+          "amount": "18250.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "11",
+          "amount": "18000.00",
+          "id": "d8ddc9e3d84b40a2a923545964e6bf80",
+          "name": "Non-Profit Institutions"
+        }
+      ],
+      "name": "John K. Delaney",
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "a0ec0c8a79524903bda3221e9086783a",
+      "chamber": "house",
+      "state": "MD",
+      "state_name": "Maryland",
+      "district": "6",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Joseph_R._Bartlett",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000208.jpg",
+      "seat_status": "I",
+      "bioguide_id": "B000208",
+      "fec_summary": {
+        "contributions_pac": "357513.99",
+        "office": "H",
+        "total_receipts_rank": 281,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "8641.39",
+        "cash_on_hand_rank": 223,
+        "total_raised": "852042.62",
+        "disbursements": "549385.14",
+        "total_disbursements_rank": 261,
+        "date": "2012-06-30",
+        "contributions_indiv": "463008.52",
+        "contributions_party": "15000.00",
+        "cash_on_hand": "547909.30"
+      },
+      "industries": [
+        {
+          "count": "168",
+          "amount": "186000.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "153",
+          "amount": "167675.00",
+          "id": "f7959bfcdd044aa58cfb2e335cfc67e6",
+          "name": "Misc Defense"
+        },
+        {
+          "count": "66",
+          "amount": "142663.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "125",
+          "amount": "125870.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "169",
+          "amount": "125525.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "209",
+          "amount": "123985.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "111",
+          "amount": "123740.00",
+          "id": "4c3799fc60b34f2aa250f7e8f5b2c3e6",
+          "name": "Defense Electronics"
+        },
+        {
+          "count": "85",
+          "amount": "94530.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "116",
+          "amount": "83700.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "109",
+          "amount": "79500.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        }
+      ],
+      "senate_class": "",
+      "name": "Roscoe G Bartlett",
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A+"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "79"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "76"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "8ff25ab60758494c8b64d66017e87670",
+      "chamber": "senate",
+      "state": "MD",
+      "state_name": "Maryland",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000141",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000141.jpg",
+      "seat_status": "I",
+      "bioguide_id": "C000141",
+      "fec_summary": {
+        "contributions_pac": "1669919.00",
+        "office": "S",
+        "total_receipts_rank": 29,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "163977.00",
+        "cash_on_hand_rank": 33,
+        "total_raised": "4566256.00",
+        "disbursements": "2863429.00",
+        "total_disbursements_rank": 25,
+        "date": "2012-06-30",
+        "contributions_indiv": "2648195.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "2121598.00"
+      },
+      "industries": [
+        {
+          "count": "2132",
+          "amount": "1588637.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1165",
+          "amount": "1068597.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "1000",
+          "amount": "1038744.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "759",
+          "amount": "831044.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "1097",
+          "amount": "815529.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "744",
+          "amount": "808915.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "793",
+          "amount": "767677.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "413",
+          "amount": "435938.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        },
+        {
+          "count": "569",
+          "amount": "431334.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "240",
+          "amount": "355700.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        }
+      ],
+      "senate_class": "I",
+      "name": "Ben Cardin",
+      "endorsements": [
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        }
+      ]
+    }
+  ]
+}

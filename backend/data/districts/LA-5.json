@@ -1,0 +1,127 @@
+{
+  "house": [
+    {
+      "entity_id": "09e41498c9ea48fd9d285e70579f4c06",
+      "chamber": "house",
+      "state": "LA",
+      "state_name": "Louisiana",
+      "district": "5",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Rodney_Alexander",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000361.jpg",
+      "seat_status": "I",
+      "bioguide_id": "A000361",
+      "fec_summary": {
+        "contributions_pac": "335480.53",
+        "office": "H",
+        "total_receipts_rank": 275,
+        "max_rank": 1515,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 468,
+        "total_raised": "946846.97",
+        "disbursements": "771893.35",
+        "total_disbursements_rank": 203,
+        "date": "2012-07-28",
+        "contributions_indiv": "611691.88",
+        "contributions_party": "482.50",
+        "cash_on_hand": "205502.03"
+      },
+      "industries": [
+        {
+          "count": "148",
+          "amount": "419600.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "514",
+          "amount": "394495.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "370",
+          "amount": "272400.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "297",
+          "amount": "260050.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "229",
+          "amount": "225746.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "343",
+          "amount": "206568.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "271",
+          "amount": "200374.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "170",
+          "amount": "179780.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "69",
+          "amount": "172500.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "149",
+          "amount": "153019.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        }
+      ],
+      "senate_class": "",
+      "name": "Rodney Alexander",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "67"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "68"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

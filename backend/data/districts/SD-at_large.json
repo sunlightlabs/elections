@@ -1,0 +1,206 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "SD",
+      "state_name": "South Dakota",
+      "district": "at_large",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "49552.79",
+        "office": "H",
+        "total_receipts_rank": 443,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 355,
+        "total_raised": "479497.71",
+        "disbursements": "187832.11",
+        "total_disbursements_rank": 496,
+        "date": "2012-06-30",
+        "contributions_indiv": "429838.25",
+        "contributions_party": "0.00",
+        "cash_on_hand": "291915.60"
+      },
+      "industries": [
+        {
+          "count": "101",
+          "amount": "41050.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "63",
+          "amount": "28350.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "39",
+          "amount": "23500.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "47",
+          "amount": "21050.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "25",
+          "amount": "20000.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "3",
+          "amount": "15000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "31",
+          "amount": "11025.00",
+          "id": "9e701425eeb14b4c874cfb4415a4ac3b",
+          "name": "Civil Servants/Public Officials"
+        },
+        {
+          "count": "15",
+          "amount": "8750.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        },
+        {
+          "count": "24",
+          "amount": "7850.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "12",
+          "amount": "6500.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        }
+      ],
+      "name": "Matt Varilek",
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "168ab1953d4f4d30a985f9bd41ccc89a",
+      "chamber": "house",
+      "state": "SD",
+      "state_name": "South Dakota",
+      "district": "at_large",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=N000184",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/N000184.jpg",
+      "seat_status": "I",
+      "bioguide_id": "N000184",
+      "fec_summary": {
+        "contributions_pac": "781625.00",
+        "office": "H",
+        "total_receipts_rank": 43,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "14682.26",
+        "cash_on_hand_rank": 45,
+        "total_raised": "2099830.49",
+        "disbursements": "677354.10",
+        "total_disbursements_rank": 184,
+        "date": "2012-06-30",
+        "contributions_indiv": "1290293.08",
+        "contributions_party": "2050.00",
+        "cash_on_hand": "1449602.42"
+      },
+      "industries": [
+        {
+          "count": "678",
+          "amount": "392284.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "226",
+          "amount": "178315.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "87",
+          "amount": "163150.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "225",
+          "amount": "135200.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "192",
+          "amount": "129404.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "93",
+          "amount": "98500.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "94",
+          "amount": "95680.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "94",
+          "amount": "95300.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "116",
+          "amount": "94433.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "97",
+          "amount": "89010.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        }
+      ],
+      "senate_class": "",
+      "name": "Kristi Lynn Noem",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "house": [
+    {
+      "entity_id": "db1cbdfc33194288a15e2542771b4c17",
+      "chamber": "house",
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "district": "3",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Mike_Kelly_%28Pennsylvania%29",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000376.jpg",
+      "seat_status": "I",
+      "bioguide_id": "K000376",
+      "fec_summary": {
+        "contributions_pac": "410135.00",
+        "office": "H",
+        "total_receipts_rank": 295,
+        "max_rank": 695,
+        "contributions_candidate": "-48005.00",
+        "transfers_in": "11217.55",
+        "cash_on_hand_rank": 299,
+        "total_raised": "771310.01",
+        "disbursements": "459896.33",
+        "total_disbursements_rank": 320,
+        "date": "2012-06-30",
+        "contributions_indiv": "393321.12",
+        "contributions_party": "0.00",
+        "cash_on_hand": "389138.37"
+      },
+      "industries": [
+        {
+          "count": "138",
+          "amount": "109781.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "54",
+          "amount": "107500.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "61",
+          "amount": "73750.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        },
+        {
+          "count": "57",
+          "amount": "56850.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "43",
+          "amount": "43183.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "36",
+          "amount": "42800.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "37",
+          "amount": "41500.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "23",
+          "amount": "32700.00",
+          "id": "8b48cb51f18f4286b8e16b2dc8e9689d",
+          "name": "Mining"
+        },
+        {
+          "count": "44",
+          "amount": "31883.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "24",
+          "amount": "28822.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        }
+      ],
+      "senate_class": "",
+      "name": "Mike Kelly",
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "69"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "80"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "6270f8364eac4b0a88a117c008011e06",
+      "chamber": "senate",
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001070.jpg",
+      "seat_status": "I",
+      "bioguide_id": "C001070",
+      "fec_summary": {
+        "contributions_pac": "1719495.00",
+        "office": "S",
+        "total_receipts_rank": 20,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "481535.00",
+        "cash_on_hand_rank": 8,
+        "total_raised": "7609518.00",
+        "disbursements": "2754060.00",
+        "total_disbursements_rank": 26,
+        "date": "2012-06-30",
+        "contributions_indiv": "5410931.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "6226560.00"
+      },
+      "industries": [
+        {
+          "count": "6419",
+          "amount": "5364591.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1785",
+          "amount": "1088671.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "808",
+          "amount": "782201.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "599",
+          "amount": "649436.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "722",
+          "amount": "588052.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "690",
+          "amount": "561648.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "164",
+          "amount": "507500.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "705",
+          "amount": "448131.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "650",
+          "amount": "448120.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "453",
+          "amount": "396258.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        }
+      ],
+      "senate_class": "I",
+      "name": "Bob Casey",
+      "endorsements": [
+        {
+          "name": "League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "MI",
+      "state_name": "Michigan",
+      "district": "7",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": "H",
+        "total_receipts_rank": 650,
+        "max_rank": 695,
+        "contributions_candidate": "3566.73",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 660,
+        "total_raised": "15262.58",
+        "disbursements": "14171.23",
+        "total_disbursements_rank": 634,
+        "date": "2012-07-18",
+        "contributions_indiv": "6695.85",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1096.35"
+      },
+      "industries": [
+        {
+          "count": "1",
+          "amount": "250.00",
+          "id": "f1c062575ca949fa92ab7066a6648bf3",
+          "name": "Air Transport"
+        },
+        {
+          "count": "1",
+          "amount": "235.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        }
+      ],
+      "name": "Kurt Haskell",
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A"
+        }
+      ]
+    },
+    {
+      "entity_id": "bd011d12bc3c49fba6cc800ffb33a586",
+      "chamber": "house",
+      "state": "MI",
+      "state_name": "Michigan",
+      "district": "7",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Tim_Walberg",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000798.jpg",
+      "seat_status": "I",
+      "bioguide_id": "W000798",
+      "fec_summary": {
+        "contributions_pac": "394909.46",
+        "office": "H",
+        "total_receipts_rank": 159,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "15170.87",
+        "cash_on_hand_rank": 181,
+        "total_raised": "1255636.46",
+        "disbursements": "634817.58",
+        "total_disbursements_rank": 207,
+        "date": "2012-07-18",
+        "contributions_indiv": "841491.40",
+        "contributions_party": "1999.00",
+        "cash_on_hand": "679406.54"
+      },
+      "industries": [
+        {
+          "count": "1254",
+          "amount": "773203.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "284",
+          "amount": "530453.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "785",
+          "amount": "375712.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "217",
+          "amount": "209517.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "192",
+          "amount": "143616.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "132",
+          "amount": "126900.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "127",
+          "amount": "119260.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        },
+        {
+          "count": "123",
+          "amount": "118768.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "119",
+          "amount": "116737.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "79",
+          "amount": "96770.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        }
+      ],
+      "senate_class": "",
+      "name": "Tim Walberg",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "83"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "96"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

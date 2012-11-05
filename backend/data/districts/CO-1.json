@@ -1,0 +1,137 @@
+{
+  "house": [
+    {
+      "entity_id": "d34cf814990a4f8a9263686d7d08a437",
+      "chamber": "house",
+      "state": "CO",
+      "state_name": "Colorado",
+      "district": "1",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Diana_DeGette",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000197.jpg",
+      "seat_status": "I",
+      "bioguide_id": "D000197",
+      "fec_summary": {
+        "contributions_pac": "400250.00",
+        "office": "H",
+        "total_receipts_rank": 325,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "20511.28",
+        "cash_on_hand_rank": 430,
+        "total_raised": "765359.17",
+        "disbursements": "709903.68",
+        "total_disbursements_rank": 173,
+        "date": "2012-06-30",
+        "contributions_indiv": "339765.16",
+        "contributions_party": "0.00",
+        "cash_on_hand": "164284.83"
+      },
+      "industries": [
+        {
+          "count": "1211",
+          "amount": "700014.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "499",
+          "amount": "556014.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "261",
+          "amount": "323499.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "122",
+          "amount": "298250.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "178",
+          "amount": "271000.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "180",
+          "amount": "217495.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "220",
+          "amount": "211381.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "93",
+          "amount": "189500.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "151",
+          "amount": "184100.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "342",
+          "amount": "169880.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        }
+      ],
+      "senate_class": "",
+      "name": "Diana DeGette",
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "20"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F-"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "15"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "4"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

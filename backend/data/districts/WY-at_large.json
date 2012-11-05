@@ -1,0 +1,132 @@
+{
+  "house": [
+
+  ],
+  "senate": [
+    {
+      "entity_id": "68655d30048b451caee7d70688803273",
+      "chamber": "senate",
+      "state": "WY",
+      "state_name": "Wyoming",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/John_Barrasso",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001261.jpg",
+      "seat_status": "I",
+      "bioguide_id": "B001261",
+      "fec_summary": {
+        "contributions_pac": "1371178.00",
+        "office": "S",
+        "total_receipts_rank": 37,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "232800.00",
+        "cash_on_hand_rank": 20,
+        "total_raised": "3390074.00",
+        "disbursements": "1116707.00",
+        "total_disbursements_rank": 47,
+        "date": "2012-08-01",
+        "contributions_indiv": "1787290.00",
+        "contributions_party": "716.00",
+        "cash_on_hand": "2886036.00"
+      },
+      "industries": [
+        {
+          "count": "1041",
+          "amount": "827901.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "312",
+          "amount": "479466.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "115",
+          "amount": "419728.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "181",
+          "amount": "244000.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "320",
+          "amount": "241884.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "141",
+          "amount": "219722.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "165",
+          "amount": "210231.00",
+          "id": "8b48cb51f18f4286b8e16b2dc8e9689d",
+          "name": "Mining"
+        },
+        {
+          "count": "117",
+          "amount": "186081.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "95",
+          "amount": "160039.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "206",
+          "amount": "156229.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        }
+      ],
+      "senate_class": "I",
+      "name": "John A Barrasso",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "89"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "89"
+        }
+      ]
+    }
+  ]
+}

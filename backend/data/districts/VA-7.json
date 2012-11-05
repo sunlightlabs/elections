@@ -1,0 +1,345 @@
+{
+  "house": [
+    {
+      "entity_id": "f06d74b4063a4081bd929738ecf80194",
+      "chamber": "house",
+      "state": "VA",
+      "state_name": "Virginia",
+      "district": "7",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Eric_Cantor",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001046.jpg",
+      "seat_status": "I",
+      "bioguide_id": "C001046",
+      "fec_summary": {
+        "contributions_pac": "2170834.33",
+        "office": "H",
+        "total_receipts_rank": 4,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "983619.46",
+        "cash_on_hand_rank": 18,
+        "total_raised": "6287484.03",
+        "disbursements": "5126727.16",
+        "total_disbursements_rank": 4,
+        "date": "2012-06-30",
+        "contributions_indiv": "3123475.65",
+        "contributions_party": "0.00",
+        "cash_on_hand": "2103869.32"
+      },
+      "industries": [
+        {
+          "count": "1170",
+          "amount": "1875550.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "1144",
+          "amount": "1473253.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "903",
+          "amount": "1273249.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "869",
+          "amount": "1108376.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "1120",
+          "amount": "997092.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1223",
+          "amount": "934522.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "703",
+          "amount": "812839.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "351",
+          "amount": "671750.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "519",
+          "amount": "620965.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "628",
+          "amount": "520689.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        }
+      ],
+      "senate_class": "",
+      "name": "Eric Cantor",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "73"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "86.96"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": null,
+      "chamber": "senate",
+      "state": "VA",
+      "state_name": "Virginia",
+      "district": null,
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "O",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "777299.00",
+        "office": "S",
+        "total_receipts_rank": 8,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "374193.00",
+        "cash_on_hand_rank": 22,
+        "total_raised": "10378939.00",
+        "disbursements": "7666452.00",
+        "total_disbursements_rank": 7,
+        "date": "2012-06-30",
+        "contributions_indiv": "9171634.00",
+        "contributions_party": "44100.00",
+        "cash_on_hand": "2724476.00"
+      },
+      "industries": [
+        {
+          "count": "1345",
+          "amount": "1296292.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "962",
+          "amount": "762722.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "285",
+          "amount": "477700.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "335",
+          "amount": "373900.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "294",
+          "amount": "372829.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "374",
+          "amount": "287545.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "389",
+          "amount": "282475.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "148",
+          "amount": "218600.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "65",
+          "amount": "201500.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "126",
+          "amount": "156279.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        }
+      ],
+      "name": "Tim Kaine",
+      "endorsements": [
+        {
+          "name": "League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "entity_id": "bfbf1ab73bb14028bae4b25ba11d7d0c",
+      "chamber": "senate",
+      "state": "VA",
+      "state_name": "Virginia",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=W000803",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000803.jpg",
+      "seat_status": "I",
+      "bioguide_id": "W000803",
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": "S",
+        "total_receipts_rank": 227,
+        "max_rank": 231,
+        "contributions_candidate": "0.00",
+        "transfers_in": "803.00",
+        "cash_on_hand_rank": 75,
+        "total_raised": "-91655.00",
+        "disbursements": "254932.00",
+        "total_disbursements_rank": 115,
+        "date": "2012-03-31",
+        "contributions_indiv": "-23735.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "191845.00"
+      },
+      "industries": [
+        {
+          "count": "1006",
+          "amount": "653266.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "906",
+          "amount": "602579.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1021",
+          "amount": "591986.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "218",
+          "amount": "223287.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "188",
+          "amount": "214745.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "197",
+          "amount": "158767.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "206",
+          "amount": "145511.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "286",
+          "amount": "144397.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "138",
+          "amount": "132249.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "121",
+          "amount": "115249.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        }
+      ],
+      "senate_class": "I",
+      "name": "James Webb",
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "85"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "15"
+        }
+      ]
+    }
+  ]
+}
