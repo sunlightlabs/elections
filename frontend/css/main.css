@@ -241,6 +241,9 @@ a{
 	color:#87aeb6;
 }
 
+a, a:active, a:visited {
+    color: #87aeb6;}
+
 .sf-footer a{
 	color:#C9A706;
 }
