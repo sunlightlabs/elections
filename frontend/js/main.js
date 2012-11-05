@@ -76,12 +76,52 @@ var DistrictView = Backbone.View.extend({
     }
 });
 
+var SearchView = Backbone.View.extend({
+    events: {
+        'submit form': 'search'
+    },
+
+    search: function(evt) {
+        var form = this.$el.find('.form-search');
+        var address = form.find('input[type=text]').val();
+        if (!address) return false;
+
+        form.addClass('loading');
+
+        var geocoder = new google.maps.Geocoder();
+
+        if (geocoder) {
+            geocoder.geocode({'address': address}, function (results, status) {
+                if (status == google.maps.GeocoderStatus.OK) {
+                    // console.log(results[0].geometry.location);
+                    var loc = results[0].geometry.location;
+                    $.getJSON("http://pentagon.sunlightlabs.net/1.0/boundary/?shape_type=none&sets=cd2012&callback=?&contains=" + loc.Ya + "," + loc.Za, function(response) {
+                        form.removeClass('loading');
+                        if (response.objects.length == 0) {
+                            console.log("Didn't find any districts");
+                        } else {
+                            console.log(response.objects[0].name);
+                        }
+                    });
+                } else {
+                    form.removeClass('loading');
+                    console.log("Geocoding failed: " + status);
+                }
+            });
+        }
+        evt.preventDefault();
+        return false;
+    }
+})
+
 // Router
 var AppRouter = Backbone.Router.extend({
     initialize: function() {
         //routes
         this.route("district/:id", "districtDetail");
         this.route("", "home");
+
+        var searchView = new SearchView({'el': $('#main-header').get(0)});
     },
 
     home: function() {
