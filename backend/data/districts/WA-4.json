@@ -3,6 +3,7 @@
     {
       "entity_id": "ab2c546d4cd944a9904268803211029c",
       "name": "Doc Hastings",
+      "photo_filename": "Doc_Hastings.jpg",
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
@@ -134,6 +135,7 @@
     {
       "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "name": "Maria Cantwell",
+      "photo_filename": "Maria_Cantwell.jpg",
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",

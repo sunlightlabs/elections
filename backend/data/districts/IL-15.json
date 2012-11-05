@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Angela Michael",
+      "photo_filename": "Angela_Michael.jpg",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -48,6 +49,7 @@
     {
       "entity_id": "8167ea8dacaf42c2b5f82272eabca661",
       "name": "John M Shimkus",
+      "photo_filename": "John_Shimkus.jpg",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",

@@ -3,6 +3,7 @@
     {
       "entity_id": "4a8010bf5ec349fa95cfecbb8c060c0a",
       "name": "Brian M Higgins",
+      "photo_filename": "Brian_Higgins.JPG",
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
@@ -149,6 +150,7 @@
     {
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "name": "Kirsten Gillibrand",
+      "photo_filename": "Kirsten_Gillibrand.jpg",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",
@@ -313,6 +315,7 @@
     {
       "entity_id": null,
       "name": "Wendy Long",
+      "photo_filename": "Wendy_Long.png",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",

@@ -3,6 +3,7 @@
     {
       "entity_id": "a26d4d7dd1754d4a863d55087a52b2a8",
       "name": "Mark Critz",
+      "photo_filename": "Mark_Critz.jpg",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -137,6 +138,7 @@
     {
       "entity_id": "eb3523863f0c4b26ad49958c081596df",
       "name": "Keith J. Rothfus",
+      "photo_filename": "Keith_Rothfus.png",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -238,6 +240,7 @@
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "name": "Bob Casey",
+      "photo_filename": "Bob_Casey,_Jr..jpg",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",

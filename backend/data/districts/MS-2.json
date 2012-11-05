@@ -3,6 +3,7 @@
     {
       "entity_id": "9b27589ad6f740778bfe3b60d841a285",
       "name": "Bennie G Thompson",
+      "photo_filename": "Bennie_Thompson.jpg",
       "chamber": "house",
       "state": "MS",
       "state_name": "Mississippi",
@@ -134,6 +135,7 @@
     {
       "entity_id": "159c40291deb455596155ded63972bf4",
       "name": "Roger Wicker",
+      "photo_filename": "Roger_Wicker.jpg",
       "chamber": "senate",
       "state": "MS",
       "state_name": "Mississippi",

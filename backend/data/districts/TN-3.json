@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Mary Margaret Headrick",
+      "photo_filename": null,
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
@@ -59,6 +60,7 @@
     {
       "entity_id": "27fad0b2769a44e2aff0ef83489a7517",
       "name": "Charles J. Fleischmann",
+      "photo_filename": "Charles_J._Fleischmann.jpg",
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
@@ -180,6 +182,7 @@
     {
       "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "name": "Bob Corker",
+      "photo_filename": "Bob_Corker.jpg",
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",

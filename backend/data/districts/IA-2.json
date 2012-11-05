@@ -3,6 +3,7 @@
     {
       "entity_id": "34ad57ffa65741f8bf3207e336dc4ae8",
       "name": "David Loebsack",
+      "photo_filename": "Dave_Loebsack.jpg",
       "chamber": "house",
       "state": "IA",
       "state_name": "Iowa",
@@ -127,6 +128,7 @@
     {
       "entity_id": null,
       "name": "John Archer",
+      "photo_filename": "John_Archer_(Iowa_2).jpg",
       "chamber": "house",
       "state": "IA",
       "state_name": "Iowa",

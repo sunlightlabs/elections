@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Jamie Wall",
+      "photo_filename": null,
       "chamber": "house",
       "state": "WI",
       "state_name": "Wisconsin",
@@ -107,6 +108,7 @@
     {
       "entity_id": "11bd6ed724be4cb09a12807d800f35fb",
       "name": "Reid Ribble",
+      "photo_filename": "Reid_Ribble.jpg",
       "chamber": "house",
       "state": "WI",
       "state_name": "Wisconsin",
@@ -228,6 +230,7 @@
     {
       "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "name": "Tammy Baldwin",
+      "photo_filename": "Tammy_Baldwin.jpeg",
       "chamber": "senate",
       "state": "WI",
       "state_name": "Wisconsin",

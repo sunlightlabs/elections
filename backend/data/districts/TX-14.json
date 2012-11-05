@@ -3,6 +3,7 @@
     {
       "entity_id": "3fdbd7848e5046c7b8f3f6bc1b4687c5",
       "name": "Nick Lampson",
+      "photo_filename": "Nick_Lampson.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -107,6 +108,7 @@
     {
       "entity_id": null,
       "name": "Randy Weber",
+      "photo_filename": "Randy_Weber.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -208,6 +210,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

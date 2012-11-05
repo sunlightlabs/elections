@@ -3,6 +3,7 @@
     {
       "entity_id": "16b152b77e904b2d96204fa8002c410c",
       "name": "Emanuel Cleaver",
+      "photo_filename": "Emanuel_Cleaver.jpg",
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
@@ -137,6 +138,7 @@
     {
       "entity_id": null,
       "name": "Jacob Turk",
+      "photo_filename": "Jacob_Turk.png",
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
@@ -238,6 +240,7 @@
     {
       "entity_id": "98af4916592648c4aa992d8db00e6e5b",
       "name": "Claire McCaskill",
+      "photo_filename": "Claire_McCaskill.jpg",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",
@@ -372,6 +375,7 @@
     {
       "entity_id": "28e6cce459e74dcbb575fa05def946e3",
       "name": "Todd Akin",
+      "photo_filename": "Todd_Akin.jpg",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",

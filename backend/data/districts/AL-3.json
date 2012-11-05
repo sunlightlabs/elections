@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "John Andrew Harris",
+      "photo_filename": "John_Andrew_Harris.jpg",
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
@@ -48,6 +49,7 @@
     {
       "entity_id": "c3bab173af8c418392bf7600abe660d8",
       "name": "Mike D Rogers",
+      "photo_filename": "Mike_Rogers_(Alabama).jpg",
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",

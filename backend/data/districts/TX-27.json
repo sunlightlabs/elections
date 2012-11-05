@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Rose Meza Harrison",
+      "photo_filename": "Rose_Meza_Harrison.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -102,6 +103,7 @@
     {
       "entity_id": "c722c9e9de734fa5bcf88139d95f4d03",
       "name": "Randolph Blake Farenthold",
+      "photo_filename": "Blake_Farenthold.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -208,6 +210,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

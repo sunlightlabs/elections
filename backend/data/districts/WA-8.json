@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Karen Porterfield",
+      "photo_filename": null,
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
@@ -78,6 +79,7 @@
     {
       "entity_id": "2fbb2c967019428a807acafa1c6d39cc",
       "name": "Dave Reichert",
+      "photo_filename": "Dave_Reichert.jpg",
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
@@ -204,6 +206,7 @@
     {
       "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "name": "Maria Cantwell",
+      "photo_filename": "Maria_Cantwell.jpg",
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",

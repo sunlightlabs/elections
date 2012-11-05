@@ -3,6 +3,7 @@
     {
       "entity_id": "9d5030bed1c44dbf8e1de5eb80a06926",
       "name": "Linda Sanchez",
+      "photo_filename": "Linda_Sanchez.jpg",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -119,6 +120,7 @@
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "name": "Dianne Feinstein",
+      "photo_filename": "Dianne_Feinstein.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -303,6 +305,7 @@
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "name": "Elizabeth Emken",
+      "photo_filename": "Elizabeth_Emken.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",

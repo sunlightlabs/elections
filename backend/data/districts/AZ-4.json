@@ -3,6 +3,7 @@
     {
       "entity_id": "bf26c4574ec744038ad724a9494c40ef",
       "name": "Paul Gosar",
+      "photo_filename": "Paul_Gosar.jpg",
       "chamber": "house",
       "state": "AZ",
       "state_name": "Arizona",
@@ -122,6 +123,7 @@
     {
       "entity_id": null,
       "name": "Richard Grayson",
+      "photo_filename": null,
       "chamber": "house",
       "state": "AZ",
       "state_name": "Arizona",
@@ -161,6 +163,7 @@
     {
       "entity_id": null,
       "name": "Richard Carmona",
+      "photo_filename": "Richard_Carmona.jpg",
       "chamber": "senate",
       "state": "AZ",
       "state_name": "Arizona",
@@ -265,6 +268,7 @@
     {
       "entity_id": "be44f82d0528410fa74c71c886a152f5",
       "name": "Jeff Flake",
+      "photo_filename": "Jeff_Flake.jpg",
       "chamber": "senate",
       "state": "AZ",
       "state_name": "Arizona",

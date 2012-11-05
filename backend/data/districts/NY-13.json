@@ -3,6 +3,7 @@
     {
       "entity_id": "c7bae5b1210d4861b0445cde83222efa",
       "name": "Charles B Rangel",
+      "photo_filename": "Charles_Rangel.jpg",
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
@@ -154,6 +155,7 @@
     {
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "name": "Kirsten Gillibrand",
+      "photo_filename": "Kirsten_Gillibrand.jpg",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",
@@ -318,6 +320,7 @@
     {
       "entity_id": null,
       "name": "Wendy Long",
+      "photo_filename": "Wendy_Long.png",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",

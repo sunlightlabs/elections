@@ -3,6 +3,7 @@
     {
       "entity_id": "147bf690398c4fdcb37695eb402434c2",
       "name": "Leonard L Boswell",
+      "photo_filename": "Leonard_Boswell.jpg",
       "chamber": "house",
       "state": "IA",
       "state_name": "Iowa",
@@ -122,6 +123,7 @@
     {
       "entity_id": "156426c3590847128b18b91c7ed7df13",
       "name": "Tom Latham",
+      "photo_filename": "Tom_Latham.jpg",
       "chamber": "house",
       "state": "IA",
       "state_name": "Iowa",

@@ -3,6 +3,7 @@
     {
       "entity_id": "151876cf4e3946f49c6afcb9be23de1a",
       "name": "Gene Green",
+      "photo_filename": "Gene_Green.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -119,6 +120,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

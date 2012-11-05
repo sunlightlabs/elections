@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Tara Nelson",
+      "photo_filename": "Tara_Nelson.JPG",
       "chamber": "house",
       "state": "IN",
       "state_name": "Indiana",
@@ -48,6 +49,7 @@
     {
       "entity_id": "452c1b4e94e3403682c2972303a22e12",
       "name": "Ted Rokita",
+      "photo_filename": "Todd_Rokita.jpg",
       "chamber": "house",
       "state": "IN",
       "state_name": "Indiana",
@@ -169,6 +171,7 @@
     {
       "entity_id": "4d86ffd297c84c059577c0afe4f8d0ee",
       "name": "Joe Donnelly",
+      "photo_filename": "Joe_Donnelly.jpg",
       "chamber": "senate",
       "state": "IN",
       "state_name": "Indiana",
@@ -298,6 +301,7 @@
     {
       "entity_id": "5b274cbfd935494cac8560f293fa68ba",
       "name": "Richard E Mourdock",
+      "photo_filename": "Richard_Mourdock.jpg",
       "chamber": "senate",
       "state": "IN",
       "state_name": "Indiana",

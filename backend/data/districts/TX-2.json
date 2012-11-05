@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Jim Dougherty",
+      "photo_filename": null,
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -78,6 +79,7 @@
     {
       "entity_id": "bc182a1b25284d9b8fee052889f036d7",
       "name": "Ted Poe",
+      "photo_filename": "Ted_Poe.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -204,6 +206,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

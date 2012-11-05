@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Teresa Hensley",
+      "photo_filename": "Teresa_Hensley.jpg",
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
@@ -107,6 +108,7 @@
     {
       "entity_id": "67eee71321b545f0b04b910fa8b9ff1a",
       "name": "Vicky Hartzler",
+      "photo_filename": "Vicky_Hartzler.JPG",
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
@@ -233,6 +235,7 @@
     {
       "entity_id": "98af4916592648c4aa992d8db00e6e5b",
       "name": "Claire McCaskill",
+      "photo_filename": "Claire_McCaskill.jpg",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",
@@ -367,6 +370,7 @@
     {
       "entity_id": "28e6cce459e74dcbb575fa05def946e3",
       "name": "Todd Akin",
+      "photo_filename": "Todd_Akin.jpg",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",

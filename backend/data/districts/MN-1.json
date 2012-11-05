@@ -3,6 +3,7 @@
     {
       "entity_id": "f2ad76d6e1cb41c98d1b3b2c0f874d7e",
       "name": "Allen Quist",
+      "photo_filename": "Allen_Quist.jpg",
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
@@ -102,6 +103,7 @@
     {
       "entity_id": "d0a7e006e79642ec8f5e53ab8234e2d3",
       "name": "Timothy J Walz",
+      "photo_filename": "Tim_Walz.jpg",
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
@@ -238,6 +240,7 @@
     {
       "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
       "name": "Amy Klobuchar",
+      "photo_filename": "Amy_Klobuchar.jpg",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
@@ -372,6 +375,7 @@
     {
       "entity_id": null,
       "name": "Kurt Bills",
+      "photo_filename": "Kurt_Bills.JPG",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",

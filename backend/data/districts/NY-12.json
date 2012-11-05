@@ -3,6 +3,7 @@
     {
       "entity_id": "4f506ace5301432d82b42b401e8bfb87",
       "name": "Carolyn B Maloney",
+      "photo_filename": "Carolyn_Maloney.jpg",
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
@@ -164,6 +165,7 @@
     {
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "name": "Kirsten Gillibrand",
+      "photo_filename": "Kirsten_Gillibrand.jpg",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",
@@ -328,6 +330,7 @@
     {
       "entity_id": null,
       "name": "Wendy Long",
+      "photo_filename": "Wendy_Long.png",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",

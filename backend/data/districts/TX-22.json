@@ -3,6 +3,7 @@
     {
       "entity_id": "4e091859472b4257b15caafdf6fc8f48",
       "name": "Pete Olson",
+      "photo_filename": "Pete_Olson.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -124,6 +125,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

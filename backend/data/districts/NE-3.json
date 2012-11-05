@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Mark Sullivan",
+      "photo_filename": "Mark_Sullivan.jpg",
       "chamber": "house",
       "state": "NE",
       "state_name": "Nebraska",
@@ -48,6 +49,7 @@
     {
       "entity_id": "5012485cc80447978c31ec52d65597d2",
       "name": "Adrian Smith",
+      "photo_filename": "Adrian_Smith.jpg",
       "chamber": "house",
       "state": "NE",
       "state_name": "Nebraska",
@@ -179,6 +181,7 @@
     {
       "entity_id": "f1e3264dc9d548219ba5290661c56c3a",
       "name": "Bob Kerrey",
+      "photo_filename": "Bob_Kerrey.jpg",
       "chamber": "senate",
       "state": "NE",
       "state_name": "Nebraska",
@@ -283,6 +286,7 @@
     {
       "entity_id": null,
       "name": "Debra S. Fischer",
+      "photo_filename": "Deb_Fischer.jpg",
       "chamber": "senate",
       "state": "NE",
       "state_name": "Nebraska",

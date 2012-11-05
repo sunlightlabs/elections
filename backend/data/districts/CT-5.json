@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Elizabeth Esty",
+      "photo_filename": "Elizabeth_Esty.jpg",
       "chamber": "house",
       "state": "CT",
       "state_name": "Connecticut",
@@ -109,6 +110,7 @@
     {
       "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "name": "Chris Murphy",
+      "photo_filename": "Christopher_S._Murphy.jpg",
       "chamber": "senate",
       "state": "CT",
       "state_name": "Connecticut",

@@ -3,6 +3,7 @@
     {
       "entity_id": "e81074f166824f819c77499eeee0f782",
       "name": "Chaka Fattah",
+      "photo_filename": "Chaka_Fattah.jpg",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -139,6 +140,7 @@
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "name": "Bob Casey",
+      "photo_filename": "Bob_Casey,_Jr..jpg",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",

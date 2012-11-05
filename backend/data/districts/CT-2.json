@@ -3,6 +3,7 @@
     {
       "entity_id": "1fd892f6fba0433da6db1ba9fa969f7c",
       "name": "Joe Courtney",
+      "photo_filename": "Joe_Courtney.jpg",
       "chamber": "house",
       "state": "CT",
       "state_name": "Connecticut",
@@ -134,6 +135,7 @@
     {
       "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "name": "Chris Murphy",
+      "photo_filename": "Christopher_S._Murphy.jpg",
       "chamber": "senate",
       "state": "CT",
       "state_name": "Connecticut",

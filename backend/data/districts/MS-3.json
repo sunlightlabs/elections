@@ -3,6 +3,7 @@
     {
       "entity_id": "b0c9963424bf4ec5a1c14bb7dde0bdfd",
       "name": "Gregg Harper",
+      "photo_filename": "Gregg_Harper.jpg",
       "chamber": "house",
       "state": "MS",
       "state_name": "Mississippi",
@@ -124,6 +125,7 @@
     {
       "entity_id": "159c40291deb455596155ded63972bf4",
       "name": "Roger Wicker",
+      "photo_filename": "Roger_Wicker.jpg",
       "chamber": "senate",
       "state": "MS",
       "state_name": "Mississippi",

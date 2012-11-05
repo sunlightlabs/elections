@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Kyle A. Yarber",
+      "photo_filename": "Kyle_Yarber.jpg",
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
@@ -60,6 +61,7 @@
     {
       "entity_id": "4e5b9ede53f9487d88ce1a4e95d65cee",
       "name": "Sam Graves",
+      "photo_filename": "Sam_Graves.jpg",
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
@@ -186,6 +188,7 @@
     {
       "entity_id": "98af4916592648c4aa992d8db00e6e5b",
       "name": "Claire McCaskill",
+      "photo_filename": "Claire_McCaskill.jpg",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",
@@ -320,6 +323,7 @@
     {
       "entity_id": "28e6cce459e74dcbb575fa05def946e3",
       "name": "Todd Akin",
+      "photo_filename": "Todd_Akin.jpg",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",

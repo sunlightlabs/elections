@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Joyce Knott",
+      "photo_filename": null,
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
@@ -66,6 +67,7 @@
     {
       "entity_id": "2ee714bfa1af48a3885846c078a81800",
       "name": "Mick Mulvaney",
+      "photo_filename": "Mick_Mulvaney.jpg",
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",

@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Raul Ruiz",
+      "photo_filename": "Raul_Ruiz.png",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -107,6 +108,7 @@
     {
       "entity_id": "c84a4c8d94cb4768b697de1f99e00f9e",
       "name": "Mary Bono Mack",
+      "photo_filename": "Mary_Bono_Mack.jpg",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -223,6 +225,7 @@
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "name": "Dianne Feinstein",
+      "photo_filename": "Dianne_Feinstein.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -407,6 +410,7 @@
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "name": "Elizabeth Emken",
+      "photo_filename": "Elizabeth_Emken.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",

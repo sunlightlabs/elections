@@ -3,6 +3,7 @@
     {
       "entity_id": "8d4d32c70c9445d59b299a06aecd4797",
       "name": "Randy Neugebauer",
+      "photo_filename": "Randy_Neugebauer.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -129,6 +130,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

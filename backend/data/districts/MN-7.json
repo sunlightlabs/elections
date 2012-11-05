@@ -3,6 +3,7 @@
     {
       "entity_id": "c84099ce5eb64a988f1705b7d052cf61",
       "name": "Collin C Peterson",
+      "photo_filename": "Collin_Peterson.jpg",
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
@@ -134,6 +135,7 @@
     {
       "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
       "name": "Amy Klobuchar",
+      "photo_filename": "Amy_Klobuchar.jpg",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",
@@ -268,6 +270,7 @@
     {
       "entity_id": null,
       "name": "Kurt Bills",
+      "photo_filename": "Kurt_Bills.JPG",
       "chamber": "senate",
       "state": "MN",
       "state_name": "Minnesota",

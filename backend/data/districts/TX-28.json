@@ -3,6 +3,7 @@
     {
       "entity_id": "1a82c65424d4492eb14f484f50317177",
       "name": "Henry Cuellar",
+      "photo_filename": "Henry_Cuellar.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -129,6 +130,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

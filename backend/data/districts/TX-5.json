@@ -3,6 +3,7 @@
     {
       "entity_id": "c6a0bc7ec625492a9582fc6b83274583",
       "name": "Jeb Hensarling",
+      "photo_filename": "Jeb_Hensarling.png",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -134,6 +135,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

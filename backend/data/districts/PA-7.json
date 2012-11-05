@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "George Badey",
+      "photo_filename": null,
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -102,6 +103,7 @@
     {
       "entity_id": "3165dbb9c7c344a985fd38bc6ba0ce81",
       "name": "Patrick L. Meehan",
+      "photo_filename": "Patrick_Meehan.jpg",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -223,6 +225,7 @@
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "name": "Bob Casey",
+      "photo_filename": "Bob_Casey,_Jr..jpg",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",

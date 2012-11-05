@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Jerry Tetalman",
+      "photo_filename": "Jerry_Tetalman.jpg",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -106,6 +107,7 @@
     {
       "entity_id": "41f7c1fe506b4a10a13e63edebff8d45",
       "name": "Darrell Issa",
+      "photo_filename": "Darrell_Issa.jpg",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -232,6 +234,7 @@
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "name": "Dianne Feinstein",
+      "photo_filename": "Dianne_Feinstein.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -416,6 +419,7 @@
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "name": "Elizabeth Emken",
+      "photo_filename": "Elizabeth_Emken.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",

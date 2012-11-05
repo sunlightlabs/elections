@@ -3,6 +3,7 @@
     {
       "entity_id": "340b9524e8674d4687209e70c262c194",
       "name": "Donna Edwards",
+      "photo_filename": "Donna_Edwards.jpg",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
@@ -149,6 +150,7 @@
     {
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "name": "Ben Cardin",
+      "photo_filename": "Ben_Cardin.jpg",
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",

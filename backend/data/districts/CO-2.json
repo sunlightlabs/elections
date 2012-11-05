@@ -3,6 +3,7 @@
     {
       "entity_id": "5703dfa7b4f6426c949c82bf7705575c",
       "name": "Jared Polis",
+      "photo_filename": "Jared_Polis.jpg",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
@@ -137,6 +138,7 @@
     {
       "entity_id": null,
       "name": "Kevin Lundberg",
+      "photo_filename": "Kevin_Lundberg.jpg",
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",

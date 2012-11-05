@@ -3,6 +3,7 @@
     {
       "entity_id": "d6ba2df590cf4be293836f93e53991c4",
       "name": "Al Green",
+      "photo_filename": "Al_Green.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -139,6 +140,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

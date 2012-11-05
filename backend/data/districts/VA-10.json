@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Kristin Cabral",
+      "photo_filename": null,
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
@@ -112,6 +113,7 @@
     {
       "entity_id": "96bd253297cd42b689edb1549decde78",
       "name": "Frank R Wolf",
+      "photo_filename": "Frank_Wolf.jpg",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
@@ -233,6 +235,7 @@
     {
       "entity_id": null,
       "name": "Tim Kaine",
+      "photo_filename": "Tim_Kaine.png",
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",

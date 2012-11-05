@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Matt Varilek",
+      "photo_filename": null,
       "chamber": "house",
       "state": "SD",
       "state_name": "South Dakota",
@@ -102,6 +103,7 @@
     {
       "entity_id": "168ab1953d4f4d30a985f9bd41ccc89a",
       "name": "Kristi Lynn Noem",
+      "photo_filename": "Kristi_Noem.jpg",
       "chamber": "house",
       "state": "SD",
       "state_name": "South Dakota",

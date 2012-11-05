@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Paul Hirschbiel",
+      "photo_filename": null,
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
@@ -112,6 +113,7 @@
     {
       "entity_id": "ed77d4ca071b4e9c906248d122ff284f",
       "name": "Scott Rigell",
+      "photo_filename": "Scott_Rigell.jpg",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
@@ -228,6 +230,7 @@
     {
       "entity_id": null,
       "name": "Tim Kaine",
+      "photo_filename": "Tim_Kaine.png",
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",

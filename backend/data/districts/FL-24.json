@@ -3,6 +3,7 @@
     {
       "entity_id": "70eea308f2a043f2aac0b5b7615170b2",
       "name": "Frederica S Wilson",
+      "photo_filename": "Frederica_S._Wilson.jpg",
       "chamber": "house",
       "state": "FL",
       "state_name": "Florida",
@@ -134,6 +135,7 @@
     {
       "entity_id": "5a1a3576871e459e9bb0af1a1d5cd826",
       "name": "Bill Nelson",
+      "photo_filename": "Bill_Nelson_(Florida).jpg",
       "chamber": "senate",
       "state": "FL",
       "state_name": "Florida",
@@ -268,6 +270,7 @@
     {
       "entity_id": "0bcd3fa0d6a1461d9e8e2948bd853c1e",
       "name": "Connie Mack",
+      "photo_filename": "Connie_Mack.jpg",
       "chamber": "senate",
       "state": "FL",
       "state_name": "Florida",

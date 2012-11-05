@@ -3,6 +3,7 @@
     {
       "entity_id": "9c04bdc2bc72493e961f8d08ba20678b",
       "name": "Marcia L Fudge",
+      "photo_filename": "Marcia_L._Fudge.jpg",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
@@ -144,6 +145,7 @@
     {
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
       "name": "Sherrod Brown",
+      "photo_filename": "Sherrod_Brown.jpg",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -283,6 +285,7 @@
     {
       "entity_id": null,
       "name": "Josh Mandel",
+      "photo_filename": "Josh_Mandel.jpg",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",

@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Candace Duval",
+      "photo_filename": "Candace_Duval.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -71,6 +72,7 @@
     {
       "entity_id": "244c6f7f33a048968dbea9cf0b00282a",
       "name": "Lamar Smith",
+      "photo_filename": "Lamar_Smith.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -197,6 +199,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

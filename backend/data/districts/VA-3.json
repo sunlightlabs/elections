@@ -3,6 +3,7 @@
     {
       "entity_id": "d455c6ec610c4c33b086293092defe32",
       "name": "Robert C Scott",
+      "photo_filename": "Robert_C._Scott.jpg",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
@@ -139,6 +140,7 @@
     {
       "entity_id": null,
       "name": "Tim Kaine",
+      "photo_filename": "Tim_Kaine.png",
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",

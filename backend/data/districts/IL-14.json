@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Dennis Anderson",
+      "photo_filename": "Dennis_Anderson.jpg",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -77,6 +78,7 @@
     {
       "entity_id": "ed68fa1a00214e358154316a6c72c727",
       "name": "Randy Hultgren",
+      "photo_filename": "Randy_Hultgren.jpg",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",

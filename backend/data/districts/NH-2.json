@@ -3,6 +3,7 @@
     {
       "entity_id": "fc44a3ad9e1a4841a24b3149b82a04fd",
       "name": "Ann McLane Kuster",
+      "photo_filename": "Ann_McLane_Kuster.jpg",
       "chamber": "house",
       "state": "NH",
       "state_name": "New Hampshire",
@@ -107,6 +108,7 @@
     {
       "entity_id": "a95f3e0dc40e4eb58802d0eef8efa297",
       "name": "Charles Bass",
+      "photo_filename": "Charlie_Bass.jpg",
       "chamber": "house",
       "state": "NH",
       "state_name": "New Hampshire",

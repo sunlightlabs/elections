@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Scott Peters",
+      "photo_filename": "Scott_Peters.jpg",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -117,6 +118,7 @@
     {
       "entity_id": "1927b0277602411da8d2a0050b3c172f",
       "name": "Brian P Bilbray",
+      "photo_filename": "Brian_Bilbray.jpg",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -238,6 +240,7 @@
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "name": "Dianne Feinstein",
+      "photo_filename": "Dianne_Feinstein.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -422,6 +425,7 @@
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "name": "Elizabeth Emken",
+      "photo_filename": "Elizabeth_Emken.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",

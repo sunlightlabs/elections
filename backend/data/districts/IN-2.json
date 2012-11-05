@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Brendan Mullen",
+      "photo_filename": "Brendan_Mullen.jpg",
       "chamber": "house",
       "state": "IN",
       "state_name": "Indiana",
@@ -107,6 +108,7 @@
     {
       "entity_id": "e0325df9dd45419b93386f12a2b24078",
       "name": "Jackie Walorski",
+      "photo_filename": "Jackie_Walorski.PNG",
       "chamber": "house",
       "state": "IN",
       "state_name": "Indiana",
@@ -213,6 +215,7 @@
     {
       "entity_id": "4d86ffd297c84c059577c0afe4f8d0ee",
       "name": "Joe Donnelly",
+      "photo_filename": "Joe_Donnelly.jpg",
       "chamber": "senate",
       "state": "IN",
       "state_name": "Indiana",
@@ -342,6 +345,7 @@
     {
       "entity_id": "5b274cbfd935494cac8560f293fa68ba",
       "name": "Richard E Mourdock",
+      "photo_filename": "Richard_Mourdock.jpg",
       "chamber": "senate",
       "state": "IN",
       "state_name": "Indiana",

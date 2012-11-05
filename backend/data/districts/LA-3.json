@@ -3,6 +3,7 @@
     {
       "entity_id": "18617d11247548cc981bf89a50a92219",
       "name": "Jeffrey M. Landry",
+      "photo_filename": "Jeff_Landry.jpg",
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",
@@ -122,6 +123,7 @@
     {
       "entity_id": "d392545fba7248f38a5ca25bcda2ae6e",
       "name": "Charles W Boustany Jr",
+      "photo_filename": "Charles_Boustany_Jr..jpg",
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",

@@ -3,6 +3,7 @@
     {
       "entity_id": "8c09ee1f2f314e32ac166efa2acef2d9",
       "name": "Yvette D Clarke",
+      "photo_filename": "Yvette_Clarke.jpeg",
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
@@ -159,6 +160,7 @@
     {
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "name": "Kirsten Gillibrand",
+      "photo_filename": "Kirsten_Gillibrand.jpg",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",
@@ -323,6 +325,7 @@
     {
       "entity_id": null,
       "name": "Wendy Long",
+      "photo_filename": "Wendy_Long.png",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",

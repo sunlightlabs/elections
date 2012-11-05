@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Andy Barr",
+      "photo_filename": "Andy_Barr.jpg",
       "chamber": "house",
       "state": "KY",
       "state_name": "Kentucky",
@@ -102,6 +103,7 @@
     {
       "entity_id": "bd237e4ae7104c06941c0539431f0629",
       "name": "Ben Chandler",
+      "photo_filename": "Ben_Chandler.jpg",
       "chamber": "house",
       "state": "KY",
       "state_name": "Kentucky",

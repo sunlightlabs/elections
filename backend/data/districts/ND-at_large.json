@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Pam Gulleson",
+      "photo_filename": null,
       "chamber": "house",
       "state": "ND",
       "state_name": "North Dakota",
@@ -114,6 +115,7 @@
     {
       "entity_id": "06c3f03746c44a78a4fd3e135df4e5c3",
       "name": "Rick Berg",
+      "photo_filename": "Rick_Berg.jpg",
       "chamber": "senate",
       "state": "ND",
       "state_name": "North Dakota",

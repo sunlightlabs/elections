@@ -3,6 +3,7 @@
     {
       "entity_id": "a78d6b50065444d4b2d329c245055194",
       "name": "Tim Griffin",
+      "photo_filename": "Tim_Griffin.jpg",
       "chamber": "house",
       "state": "AR",
       "state_name": "Arkansas",
@@ -127,6 +128,7 @@
     {
       "entity_id": null,
       "name": "Herb Rule",
+      "photo_filename": null,
       "chamber": "house",
       "state": "AR",
       "state_name": "Arkansas",

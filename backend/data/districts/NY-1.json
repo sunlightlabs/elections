@@ -3,6 +3,7 @@
     {
       "entity_id": "877ecf97fbad44fcad6cf10ec69b65c6",
       "name": "Timothy H Bishop",
+      "photo_filename": "Tim_Bishop.jpg",
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
@@ -147,6 +148,7 @@
     {
       "entity_id": "46e6bd00dcbe4cc3bb6b6cbf8837886f",
       "name": "Randy Altschuler",
+      "photo_filename": null,
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
@@ -248,6 +250,7 @@
     {
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "name": "Kirsten Gillibrand",
+      "photo_filename": "Kirsten_Gillibrand.jpg",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",
@@ -412,6 +415,7 @@
     {
       "entity_id": null,
       "name": "Wendy Long",
+      "photo_filename": "Wendy_Long.png",
       "chamber": "senate",
       "state": "NY",
       "state_name": "New York",

@@ -3,6 +3,7 @@
     {
       "entity_id": "b290e7531b31446883253332fad1f693",
       "name": "David B. McKinley",
+      "photo_filename": "David_McKinley.jpg",
       "chamber": "house",
       "state": "WV",
       "state_name": "West Virginia",
@@ -124,6 +125,7 @@
     {
       "entity_id": "fea00787eb034cb2a11e8086a48db88e",
       "name": "Joe Manchin",
+      "photo_filename": "Joe_Manchin.jpg",
       "chamber": "senate",
       "state": "WV",
       "state_name": "West Virginia",

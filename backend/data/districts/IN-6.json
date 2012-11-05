@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Bradley T. Bookout",
+      "photo_filename": "Brad_Bookout.jpg",
       "chamber": "house",
       "state": "IN",
       "state_name": "Indiana",
@@ -86,6 +87,7 @@
     {
       "entity_id": "4d86ffd297c84c059577c0afe4f8d0ee",
       "name": "Joe Donnelly",
+      "photo_filename": "Joe_Donnelly.jpg",
       "chamber": "senate",
       "state": "IN",
       "state_name": "Indiana",
@@ -215,6 +217,7 @@
     {
       "entity_id": "5b274cbfd935494cac8560f293fa68ba",
       "name": "Richard E Mourdock",
+      "photo_filename": "Richard_Mourdock.jpg",
       "chamber": "senate",
       "state": "IN",
       "state_name": "Indiana",

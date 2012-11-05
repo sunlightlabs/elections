@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Wanda Rohl",
+      "photo_filename": null,
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
@@ -54,6 +55,7 @@
     {
       "entity_id": "8d27d097226b41be8591ea09fed36eca",
       "name": "Adam Kinzinger",
+      "photo_filename": "Adam_Kinzinger.jpg",
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",

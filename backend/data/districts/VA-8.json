@@ -3,6 +3,7 @@
     {
       "entity_id": "1915c94342b64b72b35b417778cb5c7a",
       "name": "Jim Moran",
+      "photo_filename": "Jim_Moran.jpg",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
@@ -134,6 +135,7 @@
     {
       "entity_id": null,
       "name": "Tim Kaine",
+      "photo_filename": "Tim_Kaine.png",
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",

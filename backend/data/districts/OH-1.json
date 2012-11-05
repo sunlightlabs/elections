@@ -3,6 +3,7 @@
     {
       "entity_id": "2bcadb6dfa234cbaa3b82725eb5fc4a2",
       "name": "Steve Chabot",
+      "photo_filename": "Steve_Chabot.jpg",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
@@ -124,6 +125,7 @@
     {
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
       "name": "Sherrod Brown",
+      "photo_filename": "Sherrod_Brown.jpg",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -263,6 +265,7 @@
     {
       "entity_id": null,
       "name": "Josh Mandel",
+      "photo_filename": "Josh_Mandel.jpg",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",

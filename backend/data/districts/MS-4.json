@@ -3,6 +3,7 @@
     {
       "entity_id": "018e5c0964614d0882138d77e1052be4",
       "name": "Steven Palazzo",
+      "photo_filename": "Steven_Palazzo.jpg",
       "chamber": "house",
       "state": "MS",
       "state_name": "Mississippi",
@@ -124,6 +125,7 @@
     {
       "entity_id": "159c40291deb455596155ded63972bf4",
       "name": "Roger Wicker",
+      "photo_filename": "Roger_Wicker.jpg",
       "chamber": "senate",
       "state": "MS",
       "state_name": "Mississippi",

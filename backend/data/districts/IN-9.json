@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Shelli Yoder",
+      "photo_filename": "Shelli_Yoder.jpg",
       "chamber": "house",
       "state": "IN",
       "state_name": "Indiana",
@@ -107,6 +108,7 @@
     {
       "entity_id": "3b281719520a4045a4fc2d9b1a9a6116",
       "name": "Todd Christopher Young",
+      "photo_filename": "Todd_Young.jpg",
       "chamber": "house",
       "state": "IN",
       "state_name": "Indiana",
@@ -228,6 +230,7 @@
     {
       "entity_id": "4d86ffd297c84c059577c0afe4f8d0ee",
       "name": "Joe Donnelly",
+      "photo_filename": "Joe_Donnelly.jpg",
       "chamber": "senate",
       "state": "IN",
       "state_name": "Indiana",
@@ -357,6 +360,7 @@
     {
       "entity_id": "5b274cbfd935494cac8560f293fa68ba",
       "name": "Richard E Mourdock",
+      "photo_filename": "Richard_Mourdock.jpg",
       "chamber": "senate",
       "state": "IN",
       "state_name": "Indiana",

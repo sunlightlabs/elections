@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Erik Anderson",
+      "photo_filename": null,
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
@@ -48,6 +49,7 @@
     {
       "entity_id": "b17f275d043449049b00eff387787a64",
       "name": "Walter B Jones Jr",
+      "photo_filename": "Walter_B._Jones.jpg",
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",

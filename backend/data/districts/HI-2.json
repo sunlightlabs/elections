@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Tulsi Gabbard",
+      "photo_filename": "Tulsi_Gabbard.jpg",
       "chamber": "house",
       "state": "HI",
       "state_name": "Hawaii",
@@ -109,6 +110,7 @@
     {
       "entity_id": "79f92c32d0a244009c8c296dd4daff30",
       "name": "Mazie K Hirono",
+      "photo_filename": "Mazie_Hirono.jpg",
       "chamber": "senate",
       "state": "HI",
       "state_name": "Hawaii",

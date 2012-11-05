@@ -3,6 +3,7 @@
     {
       "entity_id": "b52cdcc185a74129885d1ab6f5eee532",
       "name": "Andy Harris",
+      "photo_filename": "Andy_Harris.jpg",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
@@ -124,6 +125,7 @@
     {
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "name": "Ben Cardin",
+      "photo_filename": "Ben_Cardin.jpg",
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",

@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Derek Kilmer",
+      "photo_filename": "Derek_Kilmer.jpg",
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
@@ -114,6 +115,7 @@
     {
       "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "name": "Maria Cantwell",
+      "photo_filename": "Maria_Cantwell.jpg",
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",

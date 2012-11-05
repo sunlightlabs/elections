@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Korey Reiman",
+      "photo_filename": "Korey_L._Reiman.jpg",
       "chamber": "house",
       "state": "NE",
       "state_name": "Nebraska",
@@ -78,6 +79,7 @@
     {
       "entity_id": "11dea6adeeb143ad9a16e055e169dce0",
       "name": "Jeff Fortenberry",
+      "photo_filename": "Jeff_Fortenberry.jpg",
       "chamber": "house",
       "state": "NE",
       "state_name": "Nebraska",
@@ -209,6 +211,7 @@
     {
       "entity_id": "f1e3264dc9d548219ba5290661c56c3a",
       "name": "Bob Kerrey",
+      "photo_filename": "Bob_Kerrey.jpg",
       "chamber": "senate",
       "state": "NE",
       "state_name": "Nebraska",
@@ -313,6 +316,7 @@
     {
       "entity_id": null,
       "name": "Debra S. Fischer",
+      "photo_filename": "Deb_Fischer.jpg",
       "chamber": "senate",
       "state": "NE",
       "state_name": "Nebraska",

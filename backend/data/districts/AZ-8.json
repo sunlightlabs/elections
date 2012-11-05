@@ -3,6 +3,7 @@
     {
       "entity_id": "8d13019467b2459eaad79c5073288bd4",
       "name": "Trent Franks",
+      "photo_filename": "Trent_Franks.jpg",
       "chamber": "house",
       "state": "AZ",
       "state_name": "Arizona",
@@ -129,6 +130,7 @@
     {
       "entity_id": null,
       "name": "Richard Carmona",
+      "photo_filename": "Richard_Carmona.jpg",
       "chamber": "senate",
       "state": "AZ",
       "state_name": "Arizona",
@@ -233,6 +235,7 @@
     {
       "entity_id": "be44f82d0528410fa74c71c886a152f5",
       "name": "Jeff Flake",
+      "photo_filename": "Jeff_Flake.jpg",
       "chamber": "senate",
       "state": "AZ",
       "state_name": "Arizona",

@@ -3,6 +3,7 @@
     {
       "entity_id": "f8463d0cb5c74397afc623195e6828c9",
       "name": "Patrick J Tiberi",
+      "photo_filename": "Patrick_J._Tiberi.jpg",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
@@ -127,6 +128,7 @@
     {
       "entity_id": null,
       "name": "James Reese",
+      "photo_filename": "James_Reese.jpg",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
@@ -198,6 +200,7 @@
     {
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
       "name": "Sherrod Brown",
+      "photo_filename": "Sherrod_Brown.jpg",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -337,6 +340,7 @@
     {
       "entity_id": null,
       "name": "Josh Mandel",
+      "photo_filename": "Josh_Mandel.jpg",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",

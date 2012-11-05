@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Gene Stilp",
+      "photo_filename": null,
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -95,6 +96,7 @@
     {
       "entity_id": "07d5f165d18f4b3f9e972ef53ffba680",
       "name": "Louis J Barletta",
+      "photo_filename": "Lou_Barletta.jpeg",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -221,6 +223,7 @@
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "name": "Bob Casey",
+      "photo_filename": "Bob_Casey,_Jr..jpg",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",

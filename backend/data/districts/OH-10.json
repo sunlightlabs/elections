@@ -3,6 +3,7 @@
     {
       "entity_id": "578bae17515c4ac89c8f4abe2f2806aa",
       "name": "Michael R Turner",
+      "photo_filename": null,
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
@@ -122,6 +123,7 @@
     {
       "entity_id": null,
       "name": "Sharen Neuhardt",
+      "photo_filename": "Sharen_Swartz_Neuhardt.png",
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
@@ -223,6 +225,7 @@
     {
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
       "name": "Sherrod Brown",
+      "photo_filename": "Sherrod_Brown.jpg",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",
@@ -362,6 +365,7 @@
     {
       "entity_id": null,
       "name": "Josh Mandel",
+      "photo_filename": "Josh_Mandel.jpg",
       "chamber": "senate",
       "state": "OH",
       "state_name": "Ohio",

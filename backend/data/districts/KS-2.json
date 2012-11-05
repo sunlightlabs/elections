@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Tobias Schlingensiepen",
+      "photo_filename": "Tobias_Schlingensiepen.jpg",
       "chamber": "house",
       "state": "KS",
       "state_name": "Kansas",
@@ -101,6 +102,7 @@
     {
       "entity_id": "eb04a699748d4d4abc698d8fe2d94188",
       "name": "Lynn Jenkins",
+      "photo_filename": "Lynn_Jenkins.jpg",
       "chamber": "house",
       "state": "KS",
       "state_name": "Kansas",

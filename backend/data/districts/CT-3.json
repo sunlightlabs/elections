@@ -3,6 +3,7 @@
     {
       "entity_id": "dc6627f40ac04f79b589d93b344ec405",
       "name": "Rosa L DeLauro",
+      "photo_filename": "Rosa_L._DeLauro.jpg",
       "chamber": "house",
       "state": "CT",
       "state_name": "Connecticut",
@@ -134,6 +135,7 @@
     {
       "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "name": "Chris Murphy",
+      "photo_filename": "Christopher_S._Murphy.jpg",
       "chamber": "senate",
       "state": "CT",
       "state_name": "Connecticut",

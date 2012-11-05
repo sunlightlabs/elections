@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Harry Perkinson",
+      "photo_filename": "Harry_Perkinson.jpg",
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
@@ -85,6 +86,7 @@
     {
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "name": "Bob Casey",
+      "photo_filename": "Bob_Casey,_Jr..jpg",
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",

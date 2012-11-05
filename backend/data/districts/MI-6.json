@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Mike O'Brien",
+      "photo_filename": null,
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -107,6 +108,7 @@
     {
       "entity_id": "673b82ae1e2745ff9ee21a8ca1462518",
       "name": "Fred Upton",
+      "photo_filename": "Fred_Upton.jpg",
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
@@ -233,6 +235,7 @@
     {
       "entity_id": "ee58b1dc41824d21aa87f9e9063aa0e7",
       "name": "Peter Hoekstra",
+      "photo_filename": "Pete_Hoekstra.jpg",
       "chamber": "senate",
       "state": "MI",
       "state_name": "Michigan",
@@ -337,6 +340,7 @@
     {
       "entity_id": "f0b2ed36768d4c99b3ba68d3a553d8d8",
       "name": "Deborah Ann Stabenow",
+      "photo_filename": "Debbie_Stabenow.jpg",
       "chamber": "senate",
       "state": "MI",
       "state_name": "Michigan",

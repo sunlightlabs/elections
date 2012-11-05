@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Kim Gillan",
+      "photo_filename": "Kim_Gillan.jpg",
       "chamber": "house",
       "state": "MT",
       "state_name": "Montana",
@@ -114,6 +115,7 @@
     {
       "entity_id": "0aab575c5cec4e36a2529011488c00fa",
       "name": "Jon Tester",
+      "photo_filename": "Jon_Tester.jpg",
       "chamber": "senate",
       "state": "MT",
       "state_name": "Montana",
@@ -253,6 +255,7 @@
     {
       "entity_id": "8cde611c6a554f099ce7e627209172b2",
       "name": "Denny Rehberg",
+      "photo_filename": "Denny_Rehberg.jpg",
       "chamber": "senate",
       "state": "MT",
       "state_name": "Montana",

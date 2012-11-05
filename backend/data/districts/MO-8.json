@@ -3,6 +3,7 @@
     {
       "entity_id": "9139a6df0e1341e4b3be3b3d262b8c34",
       "name": "Jo Ann Emerson",
+      "photo_filename": "Jo_Ann_Emerson.jpg",
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
@@ -127,6 +128,7 @@
     {
       "entity_id": null,
       "name": "Jack Rushin",
+      "photo_filename": "Jack_Rushin.jpg",
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
@@ -180,6 +182,7 @@
     {
       "entity_id": "98af4916592648c4aa992d8db00e6e5b",
       "name": "Claire McCaskill",
+      "photo_filename": "Claire_McCaskill.jpg",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",
@@ -314,6 +317,7 @@
     {
       "entity_id": "28e6cce459e74dcbb575fa05def946e3",
       "name": "Todd Akin",
+      "photo_filename": "Todd_Akin.jpg",
       "chamber": "senate",
       "state": "MO",
       "state_name": "Missouri",

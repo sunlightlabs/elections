@@ -3,6 +3,7 @@
     {
       "entity_id": "fbfd1e25bbd54c5b8691bd3c56e3f331",
       "name": "Frank Pallone Jr",
+      "photo_filename": "Frank_Pallone.jpg",
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
@@ -129,6 +130,7 @@
     {
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "name": "Robert Menendez",
+      "photo_filename": "Bob_Menendez.jpg",
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",

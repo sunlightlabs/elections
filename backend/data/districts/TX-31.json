@@ -3,6 +3,7 @@
     {
       "entity_id": "19b37df97ee248b5959a9e672cfc79db",
       "name": "John Carter",
+      "photo_filename": "John_Carter.jpg",
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
@@ -124,6 +125,7 @@
     {
       "entity_id": null,
       "name": "Ted Cruz",
+      "photo_filename": "Paul_Sadler.jpg",
       "chamber": "senate",
       "state": "TX",
       "state_name": "Texas",

@@ -3,6 +3,7 @@
     {
       "entity_id": null,
       "name": "Andy Schmookler",
+      "photo_filename": null,
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
@@ -107,6 +108,7 @@
     {
       "entity_id": "26787e20a4c547b68922aa51339963f9",
       "name": "Bob Goodlatte",
+      "photo_filename": "Bob_Goodlatte.jpg",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
@@ -238,6 +240,7 @@
     {
       "entity_id": null,
       "name": "Tim Kaine",
+      "photo_filename": "Tim_Kaine.png",
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",

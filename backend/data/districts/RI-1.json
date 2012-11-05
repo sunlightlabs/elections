@@ -3,6 +3,7 @@
     {
       "entity_id": "2619e5a74bb54ccbb3df5a0cacedae6f",
       "name": "David N. Cicilline",
+      "photo_filename": "David_N._Cicilline.jpg",
       "chamber": "house",
       "state": "RI",
       "state_name": "Rhode Island",
@@ -139,6 +140,7 @@
     {
       "entity_id": "64f4b76b98b440cc9bb6b8132cb8fba7",
       "name": "Sheldon Whitehouse",
+      "photo_filename": "Sheldon_Whitehouse.jpg",
       "chamber": "senate",
       "state": "RI",
       "state_name": "Rhode Island",

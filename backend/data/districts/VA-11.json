@@ -3,6 +3,7 @@
     {
       "entity_id": "7b8acbba05d0487aa74356852d6b4f92",
       "name": "Gerry Connolly",
+      "photo_filename": "Gerald_Connolly.JPG",
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
@@ -139,6 +140,7 @@
     {
       "entity_id": null,
       "name": "Tim Kaine",
+      "photo_filename": "Tim_Kaine.png",
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",

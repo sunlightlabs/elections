@@ -3,6 +3,7 @@
     {
       "entity_id": "2d96f89c25b241a6bd72a79c70b4e5fa",
       "name": "John Sarbanes",
+      "photo_filename": "John_Sarbanes.jpg",
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
@@ -134,6 +135,7 @@
     {
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "name": "Ben Cardin",
+      "photo_filename": "Ben_Cardin.jpg",
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
