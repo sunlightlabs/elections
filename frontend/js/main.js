@@ -6,7 +6,6 @@ var District = Backbone.Model.extend({ url: function() { return "/json/" + this.
 // Template Helpers
 var helpers = {
     colorOf: function(endorsement) {
-        console.log(endorsement.type);
         if (endorsement.type === "grade") {
             var letter = endorsement.value.charAt(0);
             if (letter <= "B") {
@@ -93,14 +92,13 @@ var SearchView = Backbone.View.extend({
         if (geocoder) {
             geocoder.geocode({'address': address}, function (results, status) {
                 if (status == google.maps.GeocoderStatus.OK) {
-                    // console.log(results[0].geometry.location);
                     var loc = results[0].geometry.location;
                     $.getJSON("http://pentagon.sunlightlabs.net/1.0/boundary/?shape_type=none&sets=cd2012&callback=?&contains=" + loc.Ya + "," + loc.Za, function(response) {
                         form.removeClass('loading');
                         if (response.objects.length == 0) {
                             console.log("Didn't find any districts");
                         } else {
-                            console.log(response.objects[0].name);
+                            app.navigate("district/" + response.objects[0].name.replace(" ", "-"), {'trigger': true});
                         }
                     });
                 } else {
