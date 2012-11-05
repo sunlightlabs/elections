@@ -1,0 +1,510 @@
+{
+  "house": [
+    {
+      "entity_id": "1cbfdfbf32284d2d9468afab31eb1df0",
+      "chamber": "house",
+      "state": "MA",
+      "state_name": "Massachusetts",
+      "district": "1",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Richard_Neal",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/N000015.jpg",
+      "seat_status": "I",
+      "bioguide_id": "N000015",
+      "fec_summary": {
+        "contributions_pac": "944183.43",
+        "office": "H",
+        "total_receipts_rank": 149,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 19,
+        "total_raised": "1306049.67",
+        "disbursements": "1420259.08",
+        "total_disbursements_rank": 38,
+        "date": "2012-08-17",
+        "contributions_indiv": "313963.10",
+        "contributions_party": "0.00",
+        "cash_on_hand": "2061631.81"
+      },
+      "industries": [
+        {
+          "count": "1274",
+          "amount": "1217332.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "539",
+          "amount": "555488.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "451",
+          "amount": "527598.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "627",
+          "amount": "393593.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "356",
+          "amount": "355080.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "466",
+          "amount": "306432.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "198",
+          "amount": "254750.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "200",
+          "amount": "252473.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "227",
+          "amount": "213811.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "206",
+          "amount": "207395.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        }
+      ],
+      "senate_class": "",
+      "name": "Richard E Neal",
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "95"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "25"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "16"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "4.17"
+        }
+      ]
+    },
+    {
+      "entity_id": "7e8a99d65a984e6b8160942b7769daf2",
+      "chamber": "house",
+      "state": "MA",
+      "state_name": "Massachusetts",
+      "district": "1",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/John_Olver",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/O000085.jpg",
+      "seat_status": "I",
+      "bioguide_id": "O000085",
+      "fec_summary": {
+        "contributions_pac": "178000.00",
+        "office": "H",
+        "total_receipts_rank": 640,
+        "max_rank": 1515,
+        "contributions_candidate": "2400.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 668,
+        "total_raised": "344353.32",
+        "disbursements": "375581.09",
+        "total_disbursements_rank": 532,
+        "date": "2012-06-30",
+        "contributions_indiv": "174290.00",
+        "contributions_party": "1250.00",
+        "cash_on_hand": "44399.82"
+      },
+      "industries": [
+        {
+          "count": "423",
+          "amount": "559450.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "842",
+          "amount": "479364.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "267",
+          "amount": "352300.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "189",
+          "amount": "317250.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "225",
+          "amount": "310800.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "659",
+          "amount": "260250.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "540",
+          "amount": "223775.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "258",
+          "amount": "219110.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "336",
+          "amount": "191639.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "264",
+          "amount": "148168.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        }
+      ],
+      "senate_class": "",
+      "name": "John W Olver",
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "20"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "16"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "4.35"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": null,
+      "chamber": "senate",
+      "state": "MA",
+      "state_name": "Massachusetts",
+      "district": null,
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "476762.00",
+        "office": "S",
+        "total_receipts_rank": 1,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "290596.00",
+        "cash_on_hand_rank": 2,
+        "total_raised": "28058001.00",
+        "disbursements": "15918377.00",
+        "total_disbursements_rank": 1,
+        "date": "2012-08-17",
+        "contributions_indiv": "27285117.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "12337044.00"
+      },
+      "industries": [
+        {
+          "count": "2206",
+          "amount": "1279140.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1412",
+          "amount": "1189872.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1092",
+          "amount": "743071.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "955",
+          "amount": "593173.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "471",
+          "amount": "289128.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "175",
+          "amount": "243000.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "278",
+          "amount": "219534.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "337",
+          "amount": "168299.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "239",
+          "amount": "159729.00",
+          "id": "db81234a46874e7392cb5dfec1f07113",
+          "name": "Printing & Publishing"
+        },
+        {
+          "count": "129",
+          "amount": "152031.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        }
+      ],
+      "name": "Elizabeth Warren",
+      "endorsements": [
+        {
+          "name": "League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "National Nurses United",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
+      "chamber": "senate",
+      "state": "MA",
+      "state_name": "Massachusetts",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Scott_Brown",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001268.jpg",
+      "seat_status": "I",
+      "bioguide_id": "B001268",
+      "fec_summary": {
+        "contributions_pac": "2111315.00",
+        "office": "S",
+        "total_receipts_rank": 2,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "1031020.00",
+        "cash_on_hand_rank": 1,
+        "total_raised": "19266775.00",
+        "disbursements": "12472058.00",
+        "total_disbursements_rank": 2,
+        "date": "2012-08-17",
+        "contributions_indiv": "15883673.00",
+        "contributions_party": "3700.00",
+        "cash_on_hand": "14193833.00"
+      },
+      "industries": [
+        {
+          "count": "1737",
+          "amount": "1994695.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "3277",
+          "amount": "1869573.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1358",
+          "amount": "887422.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "929",
+          "amount": "694684.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "788",
+          "amount": "606790.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "967",
+          "amount": "576411.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "600",
+          "amount": "488153.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "125",
+          "amount": "465926.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "765",
+          "amount": "437718.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "541",
+          "amount": "406713.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        }
+      ],
+      "senate_class": "I",
+      "name": "Scott P. Brown",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "50"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "45"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "20"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "60"
+        }
+      ]
+    }
+  ]
+}

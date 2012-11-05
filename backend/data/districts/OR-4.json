@@ -1,0 +1,142 @@
+{
+  "house": [
+    {
+      "entity_id": "582eebf9f66b4c05a93b7088f1c0b291",
+      "chamber": "house",
+      "state": "OR",
+      "state_name": "Oregon",
+      "district": "4",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Peter_DeFazio",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/D000191.jpg",
+      "seat_status": "I",
+      "bioguide_id": "D000191",
+      "fec_summary": {
+        "contributions_pac": "396805.00",
+        "office": "H",
+        "total_receipts_rank": 293,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 189,
+        "total_raised": "828152.65",
+        "disbursements": "377591.50",
+        "total_disbursements_rank": 381,
+        "date": "2012-06-30",
+        "contributions_indiv": "415142.35",
+        "contributions_party": "0.00",
+        "cash_on_hand": "645571.79"
+      },
+      "industries": [
+        {
+          "count": "411",
+          "amount": "575900.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "161",
+          "amount": "337300.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "145",
+          "amount": "300260.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "205",
+          "amount": "247605.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "208",
+          "amount": "245408.00",
+          "id": "f1c062575ca949fa92ab7066a6648bf3",
+          "name": "Air Transport"
+        },
+        {
+          "count": "280",
+          "amount": "243435.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "153",
+          "amount": "216900.00",
+          "id": "2ff4b793768543e1af2686cb5014408a",
+          "name": "Railroads"
+        },
+        {
+          "count": "403",
+          "amount": "194552.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "245",
+          "amount": "145433.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "131",
+          "amount": "142259.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        }
+      ],
+      "senate_class": "",
+      "name": "Peter DeFazio",
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "95"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "40"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "D-"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "69"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

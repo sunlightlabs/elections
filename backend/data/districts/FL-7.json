@@ -1,0 +1,600 @@
+{
+  "house": [
+    {
+      "entity_id": "15b92482eefc46aa8f43083a62148f8f",
+      "chamber": "house",
+      "state": "FL",
+      "state_name": "Florida",
+      "district": "7",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/John_Mica",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M000689.jpg",
+      "seat_status": "I",
+      "bioguide_id": "M000689",
+      "fec_summary": {
+        "contributions_pac": "809907.33",
+        "office": "H",
+        "total_receipts_rank": 90,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 113,
+        "total_raised": "1619820.46",
+        "disbursements": "1214485.80",
+        "total_disbursements_rank": 56,
+        "date": "2012-07-25",
+        "contributions_indiv": "802999.05",
+        "contributions_party": "0.00",
+        "cash_on_hand": "957917.43"
+      },
+      "industries": [
+        {
+          "count": "618",
+          "amount": "750988.00",
+          "id": "f1c062575ca949fa92ab7066a6648bf3",
+          "name": "Air Transport"
+        },
+        {
+          "count": "536",
+          "amount": "373574.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "338",
+          "amount": "343326.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        },
+        {
+          "count": "311",
+          "amount": "320410.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "483",
+          "amount": "271286.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "360",
+          "amount": "264950.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "164",
+          "amount": "251050.00",
+          "id": "2ff4b793768543e1af2686cb5014408a",
+          "name": "Railroads"
+        },
+        {
+          "count": "523",
+          "amount": "248025.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "199",
+          "amount": "203594.00",
+          "id": "1657f29fbf9944f5af4a0d5c4d2eafad",
+          "name": "Sea Transport"
+        },
+        {
+          "count": "127",
+          "amount": "194750.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        }
+      ],
+      "senate_class": "",
+      "name": "John L Mica",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "78"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "83.33"
+        }
+      ]
+    },
+    {
+      "entity_id": "e74ce5a56f314b2b975f2b4d569d69fe",
+      "chamber": "house",
+      "state": "FL",
+      "state_name": "Florida",
+      "district": "7",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Sandy_Adams",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000366.jpg",
+      "seat_status": "I",
+      "bioguide_id": "A000366",
+      "fec_summary": {
+        "contributions_pac": "405493.63",
+        "office": "H",
+        "total_receipts_rank": 288,
+        "max_rank": 1515,
+        "contributions_candidate": "0.00",
+        "transfers_in": "10609.33",
+        "cash_on_hand_rank": 302,
+        "total_raised": "838254.23",
+        "disbursements": "551280.64",
+        "total_disbursements_rank": 354,
+        "date": "2012-07-25",
+        "contributions_indiv": "422860.83",
+        "contributions_party": "0.00",
+        "cash_on_hand": "452734.96"
+      },
+      "industries": [
+        {
+          "count": "102",
+          "amount": "179143.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "137",
+          "amount": "130700.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "122",
+          "amount": "88208.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "119",
+          "amount": "76898.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "73",
+          "amount": "70975.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "42",
+          "amount": "63650.00",
+          "id": "165d820dd48441e1befdc47f3fa3d236",
+          "name": "Food & Beverage"
+        },
+        {
+          "count": "58",
+          "amount": "55250.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "66",
+          "amount": "46018.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "20",
+          "amount": "40100.00",
+          "id": "4b732d5c5c4e43d39df21532b7c3be7b",
+          "name": "Health Services/Hmos"
+        },
+        {
+          "count": "25",
+          "amount": "38874.00",
+          "id": "4e62cff90a974840bec347a2e32a58b9",
+          "name": "Beer, Wine & Liquor"
+        }
+      ],
+      "senate_class": "",
+      "name": "Sandy Adams",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "76"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "88"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "5a1a3576871e459e9bb0af1a1d5cd826",
+      "chamber": "senate",
+      "state": "FL",
+      "state_name": "Florida",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=N000032",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/N000032.jpg",
+      "seat_status": "I",
+      "bioguide_id": "N000032",
+      "fec_summary": {
+        "contributions_pac": "1887907.00",
+        "office": "S",
+        "total_receipts_rank": 7,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "363748.00",
+        "cash_on_hand_rank": 5,
+        "total_raised": "10451357.00",
+        "disbursements": "4772682.00",
+        "total_disbursements_rank": 15,
+        "date": "2012-07-25",
+        "contributions_indiv": "8088034.00",
+        "contributions_party": "48100.00",
+        "cash_on_hand": "8826043.00"
+      },
+      "industries": [
+        {
+          "count": "7189",
+          "amount": "5975631.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "3118",
+          "amount": "1923811.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1588",
+          "amount": "1503204.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1217",
+          "amount": "1048310.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "794",
+          "amount": "972731.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "1043",
+          "amount": "824959.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "831",
+          "amount": "788904.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "593",
+          "amount": "672461.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "673",
+          "amount": "591840.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "234",
+          "amount": "586600.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        }
+      ],
+      "senate_class": "I",
+      "name": "Bill Nelson",
+      "endorsements": [
+        {
+          "name": "League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "60"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "15"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "entity_id": null,
+      "chamber": "senate",
+      "state": "FL",
+      "state_name": "Florida",
+      "district": null,
+      "party": "R",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "O",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "209625.00",
+        "office": "H",
+        "total_receipts_rank": 25,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 95,
+        "total_raised": "2416661.04",
+        "disbursements": "1366387.37",
+        "total_disbursements_rank": 40,
+        "date": "2012-07-25",
+        "contributions_indiv": "2205623.92",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1069646.70"
+      },
+      "industries": [
+        {
+          "count": "238",
+          "amount": "227400.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "200",
+          "amount": "212390.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "199",
+          "amount": "177600.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "169",
+          "amount": "130777.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "106",
+          "amount": "115400.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "104",
+          "amount": "114800.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "62",
+          "amount": "88300.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "52",
+          "amount": "56250.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "48",
+          "amount": "50900.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "50",
+          "amount": "50450.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        }
+      ],
+      "name": "Adam Hasner",
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A"
+        }
+      ]
+    },
+    {
+      "entity_id": "0bcd3fa0d6a1461d9e8e2948bd853c1e",
+      "chamber": "senate",
+      "state": "FL",
+      "state_name": "Florida",
+      "district": null,
+      "party": "R",
+      "incumbent": false,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=M001155",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001155.jpg",
+      "seat_status": "C",
+      "bioguide_id": "M001155",
+      "fec_summary": {
+        "contributions_pac": "375500.00",
+        "office": "S",
+        "total_receipts_rank": 38,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "55702.00",
+        "cash_on_hand_rank": 42,
+        "total_raised": "3372137.16",
+        "disbursements": "2419809.92",
+        "total_disbursements_rank": 29,
+        "date": "2012-07-25",
+        "contributions_indiv": "2938214.16",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1367876.00"
+      },
+      "industries": [
+        {
+          "count": "1278",
+          "amount": "989402.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "471",
+          "amount": "473820.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "267",
+          "amount": "422232.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "394",
+          "amount": "351802.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "338",
+          "amount": "274635.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "207",
+          "amount": "233218.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "129",
+          "amount": "200832.00",
+          "id": "165d820dd48441e1befdc47f3fa3d236",
+          "name": "Food & Beverage"
+        },
+        {
+          "count": "76",
+          "amount": "195872.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "234",
+          "amount": "181455.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "162",
+          "amount": "177936.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        }
+      ],
+      "senate_class": "",
+      "name": "Connie Mack",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "85"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "92"
+        }
+      ]
+    }
+  ]
+}

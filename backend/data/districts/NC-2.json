@@ -1,0 +1,177 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": "2",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": "H",
+        "total_receipts_rank": 631,
+        "max_rank": 695,
+        "contributions_candidate": "3100.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 604,
+        "total_raised": "22187.78",
+        "disbursements": "15864.80",
+        "total_disbursements_rank": 627,
+        "date": "2012-06-30",
+        "contributions_indiv": "19087.78",
+        "contributions_party": "0.00",
+        "cash_on_hand": "6322.98"
+      },
+      "industries": [
+        {
+          "count": "12",
+          "amount": "4950.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        }
+      ],
+      "name": "Steve Wilkins",
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "10e885e35c4b44f1a1c5b7ffec6ef6a3",
+      "chamber": "house",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": "2",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Renee_Ellmers",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/E000291.jpg",
+      "seat_status": "I",
+      "bioguide_id": "E000291",
+      "fec_summary": {
+        "contributions_pac": "436786.65",
+        "office": "H",
+        "total_receipts_rank": 310,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "23207.15",
+        "cash_on_hand_rank": 403,
+        "total_raised": "785472.04",
+        "disbursements": "809735.67",
+        "total_disbursements_rank": 126,
+        "date": "2012-06-30",
+        "contributions_indiv": "324410.59",
+        "contributions_party": "50.00",
+        "cash_on_hand": "210804.46"
+      },
+      "industries": [
+        {
+          "count": "41",
+          "amount": "123900.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "216",
+          "amount": "108668.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "91",
+          "amount": "67250.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "98",
+          "amount": "60450.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "78",
+          "amount": "54600.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "42",
+          "amount": "42000.00",
+          "id": "ec9907560c0042e4b831ebd7734d7352",
+          "name": "Building Materials & Equipment"
+        },
+        {
+          "count": "32",
+          "amount": "34872.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "41",
+          "amount": "30700.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "37",
+          "amount": "29000.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "31",
+          "amount": "28166.00",
+          "id": "32383c4d430e4b63aaa584500088331c",
+          "name": "Retail Sales"
+        }
+      ],
+      "senate_class": "",
+      "name": "Renee Ellmers",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "73"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "84"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

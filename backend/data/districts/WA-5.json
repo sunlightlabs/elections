@@ -1,0 +1,255 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "WA",
+      "state_name": "Washington",
+      "district": "5",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "9000.00",
+        "office": "H",
+        "total_receipts_rank": 525,
+        "max_rank": 695,
+        "contributions_candidate": "6924.76",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 499,
+        "total_raised": "206319.07",
+        "disbursements": "131034.88",
+        "total_disbursements_rank": 523,
+        "date": "2012-07-18",
+        "contributions_indiv": "185578.00",
+        "contributions_party": "4816.31",
+        "cash_on_hand": "75284.19"
+      },
+      "industries": [
+        {
+          "count": "29",
+          "amount": "15700.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "13",
+          "amount": "7000.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "4",
+          "amount": "5750.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "10",
+          "amount": "5400.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "7",
+          "amount": "5250.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        },
+        {
+          "count": "9",
+          "amount": "5200.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1",
+          "amount": "5000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "7",
+          "amount": "4750.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        },
+        {
+          "count": "6",
+          "amount": "3500.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "4",
+          "amount": "2750.00",
+          "id": "db81234a46874e7392cb5dfec1f07113",
+          "name": "Printing & Publishing"
+        }
+      ],
+      "name": "Rich Cowan",
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "D"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
+      "chamber": "senate",
+      "state": "WA",
+      "state_name": "Washington",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Maria_Cantwell",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000127.jpg",
+      "seat_status": "I",
+      "bioguide_id": "C000127",
+      "fec_summary": {
+        "contributions_pac": "57300.00",
+        "office": "S",
+        "total_receipts_rank": 15,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "377566.00",
+        "cash_on_hand_rank": 32,
+        "total_raised": "7963098.00",
+        "disbursements": "6355260.00",
+        "total_disbursements_rank": 9,
+        "date": "2012-07-18",
+        "contributions_indiv": "7481395.00",
+        "contributions_party": "3342.00",
+        "cash_on_hand": "2176258.00"
+      },
+      "industries": [
+        {
+          "count": "3386",
+          "amount": "2563844.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "4087",
+          "amount": "2125811.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "886",
+          "amount": "986521.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "1354",
+          "amount": "956249.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "1090",
+          "amount": "920862.00",
+          "id": "042288e0185a44ec82982814c69abdca",
+          "name": "Computers/Internet"
+        },
+        {
+          "count": "795",
+          "amount": "676870.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "871",
+          "amount": "650526.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "540",
+          "amount": "525982.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "831",
+          "amount": "483594.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "421",
+          "amount": "458150.00",
+          "id": "13718be68388456d9b6e8db753f06e72",
+          "name": "Casinos/Gambling"
+        }
+      ],
+      "senate_class": "I",
+      "name": "Maria Cantwell",
+      "endorsements": [
+        {
+          "name": "League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "40"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "16"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "10"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "house": [
+    {
+      "entity_id": "9b27589ad6f740778bfe3b60d841a285",
+      "chamber": "house",
+      "state": "MS",
+      "state_name": "Mississippi",
+      "district": "2",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Bennie_Thompson",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/T000193.jpg",
+      "seat_status": "I",
+      "bioguide_id": "T000193",
+      "fec_summary": {
+        "contributions_pac": "640263.00",
+        "office": "H",
+        "total_receipts_rank": 290,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 66,
+        "total_raised": "837599.10",
+        "disbursements": "1325304.60",
+        "total_disbursements_rank": 44,
+        "date": "2012-06-30",
+        "contributions_indiv": "190709.89",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1266646.23"
+      },
+      "industries": [
+        {
+          "count": "1042",
+          "amount": "895229.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "345",
+          "amount": "516850.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "235",
+          "amount": "493314.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "280",
+          "amount": "422050.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "146",
+          "amount": "284650.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "167",
+          "amount": "274885.00",
+          "id": "13718be68388456d9b6e8db753f06e72",
+          "name": "Casinos/Gambling"
+        },
+        {
+          "count": "390",
+          "amount": "274734.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "171",
+          "amount": "255902.00",
+          "id": "f1c062575ca949fa92ab7066a6648bf3",
+          "name": "Air Transport"
+        },
+        {
+          "count": "99",
+          "amount": "240050.00",
+          "id": "bcb5ff50850c4e9682b5d4da5d9bf278",
+          "name": "Misc Unions"
+        },
+        {
+          "count": "237",
+          "amount": "219435.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        }
+      ],
+      "senate_class": "",
+      "name": "Bennie G Thompson",
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "95"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "50"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "12"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "8"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "159c40291deb455596155ded63972bf4",
+      "chamber": "senate",
+      "state": "MS",
+      "state_name": "Mississippi",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Roger_Wicker",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000437.jpg",
+      "seat_status": "I",
+      "bioguide_id": "W000437",
+      "fec_summary": {
+        "contributions_pac": "1105520.00",
+        "office": "S",
+        "total_receipts_rank": 44,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "329973.00",
+        "cash_on_hand_rank": 27,
+        "total_raised": "2640070.00",
+        "disbursements": "739207.00",
+        "total_disbursements_rank": 48,
+        "date": "2012-06-30",
+        "contributions_indiv": "1205574.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "2315467.00"
+      },
+      "industries": [
+        {
+          "count": "1004",
+          "amount": "756013.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "801",
+          "amount": "649820.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "499",
+          "amount": "555142.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "157",
+          "amount": "458977.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "545",
+          "amount": "435486.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "356",
+          "amount": "387054.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "368",
+          "amount": "363550.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "611",
+          "amount": "357330.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "285",
+          "amount": "322407.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "221",
+          "amount": "322116.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        }
+      ],
+      "senate_class": "I",
+      "name": "Roger Wicker",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "75"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "79"
+        }
+      ]
+    }
+  ]
+}

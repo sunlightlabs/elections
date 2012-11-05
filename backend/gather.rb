@@ -7,6 +7,22 @@ require 'curb'
 require 'oj'
 require 'json'
 
+def senate_races
+  @senate_races ||= [
+    "AZ", "CA", "CT", "DE", "FL", "HI", "IN", "ME", "MD", 
+    "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NJ", 
+    "NM", "NY", "ND", "OH", "PA", "RI", "TN", "TX", "UT", 
+    "VT", "VA", "WA", "WV", "WI", "WY"
+  ]
+end
+
+# "AZ-4", "WY-at_large", etc.
+def house_races
+  @house_races ||= Dir.glob("thumbs/house_images_ac/*").map do |path| 
+    File.basename path
+  end
+end
+
 def main
   options = {}
 
@@ -17,19 +33,23 @@ def main
     end
   end
 
-  houses = {}
-  senates = {}
 
   not_candidates = [
     "6ee0ac519a08490594ec3fbce3ce3d8e" # Ron Paul
   ]
+  
+  # initialize candidate holders
 
-  senate_races = [
-    "AZ", "CA", "CT", "DE", "FL", "HI", "IN", "ME", "MD", 
-    "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NJ", 
-    "NM", "NY", "ND", "OH", "PA", "RI", "TN", "TX", "UT", 
-    "VT", "VA", "WA", "WV", "WI", "WY"
-  ]
+  senates = {}
+  senate_races.each do |race|
+    senates[race] = {}
+  end
+
+  houses = {}
+  house_races.each do |race|
+    houses[race] = {}
+  end
+
 
   i = 0
   CSV.foreach("data/endorsements.csv", "r") do |row|
@@ -77,19 +97,15 @@ def main
 
     if candidate[:chamber] == "house"
       full_district = [candidate[:state], candidate[:district]].join "-"
-      houses[full_district] ||= {}
       houses[full_district][candidate[:entity_id]] ||= candidate
       houses[full_district][candidate[:entity_id]][:name] = candidate_name # overwrite each time
       houses[full_district][candidate[:entity_id]][:endorsements] ||= []
       houses[full_district][candidate[:entity_id]][:endorsements] << endorsement
     elsif candidate[:chamber] == "senate"
-      if senate_races.include?(candidate[:state])
-        senates[candidate[:state]] ||= {}
-        senates[candidate[:state]][candidate[:entity_id]] ||= candidate
-        senates[candidate[:state]][candidate[:entity_id]][:name] = candidate_name # overwrite each time
-        senates[candidate[:state]][candidate[:entity_id]][:endorsements] ||= []
-        senates[candidate[:state]][candidate[:entity_id]][:endorsements] << endorsement
-      end
+      senates[candidate[:state]][candidate[:entity_id]] ||= candidate
+      senates[candidate[:state]][candidate[:entity_id]][:name] = candidate_name # overwrite each time
+      senates[candidate[:state]][candidate[:entity_id]][:endorsements] ||= []
+      senates[candidate[:state]][candidate[:entity_id]][:endorsements] << endorsement
     end
   end
 
@@ -142,13 +158,29 @@ def candidate_for(entity_id, options = {})
 
   end
 
+  chamber = seat.split(":")[1]
 
-  if metadata['district'] and metadata['district'] != ""
+  state = metadata['state']
+
+  if (chamber == "house") and metadata['district'] and (metadata['district'] != "")
     district = metadata['district'].split("-")[1]
-    chamber = "house"
-  else
+    district = district.to_i.to_s # strip leading 0
+  elsif chamber == "senate"
     district = nil
-    chamber = "senate"
+  end
+
+  # figure out if it's an at large, convert 1 to at_large
+  if chamber == "house"
+    if !house_races.include?([state, district].join("-"))
+      if district == "1"
+        district = "at_large"
+      else
+        puts state
+        puts district
+        puts "[#{entity_id}] Error, couldn't find correct district"
+        exit
+      end
+    end
   end
 
   candidate = {

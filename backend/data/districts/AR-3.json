@@ -1,0 +1,127 @@
+{
+  "house": [
+    {
+      "entity_id": "8ac17c37b29245b68fa57275cde4c3c5",
+      "chamber": "house",
+      "state": "AR",
+      "state_name": "Arkansas",
+      "district": "3",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Steve_Womack",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000809.jpg",
+      "seat_status": "I",
+      "bioguide_id": "W000809",
+      "fec_summary": {
+        "contributions_pac": "320300.00",
+        "office": "H",
+        "total_receipts_rank": 372,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "19194.12",
+        "cash_on_hand_rank": 258,
+        "total_raised": "650030.52",
+        "disbursements": "245658.49",
+        "total_disbursements_rank": 465,
+        "date": "2012-06-30",
+        "contributions_indiv": "301028.80",
+        "contributions_party": "5000.00",
+        "cash_on_hand": "481136.19"
+      },
+      "industries": [
+        {
+          "count": "128",
+          "amount": "105105.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "71",
+          "amount": "76350.00",
+          "id": "32383c4d430e4b63aaa584500088331c",
+          "name": "Retail Sales"
+        },
+        {
+          "count": "74",
+          "amount": "74100.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "57",
+          "amount": "70969.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "61",
+          "amount": "64784.00",
+          "id": "93b0e1ce2e904638a93eb9bbcd0bb7f8",
+          "name": "Food Processing & Sales"
+        },
+        {
+          "count": "66",
+          "amount": "56336.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "25",
+          "amount": "53000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "53",
+          "amount": "41850.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "29",
+          "amount": "33710.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "25",
+          "amount": "28850.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        }
+      ],
+      "senate_class": "",
+      "name": "Steve Womack",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "69"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "76"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

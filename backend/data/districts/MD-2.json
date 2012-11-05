@@ -1,0 +1,107 @@
+{
+  "house": [
+
+  ],
+  "senate": [
+    {
+      "entity_id": "8ff25ab60758494c8b64d66017e87670",
+      "chamber": "senate",
+      "state": "MD",
+      "state_name": "Maryland",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000141",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000141.jpg",
+      "seat_status": "I",
+      "bioguide_id": "C000141",
+      "fec_summary": {
+        "contributions_pac": "1669919.00",
+        "office": "S",
+        "total_receipts_rank": 29,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "163977.00",
+        "cash_on_hand_rank": 33,
+        "total_raised": "4566256.00",
+        "disbursements": "2863429.00",
+        "total_disbursements_rank": 25,
+        "date": "2012-06-30",
+        "contributions_indiv": "2648195.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "2121598.00"
+      },
+      "industries": [
+        {
+          "count": "2132",
+          "amount": "1588637.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1165",
+          "amount": "1068597.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "1000",
+          "amount": "1038744.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "759",
+          "amount": "831044.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "1097",
+          "amount": "815529.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "744",
+          "amount": "808915.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        },
+        {
+          "count": "793",
+          "amount": "767677.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "413",
+          "amount": "435938.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        },
+        {
+          "count": "569",
+          "amount": "431334.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "240",
+          "amount": "355700.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        }
+      ],
+      "senate_class": "I",
+      "name": "Ben Cardin",
+      "endorsements": [
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        }
+      ]
+    }
+  ]
+}

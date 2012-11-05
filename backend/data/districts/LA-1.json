@@ -1,0 +1,127 @@
+{
+  "house": [
+    {
+      "entity_id": "b3bf01adf2fc43209381e342e83ef6fc",
+      "chamber": "house",
+      "state": "LA",
+      "state_name": "Louisiana",
+      "district": "1",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Steve_Scalise",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001176.jpg",
+      "seat_status": "I",
+      "bioguide_id": "S001176",
+      "fec_summary": {
+        "contributions_pac": "521501.00",
+        "office": "H",
+        "total_receipts_rank": 213,
+        "max_rank": 1515,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 170,
+        "total_raised": "1157043.42",
+        "disbursements": "710294.90",
+        "total_disbursements_rank": 238,
+        "date": "2012-07-28",
+        "contributions_indiv": "633236.06",
+        "contributions_party": "0.00",
+        "cash_on_hand": "815440.21"
+      },
+      "industries": [
+        {
+          "count": "225",
+          "amount": "305809.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "145",
+          "amount": "270800.00",
+          "id": "1657f29fbf9944f5af4a0d5c4d2eafad",
+          "name": "Sea Transport"
+        },
+        {
+          "count": "177",
+          "amount": "245285.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "145",
+          "amount": "198185.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "192",
+          "amount": "186076.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "133",
+          "amount": "152825.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "86",
+          "amount": "142700.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "93",
+          "amount": "107450.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        },
+        {
+          "count": "89",
+          "amount": "105601.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "170",
+          "amount": "104236.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        }
+      ],
+      "senate_class": "",
+      "name": "Steve Scalise",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "80"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "92"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

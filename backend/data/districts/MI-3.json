@@ -1,0 +1,236 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "MI",
+      "state_name": "Michigan",
+      "district": "3",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": "H",
+        "total_receipts_rank": 696,
+        "max_rank": 1515,
+        "contributions_candidate": "7012.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 601,
+        "total_raised": "293582.14",
+        "disbursements": "207412.43",
+        "total_disbursements_rank": 714,
+        "date": "2012-07-18",
+        "contributions_indiv": "281570.14",
+        "contributions_party": "5000.00",
+        "cash_on_hand": "86169.71"
+      },
+      "industries": [
+        {
+          "count": "24",
+          "amount": "12250.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "28",
+          "amount": "9600.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "18",
+          "amount": "6350.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "19",
+          "amount": "6201.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "5",
+          "amount": "6000.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "12",
+          "amount": "5650.00",
+          "id": "4105890ca25a429681f50494c454426a",
+          "name": "Human Rights"
+        },
+        {
+          "count": "3",
+          "amount": "5500.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "8",
+          "amount": "4262.00",
+          "id": "d8ddc9e3d84b40a2a923545964e6bf80",
+          "name": "Non-Profit Institutions"
+        },
+        {
+          "count": "9",
+          "amount": "4150.00",
+          "id": "db81234a46874e7392cb5dfec1f07113",
+          "name": "Printing & Publishing"
+        },
+        {
+          "count": "8",
+          "amount": "3800.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        }
+      ],
+      "name": "Steve Pestka",
+      "endorsements": [
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "8c43b91919e6495d9e9571f01572490a",
+      "chamber": "house",
+      "state": "MI",
+      "state_name": "Michigan",
+      "district": "3",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Justin_Amash",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/A000367.jpg",
+      "seat_status": "I",
+      "bioguide_id": "A000367",
+      "fec_summary": {
+        "contributions_pac": "84550.00",
+        "office": "H",
+        "total_receipts_rank": 239,
+        "max_rank": 695,
+        "contributions_candidate": "-13236.34",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 291,
+        "total_raised": "885490.56",
+        "disbursements": "541211.71",
+        "total_disbursements_rank": 268,
+        "date": "2012-07-18",
+        "contributions_indiv": "811883.28",
+        "contributions_party": "0.00",
+        "cash_on_hand": "408575.89"
+      },
+      "industries": [
+        {
+          "count": "106",
+          "amount": "113500.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "74",
+          "amount": "109650.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "74",
+          "amount": "76750.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "41",
+          "amount": "75050.00",
+          "id": "32383c4d430e4b63aaa584500088331c",
+          "name": "Retail Sales"
+        },
+        {
+          "count": "32",
+          "amount": "67000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "89",
+          "amount": "62450.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "64",
+          "amount": "53825.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "37",
+          "amount": "44400.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "34",
+          "amount": "41250.00",
+          "id": "93b0e1ce2e904638a93eb9bbcd0bb7f8",
+          "name": "Food Processing & Sales"
+        },
+        {
+          "count": "28",
+          "amount": "41000.00",
+          "id": "d67273cd049945e08a0f5c53a4870cf3",
+          "name": "Misc Services"
+        }
+      ],
+      "senate_class": "",
+      "name": "Justin Amash",
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "62"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "91"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "91.67"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

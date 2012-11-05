@@ -1,0 +1,127 @@
+{
+  "house": [
+    {
+      "entity_id": "d63cac1343ac4b1aac072e458e99132c",
+      "chamber": "house",
+      "state": "GA",
+      "state_name": "Georgia",
+      "district": "3",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Lynn_Westmoreland",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000796.jpg",
+      "seat_status": "I",
+      "bioguide_id": "W000796",
+      "fec_summary": {
+        "contributions_pac": "445655.30",
+        "office": "H",
+        "total_receipts_rank": 297,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "4798.08",
+        "cash_on_hand_rank": 312,
+        "total_raised": "806676.50",
+        "disbursements": "862113.69",
+        "total_disbursements_rank": 110,
+        "date": "2012-07-11",
+        "contributions_indiv": "358772.55",
+        "contributions_party": "0.00",
+        "cash_on_hand": "365529.44"
+      },
+      "industries": [
+        {
+          "count": "358",
+          "amount": "359383.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "284",
+          "amount": "237668.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "322",
+          "amount": "228666.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "167",
+          "amount": "202925.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "115",
+          "amount": "155885.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "207",
+          "amount": "153870.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "137",
+          "amount": "153700.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "50",
+          "amount": "144169.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "102",
+          "amount": "143100.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        },
+        {
+          "count": "75",
+          "amount": "133800.00",
+          "id": "4e62cff90a974840bec347a2e32a58b9",
+          "name": "Beer, Wine & Liquor"
+        }
+      ],
+      "senate_class": "",
+      "name": "Lynn A Westmoreland",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "84"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "96"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

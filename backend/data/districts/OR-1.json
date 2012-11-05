@@ -1,0 +1,238 @@
+{
+  "house": [
+    {
+      "entity_id": "78ff25953bbe4d79a069d9492b48ad90",
+      "chamber": "house",
+      "state": "OR",
+      "state_name": "Oregon",
+      "district": "1",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=B001278",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001278.jpg",
+      "seat_status": "I",
+      "bioguide_id": "B001278",
+      "fec_summary": {
+        "contributions_pac": "588572.51",
+        "office": "H",
+        "total_receipts_rank": 34,
+        "max_rank": 695,
+        "contributions_candidate": "201526.05",
+        "transfers_in": "37428.82",
+        "cash_on_hand_rank": 375,
+        "total_raised": "2185252.25",
+        "disbursements": "1937504.29",
+        "total_disbursements_rank": 20,
+        "date": "2012-06-30",
+        "contributions_indiv": "1340889.05",
+        "contributions_party": "6031.03",
+        "cash_on_hand": "253097.96"
+      },
+      "industries": [
+        {
+          "count": "422",
+          "amount": "285704.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "38",
+          "amount": "101000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "156",
+          "amount": "94550.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "29",
+          "amount": "84500.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "113",
+          "amount": "77550.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "47",
+          "amount": "52850.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "59",
+          "amount": "37442.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "18",
+          "amount": "36000.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "39",
+          "amount": "29805.00",
+          "id": "042288e0185a44ec82982814c69abdca",
+          "name": "Computers/Internet"
+        },
+        {
+          "count": "30",
+          "amount": "29615.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        }
+      ],
+      "senate_class": "",
+      "name": "Suzanne Bonamici",
+      "endorsements": [
+        {
+          "name": "League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "entity_id": "2de58c0bd50b4473847ede0c1d922977",
+      "chamber": "house",
+      "state": "OR",
+      "state_name": "Oregon",
+      "district": "1",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/David_Wu",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000793.jpg",
+      "seat_status": "I",
+      "bioguide_id": "W000793",
+      "fec_summary": {
+      },
+      "industries": [
+        {
+          "count": "1291",
+          "amount": "817766.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "546",
+          "amount": "448435.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "772",
+          "amount": "444714.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "211",
+          "amount": "382000.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "135",
+          "amount": "320000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "342",
+          "amount": "312635.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "212",
+          "amount": "293500.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "327",
+          "amount": "269379.00",
+          "id": "042288e0185a44ec82982814c69abdca",
+          "name": "Computers/Internet"
+        },
+        {
+          "count": "345",
+          "amount": "257138.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "109",
+          "amount": "209000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        }
+      ],
+      "senate_class": "",
+      "name": "David Wu",
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "85"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "16"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "endorsement",
+          "value": null
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": null
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "77"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}
