@@ -7,6 +7,8 @@ require 'curb'
 require 'oj'
 require 'json'
 
+@@to_be_matched = []
+
 def senate_races
   @senate_races ||= [
     "AZ", "CA", "CT", "DE", "FL", "HI", "IN", "ME", "MD", 
@@ -49,26 +51,51 @@ def load_options
 end
 
 def main
-  # not_candidates = [
-  #   "6ee0ac519a08490594ec3fbce3ce3d8e" # Ron Paul
-  # ]
-  
   # initialize candidate holders
 
   senates = {}
   senate_races.each do |race|
     senates[race] = {}
+    bp_senate[race].each do |candidate|
+      next if !["D", "R", "I"].include?(candidate['party'])
+      if candidate['party'] == "I"
+        next unless ["ME", "VT"].include?(race)
+      end
+
+      photo = photo_filename_for candidate['candidate'], 'senate', race, nil
+
+      senates[race][candidate['candidate']] = {
+        photo_filename: photo,
+        name: candidate['candidate'],
+        party: candidate['party'],
+        abbreviated: true
+      }
+    end
   end
 
   houses = {}
   house_races.each do |race|
     houses[race] = {}
+
+    state, district = race.split "-"
+    bp_house[state][district].each do |candidate|
+      next if !["D", "R"].include?(candidate['party'])
+
+      photo = photo_filename_for candidate['candidate'], 'house', state, district
+
+      houses[race][candidate['candidate']] = {
+        photo_filename: photo,
+        name: candidate['candidate'],
+        party: candidate['party'],
+        abbreviated: true
+      }
+    end
   end
 
   print "Reading endorsements..."
 
   i = 0
-  CSV.foreach("data/endorsements.csv", "r") do |row|
+  CSV.foreach("data/endorsements_all.csv", "r") do |row|
     i += 1
     next if i == 1
 
@@ -105,15 +132,13 @@ def main
 
     if candidate[:chamber] == "house"
       full_district = [candidate[:state], candidate[:district]].join "-"
-      houses[full_district][candidate[:entity_id]] ||= candidate
-      houses[full_district][candidate[:entity_id]][:name] = candidate_name # overwrite each time
-      houses[full_district][candidate[:entity_id]][:endorsements] ||= []
-      houses[full_district][candidate[:entity_id]][:endorsements] << endorsement
+      houses[full_district][candidate[:name]].merge! candidate
+      houses[full_district][candidate[:name]][:endorsements] ||= []
+      houses[full_district][candidate[:name]][:endorsements] << endorsement
     elsif candidate[:chamber] == "senate"
-      senates[candidate[:state]][candidate[:entity_id]] ||= candidate
-      senates[candidate[:state]][candidate[:entity_id]][:name] = candidate_name # overwrite each time
-      senates[candidate[:state]][candidate[:entity_id]][:endorsements] ||= []
-      senates[candidate[:state]][candidate[:entity_id]][:endorsements] << endorsement
+      senates[candidate[:state]][candidate[:name]].merge! candidate
+      senates[candidate[:state]][candidate[:name]][:endorsements] ||= []
+      senates[candidate[:state]][candidate[:name]][:endorsements] << endorsement
     end
   end
 
@@ -167,16 +192,26 @@ def main
     puts "#{missing_senate.keys.size} incomplete Senate districts"
     puts missing_senate.inspect
   end
-end
 
+  puts @@to_be_matched.inspect
+end
 
 def candidate_for(entity_id, options = {})
   url = url_for entity_id, options[:key]
   destination = cache_for entity_id
 
+  # puts "[#{entity_id}] Downloading from IE..." if options[:debug]
+
   details = download url, options.merge(destination: destination)
 
   metadata = details['metadata']
+
+  not_candidates = [
+    "6ee0ac519a08490594ec3fbce3ce3d8e", # Ron Paul
+    "a6e3457a1ad04030a5fdb39a605a43f3", # Craig Ford (AL)
+  ]
+  return nil if not_candidates.include?(entity_id)
+
 
   seat = metadata['seat']
   if (seat !~ /^federal/) or (seat !~ /(house|senate)/)
@@ -184,14 +219,24 @@ def candidate_for(entity_id, options = {})
     prez_house = [
       "d4407eb6730341758ad300fc09f6a8a8",  # Kucinich
       "86b2f97e11fc4a87be8d621fd46fc7e6",  # Bachmann
-      "6ee0ac519a08490594ec3fbce3ce3d8e",  # Paul
     ]
+
+    prez_state_to_house = {
+      "4ae8bc752c614a5f9c922410ba200cd6" => "NJ-7",
+      "2bb3b8f0c3a049aca22f57ee64d5b687" => "UT-1",
+      "7c465f81d2ee4796a6ff4309e44f19f4" => "UT-2",
+    }
     
     if prez_house.include?(entity_id)
       seat = "federal:house"
+    elsif prez_state_to_house[entity_id]
+      seat = "federal:house"
+      metadata['district'] = prez_state_to_house[entity_id]
     else
+      @@to_be_matched << entity_id
       puts "[#{entity_id}] Incorrect seat: #{seat}"
-      exit
+      return nil
+      # exit
     end
 
   end
@@ -214,7 +259,7 @@ def candidate_for(entity_id, options = {})
         district = "at_large"
       else
         puts "[#{entity_id}] Error, couldn't find correct district: #{state}-#{district}"
-        exit
+        return nil
       end
     end
   end
@@ -233,14 +278,11 @@ def candidate_for(entity_id, options = {})
     return nil
   end
 
-  # if it's valid, find a photo
-  photo = photo_filename_for ballotpedia_name, chamber, state, district
-
   candidate = {
     entity_id: metadata['entity'],
 
     # name and photo
-    name: details['name'],
+    name: ballotpedia_name,
 
     # basic bio
     chamber: chamber,
@@ -257,7 +299,9 @@ def candidate_for(entity_id, options = {})
     seat_status: metadata['seat_status'],
 
     # incumbents
-    bioguide_id: metadata['bioguide_id']
+    bioguide_id: metadata['bioguide_id'],
+
+    abbreviated: false
   }
 
   url = fec_summary_url_for entity_id, options[:key]
@@ -321,9 +365,13 @@ end
 
 # match name against ballotpedia data
 def ballotpedia_name_for(name, chamber, state, district)
-  lastname = name.split(" ")[-2]
-  if lastname =~ /^Jr\.?/i
-    lastname = name.split(" ")[-3]
+  if name =~ /\([A-Z]\)\s*$/
+    lastname = name.split(" ")[-2]
+    if lastname =~ /^Jr\.?/i
+      lastname = name.split(" ")[-3]
+    end
+  else
+    lastname = name.split(" ")[0]
   end
 
   if chamber == "house"
@@ -339,7 +387,7 @@ def ballotpedia_name_for(name, chamber, state, district)
 
   matches = candidates.select {|candidate| candidate['candidate'] =~ /#{lastname}/i}
   if matches.size > 1
-    puts "Whoa, multiple matches: #{name} #{chamber} #{state} #{district}"
+    puts "Whoa, multiple matches: #{name}(#{lastname}) #{chamber} #{state} #{district}: #{matches}"
     exit
   elsif matches.size < 1
     puts "[#{name}][#{chamber}][#{state}][#{district}] No match for #{lastname}, skipping" if options[:skips]
@@ -347,7 +395,15 @@ def ballotpedia_name_for(name, chamber, state, district)
   else
     if !["D", "R", "I"].include?(matches.first['party'])
       puts "[#{name}][#{chamber}][#{state}][#{district}] Not doing third parties for #{lastname}, skipping" if options[:skips]
+      return nil
     end
+
+    if matches.first['party'] == "I"
+      unless chamber == "senate" && ["ME", "VT"].include?(state)
+        return nil
+      end
+    end
+
 
     # puts "[#{name}][#{chamber}][#{state}][#{district}] MATCHED #{lastname}"
     matches.first['candidate']
@@ -371,11 +427,6 @@ def photo_filename_for(ballotpedia_name, chamber, state, district)
   end
 
   matches.first
-end
-
-def lastname_for(name)
-  
-  lastname
 end
 
 # remove should_show_entity field, clean up name
@@ -408,7 +459,7 @@ def download(url, options = {})
 
   # cache if caching is opted-into, and the cache exists
   if !options[:force] and options[:destination] and File.exists?(options[:destination])
-    puts "Cached #{url} from #{options[:destination]}, not downloading..." if options[:debug]
+    # puts "Cached #{url} from #{options[:destination]}, not downloading..." if options[:debug]
     
     body = File.read options[:destination]
     body = Oj.load(body) if options[:json]
