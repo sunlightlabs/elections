@@ -1,3 +1,19 @@
+<% if (abbreviated) { %>
+
+<div class="candidate-upper">
+    <img src="<%=(photo_filename ? "/thumbs/" + chamber + "_images_ac/" + state + (chamber === "house" ? "-" + district : "") + "/" + photo_filename : "")%>" />
+    <div class="bio">
+        <h4><%=name%></h4>
+        <div class="party"><%=({'D':'Democrat','R':'Republican','I':'Independent'}[party])%></div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="sadness">
+    We were't able to find endorsement or campaign finance information about this candidate.  To learn more about them, <a href="<%=ballotpedia_url%>">Ballotpedia profile</a>.
+</div>
+
+<% } else { %>
+
 <div class="candidate-upper">
     <img src="<%=bioguide_id ? photo_url : (photo_filename ? "/thumbs/" + chamber + "_images_ac/" + state + (chamber === "house" ? "-" + district : "") + "/" + photo_filename : "")%>" />
     <div class="bio">
@@ -35,3 +51,5 @@
     </div>
     <% } %>
 </div>
+
+<% } %>
