@@ -1,9 +1,9 @@
 <h2><%=house[0].state_name%> <%=house[0].district%>th congressional district </h2>
 
 <% if (house) { %>
-	<h3 class="head">House</h3>
+<h3 class="head">House</h3>
 <div class="race race-house">
-    <% _.each(house, function(candidate, idx) { console.log('a', idx); %>
+    <% _.each(house, function(candidate, idx) { %>
     <div class="candidate span5">
         <%=candidateTemplate(candidate)%>
     </div>
@@ -12,10 +12,11 @@
     <% } %>
     <% }); %>
 </div>
+<div class="clear"></div>
 <% } %>
 
 <% if (senate) { %>
-	<h3 class="head">Senate</h3>
+<h3 class="head">Senate</h3>
 <div class="race race-senate">
     <% _.each(senate, function(candidate, idx) { %>
     <div class="candidate span5">
@@ -26,4 +27,5 @@
     <% } %>
     <% }); %>
 </div>
+<div class="clear"></div>
 <% } %>

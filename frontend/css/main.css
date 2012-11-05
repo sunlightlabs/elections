@@ -216,6 +216,9 @@ h3.head{
     margin-top: 25px;
     margin-bottom: 5px;
 }
+.form-search.loading {
+    background: url("/img/loading_sm.gif") no-repeat scroll 40px 10px transparent;
+}
 .form-search li {
     float: left;
     display: block;

@@ -1,7 +1,7 @@
 <div class="candidate-upper">
     <img src="<%=photo_url%>" />
     <div class="bio">
-        <h4>Name</h4>
+        <h4><%=name%></h4>
         <div class="party"><%=({'D':'Democrat','R':'Republican','I':'Independent'}[party])%></div>
         <div class="status"><%=(incumbent ? "Incumbent" : "Challenger")%></div>
     </div>

@@ -1,0 +1,823 @@
+{
+    "WA": [
+        {
+            "url": "/wiki/index.php/Maria_Cantwell", 
+            "party": "D", 
+            "candidate": "Maria Cantwell"
+        }, 
+        {
+            "url": "/wiki/index.php/Michael_Baumgartner", 
+            "party": "R", 
+            "candidate": "Michael Baumgartner"
+        }
+    ], 
+    "DE": [
+        {
+            "url": "/wiki/index.php/Tom_Carper", 
+            "party": "D", 
+            "candidate": "Tom Carper"
+        }, 
+        {
+            "url": "/wiki/index.php/Kevin_Wade", 
+            "party": "R", 
+            "candidate": "Kevin Wade"
+        }, 
+        {
+            "url": "/wiki/index.php/Alexander_Pires", 
+            "party": "I", 
+            "candidate": "Alexander Pires"
+        }, 
+        {
+            "url": "/wiki/index.php/Andrew_Richard_Groff", 
+            "party": "G", 
+            "candidate": "Andrew Richard Groff"
+        }
+    ], 
+    "WI": [
+        {
+            "url": "/wiki/index.php/Tammy_Baldwin", 
+            "party": "D", 
+            "candidate": "Tammy Baldwin"
+        }, 
+        {
+            "url": "/wiki/index.php/Tommy_Thompson", 
+            "party": "R", 
+            "candidate": "Tommy Thompson"
+        }, 
+        {
+            "url": "/wiki/index.php/Nimrod_Allen_III", 
+            "party": "I", 
+            "candidate": "Nimrod Allen III"
+        }, 
+        {
+            "url": "/wiki/index.php/Joseph_Kexel", 
+            "party": "L", 
+            "candidate": "Joseph Kexel"
+        }
+    ], 
+    "WV": [
+        {
+            "url": "/wiki/index.php/Joe_Manchin", 
+            "party": "D", 
+            "candidate": "Joe Manchin"
+        }, 
+        {
+            "url": "/wiki/index.php/John_Raese", 
+            "party": "R", 
+            "candidate": "John Raese"
+        }, 
+        {
+            "url": "/wiki/index.php/Bob_Henry_Baber", 
+            "party": "I", 
+            "candidate": "Bob Henry Baber"
+        }
+    ], 
+    "HI": [
+        {
+            "url": "/wiki/index.php/Mazie_Hirono", 
+            "party": "D", 
+            "candidate": "Mazie Hirono"
+        }, 
+        {
+            "url": "/wiki/index.php/Linda_Lingle", 
+            "party": "R", 
+            "candidate": "Linda Lingle"
+        }, 
+        {
+            "url": "/wiki/index.php/James_Brewer,_Jr.", 
+            "party": "G", 
+            "candidate": "James Brewer, Jr."
+        }, 
+        {
+            "url": "/wiki/index.php/Heath_Beasley", 
+            "party": "I", 
+            "candidate": "Heath Beasley"
+        }, 
+        {
+            "url": "/wiki/index.php/Paul_Manner", 
+            "party": "I", 
+            "candidate": "Paul Manner"
+        }
+    ], 
+    "FL": [
+        {
+            "url": "/wiki/index.php/Bill_Nelson_(Florida)", 
+            "party": "D", 
+            "candidate": "Bill Nelson"
+        }, 
+        {
+            "url": "/wiki/index.php/Connie_Mack", 
+            "party": "R", 
+            "candidate": "Connie Mack"
+        }, 
+        {
+            "url": "/wiki/index.php/Bill_Gaylor", 
+            "party": "I", 
+            "candidate": "Bill Gaylor"
+        }, 
+        {
+            "url": "/wiki/index.php/Chris_Borgia", 
+            "party": "I", 
+            "candidate": "Chris Borgia"
+        }, 
+        {
+            "url": "/wiki/index.php/Robert_Monroe", 
+            "party": "I", 
+            "candidate": "Robert Monroe"
+        }, 
+        {
+            "url": "/wiki/index.php/Lawrence_Sidney_Scott", 
+            "party": "I", 
+            "candidate": "Lawrence Sidney Scott"
+        }, 
+        {
+            "url": "/wiki/index.php/Piotr_Blass", 
+            "party": "I", 
+            "candidate": "Piotr Blass"
+        }, 
+        {
+            "url": "/wiki/index.php/Naomi_Craine", 
+            "party": "I", 
+            "candidate": "Naomi Craine"
+        }, 
+        {
+            "url": "/wiki/index.php/Lionel_Long", 
+            "party": "I", 
+            "candidate": "Lionel Long"
+        }
+    ], 
+    "WY": [
+        {
+            "url": "/wiki/index.php/Tim_Chesnut", 
+            "party": "D", 
+            "candidate": "Tim Chesnut"
+        }, 
+        {
+            "url": "/wiki/index.php/John_Barrasso", 
+            "party": "R", 
+            "candidate": "John Barrasso"
+        }, 
+        {
+            "url": "/wiki/index.php/Joel_Otto", 
+            "party": "I", 
+            "candidate": "Joel Otto"
+        }
+    ], 
+    "NJ": [
+        {
+            "url": "/wiki/index.php/Bob_Menendez", 
+            "party": "D", 
+            "candidate": "Bob Menendez"
+        }, 
+        {
+            "url": "/wiki/index.php/Joe_Kyrillos", 
+            "party": "R", 
+            "candidate": "Joe Kyrillos"
+        }, 
+        {
+            "url": "/wiki/index.php/Kenneth_Kaplan", 
+            "party": "L", 
+            "candidate": "Kenneth Kaplan"
+        }, 
+        {
+            "url": "/wiki/index.php/Ken_Wolski", 
+            "party": "G", 
+            "candidate": "Ken Wolski"
+        }, 
+        {
+            "url": "/wiki/index.php/Inder_%22Andy%22_Soni", 
+            "party": "I", 
+            "candidate": "Inder \"Andy\" Soni"
+        }, 
+        {
+            "url": "/wiki/index.php/Gwen_Diakos", 
+            "party": "I", 
+            "candidate": "Gwen Diakos"
+        }, 
+        {
+            "url": "/wiki/index.php/Eugene_Martin_Lavergne", 
+            "party": "I", 
+            "candidate": "Eugene Martin Lavergne"
+        }, 
+        {
+            "url": "/wiki/index.php/Daryl_Brooks", 
+            "party": "I", 
+            "candidate": "Daryl Brooks"
+        }, 
+        {
+            "url": "/wiki/index.php/Robert_%22Turk%22_Turkavage", 
+            "party": "I", 
+            "candidate": "Robert \"Turk\" Turkavage"
+        }, 
+        {
+            "url": "/wiki/index.php/Gregory_Pason", 
+            "party": "I", 
+            "candidate": "Gregory Pason"
+        }, 
+        {
+            "url": "/wiki/index.php/J._David_Dranikoff", 
+            "party": "I", 
+            "candidate": "J. David Dranikoff"
+        }
+    ], 
+    "NM": [
+        {
+            "url": "/wiki/index.php/Martin_Heinrich", 
+            "party": "D", 
+            "candidate": "Martin Heinrich"
+        }, 
+        {
+            "url": "/wiki/index.php/Heather_Wilson", 
+            "party": "R", 
+            "candidate": "Heather Wilson"
+        }, 
+        {
+            "url": "/wiki/index.php/Jon_Ross_Barrie", 
+            "party": "I", 
+            "candidate": "Jon Ross Barrie"
+        }
+    ], 
+    "TX": [
+        {
+            "url": "/wiki/index.php/Paul_Sadler", 
+            "party": "D", 
+            "candidate": "Paul Sadler"
+        }, 
+        {
+            "url": "/wiki/index.php/Ted_Cruz", 
+            "party": "R", 
+            "candidate": "Ted Cruz"
+        }, 
+        {
+            "url": "/wiki/index.php/John_Jay_Myers", 
+            "party": "L", 
+            "candidate": "John Jay Myers"
+        }, 
+        {
+            "url": "/wiki/index.php/David_Collins", 
+            "party": "G", 
+            "candidate": "David Collins"
+        }
+    ], 
+    "ND": [
+        {
+            "url": "/wiki/index.php/Heidi_Heitkamp", 
+            "party": "D", 
+            "candidate": "Heidi Heitkamp"
+        }, 
+        {
+            "url": "/wiki/index.php/Rick_Berg", 
+            "party": "R", 
+            "candidate": "Rick Berg"
+        }
+    ], 
+    "NE": [
+        {
+            "url": "/wiki/index.php/Bob_Kerrey", 
+            "party": "D", 
+            "candidate": "Bob Kerrey"
+        }, 
+        {
+            "url": "/wiki/index.php/Deb_Fischer", 
+            "party": "R", 
+            "candidate": "Deb Fischer"
+        }, 
+        {
+            "url": "/wiki/index.php/Russell_Anderson", 
+            "party": "I", 
+            "candidate": "Russell Anderson"
+        }
+    ], 
+    "TN": [
+        {
+            "url": "/wiki/index.php/Mark_Clayton", 
+            "party": "D", 
+            "candidate": "Mark Clayton"
+        }, 
+        {
+            "url": "/wiki/index.php/Bob_Corker", 
+            "party": "R", 
+            "candidate": "Bob Corker"
+        }, 
+        {
+            "url": "/wiki/index.php/Shaun_Crowell", 
+            "party": "L", 
+            "candidate": "Shaun Crowell"
+        }, 
+        {
+            "url": "/wiki/index.php/David_Gatchell", 
+            "party": "I", 
+            "candidate": "David Gatchell"
+        }, 
+        {
+            "url": "/wiki/index.php/James_Higdon", 
+            "party": "I", 
+            "candidate": "James Higdon"
+        }, 
+        {
+            "url": "/wiki/index.php/Michel_Long", 
+            "party": "I", 
+            "candidate": "Michel Long"
+        }, 
+        {
+            "url": "/wiki/index.php/Troy_Scoggin", 
+            "party": "I", 
+            "candidate": "Troy Scoggin"
+        }, 
+        {
+            "url": "/wiki/index.php/Kermit_Steck", 
+            "party": "I", 
+            "candidate": "Kermit Steck"
+        }, 
+        {
+            "url": "/wiki/index.php/Martin_Pleasant", 
+            "party": "G", 
+            "candidate": "Martin Pleasant"
+        }
+    ], 
+    "NY": [
+        {
+            "url": "/wiki/index.php/Kirsten_Gillibrand", 
+            "party": "D", 
+            "candidate": "Kirsten Gillibrand"
+        }, 
+        {
+            "url": "/wiki/index.php/Wendy_Long", 
+            "party": "R", 
+            "candidate": "Wendy Long"
+        }, 
+        {
+            "url": "/wiki/index.php/Chris_Edes", 
+            "party": "L", 
+            "candidate": "Chris Edes"
+        }, 
+        {
+            "url": "/wiki/index.php/Colia_Clark", 
+            "party": "G", 
+            "candidate": "Colia Clark"
+        }, 
+        {
+            "url": "/wiki/index.php/John_Mangelli", 
+            "party": "I", 
+            "candidate": "John Mangelli"
+        }
+    ], 
+    "PA": [
+        {
+            "url": "/wiki/index.php/Bob_Casey,_Jr.", 
+            "party": "D", 
+            "candidate": "Bob Casey, Jr."
+        }, 
+        {
+            "url": "/wiki/index.php/Tom_Smith", 
+            "party": "R", 
+            "candidate": "Tom Smith"
+        }, 
+        {
+            "url": "/wiki/index.php/Rayburn_Smith", 
+            "party": "L", 
+            "candidate": "Rayburn Smith"
+        }
+    ], 
+    "RI": [
+        {
+            "url": "/wiki/index.php/Sheldon_Whitehouse", 
+            "party": "D", 
+            "candidate": "Sheldon Whitehouse"
+        }, 
+        {
+            "url": "/wiki/index.php/Barry_Hinckley", 
+            "party": "R", 
+            "candidate": "Barry Hinckley"
+        }, 
+        {
+            "url": "/wiki/index.php/Todd_Giroux", 
+            "party": "I", 
+            "candidate": "Todd Giroux"
+        }, 
+        {
+            "url": "/wiki/index.php/Dany_LaPorte", 
+            "party": "I", 
+            "candidate": "Dany LaPorte"
+        }, 
+        {
+            "url": "/wiki/index.php/Christopher_D._Reynolds", 
+            "party": "I", 
+            "candidate": "Christopher D. Reynolds"
+        }, 
+        {
+            "url": "/wiki/index.php/David_J._Slavin", 
+            "party": "I", 
+            "candidate": "David J. Slavin"
+        }, 
+        {
+            "url": "/wiki/index.php/Gregory_Raposa", 
+            "party": "I", 
+            "candidate": "Gregory Raposa"
+        }
+    ], 
+    "NV": [
+        {
+            "url": "/wiki/index.php/Shelley_Berkley", 
+            "party": "D", 
+            "candidate": "Shelley Berkley"
+        }, 
+        {
+            "url": "/wiki/index.php/Dean_Heller", 
+            "party": "R", 
+            "candidate": "Dean Heller"
+        }, 
+        {
+            "url": "/wiki/index.php/David_Lory_VanderBeek", 
+            "party": "I", 
+            "candidate": "David Lory VanderBeek"
+        }
+    ], 
+    "VA": [
+        {
+            "url": "/wiki/index.php/Tim_Kaine", 
+            "party": "D", 
+            "candidate": "Tim Kaine"
+        }, 
+        {
+            "url": "/wiki/index.php/George_Allen", 
+            "party": "R", 
+            "candidate": "George Allen"
+        }
+    ], 
+    "CA": [
+        {
+            "url": "/wiki/index.php/Dianne_Feinstein", 
+            "party": "D", 
+            "candidate": "Dianne Feinstein"
+        }, 
+        {
+            "url": "/wiki/index.php/Elizabeth_Emken", 
+            "party": "R", 
+            "candidate": "Elizabeth Emken"
+        }
+    ], 
+    "VT": [
+        {
+            "url": "/wiki/index.php/Bernie_Sanders", 
+            "party": "D", 
+            "candidate": "Bernie Sanders"
+        }, 
+        {
+            "url": "/wiki/index.php/John_MacGovern", 
+            "party": "R", 
+            "candidate": "John MacGovern"
+        }, 
+        {
+            "url": "/wiki/index.php/Cris_Ericson", 
+            "party": "I", 
+            "candidate": "Cris Ericson"
+        }, 
+        {
+            "url": "/wiki/index.php/Laurel_LaFramboise", 
+            "party": "I", 
+            "candidate": "Laurel LaFramboise"
+        }, 
+        {
+            "url": "/wiki/index.php/Peter_Moss", 
+            "party": "I", 
+            "candidate": "Peter Moss"
+        }, 
+        {
+            "url": "/wiki/index.php/Pete_Diamondstone", 
+            "party": "I", 
+            "candidate": "Pete Diamondstone"
+        }
+    ], 
+    "IN": [
+        {
+            "url": "/wiki/index.php/Joe_Donnelly", 
+            "party": "D", 
+            "candidate": "Joe Donnelly"
+        }, 
+        {
+            "url": "/wiki/index.php/Richard_Mourdock", 
+            "party": "R", 
+            "candidate": "Richard Mourdock"
+        }, 
+        {
+            "url": "/wiki/index.php/Andy_Horning", 
+            "party": "L", 
+            "candidate": "Andy Horning"
+        }, 
+        {
+            "url": "/wiki/index.php/James_Johnson_Jr.", 
+            "party": "I", 
+            "candidate": "James Johnson Jr."
+        }, 
+        {
+            "url": "/wiki/index.php/Amy_Willis", 
+            "party": "I", 
+            "candidate": "Amy Willis"
+        }
+    ], 
+    "AZ": [
+        {
+            "url": "/wiki/index.php/Richard_Carmona", 
+            "party": "D", 
+            "candidate": "Richard Carmona"
+        }, 
+        {
+            "url": "/wiki/index.php/Jeff_Flake", 
+            "party": "R", 
+            "candidate": "Jeff Flake"
+        }, 
+        {
+            "url": "/wiki/index.php/Marc_Victor", 
+            "party": "L", 
+            "candidate": "Marc Victor"
+        }, 
+        {
+            "url": "/wiki/index.php/Ian_Gilyeat", 
+            "party": "I", 
+            "candidate": "Ian Gilyeat"
+        }
+    ], 
+    "CT": [
+        {
+            "url": "/wiki/index.php/Christopher_S._Murphy", 
+            "party": "D", 
+            "candidate": "Chris Murphy"
+        }, 
+        {
+            "url": "/wiki/index.php/Linda_McMahon", 
+            "party": "R", 
+            "candidate": "Linda McMahon"
+        }, 
+        {
+            "url": "/wiki/index.php/Paul_Passarelli", 
+            "party": "L", 
+            "candidate": "Paul Passarelli"
+        }
+    ], 
+    "ME": [
+        {
+            "url": "/wiki/index.php/Cynthia_Dill", 
+            "party": "D", 
+            "candidate": "Cynthia Dill"
+        }, 
+        {
+            "url": "/wiki/index.php/Charles_Summers", 
+            "party": "R", 
+            "candidate": "Charles Summers"
+        }, 
+        {
+            "url": "/wiki/index.php/Andrew_Ian_Dodge", 
+            "party": "L", 
+            "candidate": "Andrew Ian Dodge"
+        }, 
+        {
+            "url": "/wiki/index.php/Angus_King", 
+            "party": "I", 
+            "candidate": "Angus King"
+        }, 
+        {
+            "url": "/wiki/index.php/Danny_Francis_Dalton", 
+            "party": "I", 
+            "candidate": "Danny Francis Dalton"
+        }, 
+        {
+            "url": "/wiki/index.php/Stephen_Woods", 
+            "party": "I", 
+            "candidate": "Stephen Woods"
+        }
+    ], 
+    "MD": [
+        {
+            "url": "/wiki/index.php/Ben_Cardin", 
+            "party": "D", 
+            "candidate": "Ben Cardin"
+        }, 
+        {
+            "url": "/wiki/index.php/Lih_Young", 
+            "party": "D", 
+            "candidate": "Lih Young"
+        }, 
+        {
+            "url": "/wiki/index.php/Dan_Bongino", 
+            "party": "R", 
+            "candidate": "Dan Bongino"
+        }, 
+        {
+            "url": "/wiki/index.php/Mary_Podlesak", 
+            "party": "R", 
+            "candidate": "Mary Podlesak"
+        }, 
+        {
+            "url": "/wiki/index.php/Dean_Ahmad", 
+            "party": "L", 
+            "candidate": "Dean Ahmad"
+        }, 
+        {
+            "url": "/wiki/index.php/Brandy_Baker", 
+            "party": "I", 
+            "candidate": "Brandy Baker"
+        }, 
+        {
+            "url": "/wiki/index.php/Rob_Sobhani", 
+            "party": "I", 
+            "candidate": "Rob Sobhani"
+        }, 
+        {
+            "url": "/wiki/index.php/Ed_Tinus", 
+            "party": "I", 
+            "candidate": "Ed Tinus"
+        }
+    ], 
+    "MA": [
+        {
+            "url": "/wiki/index.php/Elizabeth_Warren", 
+            "party": "D", 
+            "candidate": "Elizabeth Warren"
+        }, 
+        {
+            "url": "/wiki/index.php/Scott_Brown", 
+            "party": "R", 
+            "candidate": "Scott Brown"
+        }, 
+        {
+            "url": "/wiki/index.php/Bill_Cimbrelo", 
+            "party": "I", 
+            "candidate": "Bill Cimbrelo"
+        }
+    ], 
+    "OH": [
+        {
+            "url": "/wiki/index.php/Sherrod_Brown", 
+            "party": "D", 
+            "candidate": "Sherrod Brown"
+        }, 
+        {
+            "url": "/wiki/index.php/Josh_Mandel", 
+            "party": "R", 
+            "candidate": "Josh Mandel"
+        }, 
+        {
+            "url": "/wiki/index.php/John_Fockler_Jr.", 
+            "party": "L", 
+            "candidate": "John Fockler Jr."
+        }, 
+        {
+            "url": "/wiki/index.php/Joseph_DeMare", 
+            "party": "G", 
+            "candidate": "Joseph DeMare"
+        }, 
+        {
+            "url": "/wiki/index.php/Rusty_Bliss", 
+            "party": "I", 
+            "candidate": "Rusty Bliss"
+        }, 
+        {
+            "url": "/wiki/index.php/Scott_Rupert", 
+            "party": "I", 
+            "candidate": "Scott Rupert"
+        }
+    ], 
+    "UT": [
+        {
+            "url": "/wiki/index.php/Scott_Howell", 
+            "party": "D", 
+            "candidate": "Scott Howell"
+        }, 
+        {
+            "url": "/wiki/index.php/Orrin_Hatch", 
+            "party": "R", 
+            "candidate": "Orrin Hatch"
+        }, 
+        {
+            "url": "/wiki/index.php/Shaun_McCausland", 
+            "party": "C", 
+            "candidate": "Shaun McCausland"
+        }, 
+        {
+            "url": "/wiki/index.php/Bill_Barron,_Utah", 
+            "party": "I", 
+            "candidate": "Bill Barron"
+        }, 
+        {
+            "url": "/wiki/index.php/Daniel_Geery", 
+            "party": "I", 
+            "candidate": "Daniel Geery"
+        }
+    ], 
+    "MO": [
+        {
+            "url": "/wiki/index.php/Claire_McCaskill", 
+            "party": "D", 
+            "candidate": "Claire McCaskill"
+        }, 
+        {
+            "url": "/wiki/index.php/Todd_Akin", 
+            "party": "R", 
+            "candidate": "Todd Akin"
+        }, 
+        {
+            "url": "/wiki/index.php/Jonathan_Dine", 
+            "party": "L", 
+            "candidate": "Jonathan Dine"
+        }
+    ], 
+    "MN": [
+        {
+            "url": "/wiki/index.php/Amy_Klobuchar", 
+            "party": "D", 
+            "candidate": "Amy Klobuchar"
+        }, 
+        {
+            "url": "/wiki/index.php/Kurt_Bills", 
+            "party": "R", 
+            "candidate": "Kurt Bills"
+        }, 
+        {
+            "url": "/wiki/index.php/Stephen_Williams", 
+            "party": "I", 
+            "candidate": "Stephen Williams"
+        }, 
+        {
+            "url": "/wiki/index.php/Timothy_Davis", 
+            "party": "G", 
+            "candidate": "Timothy Davis"
+        }, 
+        {
+            "url": "/wiki/index.php/Michael_Cavlan", 
+            "party": "I", 
+            "candidate": "Michael Cavlan"
+        }
+    ], 
+    "MI": [
+        {
+            "url": "/wiki/index.php/Debbie_Stabenow", 
+            "party": "D", 
+            "candidate": "Debbie Stabenow"
+        }, 
+        {
+            "url": "/wiki/index.php/Pete_Hoekstra", 
+            "party": "R", 
+            "candidate": "Pete Hoekstra"
+        }, 
+        {
+            "url": "/wiki/index.php/Scotty_Boman", 
+            "party": "L", 
+            "candidate": "Scotty Boman"
+        }, 
+        {
+            "url": "/wiki/index.php/Harley_Mikkelson", 
+            "party": "G", 
+            "candidate": "Harley Mikkelson"
+        }, 
+        {
+            "url": "/wiki/index.php/Richard_Matkin", 
+            "party": "I", 
+            "candidate": "Richard Matkin"
+        }, 
+        {
+            "url": "/wiki/index.php/John_Litle", 
+            "party": "I", 
+            "candidate": "John Litle"
+        }
+    ], 
+    "MT": [
+        {
+            "url": "/wiki/index.php/Jon_Tester", 
+            "party": "D", 
+            "candidate": "Jon Tester"
+        }, 
+        {
+            "url": "/wiki/index.php/Denny_Rehberg", 
+            "party": "R", 
+            "candidate": "Denny Rehberg"
+        }, 
+        {
+            "url": "/wiki/index.php/Dan_Cox", 
+            "party": "L", 
+            "candidate": "Dan Cox"
+        }
+    ], 
+    "MS": [
+        {
+            "url": "/wiki/index.php/Albert_N._Gore", 
+            "party": "D", 
+            "candidate": "Albert N. Gore"
+        }, 
+        {
+            "url": "/wiki/index.php/Roger_Wicker", 
+            "party": "R", 
+            "candidate": "Roger Wicker"
+        }, 
+        {
+            "url": "/wiki/index.php/Thomas_Cramer", 
+            "party": "C", 
+            "candidate": "Thomas Cramer"
+        }, 
+        {
+            "url": "/wiki/index.php/Shawn_O%27Hara", 
+            "party": "Re", 
+            "candidate": "Shawn O'Hara"
+        }
+    ]
+}
