@@ -9,6 +9,7 @@
       "state": "WA",
       "state_name": "Washington",
       "district": "10",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Denny_Heck",
       "entity_id": "22042d9487784aec8d0229f66111307b",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Dennis_Heck",
@@ -109,7 +110,8 @@
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
-      "district": "10"
+      "district": "10",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Richard_Muri"
     }
   ],
   "senate": [
@@ -122,6 +124,7 @@
       "state": "WA",
       "state_name": "Washington",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Maria_Cantwell",
       "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Maria_Cantwell",
@@ -267,7 +270,8 @@
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Michael_Baumgartner"
     }
   ]
 }

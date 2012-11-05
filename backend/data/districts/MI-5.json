@@ -9,6 +9,7 @@
       "state": "MI",
       "state_name": "Michigan",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dan_Kildee",
       "entity_id": "de20941551664f648b2705789f222864",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dale_E._Kildee",
@@ -149,7 +150,8 @@
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
-      "district": "5"
+      "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jim_Slezak"
     }
   ],
   "senate": [
@@ -162,6 +164,7 @@
       "state": "MI",
       "state_name": "Michigan",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Debbie_Stabenow",
       "entity_id": "f0b2ed36768d4c99b3ba68d3a553d8d8",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Debbie_Stabenow",
@@ -298,6 +301,7 @@
       "state": "MI",
       "state_name": "Michigan",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Pete_Hoekstra",
       "entity_id": "ee58b1dc41824d21aa87f9e9063aa0e7",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Pete_Hoekstra",

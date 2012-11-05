@@ -9,6 +9,7 @@
       "state": "CA",
       "state_name": "California",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mike_Thompson_(California)",
       "entity_id": "024e50a5e06d4cdda86f07b5a44c2228",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mike_Thompson",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
-      "district": "5"
+      "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Randy_Loftin"
     }
   ],
   "senate": [
@@ -152,6 +154,7 @@
       "state": "CA",
       "state_name": "California",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dianne_Feinstein",
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dianne_Feinstein",
@@ -338,6 +341,7 @@
       "state": "CA",
       "state_name": "California",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Elizabeth_Emken",
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Elizabeth_Emken",

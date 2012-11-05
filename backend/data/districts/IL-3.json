@@ -9,6 +9,7 @@
       "state": "IL",
       "state_name": "Illinois",
       "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Daniel_Lipinski",
       "entity_id": "f2530a1171d54d6d9b8fb24991493f60",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dan_Lipinski",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
-      "district": "3"
+      "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Richard_Grabowski"
     }
   ],
   "senate": [

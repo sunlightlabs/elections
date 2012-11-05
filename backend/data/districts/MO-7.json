@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
-      "district": "7"
+      "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jim_Evans"
     },
     {
       "photo_filename": "Billy_Long.jpg",
@@ -19,6 +20,7 @@
       "state": "MO",
       "state_name": "Missouri",
       "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Billy_Long",
       "entity_id": "72078e8cb2a849738dc5949d30e9759e",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Billy_Long",
@@ -142,6 +144,7 @@
       "state": "MO",
       "state_name": "Missouri",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Claire_McCaskill",
       "entity_id": "98af4916592648c4aa992d8db00e6e5b",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Claire_McCaskill",
@@ -278,6 +281,7 @@
       "state": "MO",
       "state_name": "Missouri",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Todd_Akin",
       "entity_id": "28e6cce459e74dcbb575fa05def946e3",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Todd_Akin",

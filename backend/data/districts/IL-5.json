@@ -9,6 +9,7 @@
       "state": "IL",
       "state_name": "Illinois",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mike_Quigley",
       "entity_id": "3e025578600547b9833a303bf4d0b54c",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Michael_Quigley",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
-      "district": "5"
+      "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dan_Schmitt"
     }
   ],
   "senate": [

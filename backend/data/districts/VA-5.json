@@ -9,6 +9,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/John_Douglass",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -115,6 +116,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Robert_Hurt",
       "entity_id": "d211bc3c7fb04a60821698bab75b64e7",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_Hurt_%28politician%29",
@@ -243,6 +245,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tim_Kaine",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -358,7 +361,8 @@
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/George_Allen"
     }
   ]
 }

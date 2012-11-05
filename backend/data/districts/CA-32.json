@@ -9,6 +9,7 @@
       "state": "CA",
       "state_name": "California",
       "district": "32",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Grace_Napolitano",
       "entity_id": "bebb939bad4f4b2f808e44b5f84bfd15",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=N000179",
@@ -149,7 +150,8 @@
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
-      "district": "32"
+      "district": "32",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/David_Miller_(California)"
     }
   ],
   "senate": [
@@ -162,6 +164,7 @@
       "state": "CA",
       "state_name": "California",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dianne_Feinstein",
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dianne_Feinstein",
@@ -348,6 +351,7 @@
       "state": "CA",
       "state_name": "California",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Elizabeth_Emken",
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Elizabeth_Emken",

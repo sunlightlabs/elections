@@ -9,6 +9,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": "34",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Filemon_Vela",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -109,7 +110,8 @@
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
-      "district": "34"
+      "district": "34",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jessica_Puente_Bradshaw"
     }
   ],
   "senate": [
@@ -122,6 +124,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Sadler",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -228,6 +231,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ted_Cruz",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

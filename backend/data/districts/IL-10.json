@@ -9,6 +9,7 @@
       "state": "IL",
       "state_name": "Illinois",
       "district": "10",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Brad_Schneider",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -114,7 +115,8 @@
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
-      "district": "10"
+      "district": "10",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Aloys_Rutagwibira"
     },
     {
       "photo_filename": "Robert_J._Dold.jpg",
@@ -125,6 +127,7 @@
       "state": "IL",
       "state_name": "Illinois",
       "district": "10",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Robert_J._Dold",
       "entity_id": "0c2fc448f2274e3ea7efe8c22f9487e5",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_Dold",

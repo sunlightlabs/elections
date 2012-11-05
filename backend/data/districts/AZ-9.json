@@ -9,6 +9,7 @@
       "state": "AZ",
       "state_name": "Arizona",
       "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kyrsten_Sinema",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -109,7 +110,8 @@
       "chamber": "house",
       "state": "AZ",
       "state_name": "Arizona",
-      "district": "9"
+      "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Vernon_Parker"
     }
   ],
   "senate": [
@@ -122,6 +124,7 @@
       "state": "AZ",
       "state_name": "Arizona",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Richard_Carmona",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -228,6 +231,7 @@
       "state": "AZ",
       "state_name": "Arizona",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jeff_Flake",
       "entity_id": "be44f82d0528410fa74c71c886a152f5",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Jeff_Flake",

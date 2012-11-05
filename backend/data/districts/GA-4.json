@@ -9,6 +9,7 @@
       "state": "GA",
       "state_name": "Georgia",
       "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Henry_C._Johnson,_Jr.",
       "entity_id": "4194d12bd85c4262827926a43e388429",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Hank_Johnson",
@@ -134,7 +135,8 @@
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
-      "district": "4"
+      "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Chris_Vaughn"
     }
   ],
   "senate": [

@@ -9,6 +9,7 @@
       "state": "WI",
       "state_name": "Wisconsin",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mark_Pocan",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -119,7 +120,8 @@
       "chamber": "house",
       "state": "WI",
       "state_name": "Wisconsin",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Chad_Lee"
     }
   ],
   "senate": [
@@ -132,6 +134,7 @@
       "state": "WI",
       "state_name": "Wisconsin",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tammy_Baldwin",
       "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Tammy_Baldwin",
@@ -277,7 +280,8 @@
       "chamber": "senate",
       "state": "WI",
       "state_name": "Wisconsin",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tommy_Thompson"
     }
   ]
 }

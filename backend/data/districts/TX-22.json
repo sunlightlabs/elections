@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
-      "district": "22"
+      "district": "22",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kesha_Rogers"
     },
     {
       "photo_filename": "Pete_Olson.jpg",
@@ -19,6 +20,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": "22",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Pete_Olson",
       "entity_id": "4e091859472b4257b15caafdf6fc8f48",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Pete_Olson",
@@ -142,6 +144,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Sadler",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -248,6 +251,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ted_Cruz",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

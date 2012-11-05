@@ -9,6 +9,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Cassandra_Shober",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -85,6 +86,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Frank_LoBiondo",
       "entity_id": "c57d8c97afb24a36973accea41a97915",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Frank_LoBiondo",
@@ -218,6 +220,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Menendez",
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Menendez",
@@ -358,7 +361,8 @@
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Joe_Kyrillos"
     }
   ]
 }

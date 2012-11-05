@@ -9,6 +9,7 @@
       "state": "GA",
       "state_name": "Georgia",
       "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jody_Cooley",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -67,7 +68,8 @@
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
-      "district": "9"
+      "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Doug_Collins"
     }
   ],
   "senate": [

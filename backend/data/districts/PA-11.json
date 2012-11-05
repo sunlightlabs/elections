@@ -9,6 +9,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "11",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Gene_Stilp",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -103,6 +104,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "11",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Lou_Barletta",
       "entity_id": "07d5f165d18f4b3f9e972ef53ffba680",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Lou_Barletta",
@@ -231,6 +233,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Casey,_Jr.",
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
@@ -361,7 +364,8 @@
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tom_Smith"
     }
   ]
 }

@@ -9,6 +9,7 @@
       "state": "GA",
       "state_name": "Georgia",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Sanford_D._Bishop,_Jr.",
       "entity_id": "69b068c312384b38abf3fb2d2bfc4cdb",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sanford_Bishop",
@@ -124,7 +125,8 @@
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/John_House"
     }
   ],
   "senate": [

@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
-      "district": "12"
+      "district": "12",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/William_Enyart"
     },
     {
       "photo_filename": "Jason_Plummer.jpg",
@@ -19,6 +20,7 @@
       "state": "IL",
       "state_name": "Illinois",
       "district": "12",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jason_Plummer",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

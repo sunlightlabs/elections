@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "FL",
       "state_name": "Florida",
-      "district": "27"
+      "district": "27",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Manny_Yevancey"
     },
     {
       "photo_filename": "Ileana_Ros-Lehtinen.jpg",
@@ -19,6 +20,7 @@
       "state": "FL",
       "state_name": "Florida",
       "district": "27",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ileana_Ros-Lehtinen",
       "entity_id": "9bcc76dc28f748ee983702213ef98a73",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Ileana_Ros-Lehtinen",
@@ -147,6 +149,7 @@
       "state": "FL",
       "state_name": "Florida",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bill_Nelson_(Florida)",
       "entity_id": "5a1a3576871e459e9bb0af1a1d5cd826",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=N000032",
@@ -283,6 +286,7 @@
       "state": "FL",
       "state_name": "Florida",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Connie_Mack",
       "entity_id": "0bcd3fa0d6a1461d9e8e2948bd853c1e",
       "incumbent": false,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=M001155",

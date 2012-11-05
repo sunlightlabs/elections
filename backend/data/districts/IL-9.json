@@ -9,6 +9,7 @@
       "state": "IL",
       "state_name": "Illinois",
       "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Janice_D._Schakowsky",
       "entity_id": "e5221b6ac6524c4786ec36097ceabb1d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jan_Schakowsky",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
-      "district": "9"
+      "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Timothy_Wolfe"
     }
   ],
   "senate": [

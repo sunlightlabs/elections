@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
-      "district": "31"
+      "district": "31",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Stephen_Wyman_(Texas)"
     },
     {
       "photo_filename": "John_Carter.jpg",
@@ -19,6 +20,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": "31",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/John_Carter",
       "entity_id": "19b37df97ee248b5959a9e672cfc79db",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_Carter_%28Texas%29",
@@ -142,6 +144,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Sadler",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -248,6 +251,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ted_Cruz",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

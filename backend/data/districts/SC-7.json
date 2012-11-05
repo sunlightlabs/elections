@@ -9,6 +9,7 @@
       "state": "SC",
       "state_name": "South Carolina",
       "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Gloria_Bromell_Tinubu",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -114,7 +115,8 @@
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
-      "district": "7"
+      "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tom_Rice_(SC)"
     }
   ],
   "senate": [

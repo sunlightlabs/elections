@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "UT",
       "state_name": "Utah",
-      "district": "3"
+      "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Soren_Simonsen"
     },
     {
       "photo_filename": "Jason_Chaffetz.jpg",
@@ -19,6 +20,7 @@
       "state": "UT",
       "state_name": "Utah",
       "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jason_Chaffetz",
       "entity_id": "030bed2e80e54303b9ef68d17a98587f",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jason_Chaffetz",
@@ -147,6 +149,7 @@
       "state": "UT",
       "state_name": "Utah",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Scott_Howell",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -253,6 +256,7 @@
       "state": "UT",
       "state_name": "Utah",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Orrin_Hatch",
       "entity_id": "e5aa63ec4a0746fbb9961b325ddb3627",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Orrin_Hatch",

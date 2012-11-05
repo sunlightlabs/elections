@@ -9,6 +9,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Anthony_Flaccavento",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -115,6 +116,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Morgan_Griffith",
       "entity_id": "415b606ca61a455588b84e25a7900ad9",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Morgan_Griffith",
@@ -243,6 +245,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tim_Kaine",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -358,7 +361,8 @@
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/George_Allen"
     }
   ]
 }

@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
-      "district": "7"
+      "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Credo_Amouzouvik"
     },
     {
       "photo_filename": "Marsha_Blackburn.jpg",
@@ -19,6 +20,7 @@
       "state": "TN",
       "state_name": "Tennessee",
       "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Marsha_Blackburn",
       "entity_id": "93568aa9bb0e4b9eb8da00e4ae83339c",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Marsha_Blackburn",
@@ -146,7 +148,8 @@
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mark_Clayton"
     },
     {
       "photo_filename": "Bob_Corker.jpg",
@@ -157,6 +160,7 @@
       "state": "TN",
       "state_name": "Tennessee",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Corker",
       "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001071",

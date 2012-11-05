@@ -9,6 +9,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": "30",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Eddie_Bernice_Johnson",
       "entity_id": "be44aebb66e74cd48690d154262dfb28",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Eddie_Bernice_Johnson",
@@ -134,7 +135,8 @@
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
-      "district": "30"
+      "district": "30",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Travis_Washington,_Jr."
     }
   ],
   "senate": [
@@ -147,6 +149,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Sadler",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -253,6 +256,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ted_Cruz",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

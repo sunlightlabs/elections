@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
-      "district": "6"
+      "district": "6",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jeff_Kazanow"
     },
     {
       "photo_filename": "Tom_Price.jpg",
@@ -19,6 +20,7 @@
       "state": "GA",
       "state_name": "Georgia",
       "district": "6",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tom_Price",
       "entity_id": "232901b5e78840cfaaf4389cf6e0df95",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Tom_Price_%28U.S._politician%29",

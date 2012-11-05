@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
-      "district": "4"
+      "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/VaLinda_Hathcox"
     },
     {
       "photo_filename": "Ralph_Hall.jpg",
@@ -19,6 +20,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ralph_Hall",
       "entity_id": "67ae50cb45fa47c6866aa6c029adbff8",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Ralph_Hall",
@@ -147,6 +149,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Sadler",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -253,6 +256,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ted_Cruz",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

@@ -9,6 +9,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": "10",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kristin_Cabral",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -120,6 +121,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": "10",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Frank_Wolf",
       "entity_id": "96bd253297cd42b689edb1549decde78",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Frank_Wolf",
@@ -243,6 +245,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tim_Kaine",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -358,7 +361,8 @@
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/George_Allen"
     }
   ]
 }

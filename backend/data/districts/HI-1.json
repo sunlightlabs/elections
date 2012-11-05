@@ -9,6 +9,7 @@
       "state": "HI",
       "state_name": "Hawaii",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Colleen_Hanabusa",
       "entity_id": "3f4ac7b9b1d34cabacaf7d9ef6efb69d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Colleen_Hanabusa",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "HI",
       "state_name": "Hawaii",
-      "district": "1"
+      "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Charles_Djou"
     }
   ],
   "senate": [
@@ -152,6 +154,7 @@
       "state": "HI",
       "state_name": "Hawaii",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mazie_Hirono",
       "entity_id": "79f92c32d0a244009c8c296dd4daff30",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Mazie_Hirono",
@@ -297,7 +300,8 @@
       "chamber": "senate",
       "state": "HI",
       "state_name": "Hawaii",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Linda_Lingle"
     }
   ]
 }

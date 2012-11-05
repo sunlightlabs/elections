@@ -9,6 +9,7 @@
       "state": "MS",
       "state_name": "Mississippi",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Brad_Morris",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -110,6 +111,7 @@
       "state": "MS",
       "state_name": "Mississippi",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Alan_Nunnelee",
       "entity_id": "5f879ef4397f40d5aa225e724d26edeb",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Alan_Nunnelee",
@@ -232,7 +234,8 @@
       "chamber": "senate",
       "state": "MS",
       "state_name": "Mississippi",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Albert_N._Gore"
     },
     {
       "photo_filename": "Roger_Wicker.jpg",
@@ -243,6 +246,7 @@
       "state": "MS",
       "state_name": "Mississippi",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Roger_Wicker",
       "entity_id": "159c40291deb455596155ded63972bf4",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Roger_Wicker",

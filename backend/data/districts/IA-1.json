@@ -9,6 +9,7 @@
       "state": "IA",
       "state_name": "Iowa",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bruce_Braley",
       "entity_id": "af2b64366ab344838ddd6352ffb223dc",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bruce_Braley",
@@ -134,7 +135,8 @@
       "chamber": "house",
       "state": "IA",
       "state_name": "Iowa",
-      "district": "1"
+      "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ben_Lange"
     }
   ],
   "senate": [

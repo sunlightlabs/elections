@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
-      "district": "3"
+      "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jon_T._Haugen"
     },
     {
       "photo_filename": "Jaime_Herrera_Beutler.jpg",
@@ -18,7 +19,8 @@
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
-      "district": "3"
+      "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jaime_Herrera_Beutler"
     }
   ],
   "senate": [
@@ -31,6 +33,7 @@
       "state": "WA",
       "state_name": "Washington",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Maria_Cantwell",
       "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Maria_Cantwell",
@@ -176,7 +179,8 @@
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Michael_Baumgartner"
     }
   ]
 }

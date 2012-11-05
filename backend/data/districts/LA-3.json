@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",
-      "district": "3"
+      "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ron_Richard_(Louisiana)"
     },
     {
       "photo_filename": "Jeff_Landry.jpg",
@@ -19,6 +20,7 @@
       "state": "LA",
       "state_name": "Louisiana",
       "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jeff_Landry",
       "entity_id": "18617d11247548cc981bf89a50a92219",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jeff_Landry",
@@ -140,6 +142,7 @@
       "state": "LA",
       "state_name": "Louisiana",
       "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Charles_Boustany_Jr.",
       "entity_id": "d392545fba7248f38a5ca25bcda2ae6e",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Charles_Boustany",
@@ -245,7 +248,8 @@
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",
-      "district": "3"
+      "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bryan_Barrilleaux"
     }
   ],
   "senate": [

@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "AK",
       "state_name": "Alaska",
-      "district": "at_large"
+      "district": "at_large",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Sharon_Cissna"
     },
     {
       "photo_filename": "Don_Young.jpg",
@@ -19,6 +20,7 @@
       "state": "AK",
       "state_name": "Alaska",
       "district": "at_large",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Don_Young",
       "entity_id": "d3255cc3aabc4b68ab2c798d9e27d95f",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Don_Young",

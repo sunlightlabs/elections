@@ -9,6 +9,7 @@
       "state": "MN",
       "state_name": "Minnesota",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Keith_Ellison",
       "entity_id": "69450767ce3c46bda62793e3dab644f6",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Keith_Ellison_%28politician%29",
@@ -149,7 +150,8 @@
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
-      "district": "5"
+      "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Chris_Fields"
     }
   ],
   "senate": [
@@ -162,6 +164,7 @@
       "state": "MN",
       "state_name": "Minnesota",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Amy_Klobuchar",
       "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Amy_Klobuchar",
@@ -298,6 +301,7 @@
       "state": "MN",
       "state_name": "Minnesota",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kurt_Bills",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

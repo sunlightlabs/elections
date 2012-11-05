@@ -9,6 +9,7 @@
       "state": "CO",
       "state_name": "Colorado",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Doug_Lamborn",
       "entity_id": "b2d0d2ff8df04961b13ac9253998f489",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Doug_Lamborn",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
-      "district": "5"
+      "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/George_Allen_Cantrell"
     }
   ],
   "senate": [

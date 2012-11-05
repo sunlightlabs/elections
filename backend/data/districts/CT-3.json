@@ -9,6 +9,7 @@
       "state": "CT",
       "state_name": "Connecticut",
       "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Rosa_L._DeLauro",
       "entity_id": "dc6627f40ac04f79b589d93b344ec405",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Rosa_DeLauro",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "CT",
       "state_name": "Connecticut",
-      "district": "3"
+      "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Wayne_Winsley"
     }
   ],
   "senate": [
@@ -152,6 +154,7 @@
       "state": "CT",
       "state_name": "Connecticut",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Christopher_S._Murphy",
       "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Chris_Murphy_%28politician%29",
@@ -252,7 +255,8 @@
       "chamber": "senate",
       "state": "CT",
       "state_name": "Connecticut",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Linda_McMahon"
     }
   ]
 }

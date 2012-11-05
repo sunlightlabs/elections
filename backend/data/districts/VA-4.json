@@ -9,6 +9,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ella_Ward",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -103,6 +104,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Randy_Forbes",
       "entity_id": "984fdab134a248a9a42241e0f7cc6c60",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Randy_Forbes",
@@ -231,6 +233,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tim_Kaine",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -346,7 +349,8 @@
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/George_Allen"
     }
   ]
 }

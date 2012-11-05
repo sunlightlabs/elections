@@ -9,6 +9,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": "18",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Sheila_Jackson-Lee",
       "entity_id": "eda31b0d8eee41d98e06c75888e792ce",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sheila_Jackson_Lee",
@@ -129,7 +130,8 @@
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
-      "district": "18"
+      "district": "18",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Sean_Seibert"
     }
   ],
   "senate": [
@@ -142,6 +144,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Sadler",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -248,6 +251,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ted_Cruz",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

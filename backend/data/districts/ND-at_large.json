@@ -9,6 +9,7 @@
       "state": "ND",
       "state_name": "North Dakota",
       "district": "at_large",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Pam_Gulleson",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -115,6 +116,7 @@
       "state": "ND",
       "state_name": "North Dakota",
       "district": "at_large",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kevin_Cramer",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -217,7 +219,8 @@
       "chamber": "senate",
       "state": "ND",
       "state_name": "North Dakota",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Heidi_Heitkamp"
     },
     {
       "photo_filename": "Rick_Berg.jpg",
@@ -228,6 +231,7 @@
       "state": "ND",
       "state_name": "North Dakota",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Rick_Berg",
       "entity_id": "06c3f03746c44a78a4fd3e135df4e5c3",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Rick_Berg",

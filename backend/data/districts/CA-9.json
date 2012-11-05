@@ -9,6 +9,7 @@
       "state": "CA",
       "state_name": "California",
       "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jerry_McNerney",
       "entity_id": "01eea35c6f99408f968a0617142aeb29",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jerry_McNerney",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
-      "district": "9"
+      "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ricky_Gill"
     }
   ],
   "senate": [
@@ -157,6 +159,7 @@
       "state": "CA",
       "state_name": "California",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dianne_Feinstein",
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dianne_Feinstein",
@@ -343,6 +346,7 @@
       "state": "CA",
       "state_name": "California",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Elizabeth_Emken",
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Elizabeth_Emken",

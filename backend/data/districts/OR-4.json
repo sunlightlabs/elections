@@ -9,6 +9,7 @@
       "state": "OR",
       "state_name": "Oregon",
       "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Peter_DeFazio",
       "entity_id": "582eebf9f66b4c05a93b7088f1c0b291",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Peter_DeFazio",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "OR",
       "state_name": "Oregon",
-      "district": "4"
+      "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Art_Robinson"
     }
   ],
   "senate": [

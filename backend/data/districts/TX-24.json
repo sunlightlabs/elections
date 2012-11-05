@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
-      "district": "24"
+      "district": "24",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tim_Rusk"
     },
     {
       "photo_filename": "Kenny_Marchant.jpg",
@@ -19,6 +20,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": "24",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kenny_Marchant",
       "entity_id": "0cabf0ea074544408515ffcf5b6d8bef",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Kenny_Marchant",
@@ -147,6 +149,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Sadler",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -253,6 +256,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ted_Cruz",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

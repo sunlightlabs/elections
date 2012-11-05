@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
-      "district": "10"
+      "district": "10",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Chuck_Stadler"
     },
     {
       "photo_filename": "Candice_Miller.jpg",
@@ -19,6 +20,7 @@
       "state": "MI",
       "state_name": "Michigan",
       "district": "10",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Candice_Miller",
       "entity_id": "7b369da2010947e99e02c2e71bde91b5",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Candice_Miller",
@@ -142,6 +144,7 @@
       "state": "MI",
       "state_name": "Michigan",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Debbie_Stabenow",
       "entity_id": "f0b2ed36768d4c99b3ba68d3a553d8d8",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Debbie_Stabenow",
@@ -278,6 +281,7 @@
       "state": "MI",
       "state_name": "Michigan",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Pete_Hoekstra",
       "entity_id": "ee58b1dc41824d21aa87f9e9063aa0e7",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Pete_Hoekstra",

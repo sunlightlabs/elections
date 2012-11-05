@@ -9,6 +9,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": "15",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jose_E._Serrano",
       "entity_id": "b2a512ed1d1142cab592c200311bf02d",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=S000248",
@@ -149,7 +150,8 @@
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
-      "district": "15"
+      "district": "15",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Frank_Della_Valle"
     }
   ],
   "senate": [
@@ -162,6 +164,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kirsten_Gillibrand",
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Kirsten_Gillibrand",
@@ -328,6 +331,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Wendy_Long",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

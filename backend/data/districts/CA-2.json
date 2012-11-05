@@ -9,6 +9,7 @@
       "state": "CA",
       "state_name": "California",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jared_Huffman",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -129,7 +130,8 @@
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Daniel_Roberts"
     }
   ],
   "senate": [
@@ -142,6 +144,7 @@
       "state": "CA",
       "state_name": "California",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dianne_Feinstein",
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dianne_Feinstein",
@@ -328,6 +331,7 @@
       "state": "CA",
       "state_name": "California",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Elizabeth_Emken",
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Elizabeth_Emken",

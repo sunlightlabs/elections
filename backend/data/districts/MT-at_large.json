@@ -9,6 +9,7 @@
       "state": "MT",
       "state_name": "Montana",
       "district": "at_large",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kim_Gillan",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -119,7 +120,8 @@
       "chamber": "house",
       "state": "MT",
       "state_name": "Montana",
-      "district": "at_large"
+      "district": "at_large",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Steve_Daines"
     }
   ],
   "senate": [
@@ -132,6 +134,7 @@
       "state": "MT",
       "state_name": "Montana",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jon_Tester",
       "entity_id": "0aab575c5cec4e36a2529011488c00fa",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jon_Tester",
@@ -273,6 +276,7 @@
       "state": "MT",
       "state_name": "Montana",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Denny_Rehberg",
       "entity_id": "8cde611c6a554f099ce7e627209172b2",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Denny_Rehberg",

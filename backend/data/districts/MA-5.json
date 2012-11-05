@@ -9,6 +9,7 @@
       "state": "MA",
       "state_name": "Massachusetts",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ed_Markey",
       "entity_id": "a9cc53410f90408bb89f91f2c3513e01",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Ed_Markey",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "MA",
       "state_name": "Massachusetts",
-      "district": "5"
+      "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tom_Tierney"
     }
   ],
   "senate": [
@@ -157,6 +159,7 @@
       "state": "MA",
       "state_name": "Massachusetts",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Elizabeth_Warren",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -278,6 +281,7 @@
       "state": "MA",
       "state_name": "Massachusetts",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Scott_Brown",
       "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Scott_Brown",

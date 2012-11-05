@@ -9,6 +9,7 @@
       "state": "TN",
       "state_name": "Tennessee",
       "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Eric_Stewart",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -114,7 +115,8 @@
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
-      "district": "4"
+      "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Scott_DesJarlais"
     }
   ],
   "senate": [
@@ -126,7 +128,8 @@
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mark_Clayton"
     },
     {
       "photo_filename": "Bob_Corker.jpg",
@@ -137,6 +140,7 @@
       "state": "TN",
       "state_name": "Tennessee",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Corker",
       "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001071",

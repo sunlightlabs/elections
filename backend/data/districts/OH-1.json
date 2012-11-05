@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
-      "district": "1"
+      "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jeff_Sinnard"
     },
     {
       "photo_filename": "Steve_Chabot.jpg",
@@ -19,6 +20,7 @@
       "state": "OH",
       "state_name": "Ohio",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Steve_Chabot",
       "entity_id": "2bcadb6dfa234cbaa3b82725eb5fc4a2",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Steve_Chabot",
@@ -142,6 +144,7 @@
       "state": "OH",
       "state_name": "Ohio",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Sherrod_Brown",
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sherrod_Brown",
@@ -283,6 +286,7 @@
       "state": "OH",
       "state_name": "Ohio",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Josh_Mandel",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

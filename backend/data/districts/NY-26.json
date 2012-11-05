@@ -9,6 +9,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": "26",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Brian_Higgins",
       "entity_id": "4a8010bf5ec349fa95cfecbb8c060c0a",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Brian_Higgins",
@@ -154,7 +155,8 @@
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
-      "district": "26"
+      "district": "26",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Michael_Madigan"
     }
   ],
   "senate": [
@@ -167,6 +169,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kirsten_Gillibrand",
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Kirsten_Gillibrand",
@@ -333,6 +336,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Wendy_Long",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

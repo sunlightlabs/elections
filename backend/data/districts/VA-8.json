@@ -9,6 +9,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": "8",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jim_Moran",
       "entity_id": "1915c94342b64b72b35b417778cb5c7a",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jim_Moran",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
-      "district": "8"
+      "district": "8",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Patrick_Murray"
     }
   ],
   "senate": [
@@ -152,6 +154,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tim_Kaine",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -267,7 +270,8 @@
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/George_Allen"
     }
   ]
 }

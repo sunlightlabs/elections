@@ -9,6 +9,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Charles_Dumas",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -72,6 +73,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Glenn_Thompson",
       "entity_id": "89139f3637214aad9640c974dc65f7b0",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Glenn_Thompson_%28politician%29",
@@ -200,6 +202,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Casey,_Jr.",
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
@@ -330,7 +333,8 @@
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tom_Smith"
     }
   ]
 }

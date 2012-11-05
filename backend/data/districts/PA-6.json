@@ -9,6 +9,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "6",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Manan_Trivedi",
       "entity_id": "acfb5dfd44ed4122993af7e7f00712fd",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Manan_Trivedi",
@@ -120,6 +121,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "6",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jim_Gerlach",
       "entity_id": "0a45a2621e79498a8ba264eedbe0624b",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jim_Gerlach",
@@ -248,6 +250,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Casey,_Jr.",
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
@@ -378,7 +381,8 @@
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tom_Smith"
     }
   ]
 }

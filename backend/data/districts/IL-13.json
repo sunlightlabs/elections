@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
-      "district": "13"
+      "district": "13",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Rodney_Davis_(Illinois)"
     },
     {
       "photo_filename": "David_Gill.jpg",
@@ -19,6 +20,7 @@
       "state": "IL",
       "state_name": "Illinois",
       "district": "13",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/David_Gill",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

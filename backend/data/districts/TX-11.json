@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
-      "district": "11"
+      "district": "11",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jim_Riley"
     },
     {
       "photo_filename": "Mike_Conaway.jpg",
@@ -19,6 +20,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": "11",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mike_Conaway",
       "entity_id": "dd9b363b32614d36bc44ca39188e25a3",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mike_Conaway",
@@ -147,6 +149,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Sadler",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -253,6 +256,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ted_Cruz",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

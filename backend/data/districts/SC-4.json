@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "SC",
       "state_name": "South Carolina",
-      "district": "4"
+      "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Deb_Morrow"
     },
     {
       "photo_filename": "Trey_Gowdy.jpg",
@@ -19,6 +20,7 @@
       "state": "SC",
       "state_name": "South Carolina",
       "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Trey_Gowdy",
       "entity_id": "7d251247056c429c9ece4d1adb852289",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Trey_Gowdy",

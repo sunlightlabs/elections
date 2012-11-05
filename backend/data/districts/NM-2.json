@@ -9,6 +9,7 @@
       "state": "NM",
       "state_name": "New Mexico",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Evelyn_Madrid_Erhard",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -114,7 +115,8 @@
       "chamber": "house",
       "state": "NM",
       "state_name": "New Mexico",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Steve_Pearce"
     }
   ],
   "senate": [
@@ -127,6 +129,7 @@
       "state": "NM",
       "state_name": "New Mexico",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Martin_Heinrich",
       "entity_id": "43af19c32e1b469d8f9d07d40b3e8ed7",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Martin_Heinrich",
@@ -267,7 +270,8 @@
       "chamber": "senate",
       "state": "NM",
       "state_name": "New Mexico",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Heather_Wilson"
     }
   ]
 }

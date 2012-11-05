@@ -9,6 +9,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Al_Green",
       "entity_id": "d6ba2df590cf4be293836f93e53991c4",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Al_Green_%28Texas%29",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
-      "district": "9"
+      "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Steve_Mueller"
     }
   ],
   "senate": [
@@ -157,6 +159,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Sadler",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -263,6 +266,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ted_Cruz",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

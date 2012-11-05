@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "KY",
       "state_name": "Kentucky",
-      "district": "1"
+      "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Charles_Kendall_Hatchett"
     },
     {
       "photo_filename": "Ed_Whitfield.jpg",
@@ -19,6 +20,7 @@
       "state": "KY",
       "state_name": "Kentucky",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ed_Whitfield",
       "entity_id": "e8b0cb4d6afe4573a949362db4db3183",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Ed_Whitfield",

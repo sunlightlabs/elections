@@ -9,6 +9,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Hirschbiel",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -120,6 +121,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Scott_Rigell",
       "entity_id": "ed77d4ca071b4e9c906248d122ff284f",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Scott_Rigell",
@@ -238,6 +240,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tim_Kaine",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -353,7 +356,8 @@
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/George_Allen"
     }
   ]
 }

@@ -9,6 +9,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Karen_Ramsburg",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -56,6 +57,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bill_Shuster",
       "entity_id": "32887b242ec74a87b45066f70031e13c",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bill_Shuster",
@@ -184,6 +186,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Casey,_Jr.",
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
@@ -314,7 +317,8 @@
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tom_Smith"
     }
   ]
 }

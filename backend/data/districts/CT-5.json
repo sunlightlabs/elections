@@ -9,6 +9,7 @@
       "state": "CT",
       "state_name": "Connecticut",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Elizabeth_Esty",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -114,7 +115,8 @@
       "chamber": "house",
       "state": "CT",
       "state_name": "Connecticut",
-      "district": "5"
+      "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Andrew_Roraback"
     }
   ],
   "senate": [
@@ -127,6 +129,7 @@
       "state": "CT",
       "state_name": "Connecticut",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Christopher_S._Murphy",
       "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Chris_Murphy_%28politician%29",
@@ -227,7 +230,8 @@
       "chamber": "senate",
       "state": "CT",
       "state_name": "Connecticut",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Linda_McMahon"
     }
   ]
 }

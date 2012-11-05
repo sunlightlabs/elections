@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
-      "district": "7"
+      "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Upendra_Chivukula"
     },
     {
       "photo_filename": "Leonard_Lance.jpg",
@@ -19,6 +20,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Leonard_Lance",
       "entity_id": "77bdd01dbfb246c8860f2af60c4ba7fd",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Leonard_Lance",
@@ -147,6 +149,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Menendez",
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Menendez",
@@ -287,7 +290,8 @@
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Joe_Kyrillos"
     }
   ]
 }

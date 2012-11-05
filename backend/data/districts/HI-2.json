@@ -9,6 +9,7 @@
       "state": "HI",
       "state_name": "Hawaii",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tulsi_Gabbard",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -114,7 +115,8 @@
       "chamber": "house",
       "state": "HI",
       "state_name": "Hawaii",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/David_Crowley"
     }
   ],
   "senate": [
@@ -127,6 +129,7 @@
       "state": "HI",
       "state_name": "Hawaii",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mazie_Hirono",
       "entity_id": "79f92c32d0a244009c8c296dd4daff30",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Mazie_Hirono",
@@ -272,7 +275,8 @@
       "chamber": "senate",
       "state": "HI",
       "state_name": "Hawaii",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Linda_Lingle"
     }
   ]
 }

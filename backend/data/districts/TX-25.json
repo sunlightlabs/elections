@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
-      "district": "25"
+      "district": "25",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Elaine_Henderson"
     },
     {
       "photo_filename": "Roger_Williams.jpg",
@@ -18,7 +19,8 @@
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
-      "district": "25"
+      "district": "25",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Roger_Williams"
     }
   ],
   "senate": [
@@ -31,6 +33,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Sadler",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -137,6 +140,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ted_Cruz",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

@@ -9,6 +9,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": "28",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Henry_Cuellar",
       "entity_id": "1a82c65424d4492eb14f484f50317177",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Henry_Cuellar",
@@ -134,7 +135,8 @@
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
-      "district": "28"
+      "district": "28",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/William_Hayward"
     }
   ],
   "senate": [
@@ -147,6 +149,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Sadler",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -253,6 +256,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ted_Cruz",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "KY",
       "state_name": "Kentucky",
-      "district": "5"
+      "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kenneth_Stepp"
     },
     {
       "photo_filename": "Hal_Rogers.JPG",
@@ -19,6 +20,7 @@
       "state": "KY",
       "state_name": "Kentucky",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Hal_Rogers",
       "entity_id": "80b2a622c2ea4d3f8de8a4b7e3a139db",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Hal_Rogers",

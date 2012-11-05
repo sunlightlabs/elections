@@ -9,6 +9,7 @@
       "state": "WA",
       "state_name": "Washington",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Rick_Larsen",
       "entity_id": "4cc8661e10084bdca2aa022bd5f8835d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Rick_Larsen",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dan_Matthews_(Washington)"
     }
   ],
   "senate": [
@@ -157,6 +159,7 @@
       "state": "WA",
       "state_name": "Washington",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Maria_Cantwell",
       "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Maria_Cantwell",
@@ -302,7 +305,8 @@
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Michael_Baumgartner"
     }
   ]
 }

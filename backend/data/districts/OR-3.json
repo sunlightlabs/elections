@@ -9,6 +9,7 @@
       "state": "OR",
       "state_name": "Oregon",
       "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Earl_Blumenauer",
       "entity_id": "bbfb51c7fc764ad38f6298b35ee05829",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Earl_Blumenauer",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "OR",
       "state_name": "Oregon",
-      "district": "3"
+      "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ronald_Green"
     }
   ],
   "senate": [

@@ -9,6 +9,7 @@
       "state": "GA",
       "state_name": "Georgia",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/John_Lewis_(Georgia)",
       "entity_id": "5fd8a4d7d8e6404588a0755a0358be15",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_Lewis_%28U.S._politician%29",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
-      "district": "5"
+      "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Howard_Stopeck"
     }
   ],
   "senate": [

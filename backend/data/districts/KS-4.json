@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "KS",
       "state_name": "Kansas",
-      "district": "4"
+      "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Robert_Leon_Tillman"
     },
     {
       "photo_filename": "Mike_Pompeo.jpg",
@@ -19,6 +20,7 @@
       "state": "KS",
       "state_name": "Kansas",
       "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mike_Pompeo",
       "entity_id": "8f768c08e1ce4a43a4c7044fb7fe8d10",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mike_Pompeo",

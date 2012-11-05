@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "MS",
       "state_name": "Mississippi",
-      "district": "4"
+      "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Matthew_Moore"
     },
     {
       "photo_filename": "Steven_Palazzo.jpg",
@@ -19,6 +20,7 @@
       "state": "MS",
       "state_name": "Mississippi",
       "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Steven_Palazzo",
       "entity_id": "018e5c0964614d0882138d77e1052be4",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Steven_Palazzo",
@@ -141,7 +143,8 @@
       "chamber": "senate",
       "state": "MS",
       "state_name": "Mississippi",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Albert_N._Gore"
     },
     {
       "photo_filename": "Roger_Wicker.jpg",
@@ -152,6 +155,7 @@
       "state": "MS",
       "state_name": "Mississippi",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Roger_Wicker",
       "entity_id": "159c40291deb455596155ded63972bf4",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Roger_Wicker",

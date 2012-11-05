@@ -9,6 +9,7 @@
       "state": "NC",
       "state_name": "North Carolina",
       "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mike_McIntyre",
       "entity_id": "a4c1a99aa50747fda4278b172cdc89a1",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mike_McIntyre",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
-      "district": "7"
+      "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/David_Rouzer"
     }
   ],
   "senate": [

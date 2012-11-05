@@ -9,6 +9,7 @@
       "state": "IL",
       "state_name": "Illinois",
       "district": "11",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bill_Foster",
       "entity_id": "3e192fde2cda4ca291a9850ad43776fb",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Bill_Foster_%28Illinois_politician%29",
@@ -115,6 +116,7 @@
       "state": "IL",
       "state_name": "Illinois",
       "district": "11",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Judy_Biggert",
       "entity_id": "372fa430380d488da5020fc05a69d88f",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Judy_Biggert",
@@ -235,7 +237,8 @@
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
-      "district": "11"
+      "district": "11",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Diane_Harris"
     }
   ],
   "senate": [

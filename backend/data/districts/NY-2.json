@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Vivianne_Falcone"
     },
     {
       "photo_filename": "Peter_T._King.jpg",
@@ -19,6 +20,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Peter_T._King",
       "entity_id": "ada5a2eb5d5a419b9fe732186ce96ffb",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Peter_T._King",
@@ -152,6 +154,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kirsten_Gillibrand",
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Kirsten_Gillibrand",
@@ -318,6 +321,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Wendy_Long",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

@@ -9,6 +9,7 @@
       "state": "TN",
       "state_name": "Tennessee",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jim_Cooper",
       "entity_id": "3ed27bb3c6f549428031a7333b377039",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jim_Cooper",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "TN",
       "state_name": "Tennessee",
-      "district": "5"
+      "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Brad_Staats"
     }
   ],
   "senate": [
@@ -156,7 +158,8 @@
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mark_Clayton"
     },
     {
       "photo_filename": "Bob_Corker.jpg",
@@ -167,6 +170,7 @@
       "state": "TN",
       "state_name": "Tennessee",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Corker",
       "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001071",

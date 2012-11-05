@@ -9,6 +9,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": "15",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ruben_Hinojosa",
       "entity_id": "827ccdda9277476fbac877ca5e8f9aa2",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000636",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
-      "district": "15"
+      "district": "15",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dale_Brueggemann"
     }
   ],
   "senate": [
@@ -157,6 +159,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Sadler",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -263,6 +266,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ted_Cruz",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

@@ -9,6 +9,7 @@
       "state": "MA",
       "state_name": "Massachusetts",
       "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/William_Keating",
       "entity_id": "595b4e788e3e4c0a9979c25466716c49",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/William_R._Keating",
@@ -149,7 +150,8 @@
       "chamber": "house",
       "state": "MA",
       "state_name": "Massachusetts",
-      "district": "9"
+      "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Christopher_Sheldon"
     }
   ],
   "senate": [
@@ -162,6 +164,7 @@
       "state": "MA",
       "state_name": "Massachusetts",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Elizabeth_Warren",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -283,6 +286,7 @@
       "state": "MA",
       "state_name": "Massachusetts",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Scott_Brown",
       "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Scott_Brown",

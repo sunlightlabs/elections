@@ -9,6 +9,7 @@
       "state": "AL",
       "state_name": "Alabama",
       "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Terri_Sewell",
       "entity_id": "33e87aacd2f244f7a2ceedec1d1cf27a",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=S001185",
@@ -129,7 +130,8 @@
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
-      "district": "7"
+      "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Don_Chamberlain"
     }
   ],
   "senate": [

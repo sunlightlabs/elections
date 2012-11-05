@@ -9,6 +9,7 @@
       "state": "MD",
       "state_name": "Maryland",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dutch_Ruppersberger",
       "entity_id": "6965e4b1e5c4449dba46c9de2cfa9915",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dutch_Ruppersberger",
@@ -114,7 +115,8 @@
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Nancy_Jacobs"
     },
     {
       "photo_filename": "Ray_Bly.jpg",
@@ -124,7 +126,8 @@
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ray_Bly"
     }
   ],
   "senate": [
@@ -137,6 +140,7 @@
       "state": "MD",
       "state_name": "Maryland",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ben_Cardin",
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000141",
@@ -277,7 +281,8 @@
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Lih_Young"
     },
     {
       "photo_filename": "Dan_Bongino.jpg",
@@ -287,7 +292,8 @@
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dan_Bongino"
     },
     {
       "photo_filename": null,
@@ -297,7 +303,8 @@
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mary_Podlesak"
     }
   ]
 }

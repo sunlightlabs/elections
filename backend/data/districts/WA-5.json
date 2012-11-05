@@ -9,6 +9,7 @@
       "state": "WA",
       "state_name": "Washington",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Rich_Cowan",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -114,7 +115,8 @@
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
-      "district": "5"
+      "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Cathy_McMorris_Rodgers"
     }
   ],
   "senate": [
@@ -127,6 +129,7 @@
       "state": "WA",
       "state_name": "Washington",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Maria_Cantwell",
       "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Maria_Cantwell",
@@ -272,7 +275,8 @@
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Michael_Baumgartner"
     }
   ]
 }

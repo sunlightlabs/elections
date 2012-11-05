@@ -9,6 +9,7 @@
       "state": "NV",
       "state_name": "Nevada",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dina_Titus",
       "entity_id": "be20f3d5548b465c81634c7ed9b005f5",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Dina_Titus",
@@ -124,7 +125,8 @@
       "chamber": "house",
       "state": "NV",
       "state_name": "Nevada",
-      "district": "1"
+      "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Chris_Edwards_(Nevada)"
     }
   ],
   "senate": [
@@ -137,6 +139,7 @@
       "state": "NV",
       "state_name": "Nevada",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Shelley_Berkley",
       "entity_id": "178edf596d6443ea95262c3606deaea5",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Shelley_Berkley",
@@ -273,6 +276,7 @@
       "state": "NV",
       "state_name": "Nevada",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dean_Heller",
       "entity_id": "ba79864862954007883d2b89c0ebfd43",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dean_Heller",

@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "WV",
       "state_name": "West Virginia",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Howard_Swint"
     },
     {
       "photo_filename": "Shelley_Moore_Capito.jpeg",
@@ -19,6 +20,7 @@
       "state": "WV",
       "state_name": "West Virginia",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Shelley_Moore_Capito",
       "entity_id": "aac4b4e13e554061be7a38f4229daa7d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Shelley_Moore_Capito",
@@ -142,6 +144,7 @@
       "state": "WV",
       "state_name": "West Virginia",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Joe_Manchin",
       "entity_id": "fea00787eb034cb2a11e8086a48db88e",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Joe_Manchin",
@@ -277,7 +280,8 @@
       "chamber": "senate",
       "state": "WV",
       "state_name": "West Virginia",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/John_Raese"
     }
   ]
 }

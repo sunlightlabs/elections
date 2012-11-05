@@ -9,6 +9,7 @@
       "state": "ME",
       "state_name": "Maine",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Chellie_Pingree",
       "entity_id": "bc890c70ed394f78a542cc8a34ca3a97",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Chellie_Pingree",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "ME",
       "state_name": "Maine",
-      "district": "1"
+      "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jonathan_Courtney"
     }
   ],
   "senate": [
@@ -152,6 +154,7 @@
       "state": "ME",
       "state_name": "Maine",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Cynthia_Dill",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -257,7 +260,8 @@
       "chamber": "senate",
       "state": "ME",
       "state_name": "Maine",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Charles_Summers"
     },
     {
       "photo_filename": null,
@@ -267,7 +271,8 @@
       "chamber": "senate",
       "state": "ME",
       "state_name": "Maine",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Angus_King"
     },
     {
       "photo_filename": null,
@@ -277,7 +282,8 @@
       "chamber": "senate",
       "state": "ME",
       "state_name": "Maine",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Danny_Francis_Dalton"
     },
     {
       "photo_filename": null,
@@ -287,7 +293,8 @@
       "chamber": "senate",
       "state": "ME",
       "state_name": "Maine",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Stephen_Woods"
     }
   ]
 }

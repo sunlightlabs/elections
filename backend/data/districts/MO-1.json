@@ -9,6 +9,7 @@
       "state": "MO",
       "state_name": "Missouri",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Lacy_Clay",
       "entity_id": "b2e5b793ceff42baa2b058bb43348223",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/William_Lacy_Clay%2C_Jr.",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "MO",
       "state_name": "Missouri",
-      "district": "1"
+      "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Robyn_Hamlin"
     }
   ],
   "senate": [
@@ -157,6 +159,7 @@
       "state": "MO",
       "state_name": "Missouri",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Claire_McCaskill",
       "entity_id": "98af4916592648c4aa992d8db00e6e5b",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Claire_McCaskill",
@@ -293,6 +296,7 @@
       "state": "MO",
       "state_name": "Missouri",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Todd_Akin",
       "entity_id": "28e6cce459e74dcbb575fa05def946e3",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Todd_Akin",

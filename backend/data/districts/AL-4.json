@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "AL",
       "state_name": "Alabama",
-      "district": "4"
+      "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Daniel_H._Boman"
     },
     {
       "photo_filename": "Robert_Aderholt.jpg",
@@ -19,6 +20,7 @@
       "state": "AL",
       "state_name": "Alabama",
       "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Robert_Aderholt",
       "entity_id": "cdc36ffaf0544515bc9588cfe52e611d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_Aderholt",

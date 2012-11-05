@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
-      "district": "1"
+      "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Rob_Andrews"
     },
     {
       "photo_filename": null,
@@ -18,7 +19,8 @@
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
-      "district": "1"
+      "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Greg_Horton"
     }
   ],
   "senate": [
@@ -31,6 +33,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Menendez",
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Menendez",
@@ -171,7 +174,8 @@
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Joe_Kyrillos"
     }
   ]
 }

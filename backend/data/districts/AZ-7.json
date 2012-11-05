@@ -9,6 +9,7 @@
       "state": "AZ",
       "state_name": "Arizona",
       "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ed_Pastor",
       "entity_id": "61b82805e2b4493cbb216019e5d4fd33",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Ed_Pastor",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "AZ",
       "state_name": "Arizona",
-      "district": "7"
+      "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Scott_Fistler"
     }
   ],
   "senate": [
@@ -157,6 +159,7 @@
       "state": "AZ",
       "state_name": "Arizona",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Richard_Carmona",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -263,6 +266,7 @@
       "state": "AZ",
       "state_name": "Arizona",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jeff_Flake",
       "entity_id": "be44f82d0528410fa74c71c886a152f5",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Jeff_Flake",

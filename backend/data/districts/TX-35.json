@@ -9,6 +9,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": "35",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Lloyd_Doggett",
       "entity_id": "3a654ebdcf72417890b34c0b6e50a3cd",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Lloyd_Doggett",
@@ -134,7 +135,8 @@
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
-      "district": "35"
+      "district": "35",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Susan_Narvaiz"
     }
   ],
   "senate": [
@@ -147,6 +149,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Sadler",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -253,6 +256,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ted_Cruz",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

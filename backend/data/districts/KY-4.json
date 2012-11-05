@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "KY",
       "state_name": "Kentucky",
-      "district": "4"
+      "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bill_Adkins"
     },
     {
       "photo_filename": "Thomas_Massie.jpg",
@@ -19,6 +20,7 @@
       "state": "KY",
       "state_name": "Kentucky",
       "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Thomas_Massie",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

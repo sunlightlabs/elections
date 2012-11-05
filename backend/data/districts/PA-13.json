@@ -9,6 +9,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "13",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Allyson_Schwartz",
       "entity_id": "fa92c96e468149eeab771564dff93ec7",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Allyson_Schwartz",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "PA",
       "state_name": "Pennsylvania",
-      "district": "13"
+      "district": "13",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Joe_Rooney"
     }
   ],
   "senate": [
@@ -157,6 +159,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Casey,_Jr.",
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
@@ -287,7 +290,8 @@
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tom_Smith"
     }
   ]
 }

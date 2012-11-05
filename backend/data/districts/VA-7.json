@@ -9,6 +9,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/E._Wayne_Powell",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -115,6 +116,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Eric_Cantor",
       "entity_id": "f06d74b4063a4081bd929738ecf80194",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Eric_Cantor",
@@ -238,6 +240,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tim_Kaine",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -353,7 +356,8 @@
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/George_Allen"
     }
   ]
 }

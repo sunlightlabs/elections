@@ -9,6 +9,7 @@
       "state": "MN",
       "state_name": "Minnesota",
       "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Collin_Peterson",
       "entity_id": "c84099ce5eb64a988f1705b7d052cf61",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Collin_Peterson",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
-      "district": "7"
+      "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Lee_Byberg"
     }
   ],
   "senate": [
@@ -152,6 +154,7 @@
       "state": "MN",
       "state_name": "Minnesota",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Amy_Klobuchar",
       "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Amy_Klobuchar",
@@ -288,6 +291,7 @@
       "state": "MN",
       "state_name": "Minnesota",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kurt_Bills",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

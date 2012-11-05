@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
-      "district": "50"
+      "district": "50",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/David_Secor"
     },
     {
       "photo_filename": "Duncan_Hunter.jpg",
@@ -19,6 +20,7 @@
       "state": "CA",
       "state_name": "California",
       "district": "50",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Duncan_Hunter",
       "entity_id": "ceed871e43774c76896f80127cac9aef",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Duncan_Hunter",
@@ -142,6 +144,7 @@
       "state": "CA",
       "state_name": "California",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dianne_Feinstein",
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dianne_Feinstein",
@@ -328,6 +331,7 @@
       "state": "CA",
       "state_name": "California",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Elizabeth_Emken",
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Elizabeth_Emken",

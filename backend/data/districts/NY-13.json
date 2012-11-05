@@ -9,6 +9,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": "13",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Charles_Rangel",
       "entity_id": "c7bae5b1210d4861b0445cde83222efa",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Charles_B._Rangel",
@@ -159,7 +160,8 @@
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
-      "district": "13"
+      "district": "13",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Craig_Schley"
     }
   ],
   "senate": [
@@ -172,6 +174,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kirsten_Gillibrand",
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Kirsten_Gillibrand",
@@ -338,6 +341,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Wendy_Long",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

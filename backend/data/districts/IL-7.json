@@ -9,6 +9,7 @@
       "state": "IL",
       "state_name": "Illinois",
       "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Danny_K._Davis",
       "entity_id": "776e8941d0cc408e9cc9cdfed00c6ce9",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Danny_K._Davis",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
-      "district": "7"
+      "district": "7",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Rita_Zak"
     }
   ],
   "senate": [

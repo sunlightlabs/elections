@@ -9,6 +9,7 @@
       "state": "CO",
       "state_name": "Colorado",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Diana_DeGette",
       "entity_id": "d34cf814990a4f8a9263686d7d08a437",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Diana_DeGette",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "CO",
       "state_name": "Colorado",
-      "district": "1"
+      "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Danny_Stroud"
     }
   ],
   "senate": [

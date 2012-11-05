@@ -9,6 +9,7 @@
       "state": "RI",
       "state_name": "Rhode Island",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/James_R._Langevin",
       "entity_id": "2ade542c9ee6486ca063f8b0333e7608",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/James_Langevin",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "RI",
       "state_name": "Rhode Island",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Michael_G._Riley"
     }
   ],
   "senate": [
@@ -152,6 +154,7 @@
       "state": "RI",
       "state_name": "Rhode Island",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Sheldon_Whitehouse",
       "entity_id": "64f4b76b98b440cc9bb6b8132cb8fba7",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sheldon_Whitehouse",
@@ -292,7 +295,8 @@
       "chamber": "senate",
       "state": "RI",
       "state_name": "Rhode Island",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Barry_Hinckley"
     }
   ]
 }

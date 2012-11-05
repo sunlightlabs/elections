@@ -9,6 +9,7 @@
       "state": "IN",
       "state_name": "Indiana",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Scott_Reske",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -114,7 +115,8 @@
       "chamber": "house",
       "state": "IN",
       "state_name": "Indiana",
-      "district": "5"
+      "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Susan_Brooks"
     }
   ],
   "senate": [
@@ -127,6 +129,7 @@
       "state": "IN",
       "state_name": "Indiana",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Joe_Donnelly",
       "entity_id": "4d86ffd297c84c059577c0afe4f8d0ee",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Joe_Donnelly",
@@ -258,6 +261,7 @@
       "state": "IN",
       "state_name": "Indiana",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Richard_Mourdock",
       "entity_id": "5b274cbfd935494cac8560f293fa68ba",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Richard_Mourdock",

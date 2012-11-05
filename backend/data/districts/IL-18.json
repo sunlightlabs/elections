@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
-      "district": "18"
+      "district": "18",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Steve_Waterworth"
     },
     {
       "photo_filename": "Aaron_Schock.jpg",
@@ -19,6 +20,7 @@
       "state": "IL",
       "state_name": "Illinois",
       "district": "18",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Aaron_Schock",
       "entity_id": "9471015ffe784d9c960721f08ba23e44",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Aaron_Schock",

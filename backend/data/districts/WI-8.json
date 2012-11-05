@@ -9,6 +9,7 @@
       "state": "WI",
       "state_name": "Wisconsin",
       "district": "8",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jamie_Wall",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -115,6 +116,7 @@
       "state": "WI",
       "state_name": "Wisconsin",
       "district": "8",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Reid_Ribble",
       "entity_id": "11bd6ed724be4cb09a12807d800f35fb",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Reid_Ribble",
@@ -238,6 +240,7 @@
       "state": "WI",
       "state_name": "Wisconsin",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tammy_Baldwin",
       "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Tammy_Baldwin",
@@ -383,7 +386,8 @@
       "chamber": "senate",
       "state": "WI",
       "state_name": "Wisconsin",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tommy_Thompson"
     }
   ]
 }

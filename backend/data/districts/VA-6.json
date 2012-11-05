@@ -9,6 +9,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": "6",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Andy_Schmookler",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -115,6 +116,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": "6",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Goodlatte",
       "entity_id": "26787e20a4c547b68922aa51339963f9",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Goodlatte",
@@ -248,6 +250,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tim_Kaine",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -363,7 +366,8 @@
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/George_Allen"
     }
   ]
 }

@@ -9,6 +9,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Shelley_Adler",
       "entity_id": "eabd1e38012549b0ab021530fa08f8f1",
       "incumbent": false,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=A000364",
@@ -115,6 +116,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jon_Runyan",
       "entity_id": "9329032b509b496784fc7a31b1103e78",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jon_Runyan",
@@ -238,6 +240,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Menendez",
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Menendez",
@@ -378,7 +381,8 @@
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Joe_Kyrillos"
     }
   ]
 }

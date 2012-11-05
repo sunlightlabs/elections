@@ -9,6 +9,7 @@
       "state": "IL",
       "state_name": "Illinois",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jesse_L._Jackson,_Jr.",
       "entity_id": "856f89e7052f4386a0c123a89be790f6",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jesse_Jackson%2C_Jr.",
@@ -119,7 +120,8 @@
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Brian_Woodworth"
     }
   ],
   "senate": [

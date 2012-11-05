@@ -9,6 +9,7 @@
       "state": "MS",
       "state_name": "Mississippi",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bennie_Thompson",
       "entity_id": "9b27589ad6f740778bfe3b60d841a285",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bennie_Thompson",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "MS",
       "state_name": "Mississippi",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bill_Marcy"
     }
   ],
   "senate": [
@@ -151,7 +153,8 @@
       "chamber": "senate",
       "state": "MS",
       "state_name": "Mississippi",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Albert_N._Gore"
     },
     {
       "photo_filename": "Roger_Wicker.jpg",
@@ -162,6 +165,7 @@
       "state": "MS",
       "state_name": "Mississippi",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Roger_Wicker",
       "entity_id": "159c40291deb455596155ded63972bf4",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Roger_Wicker",

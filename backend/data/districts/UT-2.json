@@ -9,6 +9,7 @@
       "state": "UT",
       "state_name": "Utah",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jay_Seegmiller",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -103,7 +104,8 @@
       "chamber": "house",
       "state": "UT",
       "state_name": "Utah",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Chris_Stewart"
     }
   ],
   "senate": [
@@ -116,6 +118,7 @@
       "state": "UT",
       "state_name": "Utah",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Scott_Howell",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -222,6 +225,7 @@
       "state": "UT",
       "state_name": "Utah",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Orrin_Hatch",
       "entity_id": "e5aa63ec4a0746fbb9961b325ddb3627",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Orrin_Hatch",

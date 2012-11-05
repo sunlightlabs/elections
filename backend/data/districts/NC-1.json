@@ -9,6 +9,7 @@
       "state": "NC",
       "state_name": "North Carolina",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/G.K._Butterfield",
       "entity_id": "7f5d375d86d84fbf9d97bfc6682a362c",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/G._K._Butterfield",
@@ -134,7 +135,8 @@
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
-      "district": "1"
+      "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Pete_DiLauro"
     }
   ],
   "senate": [

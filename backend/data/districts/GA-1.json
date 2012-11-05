@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
-      "district": "1"
+      "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Lesli_Rae_Messinger"
     },
     {
       "photo_filename": "Jack_Kingston.jpg",
@@ -19,6 +20,7 @@
       "state": "GA",
       "state_name": "Georgia",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jack_Kingston",
       "entity_id": "02b3c6f9a1ba458fbf9623e02cfd4001",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jack_Kingston",

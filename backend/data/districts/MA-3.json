@@ -9,6 +9,7 @@
       "state": "MA",
       "state_name": "Massachusetts",
       "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Niki_Tsongas",
       "entity_id": "f5b07ad6544c41919ca2ced56c0a46f0",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Niki_Tsongas",
@@ -149,7 +150,8 @@
       "chamber": "house",
       "state": "MA",
       "state_name": "Massachusetts",
-      "district": "3"
+      "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jon_Golnik"
     }
   ],
   "senate": [
@@ -162,6 +164,7 @@
       "state": "MA",
       "state_name": "Massachusetts",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Elizabeth_Warren",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -283,6 +286,7 @@
       "state": "MA",
       "state_name": "Massachusetts",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Scott_Brown",
       "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Scott_Brown",

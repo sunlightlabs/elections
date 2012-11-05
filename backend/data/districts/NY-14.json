@@ -9,6 +9,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": "14",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Joseph_Crowley",
       "entity_id": "eedb117c2f9f44a6ae15b8cccfb5b0ab",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Joseph_Crowley",
@@ -159,7 +160,8 @@
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
-      "district": "14"
+      "district": "14",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/William_Gibbons_Jr."
     }
   ],
   "senate": [
@@ -172,6 +174,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kirsten_Gillibrand",
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Kirsten_Gillibrand",
@@ -338,6 +341,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Wendy_Long",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

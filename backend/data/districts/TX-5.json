@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
-      "district": "5"
+      "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Linda_Mrosko"
     },
     {
       "photo_filename": "Jeb_Hensarling.png",
@@ -19,6 +20,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jeb_Hensarling",
       "entity_id": "c6a0bc7ec625492a9582fc6b83274583",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jeb_Hensarling",
@@ -152,6 +154,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Sadler",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -258,6 +261,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ted_Cruz",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

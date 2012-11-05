@@ -9,6 +9,7 @@
       "state": "WA",
       "state_name": "Washington",
       "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Adam_Smith",
       "entity_id": "132bd6de165540159b7d7fc51c8e9253",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Adam_Smith_%28politician%29",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "WA",
       "state_name": "Washington",
-      "district": "9"
+      "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/James_Postma"
     }
   ],
   "senate": [
@@ -157,6 +159,7 @@
       "state": "WA",
       "state_name": "Washington",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Maria_Cantwell",
       "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Maria_Cantwell",
@@ -302,7 +305,8 @@
       "chamber": "senate",
       "state": "WA",
       "state_name": "Washington",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Michael_Baumgartner"
     }
   ]
 }

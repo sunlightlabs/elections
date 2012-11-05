@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "GA",
       "state_name": "Georgia",
-      "district": "11"
+      "district": "11",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Patrick_Thompson"
     },
     {
       "photo_filename": "Phil_Gingrey.jpg",
@@ -19,6 +20,7 @@
       "state": "GA",
       "state_name": "Georgia",
       "district": "11",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Phil_Gingrey",
       "entity_id": "96a92ecaf7d04eacb4cca1d56c8674c0",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Phil_Gingrey",

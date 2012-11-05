@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "WY",
       "state_name": "Wyoming",
-      "district": "at_large"
+      "district": "at_large",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Chris_Henrichsen"
     },
     {
       "photo_filename": "Cynthia_Lummis.jpg",
@@ -19,6 +20,7 @@
       "state": "WY",
       "state_name": "Wyoming",
       "district": "at_large",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Cynthia_Lummis",
       "entity_id": "9ed4a9a7d54a470e886cc6a9b2837a69",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=L000571",
@@ -121,7 +123,8 @@
       "chamber": "senate",
       "state": "WY",
       "state_name": "Wyoming",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tim_Chesnut"
     },
     {
       "photo_filename": "John_Barrasso.jpg",
@@ -132,6 +135,7 @@
       "state": "WY",
       "state_name": "Wyoming",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/John_Barrasso",
       "entity_id": "68655d30048b451caee7d70688803273",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_Barrasso",

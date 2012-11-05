@@ -9,6 +9,7 @@
       "state": "MN",
       "state_name": "Minnesota",
       "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Betty_McCollum",
       "entity_id": "7f99871b176345a4b03827b179cef482",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Betty_McCollum",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "MN",
       "state_name": "Minnesota",
-      "district": "4"
+      "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tony_Hernandez"
     }
   ],
   "senate": [
@@ -157,6 +159,7 @@
       "state": "MN",
       "state_name": "Minnesota",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Amy_Klobuchar",
       "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Amy_Klobuchar",
@@ -293,6 +296,7 @@
       "state": "MN",
       "state_name": "Minnesota",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kurt_Bills",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

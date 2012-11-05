@@ -9,6 +9,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "12",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mark_Critz",
       "entity_id": "a26d4d7dd1754d4a863d55087a52b2a8",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mark_Critz",
@@ -145,6 +146,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "12",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Keith_Rothfus",
       "entity_id": "eb3523863f0c4b26ad49958c081596df",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Keith_Rothfus",
@@ -248,6 +250,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Casey,_Jr.",
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
@@ -378,7 +381,8 @@
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tom_Smith"
     }
   ]
 }

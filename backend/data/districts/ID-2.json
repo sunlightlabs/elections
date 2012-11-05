@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "ID",
       "state_name": "Idaho",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Nicole_LeFavour"
     },
     {
       "photo_filename": "Michael_K._Simpson.jpg",
@@ -19,6 +20,7 @@
       "state": "ID",
       "state_name": "Idaho",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Michael_K._Simpson",
       "entity_id": "f7c014715b7a4f0ea0aae56377c005fe",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mike_Simpson",

@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "TX",
       "state_name": "Texas",
-      "district": "36"
+      "district": "36",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Max_Martin"
     },
     {
       "photo_filename": "Steve_Stockman.jpg",
@@ -19,6 +20,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": "36",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Steve_Stockman",
       "entity_id": "2c46417161ac45f88a38aa130c30e600",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Steve_Stockman",
@@ -127,6 +129,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Sadler",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -233,6 +236,7 @@
       "state": "TX",
       "state_name": "Texas",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ted_Cruz",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

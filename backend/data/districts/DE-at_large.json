@@ -9,6 +9,7 @@
       "state": "DE",
       "state_name": "Delaware",
       "district": "at_large",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/John_C._Carney,_Jr.",
       "entity_id": "dcf7868accc44faa84577500a16cef3b",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_C._Carney%2C_Jr.",
@@ -129,7 +130,8 @@
       "chamber": "house",
       "state": "DE",
       "state_name": "Delaware",
-      "district": "at_large"
+      "district": "at_large",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tom_Kovach_(Delaware)"
     }
   ],
   "senate": [
@@ -142,6 +144,7 @@
       "state": "DE",
       "state_name": "Delaware",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tom_Carper",
       "entity_id": "68dd7ccd3e1141c1a7050627d87cd253",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000174",
@@ -272,7 +275,8 @@
       "chamber": "senate",
       "state": "DE",
       "state_name": "Delaware",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kevin_Wade"
     }
   ]
 }

@@ -9,6 +9,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": "17",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Nita_Lowey",
       "entity_id": "91708638ab1748d68df6218fbf26450f",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Nita_Lowey",
@@ -164,7 +165,8 @@
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
-      "district": "17"
+      "district": "17",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Joe_Carvin"
     }
   ],
   "senate": [
@@ -177,6 +179,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kirsten_Gillibrand",
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Kirsten_Gillibrand",
@@ -343,6 +346,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Wendy_Long",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

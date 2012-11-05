@@ -9,6 +9,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "15",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Rick_Daugherty",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -80,6 +81,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": "15",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Charlie_Dent",
       "entity_id": "9b07e0db2a53439b9c33ef057ec7c7ae",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Charlie_Dent",
@@ -203,6 +205,7 @@
       "state": "PA",
       "state_name": "Pennsylvania",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Casey,_Jr.",
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
@@ -333,7 +336,8 @@
       "chamber": "senate",
       "state": "PA",
       "state_name": "Pennsylvania",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tom_Smith"
     }
   ]
 }

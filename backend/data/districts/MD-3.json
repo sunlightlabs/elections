@@ -9,6 +9,7 @@
       "state": "MD",
       "state_name": "Maryland",
       "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/John_Sarbanes",
       "entity_id": "2d96f89c25b241a6bd72a79c70b4e5fa",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/John_Sarbanes",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "MD",
       "state_name": "Maryland",
-      "district": "3"
+      "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Eric_Delano_Knowles"
     }
   ],
   "senate": [
@@ -152,6 +154,7 @@
       "state": "MD",
       "state_name": "Maryland",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ben_Cardin",
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000141",
@@ -292,7 +295,8 @@
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Lih_Young"
     },
     {
       "photo_filename": "Dan_Bongino.jpg",
@@ -302,7 +306,8 @@
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dan_Bongino"
     },
     {
       "photo_filename": null,
@@ -312,7 +317,8 @@
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mary_Podlesak"
     }
   ]
 }

@@ -9,6 +9,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": "20",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Tonko",
       "entity_id": "996d2f5d32c640e3be424680d4ce59fb",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Paul_Tonko",
@@ -149,7 +150,8 @@
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
-      "district": "20"
+      "district": "20",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Robert_Dieterich"
     }
   ],
   "senate": [
@@ -162,6 +164,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kirsten_Gillibrand",
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Kirsten_Gillibrand",
@@ -328,6 +331,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Wendy_Long",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

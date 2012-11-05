@@ -9,6 +9,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "11",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/John_Arvanites",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -120,6 +121,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "11",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Rodney_Frelinghuysen",
       "entity_id": "9e7e3bd08a4749d68ab359b0bb9745a3",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Rodney_Frelinghuysen",
@@ -243,6 +245,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Menendez",
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Menendez",
@@ -383,7 +386,8 @@
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Joe_Kyrillos"
     }
   ]
 }

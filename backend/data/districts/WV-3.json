@@ -9,6 +9,7 @@
       "state": "WV",
       "state_name": "West Virginia",
       "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Nick_Rahall",
       "entity_id": "b1939928e8ab4dc2b50ff24fbfc1e6ff",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Nick_Rahall",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "WV",
       "state_name": "West Virginia",
-      "district": "3"
+      "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Rick_Snuffer"
     }
   ],
   "senate": [
@@ -157,6 +159,7 @@
       "state": "WV",
       "state_name": "West Virginia",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Joe_Manchin",
       "entity_id": "fea00787eb034cb2a11e8086a48db88e",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Joe_Manchin",
@@ -292,7 +295,8 @@
       "chamber": "senate",
       "state": "WV",
       "state_name": "West Virginia",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/John_Raese"
     }
   ]
 }

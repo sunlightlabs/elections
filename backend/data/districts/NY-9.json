@@ -9,6 +9,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Yvette_Clarke",
       "entity_id": "8c09ee1f2f314e32ac166efa2acef2d9",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Yvette_Clarke",
@@ -164,7 +165,8 @@
       "chamber": "house",
       "state": "NY",
       "state_name": "New York",
-      "district": "9"
+      "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Daniel_Cavanagh"
     }
   ],
   "senate": [
@@ -177,6 +179,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kirsten_Gillibrand",
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Kirsten_Gillibrand",
@@ -343,6 +346,7 @@
       "state": "NY",
       "state_name": "New York",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Wendy_Long",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

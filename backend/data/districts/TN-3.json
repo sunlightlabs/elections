@@ -9,6 +9,7 @@
       "state": "TN",
       "state_name": "Tennessee",
       "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mary_Headrick",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -67,6 +68,7 @@
       "state": "TN",
       "state_name": "Tennessee",
       "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Charles_J._Fleischmann",
       "entity_id": "27fad0b2769a44e2aff0ef83489a7517",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Chuck_Fleischmann",
@@ -189,7 +191,8 @@
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mark_Clayton"
     },
     {
       "photo_filename": "Bob_Corker.jpg",
@@ -200,6 +203,7 @@
       "state": "TN",
       "state_name": "Tennessee",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Corker",
       "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001071",

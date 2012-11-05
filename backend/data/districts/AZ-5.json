@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "AZ",
       "state_name": "Arizona",
-      "district": "5"
+      "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Morgan_Spencer"
     },
     {
       "photo_filename": "Matt_Salmon.jpg",
@@ -18,7 +19,8 @@
       "chamber": "house",
       "state": "AZ",
       "state_name": "Arizona",
-      "district": "5"
+      "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Matt_Salmon"
     }
   ],
   "senate": [
@@ -31,6 +33,7 @@
       "state": "AZ",
       "state_name": "Arizona",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Richard_Carmona",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -137,6 +140,7 @@
       "state": "AZ",
       "state_name": "Arizona",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jeff_Flake",
       "entity_id": "be44f82d0528410fa74c71c886a152f5",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Jeff_Flake",

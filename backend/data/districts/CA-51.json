@@ -9,6 +9,7 @@
       "state": "CA",
       "state_name": "California",
       "district": "51",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Juan_Vargas",
       "entity_id": "722f9397a19f4c52bb91e20f6e25ca8e",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Juan_Vargas",
@@ -114,7 +115,8 @@
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
-      "district": "51"
+      "district": "51",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Michael_Crimmins"
     }
   ],
   "senate": [
@@ -127,6 +129,7 @@
       "state": "CA",
       "state_name": "California",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dianne_Feinstein",
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dianne_Feinstein",
@@ -313,6 +316,7 @@
       "state": "CA",
       "state_name": "California",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Elizabeth_Emken",
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Elizabeth_Emken",

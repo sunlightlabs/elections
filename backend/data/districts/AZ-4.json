@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "AZ",
       "state_name": "Arizona",
-      "district": "4"
+      "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Johnnie_Robinson"
     },
     {
       "photo_filename": "Paul_Gosar.jpg",
@@ -19,6 +20,7 @@
       "state": "AZ",
       "state_name": "Arizona",
       "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Gosar",
       "entity_id": "bf26c4574ec744038ad724a9494c40ef",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Paul_Gosar",
@@ -142,6 +144,7 @@
       "state": "AZ",
       "state_name": "Arizona",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Richard_Carmona",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -248,6 +251,7 @@
       "state": "AZ",
       "state_name": "Arizona",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jeff_Flake",
       "entity_id": "be44f82d0528410fa74c71c886a152f5",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Jeff_Flake",

@@ -9,6 +9,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Robert_C._Scott",
       "entity_id": "d455c6ec610c4c33b086293092defe32",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bobby_Scott_%28U.S._politician%29",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "VA",
       "state_name": "Virginia",
-      "district": "3"
+      "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dean_Longo"
     }
   ],
   "senate": [
@@ -157,6 +159,7 @@
       "state": "VA",
       "state_name": "Virginia",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tim_Kaine",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -272,7 +275,8 @@
       "chamber": "senate",
       "state": "VA",
       "state_name": "Virginia",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/George_Allen"
     }
   ]
 }

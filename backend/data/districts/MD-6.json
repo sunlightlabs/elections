@@ -9,6 +9,7 @@
       "state": "MD",
       "state_name": "Maryland",
       "district": "6",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/John_Delaney",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -120,6 +121,7 @@
       "state": "MD",
       "state_name": "Maryland",
       "district": "6",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Roscoe_Bartlett",
       "entity_id": "a0ec0c8a79524903bda3221e9086783a",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Joseph_R._Bartlett",
@@ -248,6 +250,7 @@
       "state": "MD",
       "state_name": "Maryland",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Ben_Cardin",
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000141",
@@ -388,7 +391,8 @@
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Lih_Young"
     },
     {
       "photo_filename": "Dan_Bongino.jpg",
@@ -398,7 +402,8 @@
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dan_Bongino"
     },
     {
       "photo_filename": null,
@@ -408,7 +413,8 @@
       "chamber": "senate",
       "state": "MD",
       "state_name": "Maryland",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mary_Podlesak"
     }
   ]
 }

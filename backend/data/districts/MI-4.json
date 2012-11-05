@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "MI",
       "state_name": "Michigan",
-      "district": "4"
+      "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Debra_Freidell_Wirth"
     },
     {
       "photo_filename": "Dave_Camp.jpg",
@@ -19,6 +20,7 @@
       "state": "MI",
       "state_name": "Michigan",
       "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dave_Camp",
       "entity_id": "bef0722c43dc482299d75fa90f163944",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/David_Lee_Camp",
@@ -142,6 +144,7 @@
       "state": "MI",
       "state_name": "Michigan",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Debbie_Stabenow",
       "entity_id": "f0b2ed36768d4c99b3ba68d3a553d8d8",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Debbie_Stabenow",
@@ -278,6 +281,7 @@
       "state": "MI",
       "state_name": "Michigan",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Pete_Hoekstra",
       "entity_id": "ee58b1dc41824d21aa87f9e9063aa0e7",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Pete_Hoekstra",

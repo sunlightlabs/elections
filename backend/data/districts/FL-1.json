@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "FL",
       "state_name": "Florida",
-      "district": "1"
+      "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/James_Bryan"
     },
     {
       "photo_filename": "Jeff_Miller_(Florida).jpg",
@@ -19,6 +20,7 @@
       "state": "FL",
       "state_name": "Florida",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jeff_Miller_(Florida)",
       "entity_id": "bfde006b53cc45f6a3e50e9567216518",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Jeff_Miller",
@@ -142,6 +144,7 @@
       "state": "FL",
       "state_name": "Florida",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bill_Nelson_(Florida)",
       "entity_id": "5a1a3576871e459e9bb0af1a1d5cd826",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=N000032",
@@ -278,6 +281,7 @@
       "state": "FL",
       "state_name": "Florida",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Connie_Mack",
       "entity_id": "0bcd3fa0d6a1461d9e8e2948bd853c1e",
       "incumbent": false,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=M001155",

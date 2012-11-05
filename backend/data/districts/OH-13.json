@@ -9,6 +9,7 @@
       "state": "OH",
       "state_name": "Ohio",
       "district": "13",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tim_Ryan_(Ohio)",
       "entity_id": "3df139483e7b42ad8535444bdaf30d30",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Tim_Ryan",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
-      "district": "13"
+      "district": "13",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Marisha_Agana"
     }
   ],
   "senate": [
@@ -152,6 +154,7 @@
       "state": "OH",
       "state_name": "Ohio",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Sherrod_Brown",
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sherrod_Brown",
@@ -293,6 +296,7 @@
       "state": "OH",
       "state_name": "Ohio",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Josh_Mandel",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

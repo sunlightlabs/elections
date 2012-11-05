@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "AZ",
       "state_name": "Arizona",
-      "district": "8"
+      "district": "8",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Gene_Scharer"
     },
     {
       "photo_filename": "Trent_Franks.jpg",
@@ -19,6 +20,7 @@
       "state": "AZ",
       "state_name": "Arizona",
       "district": "8",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Trent_Franks",
       "entity_id": "8d13019467b2459eaad79c5073288bd4",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Trent_Franks",
@@ -147,6 +149,7 @@
       "state": "AZ",
       "state_name": "Arizona",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Richard_Carmona",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -253,6 +256,7 @@
       "state": "AZ",
       "state_name": "Arizona",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jeff_Flake",
       "entity_id": "be44f82d0528410fa74c71c886a152f5",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Jeff_Flake",

@@ -9,6 +9,7 @@
       "state": "WI",
       "state_name": "Wisconsin",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Rob_Zerban",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -115,6 +116,7 @@
       "state": "WI",
       "state_name": "Wisconsin",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Paul_Ryan",
       "entity_id": "474e8f584c074198b768cb985c604232",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Paul_Ryan",
@@ -243,6 +245,7 @@
       "state": "WI",
       "state_name": "Wisconsin",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tammy_Baldwin",
       "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Tammy_Baldwin",
@@ -388,7 +391,8 @@
       "chamber": "senate",
       "state": "WI",
       "state_name": "Wisconsin",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tommy_Thompson"
     }
   ]
 }

@@ -9,6 +9,7 @@
       "state": "OR",
       "state_name": "Oregon",
       "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Kurt_Schrader",
       "entity_id": "6f48017cfaf24da1be8f3fca4b637597",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Kurt_Schrader",
@@ -129,7 +130,8 @@
       "chamber": "house",
       "state": "OR",
       "state_name": "Oregon",
-      "district": "5"
+      "district": "5",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Fred_Thompson"
     }
   ],
   "senate": [

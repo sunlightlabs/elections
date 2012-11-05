@@ -9,6 +9,7 @@
       "state": "IL",
       "state_name": "Illinois",
       "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Luis_V._Gutierrez",
       "entity_id": "d5a49e57b03a47f6a89287559df7e091",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=G000535",
@@ -134,7 +135,8 @@
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
-      "district": "4"
+      "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jorge_Zavala"
     },
     {
       "photo_filename": null,
@@ -144,7 +146,8 @@
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
-      "district": "4"
+      "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Hector_Concepcion"
     }
   ],
   "senate": [

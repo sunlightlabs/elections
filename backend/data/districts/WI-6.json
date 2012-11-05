@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "WI",
       "state_name": "Wisconsin",
-      "district": "6"
+      "district": "6",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Joe_Kallas"
     },
     {
       "photo_filename": "Tom_Petri.jpg",
@@ -19,6 +20,7 @@
       "state": "WI",
       "state_name": "Wisconsin",
       "district": "6",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tom_Petri",
       "entity_id": "d11c75294ed74803b546afb2cdc595ca",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Tom_Petri",
@@ -147,6 +149,7 @@
       "state": "WI",
       "state_name": "Wisconsin",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tammy_Baldwin",
       "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Tammy_Baldwin",
@@ -292,7 +295,8 @@
       "chamber": "senate",
       "state": "WI",
       "state_name": "Wisconsin",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Tommy_Thompson"
     }
   ]
 }

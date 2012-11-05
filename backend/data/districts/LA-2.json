@@ -9,6 +9,7 @@
       "state": "LA",
       "state_name": "Louisiana",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Cedric_Richmond",
       "entity_id": "a5b25d4323cd4feca478301959787daf",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Cedric_Richmond",
@@ -134,7 +135,8 @@
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Gary_Landrieu"
     },
     {
       "photo_filename": null,
@@ -144,7 +146,8 @@
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dwayne_Bailey"
     },
     {
       "photo_filename": null,
@@ -154,7 +157,8 @@
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Josue_Larose"
     }
   ],
   "senate": [

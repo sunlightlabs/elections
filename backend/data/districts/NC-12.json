@@ -9,6 +9,7 @@
       "state": "NC",
       "state_name": "North Carolina",
       "district": "12",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Melvin_L._Watt",
       "entity_id": "c17641e1cebd490fab943db05c75fd2d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Mel_Watt",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "NC",
       "state_name": "North Carolina",
-      "district": "12"
+      "district": "12",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Jack_Brosch"
     }
   ],
   "senate": [

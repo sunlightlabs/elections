@@ -9,6 +9,7 @@
       "state": "NV",
       "state_name": "Nevada",
       "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Steven_Horsford",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -109,7 +110,8 @@
       "chamber": "house",
       "state": "NV",
       "state_name": "Nevada",
-      "district": "4"
+      "district": "4",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Danny_Tarkanian"
     }
   ],
   "senate": [
@@ -122,6 +124,7 @@
       "state": "NV",
       "state_name": "Nevada",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Shelley_Berkley",
       "entity_id": "178edf596d6443ea95262c3606deaea5",
       "incumbent": false,
       "bio_url": "http://en.wikipedia.org/wiki/Shelley_Berkley",
@@ -258,6 +261,7 @@
       "state": "NV",
       "state_name": "Nevada",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Dean_Heller",
       "entity_id": "ba79864862954007883d2b89c0ebfd43",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Dean_Heller",

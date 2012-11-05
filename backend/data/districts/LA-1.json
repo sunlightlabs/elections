@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",
-      "district": "1"
+      "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/M.V._Mendoza"
     },
     {
       "photo_filename": "Steve_Scalise.jpg",
@@ -19,6 +20,7 @@
       "state": "LA",
       "state_name": "Louisiana",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Steve_Scalise",
       "entity_id": "b3bf01adf2fc43209381e342e83ef6fc",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Steve_Scalise",
@@ -144,7 +146,8 @@
       "chamber": "house",
       "state": "LA",
       "state_name": "Louisiana",
-      "district": "1"
+      "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Gary_King_(Louisiana)"
     }
   ],
   "senate": [

@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
-      "district": "2"
+      "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/William_R._Smith"
     },
     {
       "photo_filename": "Brad_Wenstrup.JPG",
@@ -19,6 +20,7 @@
       "state": "OH",
       "state_name": "Ohio",
       "district": "2",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Brad_Wenstrup",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -122,6 +124,7 @@
       "state": "OH",
       "state_name": "Ohio",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Sherrod_Brown",
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sherrod_Brown",
@@ -263,6 +266,7 @@
       "state": "OH",
       "state_name": "Ohio",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Josh_Mandel",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

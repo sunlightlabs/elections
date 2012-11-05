@@ -9,6 +9,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "district": "12",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Rush_D._Holt,_Jr.",
       "entity_id": "0ea17932c8c74377a1d9e2906bcf64c4",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Rush_D._Holt%2C_Jr.",
@@ -144,7 +145,8 @@
       "chamber": "house",
       "state": "NJ",
       "state_name": "New Jersey",
-      "district": "12"
+      "district": "12",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Eric_Beck"
     }
   ],
   "senate": [
@@ -157,6 +159,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Menendez",
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bob_Menendez",
@@ -297,7 +300,8 @@
       "chamber": "senate",
       "state": "NJ",
       "state_name": "New Jersey",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Joe_Kyrillos"
     }
   ]
 }

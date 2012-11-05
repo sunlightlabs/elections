@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "OK",
       "state_name": "Oklahoma",
-      "district": "3"
+      "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Timothy_Ray_Murray"
     },
     {
       "photo_filename": "Frank_D._Lucas.jpg",
@@ -19,6 +20,7 @@
       "state": "OK",
       "state_name": "Oklahoma",
       "district": "3",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Frank_D._Lucas",
       "entity_id": "ec605250c0cb40f3859a631d3e5645d1",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Frank_Lucas_%28Oklahoma%29",

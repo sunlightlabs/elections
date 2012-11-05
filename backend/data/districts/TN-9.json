@@ -9,6 +9,7 @@
       "state": "TN",
       "state_name": "Tennessee",
       "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Steve_Cohen",
       "entity_id": "6552a8bde0d14af9b26fbb767ce2af04",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Steve_Cohen",
@@ -140,6 +141,7 @@
       "state": "TN",
       "state_name": "Tennessee",
       "district": "9",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/George_Flinn_Jr.",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,
@@ -247,7 +249,8 @@
       "chamber": "senate",
       "state": "TN",
       "state_name": "Tennessee",
-      "district": null
+      "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Mark_Clayton"
     },
     {
       "photo_filename": "Bob_Corker.jpg",
@@ -258,6 +261,7 @@
       "state": "TN",
       "state_name": "Tennessee",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bob_Corker",
       "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "incumbent": true,
       "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001071",

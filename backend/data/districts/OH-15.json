@@ -8,7 +8,8 @@
       "chamber": "house",
       "state": "OH",
       "state_name": "Ohio",
-      "district": "15"
+      "district": "15",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Pat_Lang"
     },
     {
       "photo_filename": "Steve_Stivers.jpg",
@@ -19,6 +20,7 @@
       "state": "OH",
       "state_name": "Ohio",
       "district": "15",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Steve_Stivers",
       "entity_id": "2df904c75ad94bb792b817aceda05e8f",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Steve_Stivers",
@@ -142,6 +144,7 @@
       "state": "OH",
       "state_name": "Ohio",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Sherrod_Brown",
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Sherrod_Brown",
@@ -283,6 +286,7 @@
       "state": "OH",
       "state_name": "Ohio",
       "district": null,
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Josh_Mandel",
       "entity_id": null,
       "incumbent": false,
       "bio_url": null,

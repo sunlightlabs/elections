@@ -9,6 +9,7 @@
       "state": "IL",
       "state_name": "Illinois",
       "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Bobby_L._Rush",
       "entity_id": "d06f13db42d842d38a6505b0d66977d3",
       "incumbent": true,
       "bio_url": "http://en.wikipedia.org/wiki/Bobby_Rush",
@@ -139,7 +140,8 @@
       "chamber": "house",
       "state": "IL",
       "state_name": "Illinois",
-      "district": "1"
+      "district": "1",
+      "ballotpedia_url": "http://ballotpedia.org/wiki/index.php/Donald_Peloquin"
     }
   ],
   "senate": [
