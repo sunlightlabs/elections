@@ -31,3 +31,4 @@ pip-log.txt
 # Jekyll
 frontend/_site
 frontend/json
+frontend/thumbs
