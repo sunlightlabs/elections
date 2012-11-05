@@ -1,7 +1,7 @@
 (function($) {
 
 // Models
-var District = Backbone.Model.extend({ url: function() { return "/json/" + this.id + ".json"; } });
+var District = Backbone.Model.extend({ url: function() { return "/json/" + this.id.replace("-0", "-") + ".json"; } });
 
 // Template Helpers
 var helpers = {
@@ -83,15 +83,19 @@ var DistrictView = Backbone.View.extend({
 
     template: _.template($('#district-tpl').html()),
     candidateTemplate: _.template($('#candidate-tpl').html()),
-    render: function() {
+    render: function(opts) {
         this.model.fetch({
             'success': $.proxy(function() {
                 var view = this;
                 var context = this.model.toJSON();
                 this.$el.html(this.template(_.extend(context, helpers, {'candidateTemplate': function(ctx) { return view.candidateTemplate(_.extend({}, helpers, ctx)); } })));
+
+                if (opts.anchor) {
+                    $(window).scrollTop($('.' + opts.anchor + "-anchor").offset().top);
+                }
             }, this),
             'error': function() {
-                app.navigate("error/district_not_found", {'trigger': true});
+                app.navigate("error/district_not_found", {'trigger': true, 'replace': true});
             }
         })
         return this;
@@ -153,6 +157,7 @@ var AppRouter = Backbone.Router.extend({
     initialize: function() {
         //routes
         this.route("district/:id", "districtDetail");
+        this.route("district/:id!:anchor", "districtDetail");
         this.route("error/:id", "error");
         this.route("", "home");
 
@@ -164,10 +169,10 @@ var AppRouter = Backbone.Router.extend({
         $('#main').html(homeView.render().el);
     },
 
-    districtDetail: function(id) {
+    districtDetail: function(id, anchor) {
         var district = new District({'id': id});
         var view = new DistrictView({model: district});
-        $('#main').html(view.render().el);
+        $('#main').html(view.render({'anchor': anchor}).el);
     },
 
     error: function(id) {
