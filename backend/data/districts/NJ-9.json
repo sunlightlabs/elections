@@ -1,6 +1,109 @@
 {
   "house": [
-
+    {
+      "entity_id": "e51aee1088c9425e8667fe3f6846f3d2",
+      "name": "Bill Pascrell Jr",
+      "chamber": "house",
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "district": "9",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Bill_Pascrell",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000096.jpg",
+      "seat_status": "I",
+      "bioguide_id": "P000096",
+      "fec_summary": {
+        "contributions_pac": "1067440.50",
+        "office": "H",
+        "total_receipts_rank": 48,
+        "max_rank": 717,
+        "contributions_candidate": "80000.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 143,
+        "total_raised": "2644057.67",
+        "disbursements": "3119860.97",
+        "total_disbursements_rank": 21,
+        "date": "2012-10-17",
+        "contributions_indiv": "1466992.17",
+        "contributions_party": "5157.76",
+        "cash_on_hand": "531344.74"
+      },
+      "industries": [
+        {
+          "count": "2516",
+          "amount": "1202876.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "632",
+          "amount": "542260.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "736",
+          "amount": "479982.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "383",
+          "amount": "443150.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "246",
+          "amount": "401150.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "303",
+          "amount": "362678.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "625",
+          "amount": "356356.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "182",
+          "amount": "338500.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "485",
+          "amount": "327041.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "491",
+          "amount": "309100.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "95"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "40"
+        }
+      ]
+    }
   ],
   "senate": [
     {

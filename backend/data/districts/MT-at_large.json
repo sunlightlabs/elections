@@ -242,6 +242,11 @@
           "name": "National Taxpayers Union",
           "type": "rating",
           "value": "16"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
         }
       ]
     },
@@ -361,6 +366,16 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "80"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "5"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "100"
         }
       ]
     }

@@ -1,6 +1,104 @@
 {
   "house": [
-
+    {
+      "entity_id": "fe27024e69c5429fb93d25bfbb7228f3",
+      "name": "Steven Brett Guthrie",
+      "chamber": "house",
+      "state": "KY",
+      "state_name": "Kentucky",
+      "district": "2",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Brett_Guthrie",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000558.jpg",
+      "seat_status": "I",
+      "bioguide_id": "G000558",
+      "fec_summary": {
+        "contributions_pac": "1044686.54",
+        "office": "H",
+        "total_receipts_rank": 193,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 69,
+        "total_raised": "1497053.68",
+        "disbursements": "852741.05",
+        "total_disbursements_rank": 332,
+        "date": "2012-10-17",
+        "contributions_indiv": "420345.78",
+        "contributions_party": "500.00",
+        "cash_on_hand": "919405.95"
+      },
+      "industries": [
+        {
+          "count": "200",
+          "amount": "286250.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "74",
+          "amount": "182608.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "124",
+          "amount": "160700.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "88",
+          "amount": "130750.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "92",
+          "amount": "124050.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "180",
+          "amount": "114825.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "122",
+          "amount": "87160.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "94",
+          "amount": "86650.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "54",
+          "amount": "80643.00",
+          "id": "4e62cff90a974840bec347a2e32a58b9",
+          "name": "Beer, Wine & Liquor"
+        },
+        {
+          "count": "55",
+          "amount": "80450.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "0"
+        }
+      ]
+    }
   ],
   "senate": [
 

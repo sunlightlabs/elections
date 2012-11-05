@@ -118,6 +118,105 @@
           "value": "72"
         }
       ]
+    },
+    {
+      "entity_id": null,
+      "name": "Sharen Neuhardt",
+      "chamber": "house",
+      "state": "OH",
+      "state_name": "Ohio",
+      "district": "10",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "69300.00",
+        "office": "H",
+        "total_receipts_rank": 492,
+        "max_rank": 717,
+        "contributions_candidate": "19688.47",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 567,
+        "total_raised": "530523.69",
+        "disbursements": "510403.81",
+        "total_disbursements_rank": 468,
+        "date": "2012-10-17",
+        "contributions_indiv": "436853.89",
+        "contributions_party": "4681.33",
+        "cash_on_hand": "23810.01"
+      },
+      "industries": [
+        {
+          "count": "431",
+          "amount": "236306.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "137",
+          "amount": "111350.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "145",
+          "amount": "98350.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "26",
+          "amount": "55000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "33",
+          "amount": "48650.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "24",
+          "amount": "23960.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "30",
+          "amount": "21000.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "12",
+          "amount": "20500.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "5",
+          "amount": "18500.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "16",
+          "amount": "14300.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        }
+      ]
     }
   ],
   "senate": [

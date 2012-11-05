@@ -118,6 +118,105 @@
           "value": "84"
         }
       ]
+    },
+    {
+      "entity_id": null,
+      "name": "David L. Crooks",
+      "chamber": "house",
+      "state": "IN",
+      "state_name": "Indiana",
+      "district": "8",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "378315.03",
+        "office": "H",
+        "total_receipts_rank": 343,
+        "max_rank": 717,
+        "contributions_candidate": "40250.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 413,
+        "total_raised": "970477.65",
+        "disbursements": "878891.42",
+        "total_disbursements_rank": 323,
+        "date": "2012-10-17",
+        "contributions_indiv": "532002.91",
+        "contributions_party": "15740.59",
+        "cash_on_hand": "128091.23"
+      },
+      "industries": [
+        {
+          "count": "13",
+          "amount": "53000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "16",
+          "amount": "43000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "76",
+          "amount": "34390.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "11",
+          "amount": "31000.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "12",
+          "amount": "28000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "49",
+          "amount": "22400.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "23",
+          "amount": "16700.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        },
+        {
+          "count": "31",
+          "amount": "16500.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "5",
+          "amount": "15500.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "17",
+          "amount": "14000.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        }
+      ]
     }
   ],
   "senate": [

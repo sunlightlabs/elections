@@ -2,7 +2,7 @@
   "house": [
     {
       "entity_id": null,
-      "name": "Paul Cook",
+      "name": "Gregg Imus",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -96,6 +96,11 @@
           "name": "National Rifle Association",
           "type": "grade",
           "value": "A"
+        },
+        {
+          "name": "National Rifle Association",
+          "type": "endorsement",
+          "value": "R"
         }
       ]
     }
@@ -272,6 +277,16 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "5"
+        },
+        {
+          "name": "San Francisco for Democracy",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "San Francisco League of Pissed Off Voters",
+          "type": "rating",
+          "value": "Y"
         }
       ]
     },

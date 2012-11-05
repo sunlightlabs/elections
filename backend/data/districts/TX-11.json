@@ -111,6 +111,16 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "88"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
         }
       ]
     }

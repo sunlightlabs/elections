@@ -96,6 +96,11 @@
           "name": "Gun Owners of America",
           "type": "endorsement",
           "value": null
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
         }
       ]
     },

@@ -131,6 +131,11 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "0"
+        },
+        {
+          "name": "National Nurses United",
+          "type": "rating",
+          "value": "Y"
         }
       ]
     }

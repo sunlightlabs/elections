@@ -106,6 +106,31 @@
           "name": "American Security Council Foundation",
           "type": "rating",
           "value": "62"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "75"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "17"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "0"
         }
       ]
     }

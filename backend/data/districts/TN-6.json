@@ -116,6 +116,11 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "84"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
         }
       ]
     }

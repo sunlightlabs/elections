@@ -56,6 +56,130 @@
           "value": "Y"
         }
       ]
+    },
+    {
+      "entity_id": "28852ad81c0d41a89363f7771d5dc028",
+      "name": "James D Jordan",
+      "chamber": "house",
+      "state": "OH",
+      "state_name": "Ohio",
+      "district": "4",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Jim_Jordan_%28Ohio_politician%29",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/J000289.jpg",
+      "seat_status": "I",
+      "bioguide_id": "J000289",
+      "fec_summary": {
+        "contributions_pac": "445874.65",
+        "office": "H",
+        "total_receipts_rank": 363,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 58,
+        "total_raised": "949797.27",
+        "disbursements": "710977.43",
+        "total_disbursements_rank": 384,
+        "date": "2012-10-17",
+        "contributions_indiv": "499066.29",
+        "contributions_party": "1625.00",
+        "cash_on_hand": "1086510.46"
+      },
+      "industries": [
+        {
+          "count": "175",
+          "amount": "244800.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "214",
+          "amount": "220533.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "200",
+          "amount": "144564.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "48",
+          "amount": "106704.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "113",
+          "amount": "105164.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "71",
+          "amount": "93400.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "87",
+          "amount": "91150.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "82",
+          "amount": "90841.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "95",
+          "amount": "90513.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "84",
+          "amount": "85600.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "87"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
     }
   ],
   "senate": [

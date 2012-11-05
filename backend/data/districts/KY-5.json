@@ -1,6 +1,109 @@
 {
   "house": [
-
+    {
+      "entity_id": "80b2a622c2ea4d3f8de8a4b7e3a139db",
+      "name": "Hal Rogers",
+      "chamber": "house",
+      "state": "KY",
+      "state_name": "Kentucky",
+      "district": "5",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Hal_Rogers",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000395.jpg",
+      "seat_status": "I",
+      "bioguide_id": "R000395",
+      "fec_summary": {
+        "contributions_pac": "893726.94",
+        "office": "H",
+        "total_receipts_rank": 205,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 62,
+        "total_raised": "1430764.01",
+        "disbursements": "1104734.14",
+        "total_disbursements_rank": 229,
+        "date": "2012-10-17",
+        "contributions_indiv": "531513.17",
+        "contributions_party": "1000.00",
+        "cash_on_hand": "1040054.81"
+      },
+      "industries": [
+        {
+          "count": "402",
+          "amount": "359474.00",
+          "id": "8b48cb51f18f4286b8e16b2dc8e9689d",
+          "name": "Mining"
+        },
+        {
+          "count": "244",
+          "amount": "308525.00",
+          "id": "f1c062575ca949fa92ab7066a6648bf3",
+          "name": "Air Transport"
+        },
+        {
+          "count": "465",
+          "amount": "291292.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "364",
+          "amount": "274997.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "277",
+          "amount": "236967.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        },
+        {
+          "count": "223",
+          "amount": "215750.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "136",
+          "amount": "206249.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "207",
+          "amount": "203740.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "227",
+          "amount": "198704.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "216",
+          "amount": "190050.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "72"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "100"
+        }
+      ]
+    }
   ],
   "senate": [
 

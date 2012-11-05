@@ -103,6 +103,130 @@
           "value": null
         }
       ]
+    },
+    {
+      "entity_id": "495a271fea8445eab2acbb90997f8507",
+      "name": "Rob Wittman",
+      "chamber": "house",
+      "state": "VA",
+      "state_name": "Virginia",
+      "district": "1",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Rob_Wittman",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/W000804.jpg",
+      "seat_status": "I",
+      "bioguide_id": "W000804",
+      "fec_summary": {
+        "contributions_pac": "431750.00",
+        "office": "H",
+        "total_receipts_rank": 384,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 127,
+        "total_raised": "881746.00",
+        "disbursements": "668314.87",
+        "total_disbursements_rank": 405,
+        "date": "2012-10-17",
+        "contributions_indiv": "446516.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "579948.90"
+      },
+      "industries": [
+        {
+          "count": "304",
+          "amount": "168632.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "109",
+          "amount": "146900.00",
+          "id": "f7959bfcdd044aa58cfb2e335cfc67e6",
+          "name": "Misc Defense"
+        },
+        {
+          "count": "115",
+          "amount": "120198.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "114",
+          "amount": "104850.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "83",
+          "amount": "97250.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "44",
+          "amount": "94418.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "74",
+          "amount": "91950.00",
+          "id": "4c3799fc60b34f2aa250f7e8f5b2c3e6",
+          "name": "Defense Electronics"
+        },
+        {
+          "count": "148",
+          "amount": "85793.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "94",
+          "amount": "66757.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "42",
+          "amount": "58450.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "71"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "72"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "5"
+        }
+      ]
     }
   ],
   "senate": [

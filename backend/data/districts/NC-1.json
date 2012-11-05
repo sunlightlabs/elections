@@ -1,6 +1,129 @@
 {
   "house": [
-
+    {
+      "entity_id": "7f5d375d86d84fbf9d97bfc6682a362c",
+      "name": "G K Butterfield",
+      "chamber": "house",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "district": "1",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/G._K._Butterfield",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001251.jpg",
+      "seat_status": "I",
+      "bioguide_id": "B001251",
+      "fec_summary": {
+        "contributions_pac": "606929.37",
+        "office": "H",
+        "total_receipts_rank": 391,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 242,
+        "total_raised": "862485.28",
+        "disbursements": "712535.64",
+        "total_disbursements_rank": 383,
+        "date": "2012-10-17",
+        "contributions_indiv": "248800.14",
+        "contributions_party": "5.79",
+        "cash_on_hand": "323365.38"
+      },
+      "industries": [
+        {
+          "count": "244",
+          "amount": "223062.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "128",
+          "amount": "149750.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "107",
+          "amount": "135185.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "122",
+          "amount": "131789.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "72",
+          "amount": "122692.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "45",
+          "amount": "96500.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "67",
+          "amount": "93000.00",
+          "id": "87877eea96144b1eb8665e4754bbcd80",
+          "name": "Telephone Utilities"
+        },
+        {
+          "count": "35",
+          "amount": "93000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "139",
+          "amount": "85730.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "55",
+          "amount": "70000.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "4"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "40"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "11"
+        }
+      ]
+    }
   ],
   "senate": [
 

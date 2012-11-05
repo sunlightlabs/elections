@@ -111,6 +111,16 @@
           "name": "National Taxpayers Union",
           "type": "rating",
           "value": "16"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "95"
         }
       ]
     }

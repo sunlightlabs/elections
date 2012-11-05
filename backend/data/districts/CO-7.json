@@ -98,6 +98,140 @@
           "value": "A"
         }
       ]
+    },
+    {
+      "entity_id": "ce6e4a3f1d8046bbaab4af8c2ed9f5e4",
+      "name": "Edwin G Perlmutter",
+      "chamber": "house",
+      "state": "CO",
+      "state_name": "Colorado",
+      "district": "7",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Ed_Perlmutter",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000593.jpg",
+      "seat_status": "I",
+      "bioguide_id": "P000593",
+      "fec_summary": {
+        "contributions_pac": "1315968.47",
+        "office": "H",
+        "total_receipts_rank": 44,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "43775.00",
+        "cash_on_hand_rank": 435,
+        "total_raised": "2720690.98",
+        "disbursements": "2661713.52",
+        "total_disbursements_rank": 37,
+        "date": "2012-10-17",
+        "contributions_indiv": "1350852.26",
+        "contributions_party": "5900.00",
+        "cash_on_hand": "114224.74"
+      },
+      "industries": [
+        {
+          "count": "1737",
+          "amount": "1081891.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "425",
+          "amount": "507648.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "666",
+          "amount": "447630.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "360",
+          "amount": "341525.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "421",
+          "amount": "325662.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "194",
+          "amount": "265403.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "265",
+          "amount": "262557.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "127",
+          "amount": "258718.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "123",
+          "amount": "239750.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "185",
+          "amount": "227383.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "14"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "4"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "60"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "95"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": "D"
+        }
+      ]
     }
   ],
   "senate": [

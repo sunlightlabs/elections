@@ -180,6 +180,11 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "52"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "100"
         }
       ]
     }
@@ -281,6 +286,36 @@
           "name": "League of Conservation Voters",
           "type": "endorsement",
           "value": "Y"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "6"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "50"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "90"
         }
       ]
     }

@@ -1,6 +1,129 @@
 {
   "house": [
-
+    {
+      "entity_id": "69a2b9ba546749a4b1cf27c979c70b59",
+      "name": "Steve Fincher",
+      "chamber": "house",
+      "state": "TN",
+      "state_name": "Tennessee",
+      "district": "8",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Stephen_Fincher",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000458.jpg",
+      "seat_status": "I",
+      "bioguide_id": "F000458",
+      "fec_summary": {
+        "contributions_pac": "845235.52",
+        "office": "H",
+        "total_receipts_rank": 86,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "17136.56",
+        "cash_on_hand_rank": 27,
+        "total_raised": "2136593.85",
+        "disbursements": "798636.65",
+        "total_disbursements_rank": 349,
+        "date": "2012-10-17",
+        "contributions_indiv": "1279701.36",
+        "contributions_party": "250.00",
+        "cash_on_hand": "1498181.69"
+      },
+      "industries": [
+        {
+          "count": "530",
+          "amount": "671908.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "282",
+          "amount": "263052.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "98",
+          "amount": "194075.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "117",
+          "amount": "150995.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "85",
+          "amount": "150950.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "115",
+          "amount": "147015.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "81",
+          "amount": "117200.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "92",
+          "amount": "114048.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "106",
+          "amount": "112331.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "129",
+          "amount": "101504.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "74"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "88"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    }
   ],
   "senate": [
     {

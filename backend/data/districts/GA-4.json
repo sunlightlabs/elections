@@ -111,6 +111,16 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "0"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "22"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "90"
         }
       ]
     }

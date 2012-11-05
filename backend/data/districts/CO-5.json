@@ -1,6 +1,134 @@
 {
   "house": [
-
+    {
+      "entity_id": "b2d0d2ff8df04961b13ac9253998f489",
+      "name": "Douglas L Lamborn",
+      "chamber": "house",
+      "state": "CO",
+      "state_name": "Colorado",
+      "district": "5",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Doug_Lamborn",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/L000564.jpg",
+      "seat_status": "I",
+      "bioguide_id": "L000564",
+      "fec_summary": {
+        "contributions_pac": "412530.80",
+        "office": "H",
+        "total_receipts_rank": 455,
+        "max_rank": 717,
+        "contributions_candidate": "7500.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 593,
+        "total_raised": "621960.69",
+        "disbursements": "787414.45",
+        "total_disbursements_rank": 354,
+        "date": "2012-10-17",
+        "contributions_indiv": "200765.52",
+        "contributions_party": "500.00",
+        "cash_on_hand": "14108.77"
+      },
+      "industries": [
+        {
+          "count": "355",
+          "amount": "242593.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "109",
+          "amount": "225584.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "142",
+          "amount": "161212.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "85",
+          "amount": "83883.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "138",
+          "amount": "81656.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "80",
+          "amount": "80000.00",
+          "id": "62b2b24eb9c248e68af69cb177822948",
+          "name": "Defense Aerospace"
+        },
+        {
+          "count": "73",
+          "amount": "70308.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "58",
+          "amount": "68597.00",
+          "id": "4c3799fc60b34f2aa250f7e8f5b2c3e6",
+          "name": "Defense Electronics"
+        },
+        {
+          "count": "49",
+          "amount": "61499.00",
+          "id": "8b48cb51f18f4286b8e16b2dc8e9689d",
+          "name": "Mining"
+        },
+        {
+          "count": "24",
+          "amount": "50000.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "5"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "85"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "100"
+        }
+      ]
+    }
   ],
   "senate": [
 

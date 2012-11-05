@@ -98,6 +98,110 @@
           "value": null
         }
       ]
+    },
+    {
+      "entity_id": "c722c9e9de734fa5bcf88139d95f4d03",
+      "name": "Randolph Blake Farenthold",
+      "chamber": "house",
+      "state": "TX",
+      "state_name": "Texas",
+      "district": "27",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000460",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000460.jpg",
+      "seat_status": "I",
+      "bioguide_id": "F000460",
+      "fec_summary": {
+        "contributions_pac": "429269.13",
+        "office": "H",
+        "total_receipts_rank": 305,
+        "max_rank": 717,
+        "contributions_candidate": "-14557.77",
+        "transfers_in": "32048.27",
+        "cash_on_hand_rank": 441,
+        "total_raised": "1064099.96",
+        "disbursements": "1014898.96",
+        "total_disbursements_rank": 257,
+        "date": "2012-10-17",
+        "contributions_indiv": "616169.59",
+        "contributions_party": "0.00",
+        "cash_on_hand": "112526.17"
+      },
+      "industries": [
+        {
+          "count": "92",
+          "amount": "114850.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "51",
+          "amount": "109441.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "78",
+          "amount": "62917.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "50",
+          "amount": "50633.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "73",
+          "amount": "41943.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "26",
+          "amount": "41133.00",
+          "id": "f1c062575ca949fa92ab7066a6648bf3",
+          "name": "Air Transport"
+        },
+        {
+          "count": "32",
+          "amount": "39425.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "55",
+          "amount": "37325.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "33",
+          "amount": "32950.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "28",
+          "amount": "28575.00",
+          "id": "d007d0ca512d457990cbb67a7ae136a2",
+          "name": "Livestock"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "75"
+        }
+      ]
     }
   ],
   "senate": [

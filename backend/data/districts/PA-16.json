@@ -103,6 +103,130 @@
           "value": null
         }
       ]
+    },
+    {
+      "entity_id": "b7b91e6071684e9f91ea062cd73f4aa6",
+      "name": "Joe Pitts",
+      "chamber": "house",
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "district": "16",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Joseph_R._Pitts",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000373.jpg",
+      "seat_status": "I",
+      "bioguide_id": "P000373",
+      "fec_summary": {
+        "contributions_pac": "970335.25",
+        "office": "H",
+        "total_receipts_rank": 252,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 149,
+        "total_raised": "1251747.49",
+        "disbursements": "823882.93",
+        "total_disbursements_rank": 339,
+        "date": "2012-10-17",
+        "contributions_indiv": "279081.33",
+        "contributions_party": "250.00",
+        "cash_on_hand": "514671.87"
+      },
+      "industries": [
+        {
+          "count": "451",
+          "amount": "586812.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "354",
+          "amount": "396652.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "228",
+          "amount": "186964.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "207",
+          "amount": "177250.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "152",
+          "amount": "157248.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "114",
+          "amount": "139785.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        },
+        {
+          "count": "103",
+          "amount": "138984.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "137",
+          "amount": "119375.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "159",
+          "amount": "109474.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "117",
+          "amount": "107800.00",
+          "id": "93b0e1ce2e904638a93eb9bbcd0bb7f8",
+          "name": "Food Processing & Sales"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "84"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "78"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "0"
+        }
+      ]
     }
   ],
   "senate": [
@@ -202,6 +326,36 @@
           "name": "League of Conservation Voters",
           "type": "endorsement",
           "value": "Y"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "6"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "50"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "90"
         }
       ]
     }

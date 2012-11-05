@@ -98,6 +98,130 @@
           "value": "F"
         }
       ]
+    },
+    {
+      "entity_id": "54b5cccd77e847e0877c0c176569309b",
+      "name": "Vernon Buchanan",
+      "chamber": "house",
+      "state": "FL",
+      "state_name": "Florida",
+      "district": "16",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Vern_Buchanan",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B001260.jpg",
+      "seat_status": "I",
+      "bioguide_id": "B001260",
+      "fec_summary": {
+        "contributions_pac": "723875.02",
+        "office": "H",
+        "total_receipts_rank": 69,
+        "max_rank": 717,
+        "contributions_candidate": "-373108.95",
+        "transfers_in": "335730.81",
+        "cash_on_hand_rank": 89,
+        "total_raised": "1518843.95",
+        "disbursements": "2558061.22",
+        "total_disbursements_rank": 39,
+        "date": "2012-10-17",
+        "contributions_indiv": "844817.88",
+        "contributions_party": "0.00",
+        "cash_on_hand": "769238.20"
+      },
+      "industries": [
+        {
+          "count": "538",
+          "amount": "784845.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "595",
+          "amount": "668800.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "530",
+          "amount": "535495.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "284",
+          "amount": "517010.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        },
+        {
+          "count": "127",
+          "amount": "346261.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "206",
+          "amount": "311900.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "205",
+          "amount": "295168.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "242",
+          "amount": "233085.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "152",
+          "amount": "205980.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "119",
+          "amount": "205524.00",
+          "id": "e7fac06daba94c979b8734fd011528ff",
+          "name": "Home Builders"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "73"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "72"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "90"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": "R"
+        }
+      ]
     }
   ],
   "senate": [
@@ -351,6 +475,11 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "92"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "5"
         }
       ]
     }

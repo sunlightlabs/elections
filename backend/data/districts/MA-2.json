@@ -111,6 +111,36 @@
           "name": "Gun Owners of America",
           "type": "grade",
           "value": "F-"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "4"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Nurses United",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "16"
         }
       ]
     }

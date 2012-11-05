@@ -191,6 +191,11 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "96"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "5"
         }
       ]
     }

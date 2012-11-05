@@ -1,6 +1,104 @@
 {
   "house": [
-
+    {
+      "entity_id": null,
+      "name": "James Bridenstine",
+      "chamber": "house",
+      "state": "OK",
+      "state_name": "Oklahoma",
+      "district": "1",
+      "party": "R",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "O",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "170146.75",
+        "office": "H",
+        "total_receipts_rank": 451,
+        "max_rank": 717,
+        "contributions_candidate": "200.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 467,
+        "total_raised": "662746.77",
+        "disbursements": "560705.81",
+        "total_disbursements_rank": 450,
+        "date": "2012-10-17",
+        "contributions_indiv": "491348.44",
+        "contributions_party": "0.00",
+        "cash_on_hand": "89018.50"
+      },
+      "industries": [
+        {
+          "count": "107",
+          "amount": "54165.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "58",
+          "amount": "38100.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "6",
+          "amount": "9575.00",
+          "id": "db81234a46874e7392cb5dfec1f07113",
+          "name": "Printing & Publishing"
+        },
+        {
+          "count": "9",
+          "amount": "7550.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "6",
+          "amount": "4400.00",
+          "id": "b3f5a58a6d4e4aebb553fa744082172e",
+          "name": "Other"
+        },
+        {
+          "count": "6",
+          "amount": "4400.00",
+          "id": "9f3c50e47e284b4eb8ae9d49ce226869",
+          "name": "Intl Orgs"
+        },
+        {
+          "count": "6",
+          "amount": "4050.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "8",
+          "amount": "3250.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "2",
+          "amount": "2750.00",
+          "id": "7b341f706d5a45158006b8c4767db59a",
+          "name": "Chemical & Related Manufacturing"
+        },
+        {
+          "count": "6",
+          "amount": "2750.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    }
   ],
   "senate": [
 

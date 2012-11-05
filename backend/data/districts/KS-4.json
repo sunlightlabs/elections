@@ -1,6 +1,129 @@
 {
   "house": [
-
+    {
+      "entity_id": "8f768c08e1ce4a43a4c7044fb7fe8d10",
+      "name": "Michael Richard Pompeo",
+      "chamber": "house",
+      "state": "KS",
+      "state_name": "Kansas",
+      "district": "4",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Mike_Pompeo",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000602.jpg",
+      "seat_status": "I",
+      "bioguide_id": "P000602",
+      "fec_summary": {
+        "contributions_pac": "700650.00",
+        "office": "H",
+        "total_receipts_rank": 133,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "9204.27",
+        "cash_on_hand_rank": 41,
+        "total_raised": "1847801.05",
+        "disbursements": "688534.69",
+        "total_disbursements_rank": 395,
+        "date": "2012-10-17",
+        "contributions_indiv": "1133468.39",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1278033.53"
+      },
+      "industries": [
+        {
+          "count": "325",
+          "amount": "469906.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "201",
+          "amount": "183942.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "134",
+          "amount": "130420.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "73",
+          "amount": "115929.00",
+          "id": "f1c062575ca949fa92ab7066a6648bf3",
+          "name": "Air Transport"
+        },
+        {
+          "count": "127",
+          "amount": "106015.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "82",
+          "amount": "102650.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "91",
+          "amount": "99275.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "35",
+          "amount": "95015.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "71",
+          "amount": "86009.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "68",
+          "amount": "85050.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "88"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "R"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "83"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    }
   ],
   "senate": [
 

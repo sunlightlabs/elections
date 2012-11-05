@@ -96,6 +96,36 @@
           "name": "AFL-CIO",
           "type": "endorsement",
           "value": "Y"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "4"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "60"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "14"
         }
       ]
     }

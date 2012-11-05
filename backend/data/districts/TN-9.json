@@ -103,6 +103,135 @@
           "value": null
         }
       ]
+    },
+    {
+      "entity_id": "6552a8bde0d14af9b26fbb767ce2af04",
+      "name": "Stephen Ira Cohen",
+      "chamber": "house",
+      "state": "TN",
+      "state_name": "Tennessee",
+      "district": "9",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Steve_Cohen",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001068.jpg",
+      "seat_status": "I",
+      "bioguide_id": "C001068",
+      "fec_summary": {
+        "contributions_pac": "443800.00",
+        "office": "H",
+        "total_receipts_rank": 422,
+        "max_rank": 717,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 77,
+        "total_raised": "754341.12",
+        "disbursements": "687685.94",
+        "total_disbursements_rank": 396,
+        "date": "2012-10-17",
+        "contributions_indiv": "304489.26",
+        "contributions_party": "30.02",
+        "cash_on_hand": "855853.43"
+      },
+      "industries": [
+        {
+          "count": "406",
+          "amount": "284724.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "281",
+          "amount": "201925.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "191",
+          "amount": "178711.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "228",
+          "amount": "165100.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "42",
+          "amount": "125500.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "66",
+          "amount": "117500.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "79",
+          "amount": "110700.00",
+          "id": "f1c062575ca949fa92ab7066a6648bf3",
+          "name": "Air Transport"
+        },
+        {
+          "count": "48",
+          "amount": "105500.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "25",
+          "amount": "96500.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "77",
+          "amount": "94438.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        }
+      ],
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "grade",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "grade",
+          "value": "17"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "grade",
+          "value": "4"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "22"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "100"
+        }
+      ]
     }
   ],
   "senate": [

@@ -225,6 +225,11 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "52"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "grade",
+          "value": "80"
         }
       ]
     }
