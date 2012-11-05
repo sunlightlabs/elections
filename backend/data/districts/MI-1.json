@@ -1,0 +1,116 @@
+{
+  "house": [
+    {
+      "entity_id": "c08ecf067b134a9abc53a8b8eea29f4b",
+      "chamber": "house",
+      "state": "MI",
+      "state_name": "Michigan",
+      "district": "1",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": "http://en.wikipedia.org/wiki/Gary_McDowell",
+      "photo_url": "",
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "299829.00",
+        "office": "H",
+        "total_receipts_rank": 243,
+        "max_rank": 695,
+        "contributions_candidate": "-850.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 199,
+        "total_raised": "922544.66",
+        "disbursements": "307054.97",
+        "total_disbursements_rank": 427,
+        "date": "2012-07-18",
+        "contributions_indiv": "614631.50",
+        "contributions_party": "280.21",
+        "cash_on_hand": "620357.88"
+      },
+      "industries": [
+        {
+          "count": "60",
+          "amount": "139750.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "28",
+          "amount": "98000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "38",
+          "amount": "95700.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "171",
+          "amount": "82875.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "117",
+          "amount": "81850.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "22",
+          "amount": "77250.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "84",
+          "amount": "47587.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        },
+        {
+          "count": "13",
+          "amount": "34500.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "15",
+          "amount": "34000.00",
+          "id": "bcb5ff50850c4e9682b5d4da5d9bf278",
+          "name": "Misc Unions"
+        },
+        {
+          "count": "40",
+          "amount": "30300.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        }
+      ],
+      "name": "Gary J. McDowell",
+      "endorsements": [
+        {
+          "name": "League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

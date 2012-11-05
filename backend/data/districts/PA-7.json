@@ -1,0 +1,325 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "district": "7",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "41250.00",
+        "office": "H",
+        "total_receipts_rank": 496,
+        "max_rank": 695,
+        "contributions_candidate": "130291.96",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 406,
+        "total_raised": "313102.63",
+        "disbursements": "110708.39",
+        "total_disbursements_rank": 531,
+        "date": "2012-06-30",
+        "contributions_indiv": "141410.67",
+        "contributions_party": "150.00",
+        "cash_on_hand": "204894.24"
+      },
+      "industries": [
+        {
+          "count": "28",
+          "amount": "25050.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "11",
+          "amount": "14300.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "2",
+          "amount": "7500.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "2",
+          "amount": "7500.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "2",
+          "amount": "5500.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "3",
+          "amount": "3100.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "2",
+          "amount": "2750.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1",
+          "amount": "2500.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "2",
+          "amount": "1500.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "1",
+          "amount": "1500.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        }
+      ],
+      "name": "George Badey",
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "3165dbb9c7c344a985fd38bc6ba0ce81",
+      "chamber": "house",
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "district": "7",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Pat_Meehan",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001181.jpg",
+      "seat_status": "I",
+      "bioguide_id": "M001181",
+      "fec_summary": {
+        "contributions_pac": "965371.38",
+        "office": "H",
+        "total_receipts_rank": 52,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "25069.40",
+        "cash_on_hand_rank": 52,
+        "total_raised": "1975479.81",
+        "disbursements": "620067.10",
+        "total_disbursements_rank": 215,
+        "date": "2012-06-30",
+        "contributions_indiv": "978214.90",
+        "contributions_party": "7460.00",
+        "cash_on_hand": "1403774.39"
+      },
+      "industries": [
+        {
+          "count": "695",
+          "amount": "651417.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "136",
+          "amount": "259950.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "154",
+          "amount": "193265.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "137",
+          "amount": "190950.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "130",
+          "amount": "161850.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "144",
+          "amount": "149400.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "154",
+          "amount": "147650.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "98",
+          "amount": "142100.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "83",
+          "amount": "140850.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "92",
+          "amount": "105900.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        }
+      ],
+      "senate_class": "",
+      "name": "Patrick L. Meehan",
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "B"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "65"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "52"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "6270f8364eac4b0a88a117c008011e06",
+      "chamber": "senate",
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Robert_P._Casey",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001070.jpg",
+      "seat_status": "I",
+      "bioguide_id": "C001070",
+      "fec_summary": {
+        "contributions_pac": "1719495.00",
+        "office": "S",
+        "total_receipts_rank": 20,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "481535.00",
+        "cash_on_hand_rank": 8,
+        "total_raised": "7609518.00",
+        "disbursements": "2754060.00",
+        "total_disbursements_rank": 26,
+        "date": "2012-06-30",
+        "contributions_indiv": "5410931.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "6226560.00"
+      },
+      "industries": [
+        {
+          "count": "6419",
+          "amount": "5364591.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1785",
+          "amount": "1088671.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "808",
+          "amount": "782201.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "599",
+          "amount": "649436.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "722",
+          "amount": "588052.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "690",
+          "amount": "561648.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "164",
+          "amount": "507500.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "705",
+          "amount": "448131.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "650",
+          "amount": "448120.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "453",
+          "amount": "396258.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        }
+      ],
+      "senate_class": "I",
+      "name": "Bob Casey",
+      "endorsements": [
+        {
+          "name": "League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "MI",
+      "state_name": "Michigan",
+      "district": "5",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "O",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "179100.00",
+        "office": "H",
+        "total_receipts_rank": 448,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 352,
+        "total_raised": "463873.76",
+        "disbursements": "178775.38",
+        "total_disbursements_rank": 503,
+        "date": "2012-07-18",
+        "contributions_indiv": "289746.01",
+        "contributions_party": "0.00",
+        "cash_on_hand": "295228.38"
+      },
+      "industries": [
+        {
+          "count": "12",
+          "amount": "28000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "11",
+          "amount": "26500.00",
+          "id": "13718be68388456d9b6e8db753f06e72",
+          "name": "Casinos/Gambling"
+        },
+        {
+          "count": "27",
+          "amount": "21300.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "27",
+          "amount": "21232.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "4",
+          "amount": "15100.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "14",
+          "amount": "15050.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "12",
+          "amount": "14200.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "4",
+          "amount": "12000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "6",
+          "amount": "11250.00",
+          "id": "d8ddc9e3d84b40a2a923545964e6bf80",
+          "name": "Non-Profit Institutions"
+        },
+        {
+          "count": "9",
+          "amount": "10500.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        }
+      ],
+      "name": "Dan Kildee",
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        }
+      ]
+    },
+    {
+      "entity_id": "de20941551664f648b2705789f222864",
+      "chamber": "house",
+      "state": "MI",
+      "state_name": "Michigan",
+      "district": "5",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Dale_E._Kildee",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/K000172.jpg",
+      "seat_status": "I",
+      "bioguide_id": "K000172",
+      "fec_summary": {
+        "contributions_pac": "66500.00",
+        "office": "H",
+        "total_receipts_rank": 902,
+        "max_rank": 1515,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 777,
+        "total_raised": "87280.74",
+        "disbursements": "98721.74",
+        "total_disbursements_rank": 875,
+        "date": "2012-06-30",
+        "contributions_indiv": "23350.00",
+        "contributions_party": "5000.00",
+        "cash_on_hand": "17325.15"
+      },
+      "industries": [
+        {
+          "count": "472",
+          "amount": "590150.00",
+          "id": "13718be68388456d9b6e8db753f06e72",
+          "name": "Casinos/Gambling"
+        },
+        {
+          "count": "304",
+          "amount": "576464.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "268",
+          "amount": "450292.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "230",
+          "amount": "414871.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "376",
+          "amount": "272080.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "217",
+          "amount": "265450.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "385",
+          "amount": "255446.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "267",
+          "amount": "188032.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "200",
+          "amount": "164100.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        },
+        {
+          "count": "93",
+          "amount": "123050.00",
+          "id": "bcb5ff50850c4e9682b5d4da5d9bf278",
+          "name": "Misc Unions"
+        }
+      ],
+      "senate_class": "",
+      "name": "Dale E Kildee",
+      "endorsements": [
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "95"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "40"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "70"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "6"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "4"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

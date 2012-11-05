@@ -1,0 +1,241 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "CO",
+      "state_name": "Colorado",
+      "district": "3",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "320200.00",
+        "office": "H",
+        "total_receipts_rank": 172,
+        "max_rank": 695,
+        "contributions_candidate": "500.00",
+        "transfers_in": "17300.00",
+        "cash_on_hand_rank": 160,
+        "total_raised": "1173019.69",
+        "disbursements": "392153.51",
+        "total_disbursements_rank": 367,
+        "date": "2012-06-30",
+        "contributions_indiv": "830192.64",
+        "contributions_party": "4834.93",
+        "cash_on_hand": "789098.68"
+      },
+      "industries": [
+        {
+          "count": "266",
+          "amount": "110399.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "146",
+          "amount": "66775.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "22",
+          "amount": "46000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "13",
+          "amount": "41000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "45",
+          "amount": "40250.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "11",
+          "amount": "37000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "15",
+          "amount": "34750.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "10",
+          "amount": "21500.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "11",
+          "amount": "18753.00",
+          "id": "72c7c89ba4ce406d99152105c08ccedf",
+          "name": "Environment"
+        },
+        {
+          "count": "42",
+          "amount": "17800.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        }
+      ],
+      "name": "Sal Pace",
+      "endorsements": [
+        {
+          "name": "League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "a8bc8f4ddaf94e378c5ad653ca5448aa",
+      "chamber": "house",
+      "state": "CO",
+      "state_name": "Colorado",
+      "district": "3",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Scott_Tipton",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/T000470.jpg",
+      "seat_status": "I",
+      "bioguide_id": "T000470",
+      "fec_summary": {
+        "contributions_pac": "471358.86",
+        "office": "H",
+        "total_receipts_rank": 89,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "26575.80",
+        "cash_on_hand_rank": 90,
+        "total_raised": "1612903.38",
+        "disbursements": "562746.59",
+        "total_disbursements_rank": 251,
+        "date": "2012-06-30",
+        "contributions_indiv": "1108468.72",
+        "contributions_party": "6500.00",
+        "cash_on_hand": "1080844.93"
+      },
+      "industries": [
+        {
+          "count": "577",
+          "amount": "443479.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "116",
+          "amount": "252300.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "196",
+          "amount": "187500.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "135",
+          "amount": "140774.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "110",
+          "amount": "114294.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "97",
+          "amount": "101750.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "79",
+          "amount": "85962.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "81",
+          "amount": "74000.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "80",
+          "amount": "65850.00",
+          "id": "d007d0ca512d457990cbb67a7ae136a2",
+          "name": "Livestock"
+        },
+        {
+          "count": "49",
+          "amount": "65000.00",
+          "id": "165d820dd48441e1befdc47f3fa3d236",
+          "name": "Food & Beverage"
+        }
+      ],
+      "senate_class": "",
+      "name": "Scott Tipton",
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "75"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "92"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

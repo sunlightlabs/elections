@@ -1,0 +1,127 @@
+{
+  "house": [
+    {
+      "entity_id": "232901b5e78840cfaaf4389cf6e0df95",
+      "chamber": "house",
+      "state": "GA",
+      "state_name": "Georgia",
+      "district": "6",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Tom_Price_%28U.S._politician%29",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000591.jpg",
+      "seat_status": "I",
+      "bioguide_id": "P000591",
+      "fec_summary": {
+        "contributions_pac": "863639.50",
+        "office": "H",
+        "total_receipts_rank": 78,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "66754.34",
+        "cash_on_hand_rank": 32,
+        "total_raised": "1744214.98",
+        "disbursements": "1035458.89",
+        "total_disbursements_rank": 77,
+        "date": "2012-07-11",
+        "contributions_indiv": "804638.26",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1726072.31"
+      },
+      "industries": [
+        {
+          "count": "3389",
+          "amount": "2550805.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "365",
+          "amount": "449821.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "352",
+          "amount": "391080.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "209",
+          "amount": "277900.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "494",
+          "amount": "230801.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "216",
+          "amount": "189678.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        },
+        {
+          "count": "153",
+          "amount": "182133.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "239",
+          "amount": "165032.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "137",
+          "amount": "158825.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "133",
+          "amount": "134248.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        }
+      ],
+      "senate_class": "",
+      "name": "Tom Price",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "83"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "92"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

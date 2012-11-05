@@ -242,6 +242,291 @@
   ],
   "senate": [
     {
+      "entity_id": "5133536fdc44445695adf6f244ee69c9",
+      "chamber": "senate",
+      "state": "NY",
+      "state_name": "New York",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Kirsten_Gillibrand",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000555.jpg",
+      "seat_status": "I",
+      "bioguide_id": "G000555",
+      "fec_summary": {
+        "contributions_pac": "2055463.00",
+        "office": "S",
+        "total_receipts_rank": 4,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "372095.00",
+        "cash_on_hand_rank": 3,
+        "total_raised": "13673237.00",
+        "disbursements": "3734097.00",
+        "total_disbursements_rank": 21,
+        "date": "2012-06-30",
+        "contributions_indiv": "11093813.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "10541156.00"
+      },
+      "industries": [
+        {
+          "count": "4801",
+          "amount": "5049644.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "2067",
+          "amount": "3045555.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "1081",
+          "amount": "1391629.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1659",
+          "amount": "1269464.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "1735",
+          "amount": "1264275.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "712",
+          "amount": "888877.00",
+          "id": "9fd0b2477acc4fc385e2e2c8e6ed7b00",
+          "name": "Tv/Movies/Music"
+        },
+        {
+          "count": "986",
+          "amount": "769223.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "611",
+          "amount": "767303.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "756",
+          "amount": "756076.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "269",
+          "amount": "637105.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        }
+      ],
+      "senate_class": "I",
+      "name": "Kirsten Gillibrand",
+      "endorsements": [
+        {
+          "name": "NY League of Conservation Voters",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Democracy for NYC",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Lambda Independent Democrats of Brooklyn",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "NYC-PBA",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F-"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "30"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "10"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "entity_id": "5ce1dbecddbc4dd8bba97b42f15e25b5",
+      "chamber": "senate",
+      "state": "NY",
+      "state_name": "New York",
+      "district": null,
+      "party": "R",
+      "incumbent": false,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=T000471",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/T000471.jpg",
+      "seat_status": "C",
+      "bioguide_id": "T000471",
+      "fec_summary": {
+        "contributions_pac": "94092.00",
+        "office": "S",
+        "total_receipts_rank": 84,
+        "max_rank": 231,
+        "contributions_candidate": "95500.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 90,
+        "total_raised": "844179.90",
+        "disbursements": "792637.57",
+        "total_disbursements_rank": 83,
+        "date": "2012-06-30",
+        "contributions_indiv": "651462.81",
+        "contributions_party": "0.00",
+        "cash_on_hand": "55541.00"
+      },
+      "industries": [
+        {
+          "count": "120",
+          "amount": "86900.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "52",
+          "amount": "75475.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "46",
+          "amount": "54825.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "52",
+          "amount": "53565.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "19",
+          "amount": "50500.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "29",
+          "amount": "33150.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "9",
+          "amount": "20250.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "13",
+          "amount": "14500.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "10",
+          "amount": "11000.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "20",
+          "amount": "10750.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        }
+      ],
+      "senate_class": "",
+      "name": "Robert L. Turner",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "67"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "endorsement",
+          "value": null
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": null
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "endorsement",
+          "value": null
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
       "entity_id": null,
       "chamber": "senate",
       "state": "NY",

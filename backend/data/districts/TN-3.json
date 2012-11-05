@@ -1,0 +1,287 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "TN",
+      "state_name": "Tennessee",
+      "district": "3",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "200.00",
+        "office": "H",
+        "total_receipts_rank": 590,
+        "max_rank": 695,
+        "contributions_candidate": "32524.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 642,
+        "total_raised": "43231.00",
+        "disbursements": "40883.00",
+        "total_disbursements_rank": 578,
+        "date": "2012-07-16",
+        "contributions_indiv": "10507.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "2348.00"
+      },
+      "industries": [
+        {
+          "count": "2",
+          "amount": "1500.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1",
+          "amount": "1200.00",
+          "id": "042288e0185a44ec82982814c69abdca",
+          "name": "Computers/Internet"
+        }
+      ],
+      "name": "Mary Margaret Headrick",
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "entity_id": "27fad0b2769a44e2aff0ef83489a7517",
+      "chamber": "house",
+      "state": "TN",
+      "state_name": "Tennessee",
+      "district": "3",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Chuck_Fleischmann",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/F000459.jpg",
+      "seat_status": "I",
+      "bioguide_id": "F000459",
+      "fec_summary": {
+        "contributions_pac": "435849.68",
+        "office": "H",
+        "total_receipts_rank": 176,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "691.78",
+        "cash_on_hand_rank": 295,
+        "total_raised": "1151653.22",
+        "disbursements": "794651.16",
+        "total_disbursements_rank": 131,
+        "date": "2012-07-13",
+        "contributions_indiv": "715111.76",
+        "contributions_party": "0.00",
+        "cash_on_hand": "399309.57"
+      },
+      "industries": [
+        {
+          "count": "56",
+          "amount": "135000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "161",
+          "amount": "116250.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "64",
+          "amount": "100850.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "72",
+          "amount": "94560.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "70",
+          "amount": "75879.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "47",
+          "amount": "64800.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "47",
+          "amount": "43200.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "23",
+          "amount": "32550.00",
+          "id": "93b0e1ce2e904638a93eb9bbcd0bb7f8",
+          "name": "Food Processing & Sales"
+        },
+        {
+          "count": "27",
+          "amount": "31750.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "20",
+          "amount": "29634.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        }
+      ],
+      "senate_class": "",
+      "name": "Charles J. Fleischmann",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
+      "chamber": "senate",
+      "state": "TN",
+      "state_name": "Tennessee",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001071",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001071.jpg",
+      "seat_status": "I",
+      "bioguide_id": "C001071",
+      "fec_summary": {
+        "contributions_pac": "1700587.00",
+        "office": "S",
+        "total_receipts_rank": 13,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "203914.00",
+        "cash_on_hand_rank": 7,
+        "total_raised": "8971361.00",
+        "disbursements": "3805894.00",
+        "total_disbursements_rank": 20,
+        "date": "2012-07-13",
+        "contributions_indiv": "7012556.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "6311937.00"
+      },
+      "industries": [
+        {
+          "count": "1639",
+          "amount": "1475440.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1036",
+          "amount": "1465153.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "1389",
+          "amount": "1461105.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1338",
+          "amount": "1150219.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "1259",
+          "amount": "1014035.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "783",
+          "amount": "969796.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "688",
+          "amount": "770138.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "199",
+          "amount": "739775.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "694",
+          "amount": "722315.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "598",
+          "amount": "657250.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        }
+      ],
+      "senate_class": "I",
+      "name": "Bob Corker",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "87"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "85"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "5"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "90"
+        }
+      ]
+    }
+  ]
+}

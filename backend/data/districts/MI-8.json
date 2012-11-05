@@ -1,0 +1,206 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "MI",
+      "state_name": "Michigan",
+      "district": "8",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "1000.00",
+        "office": "H",
+        "total_receipts_rank": 595,
+        "max_rank": 695,
+        "contributions_candidate": "20571.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 649,
+        "total_raised": "40273.24",
+        "disbursements": "38349.35",
+        "total_disbursements_rank": 581,
+        "date": "2012-07-18",
+        "contributions_indiv": "12452.24",
+        "contributions_party": "100.00",
+        "cash_on_hand": "1983.89"
+      },
+      "industries": [
+        {
+          "count": "1",
+          "amount": "1050.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "1",
+          "amount": "1000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "3",
+          "amount": "800.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1",
+          "amount": "500.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "1",
+          "amount": "300.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        }
+      ],
+      "name": "Lance Lyle Enderle",
+      "endorsements": [
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "entity_id": "a27f164395ca4f68a26c1ca3040c10f1",
+      "chamber": "house",
+      "state": "MI",
+      "state_name": "Michigan",
+      "district": "8",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Mike_Rogers_%28Michigan_politician%29",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/R000572.jpg",
+      "seat_status": "I",
+      "bioguide_id": "R000572",
+      "fec_summary": {
+        "contributions_pac": "879760.57",
+        "office": "H",
+        "total_receipts_rank": 110,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 21,
+        "total_raised": "1449723.60",
+        "disbursements": "512205.16",
+        "total_disbursements_rank": 286,
+        "date": "2012-07-18",
+        "contributions_indiv": "557744.90",
+        "contributions_party": "0.00",
+        "cash_on_hand": "2028954.48"
+      },
+      "industries": [
+        {
+          "count": "665",
+          "amount": "670257.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "378",
+          "amount": "523851.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "532",
+          "amount": "503837.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "350",
+          "amount": "348846.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        },
+        {
+          "count": "413",
+          "amount": "319454.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "157",
+          "amount": "316585.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "384",
+          "amount": "284250.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "668",
+          "amount": "278099.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "261",
+          "amount": "266100.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "229",
+          "amount": "265383.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        }
+      ],
+      "senate_class": "",
+      "name": "Mike Rogers",
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "10"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "73"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "80"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

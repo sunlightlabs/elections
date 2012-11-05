@@ -1,0 +1,122 @@
+{
+  "house": [
+    {
+      "entity_id": "bef0722c43dc482299d75fa90f163944",
+      "chamber": "house",
+      "state": "MI",
+      "state_name": "Michigan",
+      "district": "4",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/David_Lee_Camp",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C000071.jpg",
+      "seat_status": "I",
+      "bioguide_id": "C000071",
+      "fec_summary": {
+        "contributions_pac": "2423369.32",
+        "office": "H",
+        "total_receipts_rank": 7,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "500.00",
+        "cash_on_hand_rank": 2,
+        "total_raised": "3558717.73",
+        "disbursements": "1576434.04",
+        "total_disbursements_rank": 29,
+        "date": "2012-07-18",
+        "contributions_indiv": "1119541.96",
+        "contributions_party": "645.00",
+        "cash_on_hand": "3461122.01"
+      },
+      "industries": [
+        {
+          "count": "808",
+          "amount": "1039960.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "820",
+          "amount": "935692.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "493",
+          "amount": "682447.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "383",
+          "amount": "608996.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "468",
+          "amount": "528317.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "638",
+          "amount": "490276.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "613",
+          "amount": "457728.00",
+          "id": "7b341f706d5a45158006b8c4767db59a",
+          "name": "Chemical & Related Manufacturing"
+        },
+        {
+          "count": "358",
+          "amount": "420512.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "262",
+          "amount": "400625.00",
+          "id": "4b732d5c5c4e43d39df21532b7c3be7b",
+          "name": "Health Services/Hmos"
+        },
+        {
+          "count": "462",
+          "amount": "367945.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        }
+      ],
+      "senate_class": "",
+      "name": "Dave Camp",
+      "endorsements": [
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "70"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "72"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

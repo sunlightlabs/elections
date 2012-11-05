@@ -1,0 +1,111 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "SC",
+      "state_name": "South Carolina",
+      "district": "7",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "O",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "16000.00",
+        "office": "H",
+        "total_receipts_rank": 486,
+        "max_rank": 695,
+        "contributions_candidate": "273030.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 658,
+        "total_raised": "338929.56",
+        "disbursements": "339060.28",
+        "total_disbursements_rank": 409,
+        "date": "2012-06-30",
+        "contributions_indiv": "49649.56",
+        "contributions_party": "0.00",
+        "cash_on_hand": "1119.28"
+      },
+      "industries": [
+        {
+          "count": "1",
+          "amount": "5000.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "1",
+          "amount": "5000.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "4",
+          "amount": "3500.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "8",
+          "amount": "3009.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "2",
+          "amount": "2750.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        },
+        {
+          "count": "1",
+          "amount": "2059.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        },
+        {
+          "count": "2",
+          "amount": "2000.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "3",
+          "amount": "1750.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        },
+        {
+          "count": "6",
+          "amount": "1750.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "3",
+          "amount": "1559.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        }
+      ],
+      "name": "Gloria Bromell Tinubu",
+      "endorsements": [
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

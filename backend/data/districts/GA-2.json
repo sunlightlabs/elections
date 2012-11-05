@@ -1,0 +1,122 @@
+{
+  "house": [
+    {
+      "entity_id": "69b068c312384b38abf3fb2d2bfc4cdb",
+      "chamber": "house",
+      "state": "GA",
+      "state_name": "Georgia",
+      "district": "2",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Sanford_Bishop",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000490.jpg",
+      "seat_status": "I",
+      "bioguide_id": "B000490",
+      "fec_summary": {
+        "contributions_pac": "532130.00",
+        "office": "H",
+        "total_receipts_rank": 304,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 365,
+        "total_raised": "799651.00",
+        "disbursements": "549286.98",
+        "total_disbursements_rank": 262,
+        "date": "2012-07-11",
+        "contributions_indiv": "268521.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "271867.98"
+      },
+      "industries": [
+        {
+          "count": "664",
+          "amount": "580711.00",
+          "id": "0b27f92a966443129f79dfa42ae1f293",
+          "name": "Crop Production & Basic Processing"
+        },
+        {
+          "count": "569",
+          "amount": "506412.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "140",
+          "amount": "348750.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "213",
+          "amount": "332342.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "370",
+          "amount": "267204.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "363",
+          "amount": "256226.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "186",
+          "amount": "251155.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "118",
+          "amount": "235000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "116",
+          "amount": "178000.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "159",
+          "amount": "176150.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        }
+      ],
+      "senate_class": "",
+      "name": "Sanford D Bishop Jr",
+      "endorsements": [
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "75"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "70"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "23"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

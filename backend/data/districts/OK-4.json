@@ -1,0 +1,184 @@
+{
+  "house": [
+    {
+      "entity_id": null,
+      "chamber": "house",
+      "state": "OK",
+      "state_name": "Oklahoma",
+      "district": "4",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "0.00",
+        "office": "H",
+        "total_receipts_rank": 640,
+        "max_rank": 695,
+        "contributions_candidate": "8014.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 682,
+        "total_raised": "17532.00",
+        "disbursements": "17359.00",
+        "total_disbursements_rank": 622,
+        "date": "2012-06-30",
+        "contributions_indiv": "9317.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "173.00"
+      },
+      "industries": [
+        {
+          "count": "2",
+          "amount": "1000.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1",
+          "amount": "720.00",
+          "id": "4e62cff90a974840bec347a2e32a58b9",
+          "name": "Beer, Wine & Liquor"
+        },
+        {
+          "count": "1",
+          "amount": "250.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        }
+      ],
+      "name": "Donna Bebo",
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    },
+    {
+      "entity_id": "f7ee773191fb474ca9ebe5ceb2db2ac5",
+      "chamber": "house",
+      "state": "OK",
+      "state_name": "Oklahoma",
+      "district": "4",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Tom_Cole",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/C001053.jpg",
+      "seat_status": "I",
+      "bioguide_id": "C001053",
+      "fec_summary": {
+        "contributions_pac": "302625.46",
+        "office": "H",
+        "total_receipts_rank": 319,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 112,
+        "total_raised": "768797.39",
+        "disbursements": "356469.60",
+        "total_disbursements_rank": 397,
+        "date": "2012-06-30",
+        "contributions_indiv": "456602.73",
+        "contributions_party": "0.00",
+        "cash_on_hand": "963362.57"
+      },
+      "industries": [
+        {
+          "count": "373",
+          "amount": "497800.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "297",
+          "amount": "383332.00",
+          "id": "13718be68388456d9b6e8db753f06e72",
+          "name": "Casinos/Gambling"
+        },
+        {
+          "count": "370",
+          "amount": "304466.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "101",
+          "amount": "243881.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "202",
+          "amount": "208300.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "296",
+          "amount": "191683.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "143",
+          "amount": "172677.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "140",
+          "amount": "172600.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "272",
+          "amount": "169647.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "170",
+          "amount": "136764.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        }
+      ],
+      "senate_class": "",
+      "name": "Tom Cole",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "69"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "80"
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

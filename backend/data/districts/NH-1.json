@@ -1,0 +1,237 @@
+{
+  "house": [
+    {
+      "entity_id": "a3cd4e6a22674701affdd05b5956b337",
+      "chamber": "house",
+      "state": "NH",
+      "state_name": "New Hampshire",
+      "district": "1",
+      "party": "D",
+      "incumbent": false,
+      "bio_url": "http://en.wikipedia.org/wiki/Carol_Shea-Porter",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S001170.jpg",
+      "seat_status": "C",
+      "bioguide_id": "S001170",
+      "fec_summary": {
+        "contributions_pac": "187982.64",
+        "office": "H",
+        "total_receipts_rank": 301,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 281,
+        "total_raised": "801419.83",
+        "disbursements": "382215.62",
+        "total_disbursements_rank": 379,
+        "date": "2012-08-22",
+        "contributions_indiv": "597405.30",
+        "contributions_party": "0.00",
+        "cash_on_hand": "422709.17"
+      },
+      "industries": [
+        {
+          "count": "557",
+          "amount": "342181.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "163",
+          "amount": "290865.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "535",
+          "amount": "288563.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "440",
+          "amount": "255407.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "63",
+          "amount": "156250.00",
+          "id": "52e5d4c6c0fa47c3bdb199a28f96d434",
+          "name": "Public Sector Unions"
+        },
+        {
+          "count": "40",
+          "amount": "149000.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "33",
+          "amount": "116500.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        },
+        {
+          "count": "30",
+          "amount": "80000.00",
+          "id": "bcb5ff50850c4e9682b5d4da5d9bf278",
+          "name": "Misc Unions"
+        },
+        {
+          "count": "27",
+          "amount": "76000.00",
+          "id": "2ba1f58e2fc0440ab75646d530d5d9a3",
+          "name": "Transportation Unions"
+        },
+        {
+          "count": "139",
+          "amount": "69328.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        }
+      ],
+      "senate_class": "",
+      "name": "Carol Shea-Porter",
+      "endorsements": [
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "D-"
+        }
+      ]
+    },
+    {
+      "entity_id": "6e2793151215468aa942c5d3fe3b661a",
+      "chamber": "house",
+      "state": "NH",
+      "state_name": "New Hampshire",
+      "district": "1",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Frank_Guinta",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/G000570.jpg",
+      "seat_status": "I",
+      "bioguide_id": "G000570",
+      "fec_summary": {
+        "contributions_pac": "560534.43",
+        "office": "H",
+        "total_receipts_rank": 138,
+        "max_rank": 695,
+        "contributions_candidate": "-22000.00",
+        "transfers_in": "34192.86",
+        "cash_on_hand_rank": 153,
+        "total_raised": "1332158.61",
+        "disbursements": "544677.68",
+        "total_disbursements_rank": 267,
+        "date": "2012-08-22",
+        "contributions_indiv": "747092.53",
+        "contributions_party": "10000.00",
+        "cash_on_hand": "810828.75"
+      },
+      "industries": [
+        {
+          "count": "107",
+          "amount": "207167.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "197",
+          "amount": "187751.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "98",
+          "amount": "133276.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "86",
+          "amount": "82298.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "62",
+          "amount": "70632.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "47",
+          "amount": "60907.00",
+          "id": "165d820dd48441e1befdc47f3fa3d236",
+          "name": "Food & Beverage"
+        },
+        {
+          "count": "90",
+          "amount": "60884.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "56",
+          "amount": "60464.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "43",
+          "amount": "56050.00",
+          "id": "83bece3db3b54ca58b38d3bad679697f",
+          "name": "Automotive"
+        },
+        {
+          "count": "47",
+          "amount": "53219.00",
+          "id": "ad689c2a2bf744cc82237f851cd3f2c0",
+          "name": "General Contractors"
+        }
+      ],
+      "senate_class": "",
+      "name": "Frank Guinta",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "77"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "84"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    }
+  ],
+  "senate": [
+
+  ]
+}

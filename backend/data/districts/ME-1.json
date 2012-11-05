@@ -1,0 +1,350 @@
+{
+  "house": [
+    {
+      "entity_id": "bc890c70ed394f78a542cc8a34ca3a97",
+      "chamber": "house",
+      "state": "ME",
+      "state_name": "Maine",
+      "district": "1",
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Chellie_Pingree",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/P000597.jpg",
+      "seat_status": "I",
+      "bioguide_id": "P000597",
+      "fec_summary": {
+        "contributions_pac": "85750.00",
+        "office": "H",
+        "total_receipts_rank": 324,
+        "max_rank": 695,
+        "contributions_candidate": "5503.87",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 323,
+        "total_raised": "755883.05",
+        "disbursements": "434461.84",
+        "total_disbursements_rank": 331,
+        "date": "2012-06-30",
+        "contributions_indiv": "663406.45",
+        "contributions_party": "136.22",
+        "cash_on_hand": "349450.89"
+      },
+      "industries": [
+        {
+          "count": "879",
+          "amount": "838380.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "1274",
+          "amount": "646940.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "682",
+          "amount": "455349.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "816",
+          "amount": "433752.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "228",
+          "amount": "298150.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "278",
+          "amount": "207081.00",
+          "id": "e5175721aac9406795a1f97cae01e01d",
+          "name": "Business Services"
+        },
+        {
+          "count": "303",
+          "amount": "150520.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "166",
+          "amount": "131600.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "193",
+          "amount": "121665.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "174",
+          "amount": "113677.00",
+          "id": "db81234a46874e7392cb5dfec1f07113",
+          "name": "Printing & Publishing"
+        }
+      ],
+      "senate_class": "",
+      "name": "Chellie Pingree",
+      "endorsements": [
+        {
+          "name": "National Nurses United",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "18"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "8.33"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": null,
+      "chamber": "senate",
+      "state": "ME",
+      "state_name": "Maine",
+      "district": null,
+      "party": "D",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "O",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "1500.00",
+        "office": "S",
+        "total_receipts_rank": 61,
+        "max_rank": 62,
+        "contributions_candidate": "2500.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 58,
+        "total_raised": "104512.00",
+        "disbursements": "75988.00",
+        "total_disbursements_rank": 61,
+        "date": "2012-06-30",
+        "contributions_indiv": "100512.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "28521.00"
+      },
+      "industries": [
+        {
+          "count": "7",
+          "amount": "3850.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "4",
+          "amount": "2550.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1",
+          "amount": "2500.00",
+          "id": "6555f7603d7c4d8ead58cce1fe99094d",
+          "name": "Misc Health"
+        },
+        {
+          "count": "1",
+          "amount": "2000.00",
+          "id": "d8ddc9e3d84b40a2a923545964e6bf80",
+          "name": "Non-Profit Institutions"
+        },
+        {
+          "count": "5",
+          "amount": "1500.00",
+          "id": "6e1074968db94bf4851c0245cd8583bf",
+          "name": "Women's Issues"
+        },
+        {
+          "count": "3",
+          "amount": "1250.00",
+          "id": "9e701425eeb14b4c874cfb4415a4ac3b",
+          "name": "Civil Servants/Public Officials"
+        },
+        {
+          "count": "1",
+          "amount": "1000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "1",
+          "amount": "500.00",
+          "id": "75a85fa019274ab5ae3cc83b5a68972e",
+          "name": "Construction Services"
+        },
+        {
+          "count": "1",
+          "amount": "500.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "1",
+          "amount": "350.00",
+          "id": "93b0e1ce2e904638a93eb9bbcd0bb7f8",
+          "name": "Food Processing & Sales"
+        }
+      ],
+      "name": "Cynthia Dill",
+      "endorsements": [
+        {
+          "name": "National Nurses United",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "entity_id": "9f88d333363e48f4a7ddc1f03e3b0e9d",
+      "chamber": "senate",
+      "state": "ME",
+      "state_name": "Maine",
+      "district": null,
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Olympia_Snowe",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/S000663.jpg",
+      "seat_status": "I",
+      "bioguide_id": "S000663",
+      "fec_summary": {
+        "contributions_pac": "1259738.00",
+        "office": "S",
+        "total_receipts_rank": 45,
+        "max_rank": 231,
+        "contributions_candidate": "0.00",
+        "transfers_in": "227371.00",
+        "cash_on_hand_rank": 35,
+        "total_raised": "2705768.00",
+        "disbursements": "2709868.00",
+        "total_disbursements_rank": 35,
+        "date": "2012-06-30",
+        "contributions_indiv": "1543376.00",
+        "contributions_party": "43100.00",
+        "cash_on_hand": "2063723.00"
+      },
+      "industries": [
+        {
+          "count": "1109",
+          "amount": "610185.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "521",
+          "amount": "583542.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "617",
+          "amount": "541669.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "531",
+          "amount": "506516.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "754",
+          "amount": "499636.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "532",
+          "amount": "440573.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "136",
+          "amount": "392608.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "527",
+          "amount": "364625.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "478",
+          "amount": "336700.00",
+          "id": "e69b2a41cd9645e292e66da69915ee6b",
+          "name": "Finance/Credit Companies"
+        },
+        {
+          "count": "204",
+          "amount": "225945.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        }
+      ],
+      "senate_class": "I",
+      "name": "Olympia J Snowe",
+      "endorsements": [
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "55"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "45"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "C"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "40"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "60"
+        }
+      ]
+    }
+  ]
+}

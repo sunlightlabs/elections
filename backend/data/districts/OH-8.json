@@ -1,0 +1,370 @@
+{
+  "house": [
+    {
+      "entity_id": "f990d08287c34c389cfabe3cbf3dde99",
+      "chamber": "house",
+      "state": "OH",
+      "state_name": "Ohio",
+      "district": "8",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/John_Boehner",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000589.jpg",
+      "seat_status": "I",
+      "bioguide_id": "B000589",
+      "fec_summary": {
+        "contributions_pac": "1894600.00",
+        "office": "H",
+        "total_receipts_rank": 1,
+        "max_rank": 695,
+        "contributions_candidate": "0.00",
+        "transfers_in": "8856276.28",
+        "cash_on_hand_rank": 11,
+        "total_raised": "18191296.77",
+        "disbursements": "15882375.39",
+        "total_disbursements_rank": 2,
+        "date": "2012-06-30",
+        "contributions_indiv": "7428165.26",
+        "contributions_party": "0.00",
+        "cash_on_hand": "2496845.00"
+      },
+      "industries": [
+        {
+          "count": "1327",
+          "amount": "2255386.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "3170",
+          "amount": "1886164.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "1212",
+          "amount": "1533939.00",
+          "id": "8ada0fc2d6994f2ab06c7e025dff2284",
+          "name": "Insurance"
+        },
+        {
+          "count": "1025",
+          "amount": "1189250.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "957",
+          "amount": "1175168.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "808",
+          "amount": "1101698.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "701",
+          "amount": "946430.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "890",
+          "amount": "928774.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "560",
+          "amount": "793227.00",
+          "id": "dfad8b983a1c423897ea2c77f28a3d3d",
+          "name": "Commercial Banks"
+        },
+        {
+          "count": "722",
+          "amount": "727840.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        }
+      ],
+      "senate_class": "",
+      "name": "John Boehner",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "endorsement",
+          "value": null
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "endorsement",
+          "value": null
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
+      "chamber": "senate",
+      "state": "OH",
+      "state_name": "Ohio",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Sherrod_Brown",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/B000944.jpg",
+      "seat_status": "I",
+      "bioguide_id": "B000944",
+      "fec_summary": {
+        "contributions_pac": "1519997.00",
+        "office": "S",
+        "total_receipts_rank": 5,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "606799.00",
+        "cash_on_hand_rank": 6,
+        "total_raised": "11055060.00",
+        "disbursements": "6182284.00",
+        "total_disbursements_rank": 10,
+        "date": "2012-06-30",
+        "contributions_indiv": "8830169.00",
+        "contributions_party": "43100.00",
+        "cash_on_hand": "6496215.00"
+      },
+      "industries": [
+        {
+          "count": "3835",
+          "amount": "3038996.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "2197",
+          "amount": "2083901.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "2532",
+          "amount": "1477003.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "697",
+          "amount": "715866.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "1062",
+          "amount": "637042.00",
+          "id": "31657d3c187e4cecb670d228d7e674d2",
+          "name": "Education"
+        },
+        {
+          "count": "233",
+          "amount": "587206.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "843",
+          "amount": "566301.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        },
+        {
+          "count": "720",
+          "amount": "502453.00",
+          "id": "0b4aba987b6e4cb5931b8060b40a0c7f",
+          "name": "Hospitals/Nursing Homes"
+        },
+        {
+          "count": "673",
+          "amount": "490747.00",
+          "id": "4f1efa319be14d63b50ebf17a8f1af71",
+          "name": "Democratic/Liberal"
+        },
+        {
+          "count": "212",
+          "amount": "477522.00",
+          "id": "d22cf14b1cd349b79f2b656b450b3b88",
+          "name": "Industrial Unions"
+        }
+      ],
+      "senate_class": "I",
+      "name": "Sherrod Brown",
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "National Organization of Women (NOW)",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "30"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "F"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "rating",
+          "value": "95"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "6"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "entity_id": null,
+      "chamber": "senate",
+      "state": "OH",
+      "state_name": "Ohio",
+      "district": null,
+      "party": "R",
+      "incumbent": false,
+      "bio_url": null,
+      "photo_url": null,
+      "seat_status": "C",
+      "bioguide_id": null,
+      "fec_summary": {
+        "contributions_pac": "749201.00",
+        "office": "S",
+        "total_receipts_rank": 11,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "1507510.00",
+        "cash_on_hand_rank": 10,
+        "total_raised": "9723650.00",
+        "disbursements": "4978455.00",
+        "total_disbursements_rank": 13,
+        "date": "2012-06-30",
+        "contributions_indiv": "7387538.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "4930230.00"
+      },
+      "industries": [
+        {
+          "count": "384",
+          "amount": "480900.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "220",
+          "amount": "397140.00",
+          "id": "0af3f418f426497e8bbf916bfc074ebc",
+          "name": "Securities & Investment"
+        },
+        {
+          "count": "245",
+          "amount": "371057.00",
+          "id": "7500030dffe24844aa467a75f7aedfd1",
+          "name": "Real Estate"
+        },
+        {
+          "count": "323",
+          "amount": "362515.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "195",
+          "amount": "320050.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "299",
+          "amount": "278924.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        },
+        {
+          "count": "159",
+          "amount": "276600.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "141",
+          "amount": "205350.00",
+          "id": "05b23aff0dbd4b74b95b3e16074a874c",
+          "name": "Misc Finance"
+        },
+        {
+          "count": "75",
+          "amount": "166650.00",
+          "id": "32383c4d430e4b63aaa584500088331c",
+          "name": "Retail Sales"
+        },
+        {
+          "count": "123",
+          "amount": "163000.00",
+          "id": "bf2cfae020b84fae915ee48e8e15ea87",
+          "name": "Pro-Israel"
+        }
+      ],
+      "name": "Josh Mandel",
+      "endorsements": [
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Family Research Council",
+          "type": "endorsement",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

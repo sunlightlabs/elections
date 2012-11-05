@@ -1,0 +1,261 @@
+{
+  "house": [
+    {
+      "entity_id": "b290e7531b31446883253332fad1f693",
+      "chamber": "house",
+      "state": "WV",
+      "state_name": "West Virginia",
+      "district": "1",
+      "party": "R",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/David_McKinley",
+      "photo_url": "http://assets.sunlightfoundation.com/moc/100x125/M001180.jpg",
+      "seat_status": "I",
+      "bioguide_id": "M001180",
+      "fec_summary": {
+        "contributions_pac": "725145.05",
+        "office": "H",
+        "total_receipts_rank": 63,
+        "max_rank": 695,
+        "contributions_candidate": "-85000.00",
+        "transfers_in": "0.00",
+        "cash_on_hand_rank": 56,
+        "total_raised": "1729790.78",
+        "disbursements": "538662.34",
+        "total_disbursements_rank": 270,
+        "date": "2012-06-30",
+        "contributions_indiv": "1086690.89",
+        "contributions_party": "300.00",
+        "cash_on_hand": "1358743.51"
+      },
+      "industries": [
+        {
+          "count": "280",
+          "amount": "365929.00",
+          "id": "8b48cb51f18f4286b8e16b2dc8e9689d",
+          "name": "Mining"
+        },
+        {
+          "count": "162",
+          "amount": "140245.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "153",
+          "amount": "119126.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "63",
+          "amount": "117000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "147",
+          "amount": "114934.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "82",
+          "amount": "107750.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "60",
+          "amount": "87650.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "20",
+          "amount": "57500.00",
+          "id": "e1fca6d984d24ea5abfe81abe87e46fb",
+          "name": "Building Trade Unions"
+        },
+        {
+          "count": "52",
+          "amount": "53900.00",
+          "id": "13ca840788944cc79b362d068985fc73",
+          "name": "Misc Manufacturing & Distributing"
+        },
+        {
+          "count": "30",
+          "amount": "46300.00",
+          "id": "767c434bfd1348638bab7f8c12b9282f",
+          "name": "Republican/Conservative"
+        }
+      ],
+      "senate_class": "",
+      "name": "David B. McKinley",
+      "endorsements": [
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "90"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "0"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "D"
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "64"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "64"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "entity_id": "fea00787eb034cb2a11e8086a48db88e",
+      "chamber": "senate",
+      "state": "WV",
+      "state_name": "West Virginia",
+      "district": null,
+      "party": "D",
+      "incumbent": true,
+      "bio_url": "http://en.wikipedia.org/wiki/Joe_Manchin",
+      "photo_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Joe_Manchin%2C_Official_Senate_Portrait.jpg/225px-Joe_Manchin%2C_Official_Senate_Portrait.jpg",
+      "seat_status": "I",
+      "bioguide_id": "M001183",
+      "fec_summary": {
+        "contributions_pac": "1600068.00",
+        "office": "S",
+        "total_receipts_rank": 34,
+        "max_rank": 62,
+        "contributions_candidate": "0.00",
+        "transfers_in": "28542.00",
+        "cash_on_hand_rank": 30,
+        "total_raised": "3783506.00",
+        "disbursements": "1960409.00",
+        "total_disbursements_rank": 37,
+        "date": "2012-06-30",
+        "contributions_indiv": "2142046.00",
+        "contributions_party": "0.00",
+        "cash_on_hand": "2211653.00"
+      },
+      "industries": [
+        {
+          "count": "559",
+          "amount": "595053.00",
+          "id": "f50cf984a2e3477c8167d32e2b14e052",
+          "name": "Lawyers/Law Firms"
+        },
+        {
+          "count": "352",
+          "amount": "580248.00",
+          "id": "8b48cb51f18f4286b8e16b2dc8e9689d",
+          "name": "Mining"
+        },
+        {
+          "count": "297",
+          "amount": "371050.00",
+          "id": "a6997a5a0f674bbc9c371d8e99377259",
+          "name": "Electric Utilities"
+        },
+        {
+          "count": "93",
+          "amount": "352000.00",
+          "id": "9162d091922d4bb0a9e02bf0e42915b8",
+          "name": "Leadership Pacs"
+        },
+        {
+          "count": "211",
+          "amount": "349950.00",
+          "id": "d9c4a26cd671436eac3c501184364fc4",
+          "name": "Misc Business"
+        },
+        {
+          "count": "156",
+          "amount": "244450.00",
+          "id": "08c1fa7788994f148eddfb78c10032cf",
+          "name": "Pharmaceuticals/Health Products"
+        },
+        {
+          "count": "232",
+          "amount": "242800.00",
+          "id": "b21467ae32924f84ada9076535401a91",
+          "name": "Retired"
+        },
+        {
+          "count": "195",
+          "amount": "236248.00",
+          "id": "a05a0d06f6814b31bece35a81fcb40c7",
+          "name": "Health Professionals"
+        },
+        {
+          "count": "125",
+          "amount": "193500.00",
+          "id": "52766c4910a846f2813a1dda212b7027",
+          "name": "Oil & Gas"
+        },
+        {
+          "count": "223",
+          "amount": "190217.00",
+          "id": "b5b0215a788a434b8d5d3c628d2a25a7",
+          "name": "Lobbyists"
+        }
+      ],
+      "senate_class": "I",
+      "name": "Joe Manchin",
+      "endorsements": [
+        {
+          "name": "AFL-CIO",
+          "type": "endorsement",
+          "value": "Y"
+        },
+        {
+          "name": "Gun Owners of America",
+          "type": "grade",
+          "value": "D"
+        },
+        {
+          "name": "American Security Council Foundation",
+          "type": "rating",
+          "value": "70"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "type": "rating",
+          "value": "100"
+        },
+        {
+          "name": "National Education Association",
+          "type": "grade",
+          "value": "A"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "endorsement",
+          "value": null
+        },
+        {
+          "name": "National Taxpayers Union",
+          "type": "rating",
+          "value": "23"
+        },
+        {
+          "name": "American Conservative Union",
+          "type": "rating",
+          "value": "15"
+        }
+      ]
+    }
+  ]
+}
