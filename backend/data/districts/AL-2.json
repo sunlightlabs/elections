@@ -3,12 +3,14 @@
     {
       "photo_filename": "Therese_Ford.jpg",
       "name": "Therese Ford",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Martha_Roby.jpg",
       "name": "Martha Roby",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "87a4df31e002449d9534e17c14c5f317",
       "chamber": "house",
       "state": "AL",

@@ -4,6 +4,7 @@
       "photo_filename": "Joe_Courtney.jpg",
       "name": "Joe Courtney",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "1fd892f6fba0433da6db1ba9fa969f7c",
       "chamber": "house",
       "state": "CT",
@@ -133,7 +134,8 @@
     {
       "photo_filename": "Paul_M_Formica.jpg",
       "name": "Paul M Formica",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -141,6 +143,7 @@
       "photo_filename": "Christopher_S._Murphy.jpg",
       "name": "Chris Murphy",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "chamber": "senate",
       "state": "CT",
@@ -240,7 +243,8 @@
     {
       "photo_filename": "Linda_McMahon.jpg",
       "name": "Linda McMahon",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

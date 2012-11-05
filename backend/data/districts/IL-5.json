@@ -4,6 +4,7 @@
       "photo_filename": "Mike_Quigley.jpg",
       "name": "Mike Quigley",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "3e025578600547b9833a303bf4d0b54c",
       "chamber": "house",
       "state": "IL",
@@ -133,7 +134,8 @@
     {
       "photo_filename": "Dan_Schmitt.jpg",
       "name": "Dan Schmitt",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

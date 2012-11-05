@@ -4,6 +4,7 @@
       "photo_filename": "Austin_Scott.jpg",
       "name": "Austin Scott",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "4566aa4fea7a4d0da79e8aa27694ad25",
       "chamber": "house",
       "state": "GA",

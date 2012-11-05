@@ -4,6 +4,7 @@
       "photo_filename": "Philip_Scollo.jpg",
       "name": "Philip Scollo",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "PA",
@@ -104,6 +105,7 @@
       "photo_filename": "Tom_Marino.jpg",
       "name": "Tom Marino",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "3af5f262689b417f8b7dd7a6e815f953",
       "chamber": "house",
       "state": "PA",
@@ -226,6 +228,7 @@
       "photo_filename": "Bob_Casey,_Jr..jpg",
       "name": "Bob Casey, Jr.",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "chamber": "senate",
       "state": "PA",
@@ -355,7 +358,8 @@
     {
       "photo_filename": "Tom_Smith.jpg",
       "name": "Tom Smith",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

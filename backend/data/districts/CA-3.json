@@ -4,6 +4,7 @@
       "photo_filename": "John_Garamendi.jpg",
       "name": "John Garamendi",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "796fb2218ed84a939744b88dc1e7fecb",
       "chamber": "house",
       "state": "CA",
@@ -148,7 +149,8 @@
     {
       "photo_filename": "Kim_Dolbow_Vann.jpg",
       "name": "Kim Dolbow Vann",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -156,6 +158,7 @@
       "photo_filename": "Dianne_Feinstein.jpg",
       "name": "Dianne Feinstein",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "chamber": "senate",
       "state": "CA",
@@ -341,6 +344,7 @@
       "photo_filename": "Elizabeth_Emken.jpg",
       "name": "Elizabeth Emken",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "chamber": "senate",
       "state": "CA",

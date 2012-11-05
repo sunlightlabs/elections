@@ -4,6 +4,7 @@
       "photo_filename": "John_Delaney.jpg",
       "name": "John Delaney",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "MD",
@@ -114,6 +115,7 @@
       "photo_filename": "Roscoe_Bartlett.jpg",
       "name": "Roscoe Bartlett",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "a0ec0c8a79524903bda3221e9086783a",
       "chamber": "house",
       "state": "MD",
@@ -241,6 +243,7 @@
       "photo_filename": "Ben_Cardin.jpg",
       "name": "Ben Cardin",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "chamber": "senate",
       "state": "MD",
@@ -380,17 +383,20 @@
     {
       "photo_filename": null,
       "name": "Lih Young",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Dan_Bongino.jpg",
       "name": "Dan Bongino",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     },
     {
       "photo_filename": null,
       "name": "Mary Podlesak",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

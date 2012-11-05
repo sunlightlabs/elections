@@ -4,6 +4,7 @@
       "photo_filename": "Michael_F._Doyle.jpg",
       "name": "Michael F. Doyle",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "6ac7f3e304754f5db07ed5c2b7092781",
       "chamber": "house",
       "state": "PA",
@@ -133,7 +134,8 @@
     {
       "photo_filename": null,
       "name": "Hans Lessmann",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -141,6 +143,7 @@
       "photo_filename": "Bob_Casey,_Jr..jpg",
       "name": "Bob Casey, Jr.",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "chamber": "senate",
       "state": "PA",
@@ -270,7 +273,8 @@
     {
       "photo_filename": "Tom_Smith.jpg",
       "name": "Tom Smith",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

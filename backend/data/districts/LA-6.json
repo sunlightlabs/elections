@@ -4,6 +4,7 @@
       "photo_filename": "Bill_Cassidy.jpg",
       "name": "Bill Cassidy",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "724698e65db74b89920ad539974078d4",
       "chamber": "house",
       "state": "LA",

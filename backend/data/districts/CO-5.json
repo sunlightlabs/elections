@@ -4,6 +4,7 @@
       "photo_filename": "Doug_Lamborn.jpg",
       "name": "Doug Lamborn",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "b2d0d2ff8df04961b13ac9253998f489",
       "chamber": "house",
       "state": "CO",
@@ -133,7 +134,8 @@
     {
       "photo_filename": null,
       "name": "George Allen Cantrell",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

@@ -4,6 +4,7 @@
       "photo_filename": "John_D._Dingell.jpg",
       "name": "John D. Dingell",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "c91f544f18ce4c91a49cc47cd5a1d53b",
       "chamber": "house",
       "state": "MI",
@@ -138,7 +139,8 @@
     {
       "photo_filename": "Cynthia_Kallgren.jpg",
       "name": "Cynthia Kallgren",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -146,6 +148,7 @@
       "photo_filename": "Debbie_Stabenow.jpg",
       "name": "Debbie Stabenow",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "f0b2ed36768d4c99b3ba68d3a553d8d8",
       "chamber": "senate",
       "state": "MI",
@@ -281,6 +284,7 @@
       "photo_filename": "Pete_Hoekstra.jpg",
       "name": "Pete Hoekstra",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "ee58b1dc41824d21aa87f9e9063aa0e7",
       "chamber": "senate",
       "state": "MI",

@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Kristin Cabral",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "VA",
@@ -114,6 +115,7 @@
       "photo_filename": "Frank_Wolf.jpg",
       "name": "Frank Wolf",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "96bd253297cd42b689edb1549decde78",
       "chamber": "house",
       "state": "VA",
@@ -236,6 +238,7 @@
       "photo_filename": "Tim_Kaine.png",
       "name": "Tim Kaine",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "VA",
@@ -350,7 +353,8 @@
     {
       "photo_filename": "George_Allen.jpg",
       "name": "George Allen",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

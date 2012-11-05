@@ -3,7 +3,8 @@
     {
       "photo_filename": "Ann_Wagner.jpg",
       "name": "Ann Wagner",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -11,6 +12,7 @@
       "photo_filename": "Claire_McCaskill.jpg",
       "name": "Claire McCaskill",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "98af4916592648c4aa992d8db00e6e5b",
       "chamber": "senate",
       "state": "MO",
@@ -146,6 +148,7 @@
       "photo_filename": "Todd_Akin.jpg",
       "name": "Todd Akin",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "28e6cce459e74dcbb575fa05def946e3",
       "chamber": "senate",
       "state": "MO",

@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Mary Baechler",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Doc_Hastings.jpg",
       "name": "Doc Hastings",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "ab2c546d4cd944a9904268803211029c",
       "chamber": "house",
       "state": "WA",
@@ -141,6 +143,7 @@
       "photo_filename": "Maria_Cantwell.jpg",
       "name": "Maria Cantwell",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "chamber": "senate",
       "state": "WA",
@@ -285,7 +288,8 @@
     {
       "photo_filename": "Michael_Baumgartner.jpg",
       "name": "Michael Baumgartner",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

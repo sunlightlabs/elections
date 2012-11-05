@@ -4,6 +4,7 @@
       "photo_filename": "Jody_Cooley.jpg",
       "name": "Jody Cooley",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "GA",
@@ -61,7 +62,8 @@
     {
       "photo_filename": "Doug_Collins.jpg",
       "name": "Doug Collins",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

@@ -4,6 +4,7 @@
       "photo_filename": "Al_Green.jpg",
       "name": "Al Green",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "d6ba2df590cf4be293836f93e53991c4",
       "chamber": "house",
       "state": "TX",
@@ -138,7 +139,8 @@
     {
       "photo_filename": null,
       "name": "Steve Mueller",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -146,6 +148,7 @@
       "photo_filename": "Paul_Sadler.jpg",
       "name": "Paul Sadler",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",
@@ -251,6 +254,7 @@
       "photo_filename": "Ted_Cruz.jpg",
       "name": "Ted Cruz",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",

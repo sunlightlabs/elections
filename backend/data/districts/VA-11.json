@@ -4,6 +4,7 @@
       "photo_filename": "Gerald_Connolly.JPG",
       "name": "Gerald Connolly",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "7b8acbba05d0487aa74356852d6b4f92",
       "chamber": "house",
       "state": "VA",
@@ -138,7 +139,8 @@
     {
       "photo_filename": null,
       "name": "Chris Perkins",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -146,6 +148,7 @@
       "photo_filename": "Tim_Kaine.png",
       "name": "Tim Kaine",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "VA",
@@ -260,7 +263,8 @@
     {
       "photo_filename": "George_Allen.jpg",
       "name": "George Allen",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

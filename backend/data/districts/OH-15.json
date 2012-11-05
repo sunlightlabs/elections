@@ -3,12 +3,14 @@
     {
       "photo_filename": "Pat_Lang.jpg",
       "name": "Pat Lang",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Steve_Stivers.jpg",
       "name": "Steve Stivers",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "2df904c75ad94bb792b817aceda05e8f",
       "chamber": "house",
       "state": "OH",
@@ -131,6 +133,7 @@
       "photo_filename": "Sherrod_Brown.jpg",
       "name": "Sherrod Brown",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
       "chamber": "senate",
       "state": "OH",
@@ -271,6 +274,7 @@
       "photo_filename": "Josh_Mandel.jpg",
       "name": "Josh Mandel",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "OH",

@@ -4,6 +4,7 @@
       "photo_filename": "John_Sarbanes.jpg",
       "name": "John Sarbanes",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "2d96f89c25b241a6bd72a79c70b4e5fa",
       "chamber": "house",
       "state": "MD",
@@ -133,7 +134,8 @@
     {
       "photo_filename": "Eric_Delano_Knowles.jpg",
       "name": "Eric Delano Knowles",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -141,6 +143,7 @@
       "photo_filename": "Ben_Cardin.jpg",
       "name": "Ben Cardin",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "chamber": "senate",
       "state": "MD",
@@ -280,17 +283,20 @@
     {
       "photo_filename": null,
       "name": "Lih Young",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Dan_Bongino.jpg",
       "name": "Dan Bongino",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     },
     {
       "photo_filename": null,
       "name": "Mary Podlesak",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

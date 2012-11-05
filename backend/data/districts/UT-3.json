@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Soren Simonsen",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Jason_Chaffetz.jpg",
       "name": "Jason Chaffetz",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "030bed2e80e54303b9ef68d17a98587f",
       "chamber": "house",
       "state": "UT",
@@ -136,6 +138,7 @@
       "photo_filename": null,
       "name": "Scott Howell",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "UT",
@@ -241,6 +244,7 @@
       "photo_filename": "Orrin_Hatch.jpg",
       "name": "Orrin Hatch",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "e5aa63ec4a0746fbb9961b325ddb3627",
       "chamber": "senate",
       "state": "UT",

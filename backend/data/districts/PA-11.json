@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Gene Stilp",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "PA",
@@ -97,6 +98,7 @@
       "photo_filename": "Lou_Barletta.jpeg",
       "name": "Lou Barletta",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "07d5f165d18f4b3f9e972ef53ffba680",
       "chamber": "house",
       "state": "PA",
@@ -224,6 +226,7 @@
       "photo_filename": "Bob_Casey,_Jr..jpg",
       "name": "Bob Casey, Jr.",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "chamber": "senate",
       "state": "PA",
@@ -353,7 +356,8 @@
     {
       "photo_filename": "Tom_Smith.jpg",
       "name": "Tom Smith",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Stephen Wyman",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "John_Carter.jpg",
       "name": "John Carter",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "19b37df97ee248b5959a9e672cfc79db",
       "chamber": "house",
       "state": "TX",
@@ -131,6 +133,7 @@
       "photo_filename": "Paul_Sadler.jpg",
       "name": "Paul Sadler",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",
@@ -236,6 +239,7 @@
       "photo_filename": "Ted_Cruz.jpg",
       "name": "Ted Cruz",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",

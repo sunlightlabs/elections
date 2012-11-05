@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "VaLinda Hathcox",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Ralph_Hall.jpg",
       "name": "Ralph Hall",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "67ae50cb45fa47c6866aa6c029adbff8",
       "chamber": "house",
       "state": "TX",
@@ -136,6 +138,7 @@
       "photo_filename": "Paul_Sadler.jpg",
       "name": "Paul Sadler",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",
@@ -241,6 +244,7 @@
       "photo_filename": "Ted_Cruz.jpg",
       "name": "Ted Cruz",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",

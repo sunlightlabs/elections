@@ -4,6 +4,7 @@
       "photo_filename": "John_Yarmuth.jpg",
       "name": "John Yarmuth",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "dd3d539d8f9b4df6a72d8cd41eeb1853",
       "chamber": "house",
       "state": "KY",
@@ -128,7 +129,8 @@
     {
       "photo_filename": "Brooks_Wicker.jpg",
       "name": "Brooks Wicker",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Willie German, Jr.",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Bill_Huizenga.jpg",
       "name": "Bill Huizenga",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "a1b346a0010143a89a5d46397033dd24",
       "chamber": "house",
       "state": "MI",
@@ -131,6 +133,7 @@
       "photo_filename": "Debbie_Stabenow.jpg",
       "name": "Debbie Stabenow",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "f0b2ed36768d4c99b3ba68d3a553d8d8",
       "chamber": "senate",
       "state": "MI",
@@ -266,6 +269,7 @@
       "photo_filename": "Pete_Hoekstra.jpg",
       "name": "Pete Hoekstra",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "ee58b1dc41824d21aa87f9e9063aa0e7",
       "chamber": "senate",
       "state": "MI",

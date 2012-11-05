@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Hayden Rogers",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "NC",
@@ -108,7 +109,8 @@
     {
       "photo_filename": null,
       "name": "Mark Meadows",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

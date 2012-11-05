@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Elaine Henderson",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Roger_Williams.jpg",
       "name": "Roger Williams",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -16,6 +18,7 @@
       "photo_filename": "Paul_Sadler.jpg",
       "name": "Paul Sadler",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",
@@ -121,6 +124,7 @@
       "photo_filename": "Ted_Cruz.jpg",
       "name": "Ted Cruz",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",

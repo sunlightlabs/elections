@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Tawana Cadien",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Michael_McCaul.jpg",
       "name": "Michael McCaul",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "7f8afee68c744043b43b5d4372fd0b9b",
       "chamber": "house",
       "state": "TX",
@@ -136,6 +138,7 @@
       "photo_filename": "Paul_Sadler.jpg",
       "name": "Paul Sadler",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",
@@ -241,6 +244,7 @@
       "photo_filename": "Ted_Cruz.jpg",
       "name": "Ted Cruz",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",

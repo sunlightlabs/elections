@@ -4,6 +4,7 @@
       "photo_filename": "Rodney_Alexander.jpg",
       "name": "Rodney Alexander",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "09e41498c9ea48fd9d285e70579f4c06",
       "chamber": "house",
       "state": "LA",

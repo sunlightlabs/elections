@@ -4,6 +4,7 @@
       "photo_filename": "Chris_Van_Hollen.jpg",
       "name": "Chris Van Hollen",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "86b74a6c75c64a448aad0709c4af371f",
       "chamber": "house",
       "state": "MD",
@@ -128,7 +129,8 @@
     {
       "photo_filename": "Ken_Timmerman.jpg",
       "name": "Ken Timmerman",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -136,6 +138,7 @@
       "photo_filename": "Ben_Cardin.jpg",
       "name": "Ben Cardin",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "chamber": "senate",
       "state": "MD",
@@ -275,17 +278,20 @@
     {
       "photo_filename": null,
       "name": "Lih Young",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Dan_Bongino.jpg",
       "name": "Dan Bongino",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     },
     {
       "photo_filename": null,
       "name": "Mary Podlesak",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

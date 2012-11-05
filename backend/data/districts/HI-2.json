@@ -4,6 +4,7 @@
       "photo_filename": "Tulsi_Gabbard.jpg",
       "name": "Tulsi Gabbard",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "HI",
@@ -108,7 +109,8 @@
     {
       "photo_filename": null,
       "name": "David Crowley",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -116,6 +118,7 @@
       "photo_filename": "Mazie_Hirono.jpg",
       "name": "Mazie Hirono",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "79f92c32d0a244009c8c296dd4daff30",
       "chamber": "senate",
       "state": "HI",
@@ -260,7 +263,8 @@
     {
       "photo_filename": "Linda_Lingle.jpg",
       "name": "Linda Lingle",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

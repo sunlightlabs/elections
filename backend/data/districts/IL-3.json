@@ -4,6 +4,7 @@
       "photo_filename": "Daniel_Lipinski.jpg",
       "name": "Daniel Lipinski",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "f2530a1171d54d6d9b8fb24991493f60",
       "chamber": "house",
       "state": "IL",
@@ -138,7 +139,8 @@
     {
       "photo_filename": "Richard_Grabowski.jpg",
       "name": "Richard Grabowski",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

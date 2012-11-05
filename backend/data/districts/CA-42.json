@@ -3,12 +3,14 @@
     {
       "photo_filename": "Michael_Williamson.jpg",
       "name": "Michael Williamson",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Ken_Calvert.jpg",
       "name": "Ken Calvert",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "d952c511f6234e559f9616d3768dcaf5",
       "chamber": "house",
       "state": "CA",
@@ -131,6 +133,7 @@
       "photo_filename": "Dianne_Feinstein.jpg",
       "name": "Dianne Feinstein",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "chamber": "senate",
       "state": "CA",
@@ -316,6 +319,7 @@
       "photo_filename": "Elizabeth_Emken.jpg",
       "name": "Elizabeth Emken",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "chamber": "senate",
       "state": "CA",

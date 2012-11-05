@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Manan Trivedi",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "acfb5dfd44ed4122993af7e7f00712fd",
       "chamber": "house",
       "state": "PA",
@@ -114,6 +115,7 @@
       "photo_filename": "Jim_Gerlach.jpg",
       "name": "Jim Gerlach",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "0a45a2621e79498a8ba264eedbe0624b",
       "chamber": "house",
       "state": "PA",
@@ -241,6 +243,7 @@
       "photo_filename": "Bob_Casey,_Jr..jpg",
       "name": "Bob Casey, Jr.",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "chamber": "senate",
       "state": "PA",
@@ -370,7 +373,8 @@
     {
       "photo_filename": "Tom_Smith.jpg",
       "name": "Tom Smith",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

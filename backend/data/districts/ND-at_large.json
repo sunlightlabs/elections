@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Pam Gulleson",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "ND",
@@ -109,6 +110,7 @@
       "photo_filename": "Kevin_Cramer.jpg",
       "name": "Kevin Cramer",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "ND",
@@ -210,12 +212,14 @@
     {
       "photo_filename": null,
       "name": "Heidi Heitkamp",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Rick_Berg.jpg",
       "name": "Rick Berg",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "06c3f03746c44a78a4fd3e135df4e5c3",
       "chamber": "senate",
       "state": "ND",

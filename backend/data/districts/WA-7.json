@@ -4,6 +4,7 @@
       "photo_filename": "Jim_McDermott_(Washington).jpg",
       "name": "Jim McDermott",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "a7a7a868f8d6492b8545dbdae82c386e",
       "chamber": "house",
       "state": "WA",
@@ -133,7 +134,8 @@
     {
       "photo_filename": "Ron_Bemis.jpeg",
       "name": "Ron Bemis",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -141,6 +143,7 @@
       "photo_filename": "Maria_Cantwell.jpg",
       "name": "Maria Cantwell",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "chamber": "senate",
       "state": "WA",
@@ -285,7 +288,8 @@
     {
       "photo_filename": "Michael_Baumgartner.jpg",
       "name": "Michael Baumgartner",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Jeff Kazanow",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Tom_Price.jpg",
       "name": "Tom Price",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "232901b5e78840cfaaf4389cf6e0df95",
       "chamber": "house",
       "state": "GA",

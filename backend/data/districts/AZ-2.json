@@ -4,6 +4,7 @@
       "photo_filename": "Ron_Barber.jpg",
       "name": "Ron Barber",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "AZ",
@@ -103,7 +104,8 @@
     {
       "photo_filename": "Martha_McSally.jpg",
       "name": "Martha McSally",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -111,6 +113,7 @@
       "photo_filename": "Richard_Carmona.jpg",
       "name": "Richard Carmona",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "AZ",
@@ -216,6 +219,7 @@
       "photo_filename": "Jeff_Flake.jpg",
       "name": "Jeff Flake",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "be44f82d0528410fa74c71c886a152f5",
       "chamber": "senate",
       "state": "AZ",

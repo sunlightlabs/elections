@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Howard Swint",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Shelley_Moore_Capito.jpeg",
       "name": "Shelley Moore Capito",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "aac4b4e13e554061be7a38f4229daa7d",
       "chamber": "house",
       "state": "WV",
@@ -131,6 +133,7 @@
       "photo_filename": "Joe_Manchin.jpg",
       "name": "Joe Manchin",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "fea00787eb034cb2a11e8086a48db88e",
       "chamber": "senate",
       "state": "WV",
@@ -265,7 +268,8 @@
     {
       "photo_filename": "John_Raese.png",
       "name": "John Raese",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

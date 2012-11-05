@@ -4,6 +4,7 @@
       "photo_filename": "Bennie_Thompson.jpg",
       "name": "Bennie Thompson",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "9b27589ad6f740778bfe3b60d841a285",
       "chamber": "house",
       "state": "MS",
@@ -133,19 +134,22 @@
     {
       "photo_filename": null,
       "name": "Bill Marcy",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
     {
       "photo_filename": null,
       "name": "Albert N. Gore",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Roger_Wicker.jpg",
       "name": "Roger Wicker",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "159c40291deb455596155ded63972bf4",
       "chamber": "senate",
       "state": "MS",

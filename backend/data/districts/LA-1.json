@@ -3,12 +3,14 @@
     {
       "photo_filename": "M.V._Mendoza.png",
       "name": "M.V. Mendoza",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Steve_Scalise.jpg",
       "name": "Steve Scalise",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "b3bf01adf2fc43209381e342e83ef6fc",
       "chamber": "house",
       "state": "LA",
@@ -133,7 +135,8 @@
     {
       "photo_filename": "Gary_King_(Louisiana).jpg",
       "name": "Gary King",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

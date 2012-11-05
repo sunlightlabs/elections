@@ -4,6 +4,7 @@
       "photo_filename": "Suzanne_Bonamici.jpg",
       "name": "Suzanne Bonamici",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "78ff25953bbe4d79a069d9492b48ad90",
       "chamber": "house",
       "state": "OR",
@@ -123,7 +124,8 @@
     {
       "photo_filename": "Delinda_Morgan.jpg",
       "name": "Delinda Morgan",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

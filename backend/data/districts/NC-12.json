@@ -4,6 +4,7 @@
       "photo_filename": "Melvin_L._Watt.jpg",
       "name": "Melvin L. Watt",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "c17641e1cebd490fab943db05c75fd2d",
       "chamber": "house",
       "state": "NC",
@@ -138,7 +139,8 @@
     {
       "photo_filename": "Jack_Brosch.JPG",
       "name": "Jack Brosch",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

@@ -4,6 +4,7 @@
       "photo_filename": "Ben_Ray_Lujan.jpg",
       "name": "Ben Ray Lujan",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "64dfd7a675804e64ad1b3c12eba6c7fa",
       "chamber": "house",
       "state": "NM",
@@ -118,7 +119,8 @@
     {
       "photo_filename": null,
       "name": "Jeff Byrd",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -126,6 +128,7 @@
       "photo_filename": "Martin_Heinrich.jpg",
       "name": "Martin Heinrich",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "43af19c32e1b469d8f9d07d40b3e8ed7",
       "chamber": "senate",
       "state": "NM",
@@ -265,7 +268,8 @@
     {
       "photo_filename": null,
       "name": "Heather Wilson",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

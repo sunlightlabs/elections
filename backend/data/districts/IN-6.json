@@ -4,6 +4,7 @@
       "photo_filename": "Brad_Bookout.jpg",
       "name": "Brad Bookout",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "IN",
@@ -85,7 +86,8 @@
     {
       "photo_filename": "Luke_Messer.jpg",
       "name": "Luke Messer",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -93,6 +95,7 @@
       "photo_filename": "Joe_Donnelly.jpg",
       "name": "Joe Donnelly",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "4d86ffd297c84c059577c0afe4f8d0ee",
       "chamber": "senate",
       "state": "IN",
@@ -223,6 +226,7 @@
       "photo_filename": "Richard_Mourdock.jpg",
       "name": "Richard Mourdock",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "5b274cbfd935494cac8560f293fa68ba",
       "chamber": "senate",
       "state": "IN",

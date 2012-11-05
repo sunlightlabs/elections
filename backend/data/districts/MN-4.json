@@ -4,6 +4,7 @@
       "photo_filename": "Betty_McCollum.jpg",
       "name": "Betty McCollum",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "7f99871b176345a4b03827b179cef482",
       "chamber": "house",
       "state": "MN",
@@ -138,7 +139,8 @@
     {
       "photo_filename": "Tony_Hernandez.jpg",
       "name": "Tony Hernandez",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -146,6 +148,7 @@
       "photo_filename": "Amy_Klobuchar.jpg",
       "name": "Amy Klobuchar",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
       "chamber": "senate",
       "state": "MN",
@@ -281,6 +284,7 @@
       "photo_filename": "Kurt_Bills.JPG",
       "name": "Kurt Bills",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "MN",

@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Adam Gussen",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Scott_Garrett.jpg",
       "name": "Scott Garrett",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "e1b2c3b28df647cc8b160d341304e718",
       "chamber": "house",
       "state": "NJ",
@@ -136,6 +138,7 @@
       "photo_filename": "Bob_Menendez.jpg",
       "name": "Bob Menendez",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "chamber": "senate",
       "state": "NJ",
@@ -275,7 +278,8 @@
     {
       "photo_filename": "Joe_Kyrillos.jpg",
       "name": "Joe Kyrillos",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

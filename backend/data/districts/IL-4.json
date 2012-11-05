@@ -4,6 +4,7 @@
       "photo_filename": "Luis_V._Gutierrez.jpg",
       "name": "Luis Gutierrez",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "d5a49e57b03a47f6a89287559df7e091",
       "chamber": "house",
       "state": "IL",
@@ -128,12 +129,14 @@
     {
       "photo_filename": null,
       "name": "Jorge Zavala",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": null,
       "name": "Hector Concepcion",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

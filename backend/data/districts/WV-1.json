@@ -3,12 +3,14 @@
     {
       "photo_filename": "Sue_Thorn.png",
       "name": "Sue Thorn",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "David_McKinley.jpg",
       "name": "David McKinley",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "b290e7531b31446883253332fad1f693",
       "chamber": "house",
       "state": "WV",
@@ -131,6 +133,7 @@
       "photo_filename": "Joe_Manchin.jpg",
       "name": "Joe Manchin",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "fea00787eb034cb2a11e8086a48db88e",
       "chamber": "senate",
       "state": "WV",
@@ -265,7 +268,8 @@
     {
       "photo_filename": "John_Raese.png",
       "name": "John Raese",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

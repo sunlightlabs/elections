@@ -4,6 +4,7 @@
       "photo_filename": "Ron_Kind.JPG",
       "name": "Ron Kind",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "77c8009ae194484692833cafa0c22d44",
       "chamber": "house",
       "state": "WI",
@@ -133,7 +134,8 @@
     {
       "photo_filename": null,
       "name": "Ray Boland",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -141,6 +143,7 @@
       "photo_filename": "Tammy_Baldwin.jpeg",
       "name": "Tammy Baldwin",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "chamber": "senate",
       "state": "WI",
@@ -285,7 +288,8 @@
     {
       "photo_filename": null,
       "name": "Tommy Thompson",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

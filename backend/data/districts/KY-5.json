@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Kenneth Stepp",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Hal_Rogers.JPG",
       "name": "Hal Rogers",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "80b2a622c2ea4d3f8de8a4b7e3a139db",
       "chamber": "house",
       "state": "KY",

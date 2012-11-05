@@ -4,6 +4,7 @@
       "photo_filename": "James_Clyburn.jpg",
       "name": "James Clyburn",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "c8eb2a17f271433885ca8e8872eb0e7a",
       "chamber": "house",
       "state": "SC",

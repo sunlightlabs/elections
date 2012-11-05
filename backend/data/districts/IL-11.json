@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Bill Foster",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "3e192fde2cda4ca291a9850ad43776fb",
       "chamber": "house",
       "state": "IL",
@@ -109,6 +110,7 @@
       "photo_filename": "Judy_Biggert.jpg",
       "name": "Judy Biggert",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "372fa430380d488da5020fc05a69d88f",
       "chamber": "house",
       "state": "IL",
@@ -228,7 +230,8 @@
     {
       "photo_filename": null,
       "name": "Diane Harris",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Filemon Vela",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "TX",
@@ -103,7 +104,8 @@
     {
       "photo_filename": "Jessica_Puente_Bradshaw.jpg",
       "name": "Jessica Puente Bradshaw",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -111,6 +113,7 @@
       "photo_filename": "Paul_Sadler.jpg",
       "name": "Paul Sadler",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",
@@ -216,6 +219,7 @@
       "photo_filename": "Ted_Cruz.jpg",
       "name": "Ted Cruz",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",

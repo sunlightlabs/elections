@@ -3,12 +3,14 @@
     {
       "photo_filename": "James_Bryan.jpg",
       "name": "James Bryan",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Jeff_Miller_(Florida).jpg",
       "name": "Jeff Miller",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "bfde006b53cc45f6a3e50e9567216518",
       "chamber": "house",
       "state": "FL",
@@ -131,6 +133,7 @@
       "photo_filename": "Bill_Nelson_(Florida).jpg",
       "name": "Bill Nelson",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "5a1a3576871e459e9bb0af1a1d5cd826",
       "chamber": "senate",
       "state": "FL",
@@ -266,6 +269,7 @@
       "photo_filename": "Connie_Mack.jpg",
       "name": "Connie Mack",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "0bcd3fa0d6a1461d9e8e2948bd853c1e",
       "chamber": "senate",
       "state": "FL",

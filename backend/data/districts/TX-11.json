@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Jim Riley",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Mike_Conaway.jpg",
       "name": "Mike Conaway",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "dd9b363b32614d36bc44ca39188e25a3",
       "chamber": "house",
       "state": "TX",
@@ -136,6 +138,7 @@
       "photo_filename": "Paul_Sadler.jpg",
       "name": "Paul Sadler",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",
@@ -241,6 +244,7 @@
       "photo_filename": "Ted_Cruz.jpg",
       "name": "Ted Cruz",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",

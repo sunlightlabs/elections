@@ -3,12 +3,14 @@
     {
       "photo_filename": "Nicole_LeFavour.jpg",
       "name": "Nicole LeFavour",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Michael_K._Simpson.jpg",
       "name": "Mike Simpson",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "f7c014715b7a4f0ea0aae56377c005fe",
       "chamber": "house",
       "state": "ID",

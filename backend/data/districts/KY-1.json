@@ -3,12 +3,14 @@
     {
       "photo_filename": "Charles_Kendall_Hatchett.jpg",
       "name": "Charles Kendall Hatchett",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Ed_Whitfield.jpg",
       "name": "Ed Whitfield",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "e8b0cb4d6afe4573a949362db4db3183",
       "chamber": "house",
       "state": "KY",

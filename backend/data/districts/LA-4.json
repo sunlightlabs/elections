@@ -4,6 +4,7 @@
       "photo_filename": "John_Fleming_(Louisiana).jpg",
       "name": "John Fleming",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "72f8b24533e64b4ab46a83a452c97a09",
       "chamber": "house",
       "state": "LA",

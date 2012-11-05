@@ -4,6 +4,7 @@
       "photo_filename": "Kurt_Schrader.jpg",
       "name": "Kurt Schrader",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "6f48017cfaf24da1be8f3fca4b637597",
       "chamber": "house",
       "state": "OR",
@@ -123,7 +124,8 @@
     {
       "photo_filename": "Fred_Thompson.jpg",
       "name": "Fred Thompson",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

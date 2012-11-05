@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Tom Guild",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "James_Lankford.jpg",
       "name": "James Lankford",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "8458e7776d454ac68a24440fb69b199d",
       "chamber": "house",
       "state": "OK",

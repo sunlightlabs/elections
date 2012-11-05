@@ -4,6 +4,7 @@
       "photo_filename": "Brian_Higgins.JPG",
       "name": "Brian Higgins",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "4a8010bf5ec349fa95cfecbb8c060c0a",
       "chamber": "house",
       "state": "NY",
@@ -148,7 +149,8 @@
     {
       "photo_filename": "Michael_Madigan.jpg",
       "name": "Michael Madigan",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -156,6 +158,7 @@
       "photo_filename": "Kirsten_Gillibrand.jpg",
       "name": "Kirsten Gillibrand",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "chamber": "senate",
       "state": "NY",
@@ -321,6 +324,7 @@
       "photo_filename": "Wendy_Long.png",
       "name": "Wendy Long",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "NY",

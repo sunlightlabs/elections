@@ -4,6 +4,7 @@
       "photo_filename": "Jim_Himes.jpg",
       "name": "Jim Himes",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "04763defbce9498c935862ab6cb5b51f",
       "chamber": "house",
       "state": "CT",
@@ -133,7 +134,8 @@
     {
       "photo_filename": "Steve_Obsitnik.JPG",
       "name": "Steve Obsitnik",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -141,6 +143,7 @@
       "photo_filename": "Christopher_S._Murphy.jpg",
       "name": "Chris Murphy",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "chamber": "senate",
       "state": "CT",
@@ -240,7 +243,8 @@
     {
       "photo_filename": "Linda_McMahon.jpg",
       "name": "Linda McMahon",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

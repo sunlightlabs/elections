@@ -4,6 +4,7 @@
       "photo_filename": "Diane_Black.jpg",
       "name": "Diane Black",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "40e894ae4b004f8fa109efcdf8c6a76e",
       "chamber": "house",
       "state": "TN",
@@ -130,12 +131,14 @@
     {
       "photo_filename": "Mark_Clayton.jpg",
       "name": "Mark Clayton",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Bob_Corker.jpg",
       "name": "Bob Corker",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "chamber": "senate",
       "state": "TN",

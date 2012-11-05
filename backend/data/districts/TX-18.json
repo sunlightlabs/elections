@@ -4,6 +4,7 @@
       "photo_filename": "Sheila_Jackson-Lee.jpg",
       "name": "Sheila Jackson-Lee",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "eda31b0d8eee41d98e06c75888e792ce",
       "chamber": "house",
       "state": "TX",
@@ -123,7 +124,8 @@
     {
       "photo_filename": null,
       "name": "Sean Seibert",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -131,6 +133,7 @@
       "photo_filename": "Paul_Sadler.jpg",
       "name": "Paul Sadler",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",
@@ -236,6 +239,7 @@
       "photo_filename": "Ted_Cruz.jpg",
       "name": "Ted Cruz",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",

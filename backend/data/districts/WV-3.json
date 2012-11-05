@@ -4,6 +4,7 @@
       "photo_filename": "Nick_Rahall.jpg",
       "name": "Nick Rahall",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "b1939928e8ab4dc2b50ff24fbfc1e6ff",
       "chamber": "house",
       "state": "WV",
@@ -138,7 +139,8 @@
     {
       "photo_filename": "Rick_Snuffer.jpg",
       "name": "Rick Snuffer",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -146,6 +148,7 @@
       "photo_filename": "Joe_Manchin.jpg",
       "name": "Joe Manchin",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "fea00787eb034cb2a11e8086a48db88e",
       "chamber": "senate",
       "state": "WV",
@@ -280,7 +283,8 @@
     {
       "photo_filename": "John_Raese.png",
       "name": "John Raese",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

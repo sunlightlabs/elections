@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Evelyn Madrid Erhard",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "NM",
@@ -108,7 +109,8 @@
     {
       "photo_filename": "Steve_Pearce.jpg",
       "name": "Steve Pearce",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -116,6 +118,7 @@
       "photo_filename": "Martin_Heinrich.jpg",
       "name": "Martin Heinrich",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "43af19c32e1b469d8f9d07d40b3e8ed7",
       "chamber": "senate",
       "state": "NM",
@@ -255,7 +258,8 @@
     {
       "photo_filename": null,
       "name": "Heather Wilson",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

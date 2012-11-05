@@ -4,6 +4,7 @@
       "photo_filename": "Collin_Peterson.jpg",
       "name": "Collin Peterson",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "c84099ce5eb64a988f1705b7d052cf61",
       "chamber": "house",
       "state": "MN",
@@ -133,7 +134,8 @@
     {
       "photo_filename": null,
       "name": "Lee Byberg",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -141,6 +143,7 @@
       "photo_filename": "Amy_Klobuchar.jpg",
       "name": "Amy Klobuchar",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "e7fa891e1adf4b5da1e1ef376af34a8d",
       "chamber": "senate",
       "state": "MN",
@@ -276,6 +279,7 @@
       "photo_filename": "Kurt_Bills.JPG",
       "name": "Kurt Bills",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "MN",

@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "John Arvanites",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "NJ",
@@ -114,6 +115,7 @@
       "photo_filename": "Rodney_Frelinghuysen.jpg",
       "name": "Rodney Frelinghuysen",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "9e7e3bd08a4749d68ab359b0bb9745a3",
       "chamber": "house",
       "state": "NJ",
@@ -236,6 +238,7 @@
       "photo_filename": "Bob_Menendez.jpg",
       "name": "Bob Menendez",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "chamber": "senate",
       "state": "NJ",
@@ -375,7 +378,8 @@
     {
       "photo_filename": "Joe_Kyrillos.jpg",
       "name": "Joe Kyrillos",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

@@ -4,6 +4,7 @@
       "photo_filename": "Bobby_L._Rush.jpg",
       "name": "Bobby Rush",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "d06f13db42d842d38a6505b0d66977d3",
       "chamber": "house",
       "state": "IL",
@@ -133,7 +134,8 @@
     {
       "photo_filename": "Donald_Peloquin.JPG",
       "name": "Donald Peloquin",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

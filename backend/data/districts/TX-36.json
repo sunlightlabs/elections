@@ -3,12 +3,14 @@
     {
       "photo_filename": "Max_Martin.jpg",
       "name": "Max Martin",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Steve_Stockman.jpg",
       "name": "Steve Stockman",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "2c46417161ac45f88a38aa130c30e600",
       "chamber": "house",
       "state": "TX",
@@ -116,6 +118,7 @@
       "photo_filename": "Paul_Sadler.jpg",
       "name": "Paul Sadler",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",
@@ -221,6 +224,7 @@
       "photo_filename": "Ted_Cruz.jpg",
       "name": "Ted Cruz",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",

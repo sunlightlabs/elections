@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Karen Porterfield",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "WA",
@@ -80,6 +81,7 @@
       "photo_filename": "Dave_Reichert.jpg",
       "name": "Dave Reichert",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "2fbb2c967019428a807acafa1c6d39cc",
       "chamber": "house",
       "state": "WA",
@@ -207,6 +209,7 @@
       "photo_filename": "Maria_Cantwell.jpg",
       "name": "Maria Cantwell",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "chamber": "senate",
       "state": "WA",
@@ -351,7 +354,8 @@
     {
       "photo_filename": "Michael_Baumgartner.jpg",
       "name": "Michael Baumgartner",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

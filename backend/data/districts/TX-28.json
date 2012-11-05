@@ -4,6 +4,7 @@
       "photo_filename": "Henry_Cuellar.jpg",
       "name": "Henry Cuellar",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "1a82c65424d4492eb14f484f50317177",
       "chamber": "house",
       "state": "TX",
@@ -128,7 +129,8 @@
     {
       "photo_filename": "William_Hayward.jpg",
       "name": "William Hayward",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -136,6 +138,7 @@
       "photo_filename": "Paul_Sadler.jpg",
       "name": "Paul Sadler",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",
@@ -241,6 +244,7 @@
       "photo_filename": "Ted_Cruz.jpg",
       "name": "Ted Cruz",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",

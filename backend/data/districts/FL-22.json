@@ -4,6 +4,7 @@
       "photo_filename": "Lois_Frankel.jpg",
       "name": "Lois Frankel",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "FL",
@@ -108,7 +109,8 @@
     {
       "photo_filename": "Adam_Hasner.jpg",
       "name": "Adam Hasner",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -116,6 +118,7 @@
       "photo_filename": "Bill_Nelson_(Florida).jpg",
       "name": "Bill Nelson",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "5a1a3576871e459e9bb0af1a1d5cd826",
       "chamber": "senate",
       "state": "FL",
@@ -251,6 +254,7 @@
       "photo_filename": "Connie_Mack.jpg",
       "name": "Connie Mack",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "0bcd3fa0d6a1461d9e8e2948bd853c1e",
       "chamber": "senate",
       "state": "FL",

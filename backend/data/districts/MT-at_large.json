@@ -4,6 +4,7 @@
       "photo_filename": "Kim_Gillan.jpg",
       "name": "Kim Gillan",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "MT",
@@ -113,7 +114,8 @@
     {
       "photo_filename": "Steve_Daines.jpg",
       "name": "Steve Daines",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -121,6 +123,7 @@
       "photo_filename": "Jon_Tester.jpg",
       "name": "Jon Tester",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "0aab575c5cec4e36a2529011488c00fa",
       "chamber": "senate",
       "state": "MT",
@@ -261,6 +264,7 @@
       "photo_filename": "Denny_Rehberg.jpg",
       "name": "Denny Rehberg",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "8cde611c6a554f099ce7e627209172b2",
       "chamber": "senate",
       "state": "MT",

@@ -4,6 +4,7 @@
       "photo_filename": "Derek_Kilmer.jpg",
       "name": "Derek Kilmer",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "WA",
@@ -113,7 +114,8 @@
     {
       "photo_filename": null,
       "name": "Bill Driscoll",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -121,6 +123,7 @@
       "photo_filename": "Maria_Cantwell.jpg",
       "name": "Maria Cantwell",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "90fd6c8c94a749f9b25287a19c8b89b1",
       "chamber": "senate",
       "state": "WA",
@@ -265,7 +268,8 @@
     {
       "photo_filename": "Michael_Baumgartner.jpg",
       "name": "Michael Baumgartner",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

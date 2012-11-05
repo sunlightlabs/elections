@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Linda Mrosko",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Jeb_Hensarling.png",
       "name": "Jeb Hensarling",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "c6a0bc7ec625492a9582fc6b83274583",
       "chamber": "house",
       "state": "TX",
@@ -141,6 +143,7 @@
       "photo_filename": "Paul_Sadler.jpg",
       "name": "Paul Sadler",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",
@@ -246,6 +249,7 @@
       "photo_filename": "Ted_Cruz.jpg",
       "name": "Ted Cruz",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",

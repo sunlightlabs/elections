@@ -3,12 +3,14 @@
     {
       "photo_filename": "Sharon_Cissna.jpg",
       "name": "Sharon Cissna",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Don_Young.jpg",
       "name": "Don Young",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "d3255cc3aabc4b68ab2c798d9e27d95f",
       "chamber": "house",
       "state": "AK",

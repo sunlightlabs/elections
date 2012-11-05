@@ -4,6 +4,7 @@
       "photo_filename": "Janice_D._Schakowsky.jpg",
       "name": "Jan Schakowsky",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "e5221b6ac6524c4786ec36097ceabb1d",
       "chamber": "house",
       "state": "IL",
@@ -133,7 +134,8 @@
     {
       "photo_filename": "Timothy_Wolfe.jpg",
       "name": "Timothy Wolfe",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

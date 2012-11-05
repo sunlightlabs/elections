@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Patrick Thompson",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Phil_Gingrey.jpg",
       "name": "Phil Gingrey",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "96a92ecaf7d04eacb4cca1d56c8674c0",
       "chamber": "house",
       "state": "GA",

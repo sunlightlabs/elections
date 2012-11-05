@@ -4,6 +4,7 @@
       "photo_filename": "Jim_Cooper.jpeg",
       "name": "Jim Cooper",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "3ed27bb3c6f549428031a7333b377039",
       "chamber": "house",
       "state": "TN",
@@ -138,19 +139,22 @@
     {
       "photo_filename": "Brad_Staats.jpg",
       "name": "Brad Staats",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
     {
       "photo_filename": "Mark_Clayton.jpg",
       "name": "Mark Clayton",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Bob_Corker.jpg",
       "name": "Bob Corker",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "chamber": "senate",
       "state": "TN",

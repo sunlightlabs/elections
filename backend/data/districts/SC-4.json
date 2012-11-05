@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Deb Morrow",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Trey_Gowdy.jpg",
       "name": "Trey Gowdy",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "7d251247056c429c9ece4d1adb852289",
       "chamber": "house",
       "state": "SC",

@@ -4,6 +4,7 @@
       "photo_filename": "Steve_Womack.jpg",
       "name": "Steve Womack",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "8ac17c37b29245b68fa57275cde4c3c5",
       "chamber": "house",
       "state": "AR",

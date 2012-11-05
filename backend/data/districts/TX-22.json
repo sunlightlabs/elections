@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Kesha Rogers",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Pete_Olson.jpg",
       "name": "Pete Olson",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "4e091859472b4257b15caafdf6fc8f48",
       "chamber": "house",
       "state": "TX",
@@ -131,6 +133,7 @@
       "photo_filename": "Paul_Sadler.jpg",
       "name": "Paul Sadler",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",
@@ -236,6 +239,7 @@
       "photo_filename": "Ted_Cruz.jpg",
       "name": "Ted Cruz",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",

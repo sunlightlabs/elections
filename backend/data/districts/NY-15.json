@@ -4,6 +4,7 @@
       "photo_filename": "Jose_E._Serrano.jpeg",
       "name": "Jose E. Serrano",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "b2a512ed1d1142cab592c200311bf02d",
       "chamber": "house",
       "state": "NY",
@@ -143,7 +144,8 @@
     {
       "photo_filename": null,
       "name": "Frank Della Valle",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -151,6 +153,7 @@
       "photo_filename": "Kirsten_Gillibrand.jpg",
       "name": "Kirsten Gillibrand",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "5133536fdc44445695adf6f244ee69c9",
       "chamber": "senate",
       "state": "NY",
@@ -316,6 +319,7 @@
       "photo_filename": "Wendy_Long.png",
       "name": "Wendy Long",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "NY",

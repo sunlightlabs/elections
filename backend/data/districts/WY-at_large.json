@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Chris Henrichsen",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Cynthia_Lummis.jpg",
       "name": "Cynthia Lummis",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "9ed4a9a7d54a470e886cc6a9b2837a69",
       "chamber": "house",
       "state": "WY",
@@ -110,12 +112,14 @@
     {
       "photo_filename": null,
       "name": "Tim Chesnut",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "John_Barrasso.jpg",
       "name": "John Barrasso",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "68655d30048b451caee7d70688803273",
       "chamber": "senate",
       "state": "WY",

@@ -4,6 +4,7 @@
       "photo_filename": "Mike_Thompson_(California).jpg",
       "name": "Mike Thompson",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "024e50a5e06d4cdda86f07b5a44c2228",
       "chamber": "house",
       "state": "CA",
@@ -133,7 +134,8 @@
     {
       "photo_filename": "Randy_Loftin.jpg",
       "name": "Randy Loftin",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -141,6 +143,7 @@
       "photo_filename": "Dianne_Feinstein.jpg",
       "name": "Dianne Feinstein",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "chamber": "senate",
       "state": "CA",
@@ -326,6 +329,7 @@
       "photo_filename": "Elizabeth_Emken.jpg",
       "name": "Elizabeth Emken",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "chamber": "senate",
       "state": "CA",

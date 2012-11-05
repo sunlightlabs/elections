@@ -4,6 +4,7 @@
       "photo_filename": "Chellie_Pingree.jpg",
       "name": "Chellie Pingree",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "bc890c70ed394f78a542cc8a34ca3a97",
       "chamber": "house",
       "state": "ME",
@@ -133,7 +134,8 @@
     {
       "photo_filename": "Jonathan_Courtney.jpg",
       "name": "Jonathan Courtney",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -141,6 +143,7 @@
       "photo_filename": "Cynthia_Dill.jpg",
       "name": "Cynthia Dill",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "ME",
@@ -245,22 +248,26 @@
     {
       "photo_filename": "Charles_Summers.jpg",
       "name": "Charles Summers",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     },
     {
       "photo_filename": null,
       "name": "Angus King",
-      "party": "I"
+      "party": "I",
+      "abbreviated": true
     },
     {
       "photo_filename": null,
       "name": "Danny Francis Dalton",
-      "party": "I"
+      "party": "I",
+      "abbreviated": true
     },
     {
       "photo_filename": null,
       "name": "Stephen Woods",
-      "party": "I"
+      "party": "I",
+      "abbreviated": true
     }
   ]
 }

@@ -4,6 +4,7 @@
       "photo_filename": "Tim_Huelskamp.jpg",
       "name": "Tim Huelskamp",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "9a630407d1fb49f5b579dad3743969ce",
       "chamber": "house",
       "state": "KS",

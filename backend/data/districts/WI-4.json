@@ -4,6 +4,7 @@
       "photo_filename": "Gwen_Moore.jpg",
       "name": "Gwen Moore",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "8ec0f77d4e85471cb73eaeed922c580b",
       "chamber": "house",
       "state": "WI",
@@ -143,7 +144,8 @@
     {
       "photo_filename": "Dan_Sebring.JPG",
       "name": "Dan Sebring",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -151,6 +153,7 @@
       "photo_filename": "Tammy_Baldwin.jpeg",
       "name": "Tammy Baldwin",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "chamber": "senate",
       "state": "WI",
@@ -295,7 +298,8 @@
     {
       "photo_filename": null,
       "name": "Tommy Thompson",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

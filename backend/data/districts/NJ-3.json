@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Shelley Adler",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "eabd1e38012549b0ab021530fa08f8f1",
       "chamber": "house",
       "state": "NJ",
@@ -109,6 +110,7 @@
       "photo_filename": "Jon_Runyan.jpg",
       "name": "Jon Runyan",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "9329032b509b496784fc7a31b1103e78",
       "chamber": "house",
       "state": "NJ",
@@ -231,6 +233,7 @@
       "photo_filename": "Bob_Menendez.jpg",
       "name": "Bob Menendez",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "chamber": "senate",
       "state": "NJ",
@@ -370,7 +373,8 @@
     {
       "photo_filename": "Joe_Kyrillos.jpg",
       "name": "Joe Kyrillos",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

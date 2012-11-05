@@ -4,6 +4,7 @@
       "photo_filename": "Lacy_Clay.JPG",
       "name": "Lacy Clay",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "b2e5b793ceff42baa2b058bb43348223",
       "chamber": "house",
       "state": "MO",
@@ -138,7 +139,8 @@
     {
       "photo_filename": "Robyn_Hamlin.jpg",
       "name": "Robyn Hamlin",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -146,6 +148,7 @@
       "photo_filename": "Claire_McCaskill.jpg",
       "name": "Claire McCaskill",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "98af4916592648c4aa992d8db00e6e5b",
       "chamber": "senate",
       "state": "MO",
@@ -281,6 +284,7 @@
       "photo_filename": "Todd_Akin.jpg",
       "name": "Todd Akin",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "28e6cce459e74dcbb575fa05def946e3",
       "chamber": "senate",
       "state": "MO",

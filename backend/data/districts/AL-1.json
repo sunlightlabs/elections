@@ -4,6 +4,7 @@
       "photo_filename": "Jo_Bonner.jpg",
       "name": "Jo Bonner",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "e4e6b38b7b904f8da84d1ec09c51181f",
       "chamber": "house",
       "state": "AL",

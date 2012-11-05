@@ -4,6 +4,7 @@
       "photo_filename": "John_Conyers,_Jr..jpg",
       "name": "John Conyers, Jr.",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "33ea88f43869464ca0553189689f1dea",
       "chamber": "house",
       "state": "MI",
@@ -128,7 +129,8 @@
     {
       "photo_filename": null,
       "name": "Harry T. Sawicki",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -136,6 +138,7 @@
       "photo_filename": "Debbie_Stabenow.jpg",
       "name": "Debbie Stabenow",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "f0b2ed36768d4c99b3ba68d3a553d8d8",
       "chamber": "senate",
       "state": "MI",
@@ -271,6 +274,7 @@
       "photo_filename": "Pete_Hoekstra.jpg",
       "name": "Pete Hoekstra",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "ee58b1dc41824d21aa87f9e9063aa0e7",
       "chamber": "senate",
       "state": "MI",

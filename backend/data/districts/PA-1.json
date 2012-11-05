@@ -4,6 +4,7 @@
       "photo_filename": "Robert_Brady.jpeg",
       "name": "Robert Brady",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "5322864fab2c4964b39835a51bcbd4a8",
       "chamber": "house",
       "state": "PA",
@@ -138,7 +139,8 @@
     {
       "photo_filename": null,
       "name": "John Featherman",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -146,6 +148,7 @@
       "photo_filename": "Bob_Casey,_Jr..jpg",
       "name": "Bob Casey, Jr.",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "chamber": "senate",
       "state": "PA",
@@ -275,7 +278,8 @@
     {
       "photo_filename": "Tom_Smith.jpg",
       "name": "Tom Smith",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

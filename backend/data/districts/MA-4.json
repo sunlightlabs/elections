@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Joseph Kennedy III",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "MA",
@@ -108,7 +109,8 @@
     {
       "photo_filename": null,
       "name": "Sean Bielat",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -116,6 +118,7 @@
       "photo_filename": "Elizabeth_Warren.jpg",
       "name": "Elizabeth Warren",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "MA",
@@ -236,6 +239,7 @@
       "photo_filename": "Scott_Brown.jpg",
       "name": "Scott Brown",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
       "chamber": "senate",
       "state": "MA",

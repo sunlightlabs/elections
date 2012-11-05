@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "David Lynn Williams",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Brett_Guthrie.jpg",
       "name": "Brett Guthrie",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "fe27024e69c5429fb93d25bfbb7228f3",
       "chamber": "house",
       "state": "KY",

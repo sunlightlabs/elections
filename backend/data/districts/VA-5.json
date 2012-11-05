@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "John Douglass",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "VA",
@@ -109,6 +110,7 @@
       "photo_filename": "Robert_Hurt.jpg",
       "name": "Robert Hurt",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "d211bc3c7fb04a60821698bab75b64e7",
       "chamber": "house",
       "state": "VA",
@@ -236,6 +238,7 @@
       "photo_filename": "Tim_Kaine.png",
       "name": "Tim Kaine",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "VA",
@@ -350,7 +353,8 @@
     {
       "photo_filename": "George_Allen.jpg",
       "name": "George Allen",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

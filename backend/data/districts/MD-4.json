@@ -4,6 +4,7 @@
       "photo_filename": "Donna_Edwards.jpg",
       "name": "Donna Edwards",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "340b9524e8674d4687209e70c262c194",
       "chamber": "house",
       "state": "MD",
@@ -148,7 +149,8 @@
     {
       "photo_filename": "Faith_Loudon.jpg",
       "name": "Faith Loudon",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -156,6 +158,7 @@
       "photo_filename": "Ben_Cardin.jpg",
       "name": "Ben Cardin",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "chamber": "senate",
       "state": "MD",
@@ -295,17 +298,20 @@
     {
       "photo_filename": null,
       "name": "Lih Young",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Dan_Bongino.jpg",
       "name": "Dan Bongino",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     },
     {
       "photo_filename": null,
       "name": "Mary Podlesak",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

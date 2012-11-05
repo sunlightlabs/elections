@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "John Olson",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": null,
       "name": "Jim Bridenstine",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "OK",

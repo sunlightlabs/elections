@@ -3,12 +3,14 @@
     {
       "photo_filename": "Steve_Reilly.jpg",
       "name": "Steve Reilly",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Rob_Woodall.jpg",
       "name": "Rob Woodall",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "66d9d6d94dec4e36aeefd74d4b5d365a",
       "chamber": "house",
       "state": "GA",

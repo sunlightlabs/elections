@@ -4,6 +4,7 @@
       "photo_filename": "Brad_Schneider.jpg",
       "name": "Brad Schneider",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "IL",
@@ -108,12 +109,14 @@
     {
       "photo_filename": null,
       "name": "Aloys Rutagwibira",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Robert_J._Dold.jpg",
       "name": "Robert J. Dold",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "0c2fc448f2274e3ea7efe8c22f9487e5",
       "chamber": "house",
       "state": "IL",

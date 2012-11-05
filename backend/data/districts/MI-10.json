@@ -3,12 +3,14 @@
     {
       "photo_filename": "Chuck_Stadler.jpg",
       "name": "Chuck Stadler",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Candice_Miller.jpg",
       "name": "Candice Miller",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "7b369da2010947e99e02c2e71bde91b5",
       "chamber": "house",
       "state": "MI",
@@ -131,6 +133,7 @@
       "photo_filename": "Debbie_Stabenow.jpg",
       "name": "Debbie Stabenow",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "f0b2ed36768d4c99b3ba68d3a553d8d8",
       "chamber": "senate",
       "state": "MI",
@@ -266,6 +269,7 @@
       "photo_filename": "Pete_Hoekstra.jpg",
       "name": "Pete Hoekstra",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "ee58b1dc41824d21aa87f9e9063aa0e7",
       "chamber": "senate",
       "state": "MI",

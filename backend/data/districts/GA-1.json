@@ -3,12 +3,14 @@
     {
       "photo_filename": "Lesli_Rae_Messinger.jpg",
       "name": "Lesli Rae Messinger",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Jack_Kingston.jpg",
       "name": "Jack Kingston",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "02b3c6f9a1ba458fbf9623e02cfd4001",
       "chamber": "house",
       "state": "GA",

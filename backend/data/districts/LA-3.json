@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Ron Richard",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Jeff_Landry.jpg",
       "name": "Jeff Landry",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "18617d11247548cc981bf89a50a92219",
       "chamber": "house",
       "state": "LA",
@@ -129,6 +131,7 @@
       "photo_filename": "Charles_Boustany_Jr..jpg",
       "name": "Charles Boustany Jr.",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "d392545fba7248f38a5ca25bcda2ae6e",
       "chamber": "house",
       "state": "LA",
@@ -233,7 +236,8 @@
     {
       "photo_filename": null,
       "name": "Bryan Barrilleaux",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

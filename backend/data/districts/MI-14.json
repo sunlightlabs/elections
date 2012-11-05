@@ -4,6 +4,7 @@
       "photo_filename": "Gary_Peters.jpg",
       "name": "Gary Peters",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "5946ea294dd042d9b9f4d25ea7bb638e",
       "chamber": "house",
       "state": "MI",
@@ -138,7 +139,8 @@
     {
       "photo_filename": "John_Hauler.png",
       "name": "John Hauler",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -146,6 +148,7 @@
       "photo_filename": "Debbie_Stabenow.jpg",
       "name": "Debbie Stabenow",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "f0b2ed36768d4c99b3ba68d3a553d8d8",
       "chamber": "senate",
       "state": "MI",
@@ -281,6 +284,7 @@
       "photo_filename": "Pete_Hoekstra.jpg",
       "name": "Pete Hoekstra",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "ee58b1dc41824d21aa87f9e9063aa0e7",
       "chamber": "senate",
       "state": "MI",

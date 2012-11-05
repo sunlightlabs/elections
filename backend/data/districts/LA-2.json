@@ -4,6 +4,7 @@
       "photo_filename": "Cedric_Richmond.jpg",
       "name": "Cedric Richmond",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "a5b25d4323cd4feca478301959787daf",
       "chamber": "house",
       "state": "LA",
@@ -128,17 +129,20 @@
     {
       "photo_filename": null,
       "name": "Gary Landrieu",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": null,
       "name": "Dwayne Bailey",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     },
     {
       "photo_filename": null,
       "name": "Josue Larose",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Charles Malone",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": null,
       "name": "George E.B. Holding",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "NC",

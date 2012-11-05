@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Bob Flores",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Maxine_Waters.jpg",
       "name": "Maxine Waters",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "96edf548cd6c4c0f9e3a1ac28c279b0f",
       "chamber": "house",
       "state": "CA",
@@ -146,6 +148,7 @@
       "photo_filename": "Dianne_Feinstein.jpg",
       "name": "Dianne Feinstein",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "chamber": "senate",
       "state": "CA",
@@ -331,6 +334,7 @@
       "photo_filename": "Elizabeth_Emken.jpg",
       "name": "Elizabeth Emken",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "chamber": "senate",
       "state": "CA",

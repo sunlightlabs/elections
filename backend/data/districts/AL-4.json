@@ -3,12 +3,14 @@
     {
       "photo_filename": "Daniel_H._Boman.jpg",
       "name": "Daniel H. Boman",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Robert_Aderholt.jpg",
       "name": "Robert Aderholt",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "cdc36ffaf0544515bc9588cfe52e611d",
       "chamber": "house",
       "state": "AL",

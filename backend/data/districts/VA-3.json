@@ -4,6 +4,7 @@
       "photo_filename": "Robert_C._Scott.jpg",
       "name": "Robert C. Scott",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "d455c6ec610c4c33b086293092defe32",
       "chamber": "house",
       "state": "VA",
@@ -138,7 +139,8 @@
     {
       "photo_filename": null,
       "name": "Dean Longo",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -146,6 +148,7 @@
       "photo_filename": "Tim_Kaine.png",
       "name": "Tim Kaine",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "VA",
@@ -260,7 +263,8 @@
     {
       "photo_filename": "George_Allen.jpg",
       "name": "George Allen",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

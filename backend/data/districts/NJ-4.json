@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Brian Froelich",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "NJ",
@@ -92,6 +93,7 @@
       "photo_filename": null,
       "name": "Chris Smith",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "8caaa00c451748d88555ec4f325f4aba",
       "chamber": "house",
       "state": "NJ",
@@ -219,6 +221,7 @@
       "photo_filename": "Bob_Menendez.jpg",
       "name": "Bob Menendez",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "chamber": "senate",
       "state": "NJ",
@@ -358,7 +361,8 @@
     {
       "photo_filename": "Joe_Kyrillos.jpg",
       "name": "Joe Kyrillos",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

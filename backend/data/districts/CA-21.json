@@ -4,6 +4,7 @@
       "photo_filename": "John_Hernandez.jpg",
       "name": "John Hernandez",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "CA",
@@ -85,7 +86,8 @@
     {
       "photo_filename": "David_Valadao.jpg",
       "name": "David Valadao",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -93,6 +95,7 @@
       "photo_filename": "Dianne_Feinstein.jpg",
       "name": "Dianne Feinstein",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
       "chamber": "senate",
       "state": "CA",
@@ -278,6 +281,7 @@
       "photo_filename": "Elizabeth_Emken.jpg",
       "name": "Elizabeth Emken",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "6e77aa224af049429981ebf39089e070",
       "chamber": "senate",
       "state": "CA",

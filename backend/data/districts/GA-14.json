@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Daniel Grant",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Tom_Graves.jpg",
       "name": "Tom Graves",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "2d48b2c73ef54ea18cdb6b6ab6004be9",
       "chamber": "house",
       "state": "GA",

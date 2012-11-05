@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Rob Zerban",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "WI",
@@ -109,6 +110,7 @@
       "photo_filename": "Paul_Ryan.jpg",
       "name": "Paul Ryan",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "474e8f584c074198b768cb985c604232",
       "chamber": "house",
       "state": "WI",
@@ -236,6 +238,7 @@
       "photo_filename": "Tammy_Baldwin.jpeg",
       "name": "Tammy Baldwin",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "chamber": "senate",
       "state": "WI",
@@ -380,7 +383,8 @@
     {
       "photo_filename": null,
       "name": "Tommy Thompson",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

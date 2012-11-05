@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Vicki Slater",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Gregg_Harper.jpg",
       "name": "Gregg Harper",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "b0c9963424bf4ec5a1c14bb7dde0bdfd",
       "chamber": "house",
       "state": "MS",
@@ -130,12 +132,14 @@
     {
       "photo_filename": null,
       "name": "Albert N. Gore",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Roger_Wicker.jpg",
       "name": "Roger Wicker",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "159c40291deb455596155ded63972bf4",
       "chamber": "senate",
       "state": "MS",

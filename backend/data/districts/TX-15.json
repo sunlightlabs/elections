@@ -4,6 +4,7 @@
       "photo_filename": "Ruben_Hinojosa.jpg",
       "name": "Ruben Hinojosa",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "827ccdda9277476fbac877ca5e8f9aa2",
       "chamber": "house",
       "state": "TX",
@@ -138,7 +139,8 @@
     {
       "photo_filename": "Dale_Brueggemann.jpg",
       "name": "Dale Brueggemann",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -146,6 +148,7 @@
       "photo_filename": "Paul_Sadler.jpg",
       "name": "Paul Sadler",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",
@@ -251,6 +254,7 @@
       "photo_filename": "Ted_Cruz.jpg",
       "name": "Ted Cruz",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",

@@ -4,6 +4,7 @@
       "photo_filename": "Bill_Pascrell.jpg",
       "name": "Bill Pascrell",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "e51aee1088c9425e8667fe3f6846f3d2",
       "chamber": "house",
       "state": "NJ",
@@ -108,7 +109,8 @@
     {
       "photo_filename": null,
       "name": "Shmuley Boteach",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -116,6 +118,7 @@
       "photo_filename": "Bob_Menendez.jpg",
       "name": "Bob Menendez",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "chamber": "senate",
       "state": "NJ",
@@ -255,7 +258,8 @@
     {
       "photo_filename": "Joe_Kyrillos.jpg",
       "name": "Joe Kyrillos",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

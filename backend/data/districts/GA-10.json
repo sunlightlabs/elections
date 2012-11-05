@@ -4,6 +4,7 @@
       "photo_filename": "Paul_Broun.jpg",
       "name": "Paul Broun",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "62f82d760a0e42d18b84c0fcaab1c823",
       "chamber": "house",
       "state": "GA",

@@ -4,6 +4,7 @@
       "photo_filename": "Terri_Sewell.jpg",
       "name": "Terri Sewell",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "33e87aacd2f244f7a2ceedec1d1cf27a",
       "chamber": "house",
       "state": "AL",
@@ -123,7 +124,8 @@
     {
       "photo_filename": "Don_Chamberlain.jpg",
       "name": "Don Chamberlain",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

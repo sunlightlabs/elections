@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Dave Heaster",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Jim_Sensenbrenner.jpg",
       "name": "Jim Sensenbrenner",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "e57cb9f84ff5480e98eb02a6fcf9a704",
       "chamber": "house",
       "state": "WI",
@@ -121,6 +123,7 @@
       "photo_filename": "Tammy_Baldwin.jpeg",
       "name": "Tammy Baldwin",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "67f83a4806e043ea82ce29f2cf194ce6",
       "chamber": "senate",
       "state": "WI",
@@ -265,7 +268,8 @@
     {
       "photo_filename": null,
       "name": "Tommy Thompson",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

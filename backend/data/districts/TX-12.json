@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Dave Robinson",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Kay_Granger.jpg",
       "name": "Kay Granger",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "bac9ce5a3df84c5a8bb080aca463f48c",
       "chamber": "house",
       "state": "TX",
@@ -136,6 +138,7 @@
       "photo_filename": "Paul_Sadler.jpg",
       "name": "Paul Sadler",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",
@@ -241,6 +244,7 @@
       "photo_filename": "Ted_Cruz.jpg",
       "name": "Ted Cruz",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",

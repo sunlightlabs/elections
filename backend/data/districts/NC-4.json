@@ -4,6 +4,7 @@
       "photo_filename": "David_E._Price.JPG",
       "name": "David E. Price",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "4afec43dc23f4b40a7cefc31dbd6582a",
       "chamber": "house",
       "state": "NC",
@@ -138,7 +139,8 @@
     {
       "photo_filename": null,
       "name": "Tim D'Annunzio",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

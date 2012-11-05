@@ -4,6 +4,7 @@
       "photo_filename": "Brad_Morris.jpeg",
       "name": "Brad Morris",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "MS",
@@ -104,6 +105,7 @@
       "photo_filename": "Alan_Nunnelee.jpg",
       "name": "Alan Nunnelee",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "5f879ef4397f40d5aa225e724d26edeb",
       "chamber": "house",
       "state": "MS",
@@ -225,12 +227,14 @@
     {
       "photo_filename": null,
       "name": "Albert N. Gore",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Roger_Wicker.jpg",
       "name": "Roger Wicker",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "159c40291deb455596155ded63972bf4",
       "chamber": "senate",
       "state": "MS",

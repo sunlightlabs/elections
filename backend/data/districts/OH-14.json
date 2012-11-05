@@ -3,12 +3,14 @@
     {
       "photo_filename": "Dale_Virgil_Blanchard.jpg",
       "name": "Dale Virgil Blanchard",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": null,
       "name": "David Joyce",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -16,6 +18,7 @@
       "photo_filename": "Sherrod_Brown.jpg",
       "name": "Sherrod Brown",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "cc957cde864c4442ac7957f6aea99d7e",
       "chamber": "senate",
       "state": "OH",
@@ -156,6 +159,7 @@
       "photo_filename": "Josh_Mandel.jpg",
       "name": "Josh Mandel",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "OH",

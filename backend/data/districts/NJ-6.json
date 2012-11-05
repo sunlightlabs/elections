@@ -4,6 +4,7 @@
       "photo_filename": "Frank_Pallone.jpg",
       "name": "Frank Pallone",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "fbfd1e25bbd54c5b8691bd3c56e3f331",
       "chamber": "house",
       "state": "NJ",
@@ -128,7 +129,8 @@
     {
       "photo_filename": null,
       "name": "Anna Little",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -136,6 +138,7 @@
       "photo_filename": "Bob_Menendez.jpg",
       "name": "Bob Menendez",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "chamber": "senate",
       "state": "NJ",
@@ -275,7 +278,8 @@
     {
       "photo_filename": "Joe_Kyrillos.jpg",
       "name": "Joe Kyrillos",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

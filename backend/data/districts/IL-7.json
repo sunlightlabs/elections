@@ -4,6 +4,7 @@
       "photo_filename": "Danny_K._Davis.jpg",
       "name": "Danny K. Davis",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "776e8941d0cc408e9cc9cdfed00c6ce9",
       "chamber": "house",
       "state": "IL",
@@ -133,7 +134,8 @@
     {
       "photo_filename": null,
       "name": "Rita Zak",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

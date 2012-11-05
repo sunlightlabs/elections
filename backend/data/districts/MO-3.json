@@ -3,12 +3,14 @@
     {
       "photo_filename": "Eric_C._Mayer.jpg",
       "name": "Eric C. Mayer",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Blaine_Luetkemeyer.jpg",
       "name": "Blaine Luetkemeyer",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "efa5a740040444559a7a4bfe953ad021",
       "chamber": "house",
       "state": "MO",
@@ -136,6 +138,7 @@
       "photo_filename": "Claire_McCaskill.jpg",
       "name": "Claire McCaskill",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "98af4916592648c4aa992d8db00e6e5b",
       "chamber": "senate",
       "state": "MO",
@@ -271,6 +274,7 @@
       "photo_filename": "Todd_Akin.jpg",
       "name": "Todd Akin",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "28e6cce459e74dcbb575fa05def946e3",
       "chamber": "senate",
       "state": "MO",

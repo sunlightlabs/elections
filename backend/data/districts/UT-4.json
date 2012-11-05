@@ -4,6 +4,7 @@
       "photo_filename": "Jim_Matheson.jpg",
       "name": "Jim Matheson",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "e334fa69690043a0b6118ade3001fda3",
       "chamber": "house",
       "state": "UT",
@@ -138,7 +139,8 @@
     {
       "photo_filename": null,
       "name": "Mia Love",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -146,6 +148,7 @@
       "photo_filename": null,
       "name": "Scott Howell",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "UT",
@@ -251,6 +254,7 @@
       "photo_filename": "Orrin_Hatch.jpg",
       "name": "Orrin Hatch",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "e5aa63ec4a0746fbb9961b325ddb3627",
       "chamber": "senate",
       "state": "UT",

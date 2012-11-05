@@ -4,6 +4,7 @@
       "photo_filename": "Mike_McIntyre.jpg",
       "name": "Mike McIntyre",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "a4c1a99aa50747fda4278b172cdc89a1",
       "chamber": "house",
       "state": "NC",
@@ -138,7 +139,8 @@
     {
       "photo_filename": "David_Rouzer.jpg",
       "name": "David Rouzer",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Karen Ramsburg",
       "party": "I",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "PA",
@@ -50,6 +51,7 @@
       "photo_filename": "Bill_Shuster.JPG",
       "name": "Bill Shuster",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "32887b242ec74a87b45066f70031e13c",
       "chamber": "house",
       "state": "PA",
@@ -177,6 +179,7 @@
       "photo_filename": "Bob_Casey,_Jr..jpg",
       "name": "Bob Casey, Jr.",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "chamber": "senate",
       "state": "PA",
@@ -306,7 +309,8 @@
     {
       "photo_filename": "Tom_Smith.jpg",
       "name": "Tom Smith",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Rodney Davis",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     },
     {
       "photo_filename": "David_Gill.jpg",
       "name": "David Gill",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "IL",

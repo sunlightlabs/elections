@@ -4,6 +4,7 @@
       "photo_filename": "Elizabeth_Esty.jpg",
       "name": "Elizabeth Esty",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "CT",
@@ -108,7 +109,8 @@
     {
       "photo_filename": "Andrew_Roraback.jpg",
       "name": "Andrew Roraback",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -116,6 +118,7 @@
       "photo_filename": "Christopher_S._Murphy.jpg",
       "name": "Chris Murphy",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "5ec4325fba134e42b136ce5245fa0cd2",
       "chamber": "senate",
       "state": "CT",
@@ -215,7 +218,8 @@
     {
       "photo_filename": "Linda_McMahon.jpg",
       "name": "Linda McMahon",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

@@ -4,6 +4,7 @@
       "photo_filename": "David_Scott_(Georgia).jpg",
       "name": "David Scott",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "399cda56671643bab92aee2cb3819dc5",
       "chamber": "house",
       "state": "GA",
@@ -133,7 +134,8 @@
     {
       "photo_filename": null,
       "name": "S. Malik",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

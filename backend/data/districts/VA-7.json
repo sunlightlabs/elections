@@ -4,6 +4,7 @@
       "photo_filename": "E._Wayne_Powell.jpg",
       "name": "E. Wayne Powell",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "VA",
@@ -109,6 +110,7 @@
       "photo_filename": "Eric_Cantor.JPG",
       "name": "Eric Cantor",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "f06d74b4063a4081bd929738ecf80194",
       "chamber": "house",
       "state": "VA",
@@ -231,6 +233,7 @@
       "photo_filename": "Tim_Kaine.png",
       "name": "Tim Kaine",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "VA",
@@ -345,7 +348,8 @@
     {
       "photo_filename": "George_Allen.jpg",
       "name": "George Allen",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

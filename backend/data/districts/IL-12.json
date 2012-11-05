@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "William Enyart",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Jason_Plummer.jpg",
       "name": "Jason Plummer",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "IL",

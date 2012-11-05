@@ -4,6 +4,7 @@
       "photo_filename": "Jim_Moran.jpg",
       "name": "Jim Moran",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "1915c94342b64b72b35b417778cb5c7a",
       "chamber": "house",
       "state": "VA",
@@ -133,7 +134,8 @@
     {
       "photo_filename": null,
       "name": "Patrick Murray",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -141,6 +143,7 @@
       "photo_filename": "Tim_Kaine.png",
       "name": "Tim Kaine",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "VA",
@@ -255,7 +258,8 @@
     {
       "photo_filename": "George_Allen.jpg",
       "name": "George Allen",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

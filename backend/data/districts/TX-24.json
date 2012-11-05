@@ -3,12 +3,14 @@
     {
       "photo_filename": null,
       "name": "Tim Rusk",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Kenny_Marchant.jpg",
       "name": "Kenny Marchant",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "0cabf0ea074544408515ffcf5b6d8bef",
       "chamber": "house",
       "state": "TX",
@@ -136,6 +138,7 @@
       "photo_filename": "Paul_Sadler.jpg",
       "name": "Paul Sadler",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",
@@ -241,6 +244,7 @@
       "photo_filename": "Ted_Cruz.jpg",
       "name": "Ted Cruz",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "TX",

@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Cassandra Shober",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "NJ",
@@ -79,6 +80,7 @@
       "photo_filename": "Frank_LoBiondo.jpg",
       "name": "Frank LoBiondo",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "c57d8c97afb24a36973accea41a97915",
       "chamber": "house",
       "state": "NJ",
@@ -211,6 +213,7 @@
       "photo_filename": "Bob_Menendez.jpg",
       "name": "Bob Menendez",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "54d97a78a98948719ec1c0b58ce2298d",
       "chamber": "senate",
       "state": "NJ",
@@ -350,7 +353,8 @@
     {
       "photo_filename": "Joe_Kyrillos.jpg",
       "name": "Joe Kyrillos",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

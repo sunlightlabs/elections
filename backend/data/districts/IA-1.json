@@ -4,6 +4,7 @@
       "photo_filename": "Bruce_Braley.jpg",
       "name": "Bruce Braley",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "af2b64366ab344838ddd6352ffb223dc",
       "chamber": "house",
       "state": "IA",
@@ -128,7 +129,8 @@
     {
       "photo_filename": "Ben_Lange.jpg",
       "name": "Ben Lange",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

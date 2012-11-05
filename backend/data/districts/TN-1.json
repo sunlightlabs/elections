@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Alan Woodruff",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "TN",
@@ -50,6 +51,7 @@
       "photo_filename": "Phil_Roe.jpg",
       "name": "Phil Roe",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "b8c5f7b6c3b645d69f1450dd846a702d",
       "chamber": "house",
       "state": "TN",
@@ -171,12 +173,14 @@
     {
       "photo_filename": "Mark_Clayton.jpg",
       "name": "Mark Clayton",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Bob_Corker.jpg",
       "name": "Bob Corker",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "30ffbb5bc8784aab9dc7c64ceea5aaf6",
       "chamber": "senate",
       "state": "TN",

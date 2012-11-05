@@ -4,6 +4,7 @@
       "photo_filename": "Dutch_Ruppersberger.jpg",
       "name": "Dutch Ruppersberger",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "6965e4b1e5c4449dba46c9de2cfa9915",
       "chamber": "house",
       "state": "MD",
@@ -108,12 +109,14 @@
     {
       "photo_filename": "Nancy_Jacobs.jpg",
       "name": "Nancy Jacobs",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     },
     {
       "photo_filename": "Ray_Bly.jpg",
       "name": "Ray Bly",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -121,6 +124,7 @@
       "photo_filename": "Ben_Cardin.jpg",
       "name": "Ben Cardin",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "8ff25ab60758494c8b64d66017e87670",
       "chamber": "senate",
       "state": "MD",
@@ -260,17 +264,20 @@
     {
       "photo_filename": null,
       "name": "Lih Young",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Dan_Bongino.jpg",
       "name": "Dan Bongino",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     },
     {
       "photo_filename": null,
       "name": "Mary Podlesak",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

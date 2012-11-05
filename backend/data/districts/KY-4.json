@@ -3,12 +3,14 @@
     {
       "photo_filename": "Bill_Adkins.jpg",
       "name": "Bill Adkins",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Thomas_Massie.jpg",
       "name": "Thomas Massie",
       "party": "R",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "KY",

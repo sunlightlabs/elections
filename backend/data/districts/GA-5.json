@@ -4,6 +4,7 @@
       "photo_filename": "John_Lewis_(Georgia).jpg",
       "name": "John Lewis",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "5fd8a4d7d8e6404588a0755a0358be15",
       "chamber": "house",
       "state": "GA",
@@ -133,7 +134,8 @@
     {
       "photo_filename": null,
       "name": "Howard Stopeck",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Paul Hirschbiel",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "VA",
@@ -114,6 +115,7 @@
       "photo_filename": "Scott_Rigell.jpg",
       "name": "Scott Rigell",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "ed77d4ca071b4e9c906248d122ff284f",
       "chamber": "house",
       "state": "VA",
@@ -231,6 +233,7 @@
       "photo_filename": "Tim_Kaine.png",
       "name": "Tim Kaine",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "VA",
@@ -345,7 +348,8 @@
     {
       "photo_filename": "George_Allen.jpg",
       "name": "George Allen",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

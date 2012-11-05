@@ -3,12 +3,14 @@
     {
       "photo_filename": "Jim_Evans.jpg",
       "name": "Jim Evans",
-      "party": "D"
+      "party": "D",
+      "abbreviated": true
     },
     {
       "photo_filename": "Billy_Long.jpg",
       "name": "Billy Long",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "72078e8cb2a849738dc5949d30e9759e",
       "chamber": "house",
       "state": "MO",
@@ -131,6 +133,7 @@
       "photo_filename": "Claire_McCaskill.jpg",
       "name": "Claire McCaskill",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "98af4916592648c4aa992d8db00e6e5b",
       "chamber": "senate",
       "state": "MO",
@@ -266,6 +269,7 @@
       "photo_filename": "Todd_Akin.jpg",
       "name": "Todd Akin",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "28e6cce459e74dcbb575fa05def946e3",
       "chamber": "senate",
       "state": "MO",

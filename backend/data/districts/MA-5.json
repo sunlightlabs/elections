@@ -4,6 +4,7 @@
       "photo_filename": "Ed_Markey.jpg",
       "name": "Ed Markey",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "a9cc53410f90408bb89f91f2c3513e01",
       "chamber": "house",
       "state": "MA",
@@ -138,7 +139,8 @@
     {
       "photo_filename": "Tom_Tierney.jpg",
       "name": "Tom Tierney",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
@@ -146,6 +148,7 @@
       "photo_filename": "Elizabeth_Warren.jpg",
       "name": "Elizabeth Warren",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "senate",
       "state": "MA",
@@ -266,6 +269,7 @@
       "photo_filename": "Scott_Brown.jpg",
       "name": "Scott Brown",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "8b7c462fb6a64ca49b8163dc2ee1775a",
       "chamber": "senate",
       "state": "MA",

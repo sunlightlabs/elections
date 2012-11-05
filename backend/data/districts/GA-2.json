@@ -4,6 +4,7 @@
       "photo_filename": "Sanford_D._Bishop,_Jr..jpg",
       "name": "Sanford D. Bishop, Jr.",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "69b068c312384b38abf3fb2d2bfc4cdb",
       "chamber": "house",
       "state": "GA",
@@ -118,7 +119,8 @@
     {
       "photo_filename": null,
       "name": "John House",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

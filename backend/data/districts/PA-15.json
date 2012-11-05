@@ -4,6 +4,7 @@
       "photo_filename": null,
       "name": "Rick Daugherty",
       "party": "D",
+      "abbreviated": false,
       "entity_id": null,
       "chamber": "house",
       "state": "PA",
@@ -74,6 +75,7 @@
       "photo_filename": "Charlie_Dent.jpg",
       "name": "Charlie Dent",
       "party": "R",
+      "abbreviated": false,
       "entity_id": "9b07e0db2a53439b9c33ef057ec7c7ae",
       "chamber": "house",
       "state": "PA",
@@ -196,6 +198,7 @@
       "photo_filename": "Bob_Casey,_Jr..jpg",
       "name": "Bob Casey, Jr.",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "6270f8364eac4b0a88a117c008011e06",
       "chamber": "senate",
       "state": "PA",
@@ -325,7 +328,8 @@
     {
       "photo_filename": "Tom_Smith.jpg",
       "name": "Tom Smith",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ]
 }

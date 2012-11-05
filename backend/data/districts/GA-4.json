@@ -4,6 +4,7 @@
       "photo_filename": "Henry_C._Johnson,_Jr..jpg",
       "name": "Henry C. Johnson, Jr.",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "4194d12bd85c4262827926a43e388429",
       "chamber": "house",
       "state": "GA",
@@ -128,7 +129,8 @@
     {
       "photo_filename": "Chris_Vaughn.jpg",
       "name": "Chris Vaughn",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [

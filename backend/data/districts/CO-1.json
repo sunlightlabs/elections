@@ -4,6 +4,7 @@
       "photo_filename": "Diana_DeGette.jpg",
       "name": "Diana DeGette",
       "party": "D",
+      "abbreviated": false,
       "entity_id": "d34cf814990a4f8a9263686d7d08a437",
       "chamber": "house",
       "state": "CO",
@@ -133,7 +134,8 @@
     {
       "photo_filename": "Danny_Stroud.jpg",
       "name": "Danny Stroud",
-      "party": "R"
+      "party": "R",
+      "abbreviated": true
     }
   ],
   "senate": [
