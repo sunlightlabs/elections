@@ -50,11 +50,14 @@ def main
     houses[race] = {}
   end
 
+  print "Reading endorsements..."
 
   i = 0
   CSV.foreach("data/endorsements.csv", "r") do |row|
     i += 1
     next if i == 1
+
+    print "." if i % 100 == 0
 
     entity_id = row[0]
     next if not_candidates.include?(entity_id)
@@ -62,12 +65,12 @@ def main
     candidate = candidate_for entity_id, options
 
     if candidate[:senate_class] and (candidate[:senate_class] != "") and (candidate[:senate_class] != "I")
-      puts "[#{entity_id}] Skipping senator, not up for election"
+      # puts "[#{entity_id}] Skipping senator, not up for election"
       next
     end
 
     if candidate[:seat_status] == ""
-      puts "[#{entity_id}] Skipping, not up for election"
+      # puts "[#{entity_id}] Skipping, not up for election" if options[:debug]
       next
     end
     
@@ -113,6 +116,9 @@ def main
   # go through house and senate districts and 
   # bunch them up by all races relevant to a district
 
+  missing_house = {}
+  missing_senate = {}
+
   districts = {}
   houses.each do |district, candidates|
     state = district.split("-").first
@@ -122,14 +128,40 @@ def main
     districts[district][:senate] = (senates[state] || {}).values
   end
 
+  
   districts.each do |district, candidates|
     write_json output_for(district), candidates
   end
 
+  puts
   puts "Processed #{houses.size} House districts."
   puts "Processed #{senates.size} Senate districts."
   puts
   puts "Wrote #{districts.size} district files."
+  
+
+  # guess at what's missing
+
+  if options[:missing]
+  
+    houses.each do |district, candidates|
+      if candidates.values.size < 2
+        missing_house[district] = candidates.values.size
+      end
+    end
+
+    senates.each do |state, candidates|
+      if candidates.values.size < 2
+        missing_senate[state] = candidates.values.size
+      end
+    end
+
+    puts
+    puts "#{missing_house.keys.size} incomplete House districts:"
+    puts missing_house.inspect
+    puts "#{missing_senate.keys.size} incomplete Senate districts"
+    puts missing_senate.inspect
+  end
 end
 
 
