@@ -2,6 +2,8 @@
   "house": [
     {
       "entity_id": "85ab2e74589a414495d18cc7a9233981",
+      "name": "Nancy Pelosi",
+      "photo_filename": "Nancy_Pelosi.jpg",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -90,8 +92,6 @@
           "name": "Building Trade Unions"
         }
       ],
-      "senate_class": "",
-      "name": "Nancy Pelosi",
       "endorsements": [
         {
           "name": "Planned Parenthood California",
@@ -177,11 +177,18 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "0"
+        },
+        {
+          "name": "Americans for Democratic Action",
+          "type": "grade",
+          "value": "0"
         }
       ]
     },
     {
       "entity_id": "b41f69eff3854254bd6d420d849f55cf",
+      "name": "John Dennis",
+      "photo_filename": "John_Dennis.jpg",
       "chamber": "house",
       "state": "CA",
       "state_name": "California",
@@ -270,7 +277,6 @@
           "name": "Air Transport"
         }
       ],
-      "name": "John Dennis",
       "endorsements": [
         {
           "name": "San Francisco Republican Party",
@@ -288,6 +294,8 @@
   "senate": [
     {
       "entity_id": "452da69c63cd4f97b7bb141cff87ad92",
+      "name": "Dianne Feinstein",
+      "photo_filename": "Dianne_Feinstein.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -376,8 +384,6 @@
           "name": "Pro-Israel"
         }
       ],
-      "senate_class": "I",
-      "name": "Dianne Feinstein",
       "endorsements": [
         {
           "name": "AFL-CIO",
@@ -458,11 +464,23 @@
           "name": "American Conservative Union",
           "type": "rating",
           "value": "5"
+        },
+        {
+          "name": "San Francisco for Democracy",
+          "type": "rating",
+          "value": "Y"
+        },
+        {
+          "name": "San Francisco League of Pissed Off Voters",
+          "type": "rating",
+          "value": "Y"
         }
       ]
     },
     {
       "entity_id": "6e77aa224af049429981ebf39089e070",
+      "name": "Elizabeth Emken",
+      "photo_filename": "Elizabeth_Emken.jpg",
       "chamber": "senate",
       "state": "CA",
       "state_name": "California",
@@ -551,7 +569,6 @@
           "name": "Retail Sales"
         }
       ],
-      "name": "Elizabeth Emken",
       "endorsements": [
         {
           "name": "National Rifle Association",

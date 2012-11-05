@@ -369,6 +369,11 @@ button.btn-sunlight:hover {
 	background-image: none;
 }
 
+.left {
+	float:left;
+}
+.error {padding-left:40px}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
