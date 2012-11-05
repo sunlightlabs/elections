@@ -3,13 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andrew Pendleton -- developer
+    Ryan Sibley -- researcher
+    Amy Cesal -- designer
+    Eric Mill -- developer -- @konklone
 
 # THANKS
 
-    <name>
-
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    jQuery, Modernizr
+    Ballotpedia, for letting us scrape them
+    Internet

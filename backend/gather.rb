@@ -68,7 +68,12 @@ def main
         photo_filename: photo,
         name: candidate['candidate'],
         party: candidate['party'],
-        abbreviated: true
+        abbreviated: true,
+        chamber: 'senate',
+        state: race,
+        state_name: state_map[race],
+        district: nil,
+        ballotpedia_url: "http://ballotpedia.org#{candidate['url']}"
       }
     end
   end
@@ -87,7 +92,12 @@ def main
         photo_filename: photo,
         name: candidate['candidate'],
         party: candidate['party'],
-        abbreviated: true
+        abbreviated: true,
+        chamber: 'house',
+        state: state,
+        state_name: state_map[state],
+        district: district,
+        ballotpedia_url: "http://ballotpedia.org#{candidate['url']}"
       }
     end
   end
